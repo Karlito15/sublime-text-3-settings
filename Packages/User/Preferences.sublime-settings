@@ -1,0 +1,37 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_close_tags": true,
+	"auto_complete": true,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"default_encoding": "UTF-8",
+    "detect_indentation": true,
+	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
+	"draw_minimap_border": true,
+	"font_size": 11,
+    "fold_buttons": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+    "line_numbers": true,
+	"line_padding_bottom": 1,
+	"margin": 0,
+	"material_theme_big_fileicons": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"show_tab_close_buttons": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false,
+	"wrap_width": 160
+}

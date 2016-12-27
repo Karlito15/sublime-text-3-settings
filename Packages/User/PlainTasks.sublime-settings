@@ -1,0 +1,16 @@
+{
+  "before_tasks_bullet_margin": 2,
+  "line_numbers": true,
+  "gutter": true,
+  "margin": 4,
+  "tab_size": 1,
+  "extensions":
+  [
+    "memo",
+    "TODO",
+    "todo",
+    "todolist",
+    "taskpaper",
+    "tasks",
+  ]
+}

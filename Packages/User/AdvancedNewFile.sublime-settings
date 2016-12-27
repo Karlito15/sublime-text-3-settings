@@ -1,0 +1,12 @@
+{
+    // A boolean specifying if folders should automatically refresh and update the sidebar.
+    // In some builds, the sidebar does not refresh when contents of project folder are updated.
+    // This setting is required to refresh the sidebar in these circumstances.
+    // false by default
+    "auto_refresh_sidebar": true,
+
+    // String containing the default file extension. Note the extension is only applied
+    // if the specified path does not contain a dot (.) character.
+    "default_extension": ".php",
+    "default_root": "current",
+}

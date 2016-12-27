@@ -1,0 +1,44 @@
+{
+	"auto_upgrade": true,
+	"auto_upgrade_frequency": 168,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Boxy Theme",
+		"Boxy Theme Addon - Mono File Icons",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"CodeIgniter Snippets",
+		"DocBlockr",
+		"EditorConfig",
+		"FileDiffs",
+		"Highlight Build Errors",
+		"HTML Boilerplate",
+		"HTML-CSS-JS Prettify",
+		"Language - French - Français",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Placeholders",
+		"PlainTasks",
+		"Pretty JSON",
+		"Pretty YAML",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-php",
+		"Tag",
+		"Trimmer",
+		"Twig",
+		"WordCount",
+		"Zeal"
+	]
+}
