@@ -1,5 +1,5 @@
 {
 	"mid_line_tabs": true,
-	"alignment_chars": ["=", ":"],
-	"alignment_space_chars": ["=", ":"]
+	"alignment_chars": ["="],
+	"alignment_space_chars": ["="]
 }

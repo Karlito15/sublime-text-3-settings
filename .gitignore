@@ -6,6 +6,8 @@
 !Installed Packages
 Installed Packages/*
 !Installed Packages/Package Control.sublime-package
+!Installed Packages/WordCount.sublime-package
+!Installed Packages/Tag.sublime-package
 
 # Garder les raccourcis clavier, les préférences et les builds
 !Packages
