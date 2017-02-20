@@ -19,6 +19,8 @@
 		"*.tga",
 		"*.ttf",
 		"*.zip",
+		".idea/**",
+		"/D/wamp/www/My-App/.idea/**",
 		"composer.lock"
 	],
 	"bold_folder_labels": true,
