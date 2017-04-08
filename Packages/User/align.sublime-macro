@@ -1,0 +1,18 @@
+[
+	{
+		"args": null,
+		"command": "alignment"
+	},
+	{
+		"args": {"encoding": "utf-8" },
+		"command": "save_as_utf8"
+	},
+	{
+		"args": null,
+		"command": "trim_leading_trailing_whitespace"
+	},
+	{
+		"args": null,
+		"command": "close"
+	}
+]

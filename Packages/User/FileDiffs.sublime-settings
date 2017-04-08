@@ -13,8 +13,8 @@
   // The "command" argument is different depending on your system, for instance
   // you might need to prefix /usr/local/bin, or use another explicit path.
 
-  // opendiff (FileMerge)
-  // "cmd": ["opendiff", "$file1", "$file2"]
+  opendiff (FileMerge)
+  "cmd": ["opendiff", "$file1", "$file2"]
 
   // ksdiff (Kaleidoscope)
   // "cmd": ["ksdiff", "$file1", "$file2"]

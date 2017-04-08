@@ -1,0 +1,1186 @@
+{
+	"folder_history":
+	[
+		"/D/wamp/www/Training/HTML/Dropdown-Semantic-UI",
+		"/D/wamp/www/My-App",
+		"/D/wamp/www/Symfony",
+		"/D/wamp/www/Symphony",
+		"/D/wamp/www/CodeIgniter",
+		"/D/wamp/www/Karlito/Timeout"
+	],
+	"last_version": 3126,
+	"last_window_id": 182,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 669.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lorem",
+						"lorem\tlorem - Medium paragraph"
+					],
+					[
+						"GE",
+						"Geolocations"
+					],
+					[
+						"_",
+						"_format"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"S",
+						"Status"
+					],
+					[
+						"sta",
+						"starts"
+					],
+					[
+						"pa",
+						"pagetitle"
+					],
+					[
+						"col",
+						"col-md-4"
+					],
+					[
+						"Cate",
+						"Category"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"dep",
+						"department"
+					],
+					[
+						"tl",
+						"tld"
+					],
+					[
+						"al",
+						"alpha3"
+					],
+					[
+						"coun",
+						"country"
+					],
+					[
+						"cat",
+						"category"
+					],
+					[
+						"end",
+						"endblock"
+					],
+					[
+						"co",
+						"config"
+					],
+					[
+						"tot",
+						"total_posts"
+					],
+					[
+						"setting",
+						"setting_tag_id"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"blog_ca",
+						"blog_category"
+					],
+					[
+						"VA",
+						"var_dump"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"ca",
+						"categories"
+					],
+					[
+						"pos",
+						"posts"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"html",
+						"htmlboiler\thtmlboiler"
+					],
+					[
+						"par",
+						"parag"
+					],
+					[
+						"PHP",
+						"PHP_EOL"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"lor",
+						"lorem\tlorem - One sentence"
+					],
+					[
+						"lo",
+						"lorem\tlorem - Medium paragraph"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "compare",
+				"selected_items":
+				[
+					[
+						"compare",
+						"Compare with..."
+					],
+					[
+						"comp",
+						"Compare selections"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"prett",
+						"Pretty YAML: Reformat (Pretty Print) YAML"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 132.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Compare Side-By-Side/SBSCompare.sublime-settings",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/Wamp/php (5.6).ini",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/Wamp/php.ini",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/FileDiffs.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/D/Program/PuPHPet/Homestead/Homestead.yaml",
+				"/C/Users/Giancarlo/Homestead/aliases",
+				"/C/Users/Giancarlo/Homestead/after.sh",
+				"/D/Program/PuPHPet/Homestead/scripts/serve-symfony2.sh",
+				"/C/Users/Giancarlo/Downloads/homestead.bat",
+				"/D/wamp/www/html/pdo.php",
+				"/D/Program/PuPHPet/erp-link/puphpet/config.yaml",
+				"/D/wamp/www/info.php",
+				"/D/Program/PuPHPet/erp-link/puphpet/puppet/modules/apache/files/httpd",
+				"/D/Program/PuPHPet/erp-link/puphpet/puppet/modules/apache/examples/vhost.pp",
+				"/C/Users/Giancarlo/Downloads/Nox App Player.txt",
+				"/D/Program/VM/erp-link/puphpet/config.yaml",
+				"/D/wamp/bin/apache/apache2.4.18/conf/extra/httpd-vhosts.conf",
+				"/D/wamp/www/html/index.html",
+				"/D/wamp/www/index.html",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/mars.html",
+				"/E/WebServers/Apache24/conf/httpd.conf",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/Giancarlo/Dropbox/Bookmarks/2017-04/2017-04-02.html",
+				"/D/wamp/bin/apache/apache2.4.18/bin/php.ini",
+				"/D/wamp/www/pdo.php",
+				"/D/wamp/www/Hal/src/Karlito/HalBundle/Controller/Geolocations/CountryController.php",
+				"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/StartUp/fcbd.bat",
+				"/C/Users/Giancarlo/Downloads/Paris.txt",
+				"/C/Users/Giancarlo/Downloads/TXT/bonnasse.txt",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/.gitignore",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Installed Packages/WordCount.sublime-package",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Installed Packages/Tag.sublime-package",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"<open files>",
+					"",
+					"<open files>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\\",
+					"/var/www/",
+					"vhos",
+					"ssh",
+					"\\",
+					"::1",
+					"127.0.0.1",
+					" - Blog du Modérateur",
+					" - Korben",
+					" | Tech2Tech : La communauté des techniciens informatique",
+					" ICON_URI=\"[a-zA-Z:/.0-9-]+\"",
+					" ICON=\"([a-zA-Z0-9:/;,+=]+)\"",
+					" LAST_MODIFIED=\"[0-9]+\"",
+					" ADD_DATE=\"[0-9]+\"",
+					"?utm_source=feedly&utm_medium=webfeeds",
+					"pc-windows-10",
+					"'2009');",
+					"2009",
+					"'2009');",
+					"2009');",
+					", '2009');",
+					"2009'",
+					"09",
+					"URL",
+					"        <DT><A HREF=\"",
+					"/\t",
+					"/",
+					"</A>",
+					" – Fubiz Media</A>",
+					"\" ADD_DATE=\"",
+					"\" ADD_DATE=\"1477317610\">",
+					"\" ADD_DATE=\"1481291986\">",
+					"\" ADD_DATE=\"1472602399\">",
+					" ICON=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACMklEQVQ4jVWTO2hUURCGv5kz97GJIRhBoviKCgoSiwhaKNYiYmdpZSmChdZWgp0W9nY2VgrGUgjaCSo2ImKhFj5SiMG4ye6Zsbhnd2NxuFw4880///xHXiyeCwlwBFBClBDDIxFihBqO4aE4VXfEcKlwDIsAUEBxSQSJCMPViFA214a4KmnbFDkKTKoJANK40ClfrciDILRi7vQig41g9e0XtG1wrfAwnBoXw1ys6yrWAcRwV2R6mhP3rzHMEB7Mf/rJmzvLSK/FMXJRoKO5MkVWavmz2mf+4hl2nDzK61uPiIFz+PJZdGaWYa7I2pKlIUuLuVSd7EIMaejt38vs4kEiO1N7d/Hl+Qc+Pn3PxrpA05s0w7CJqzU5J8R6LN29wvZj+0CEpduX+PXhOyvXnxDVFE7TGVkgmqUh05Cp8dQydGPlygM+P3uHqPDy5mNWbixDO0PWXpFeDg2W5X9iRM1gfQMfQESwua701xSbrcha7rElB5m6/BSANnhtkCoAommJeqrr6F1ht7GKTMKytJ0HY1DN+lpmsx9EwN816P81mumWLMVsSTid+WWEquy1Am2YP72buSM7URX2nDnA0H/we3UI4+JOQUhCM5Od5mjw1HL86il0uubrq28curDAwvkFNvoJTzWZBpdmPLY8PHEvXIyJF8ZgKN2uy4pFa7B6nNRR7F0SNpRmnOsRldoQKlQMGEW86oowEMVJgBYTtyRrBArKy8MImTy0kESgOIoA/wBCfCCq7kj4tAAAAABJRU5ErkJggg==\"",
+					"?utm_source=feedly&utm_medium=webfeeds",
+					"\" ADD_DATE=\"1472602399\">",
+					"2009",
+					"URL",
+					"\">",
+					"            <DT><A HREF=\"",
+					"windows",
+					"WIN",
+					"WINDOWS 10",
+					"WINDOWS",
+					"http://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/",
+					" | Creative Juiz",
+					" | Codrops",
+					" - ZDNet",
+					" - Blog de Captain Train",
+					" - Korben",
+					" - Blog du Modérateur",
+					"\\#xtor(.*)\"",
+					"\\&utm(.*)\"",
+					"?utm_source=dlvr.it&utm_medium=twitter",
+					"\\?utm(.*)\"",
+					" ICON_URI=\"[a-zA-Z:/.0-9-]+\"",
+					" ICON=\"([a-zA-Z0-9:/;,+=]+)\"",
+					" LAST_MODIFIED=\"[0-9]+\"",
+					" ADD_DATE=\"[0-9]+\"",
+					"20:45",
+					"20:00",
+					"21:00",
+					"17:00",
+					"? - ? ",
+					"offersOnline",
+					"D:/Workspace/PHP/",
+					"php_pdo_odbc.dll",
+					" ",
+					"Issy",
+					"92100",
+					"92240",
+					"92170",
+					"http://www.wannonce.com/annonce/annyta-petite-perle-de-l-est-26727307.htm",
+					"Tranny - ",
+					"MILF - ",
+					"Black - ",
+					"Asia - ",
+					"http://www.ladyxena.com/fr/fr/malaya",
+					"http://www.ladyxena.com/fr/fr/malaya\n",
+					"XXX",
+					"Brésil",
+					"</a></li>",
+					"http://www.wannonce.com/annonce/annyta-petite-perle-de-l-est-26727307.htm",
+					"http://www.wannonce.com/annonce/maya-belle-brune-fine-se-deplaces-sur-paris-23634512.htm",
+					"CI -",
+					"\" />",
+					"A dropdown menu can contain ",
+					"\t\t\t\t\t\t<h4",
+					" class=\"ui header\">Button Group</h4>\n",
+					"\" />",
+					"metadata.",
+					"metad",
+					"meta",
+					"=\"/",
+					"=\"/images",
+					"=\"/",
+					"https://semantic-ui.com",
+					"dropdown.js",
+					"drop",
+					"Search Dropdown",
+					"Getting ",
+					"gett",
+					"XXX",
+					"http://escort.vivastreet.com/escort-girl-boy+boulogne-billancourt-92100/fille-asiatique---ta-wanais--d-plac-e/143547361",
+					"www.wannonce",
+					"http://www.sexemodel.com/escort/LucyParis-72583/",
+					"XXX",
+					"http://www.sexemodel.com/escort/Andreea-196802/",
+					"<li><a",
+					"http",
+					"html",
+					"management",
+					"Antimatter",
+					"local.kelly.fr",
+					"\\",
+					"D:/wamp/www/Projects/Kelly",
+					"local.kelly.fr",
+					"\" />",
+					"upate",
+					"_edit'",
+					"_index'",
+					"_index",
+					"admin_country_index",
+					"admin_image_index",
+					"admin_status_index",
+					":status:",
+					":pages:",
+					":post-"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"fubiz",
+					"",
+					"update",
+					"_update'",
+					"_read'",
+					"admin_country_read",
+					"admin_image_read",
+					"admin_status_read",
+					"update.html.twig",
+					"_update', array",
+					"read.html.twig",
+					"create.html.twig",
+					"readAction",
+					"",
+					"_create')",
+					"pagetitle_update",
+					"pagetitle_create",
+					"pagetitle_read",
+					"HalBundle:Users/",
+					"HalBundle:Settings/",
+					"HalBundle:Geolocations/",
+					"HalBundle:",
+					"HalBundle:macro:",
+					"HalBundle:layout:default.html.twig",
+					"\\JoinColumn(name=\"status\", nullable=true)",
+					"setStatus(\\Karlito\\HalBundle\\Entity\\Status",
+					"\tpublic function setStatus(Status $status = null)\n",
+					"\t/**\n\t * @ORM\\ManyToOne(targetEntity=\"Karlito\\HalBundle\\Entity\\Status\")\n\t * @ORM\\JoinColumn(name=\"status\", nullable=false)\n\t */\n",
+					"\\Karlito\\HalBundle\\Entity\\",
+					"updateAction",
+					"createAction",
+					", {_format: 'php', _locale: 'fr'}",
+					"HalBundle",
+					".{_format}",
+					".php",
+					"{_format}",
+					"/read/.{format}",
+					"href=\"javascript:;\"",
+					"layout",
+					"HalBundle",
+					"layout1",
+					"karlito_halbundle",
+					"Karlito\\HalBundle",
+					"Karlito\\",
+					"HalBundle",
+					"read",
+					"update",
+					"create",
+					", 1, '",
+					"btn-sm btn-circle green-meadow",
+					"blue-sharp",
+					"\t\t\t\t\t{{",
+					"\t\t\t\t\t{{ form_start(delete_form, {'attr': {'style' : 'display:inline-block'}}) }}<button class=\"btn btn-circle btn-icon-only red-thunderbird\"> <i class=\"icon-trash\"></i> </button>{{ form_end(delete_form) }}",
+					"fields-bootstrap-horizontal.html.twig",
+					"",
+					"SettingBundle",
+					"GeolocationBundle",
+					"{% extends \"ThemeBundle:layout5:default.html.twig\" %}",
+					"{% block content %}",
+					"{% extends \"ThemeBundle:layout5:default.html.twig\" %}",
+					"render('GeolocationBundle:",
+					"FileBundle",
+					"GeolocationBundle",
+					"geolocation_",
+					"GeolocationBundle",
+					"MyApp\\SettingBundle\\Repository",
+					"MyApp\\SettingBundle\\Entity",
+					"AUTO",
+					"{{ baseUrl }}assets/",
+					"#",
+					"XXX",
+					"#",
+					"\">",
+					"src=\"{{ baseUrl }}",
+					"= 'www/static/",
+					"= 'www/layouts/",
+					"'Static/",
+					"\\$",
+					"<?php $this->load->view('admin/partials/form-action'); ?>",
+					"<?php $this->load->view('admin/partials/portlet-title'); ?>",
+					"/assets/social/",
+					"../social/",
+					"= 'admin/layouts",
+					"public $view\t\t= 'admin/edit/",
+					"public $view\t= 'admin/tool/",
+					"public $view\t= 'admin/edit/",
+					"\"",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 802.0
+			},
+			"output.find_results":
+			{
+				"height": 398.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 114.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS\\SublimeText\\Karlito-Blog.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 846.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 185.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 4
+			}
+		},
+		"new_window_width": 945.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lorem",
+						"lorem\tlorem - Medium paragraph"
+					],
+					[
+						"GE",
+						"Geolocations"
+					],
+					[
+						"_",
+						"_format"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"S",
+						"Status"
+					],
+					[
+						"sta",
+						"starts"
+					],
+					[
+						"pa",
+						"pagetitle"
+					],
+					[
+						"col",
+						"col-md-4"
+					],
+					[
+						"Cate",
+						"Category"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"dep",
+						"department"
+					],
+					[
+						"tl",
+						"tld"
+					],
+					[
+						"al",
+						"alpha3"
+					],
+					[
+						"coun",
+						"country"
+					],
+					[
+						"cat",
+						"category"
+					],
+					[
+						"end",
+						"endblock"
+					],
+					[
+						"co",
+						"config"
+					],
+					[
+						"tot",
+						"total_posts"
+					],
+					[
+						"setting",
+						"setting_tag_id"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"blog_ca",
+						"blog_category"
+					],
+					[
+						"VA",
+						"var_dump"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"ca",
+						"categories"
+					],
+					[
+						"pos",
+						"posts"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"html",
+						"htmlboiler\thtmlboiler"
+					],
+					[
+						"par",
+						"parag"
+					],
+					[
+						"PHP",
+						"PHP_EOL"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"lor",
+						"lorem\tlorem - One sentence"
+					],
+					[
+						"lo",
+						"lorem\tlorem - Medium paragraph"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 183.0,
+				"last_filter": "package ",
+				"selected_items":
+				[
+					[
+						"package ",
+						"Preferences: Browse Packages"
+					],
+					[
+						"Sublimerge",
+						"Sublimerge"
+					],
+					[
+						"compare",
+						"Compare with..."
+					],
+					[
+						"comp",
+						"Compare selections"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"prett",
+						"Pretty YAML: Reformat (Pretty Print) YAML"
+					]
+				],
+				"width": 374.0
+			},
+			"console":
+			{
+				"height": 132.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/Wamp/php.ini",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/Wamp/php (5.6).ini",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Compare Side-By-Side/SBSCompare.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/FileDiffs.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/D/Program/PuPHPet/Homestead/Homestead.yaml",
+				"/C/Users/Giancarlo/Homestead/aliases",
+				"/C/Users/Giancarlo/Homestead/after.sh",
+				"/D/Program/PuPHPet/Homestead/scripts/serve-symfony2.sh",
+				"/C/Users/Giancarlo/Downloads/homestead.bat",
+				"/D/wamp/www/html/pdo.php",
+				"/D/Program/PuPHPet/erp-link/puphpet/config.yaml",
+				"/D/wamp/www/info.php",
+				"/D/Program/PuPHPet/erp-link/puphpet/puppet/modules/apache/files/httpd",
+				"/D/Program/PuPHPet/erp-link/puphpet/puppet/modules/apache/examples/vhost.pp",
+				"/C/Users/Giancarlo/Downloads/Nox App Player.txt",
+				"/D/Program/VM/erp-link/puphpet/config.yaml",
+				"/D/wamp/bin/apache/apache2.4.18/conf/extra/httpd-vhosts.conf",
+				"/D/wamp/www/html/index.html",
+				"/D/wamp/www/index.html",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/mars.html",
+				"/E/WebServers/Apache24/conf/httpd.conf",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/Giancarlo/Dropbox/Bookmarks/2017-04/2017-04-02.html",
+				"/D/wamp/bin/apache/apache2.4.18/bin/php.ini",
+				"/D/wamp/www/pdo.php",
+				"/D/wamp/www/Hal/src/Karlito/HalBundle/Controller/Geolocations/CountryController.php",
+				"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/StartUp/fcbd.bat",
+				"/C/Users/Giancarlo/Downloads/Paris.txt",
+				"/C/Users/Giancarlo/Downloads/TXT/bonnasse.txt",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/.gitignore",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Installed Packages/WordCount.sublime-package",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Installed Packages/Tag.sublime-package",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"<open files>",
+					"",
+					"<open files>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\\",
+					"/var/www/",
+					"vhos",
+					"ssh",
+					"\\",
+					"::1",
+					"127.0.0.1",
+					" - Blog du Modérateur",
+					" - Korben",
+					" | Tech2Tech : La communauté des techniciens informatique",
+					" ICON_URI=\"[a-zA-Z:/.0-9-]+\"",
+					" ICON=\"([a-zA-Z0-9:/;,+=]+)\"",
+					" LAST_MODIFIED=\"[0-9]+\"",
+					" ADD_DATE=\"[0-9]+\"",
+					"?utm_source=feedly&utm_medium=webfeeds",
+					"pc-windows-10",
+					"'2009');",
+					"2009",
+					"'2009');",
+					"2009');",
+					", '2009');",
+					"2009'",
+					"09",
+					"URL",
+					"        <DT><A HREF=\"",
+					"/\t",
+					"/",
+					"</A>",
+					" – Fubiz Media</A>",
+					"\" ADD_DATE=\"",
+					"\" ADD_DATE=\"1477317610\">",
+					"\" ADD_DATE=\"1481291986\">",
+					"\" ADD_DATE=\"1472602399\">",
+					" ICON=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACMklEQVQ4jVWTO2hUURCGv5kz97GJIRhBoviKCgoSiwhaKNYiYmdpZSmChdZWgp0W9nY2VgrGUgjaCSo2ImKhFj5SiMG4ye6Zsbhnd2NxuFw4880///xHXiyeCwlwBFBClBDDIxFihBqO4aE4VXfEcKlwDIsAUEBxSQSJCMPViFA214a4KmnbFDkKTKoJANK40ClfrciDILRi7vQig41g9e0XtG1wrfAwnBoXw1ys6yrWAcRwV2R6mhP3rzHMEB7Mf/rJmzvLSK/FMXJRoKO5MkVWavmz2mf+4hl2nDzK61uPiIFz+PJZdGaWYa7I2pKlIUuLuVSd7EIMaejt38vs4kEiO1N7d/Hl+Qc+Pn3PxrpA05s0w7CJqzU5J8R6LN29wvZj+0CEpduX+PXhOyvXnxDVFE7TGVkgmqUh05Cp8dQydGPlygM+P3uHqPDy5mNWbixDO0PWXpFeDg2W5X9iRM1gfQMfQESwua701xSbrcha7rElB5m6/BSANnhtkCoAommJeqrr6F1ht7GKTMKytJ0HY1DN+lpmsx9EwN816P81mumWLMVsSTid+WWEquy1Am2YP72buSM7URX2nDnA0H/we3UI4+JOQUhCM5Od5mjw1HL86il0uubrq28curDAwvkFNvoJTzWZBpdmPLY8PHEvXIyJF8ZgKN2uy4pFa7B6nNRR7F0SNpRmnOsRldoQKlQMGEW86oowEMVJgBYTtyRrBArKy8MImTy0kESgOIoA/wBCfCCq7kj4tAAAAABJRU5ErkJggg==\"",
+					"?utm_source=feedly&utm_medium=webfeeds",
+					"\" ADD_DATE=\"1472602399\">",
+					"2009",
+					"URL",
+					"\">",
+					"            <DT><A HREF=\"",
+					"windows",
+					"WIN",
+					"WINDOWS 10",
+					"WINDOWS",
+					"http://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/",
+					" | Creative Juiz",
+					" | Codrops",
+					" - ZDNet",
+					" - Blog de Captain Train",
+					" - Korben",
+					" - Blog du Modérateur",
+					"\\#xtor(.*)\"",
+					"\\&utm(.*)\"",
+					"?utm_source=dlvr.it&utm_medium=twitter",
+					"\\?utm(.*)\"",
+					" ICON_URI=\"[a-zA-Z:/.0-9-]+\"",
+					" ICON=\"([a-zA-Z0-9:/;,+=]+)\"",
+					" LAST_MODIFIED=\"[0-9]+\"",
+					" ADD_DATE=\"[0-9]+\"",
+					"20:45",
+					"20:00",
+					"21:00",
+					"17:00",
+					"? - ? ",
+					"offersOnline",
+					"D:/Workspace/PHP/",
+					"php_pdo_odbc.dll",
+					" ",
+					"Issy",
+					"92100",
+					"92240",
+					"92170",
+					"http://www.wannonce.com/annonce/annyta-petite-perle-de-l-est-26727307.htm",
+					"Tranny - ",
+					"MILF - ",
+					"Black - ",
+					"Asia - ",
+					"http://www.ladyxena.com/fr/fr/malaya",
+					"http://www.ladyxena.com/fr/fr/malaya\n",
+					"XXX",
+					"Brésil",
+					"</a></li>",
+					"http://www.wannonce.com/annonce/annyta-petite-perle-de-l-est-26727307.htm",
+					"http://www.wannonce.com/annonce/maya-belle-brune-fine-se-deplaces-sur-paris-23634512.htm",
+					"CI -",
+					"\" />",
+					"A dropdown menu can contain ",
+					"\t\t\t\t\t\t<h4",
+					" class=\"ui header\">Button Group</h4>\n",
+					"\" />",
+					"metadata.",
+					"metad",
+					"meta",
+					"=\"/",
+					"=\"/images",
+					"=\"/",
+					"https://semantic-ui.com",
+					"dropdown.js",
+					"drop",
+					"Search Dropdown",
+					"Getting ",
+					"gett",
+					"XXX",
+					"http://escort.vivastreet.com/escort-girl-boy+boulogne-billancourt-92100/fille-asiatique---ta-wanais--d-plac-e/143547361",
+					"www.wannonce",
+					"http://www.sexemodel.com/escort/LucyParis-72583/",
+					"XXX",
+					"http://www.sexemodel.com/escort/Andreea-196802/",
+					"<li><a",
+					"http",
+					"html",
+					"management",
+					"Antimatter",
+					"local.kelly.fr",
+					"\\",
+					"D:/wamp/www/Projects/Kelly",
+					"local.kelly.fr",
+					"\" />",
+					"upate",
+					"_edit'",
+					"_index'",
+					"_index",
+					"admin_country_index",
+					"admin_image_index",
+					"admin_status_index",
+					":status:",
+					":pages:",
+					":post-"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"fubiz",
+					"",
+					"update",
+					"_update'",
+					"_read'",
+					"admin_country_read",
+					"admin_image_read",
+					"admin_status_read",
+					"update.html.twig",
+					"_update', array",
+					"read.html.twig",
+					"create.html.twig",
+					"readAction",
+					"",
+					"_create')",
+					"pagetitle_update",
+					"pagetitle_create",
+					"pagetitle_read",
+					"HalBundle:Users/",
+					"HalBundle:Settings/",
+					"HalBundle:Geolocations/",
+					"HalBundle:",
+					"HalBundle:macro:",
+					"HalBundle:layout:default.html.twig",
+					"\\JoinColumn(name=\"status\", nullable=true)",
+					"setStatus(\\Karlito\\HalBundle\\Entity\\Status",
+					"\tpublic function setStatus(Status $status = null)\n",
+					"\t/**\n\t * @ORM\\ManyToOne(targetEntity=\"Karlito\\HalBundle\\Entity\\Status\")\n\t * @ORM\\JoinColumn(name=\"status\", nullable=false)\n\t */\n",
+					"\\Karlito\\HalBundle\\Entity\\",
+					"updateAction",
+					"createAction",
+					", {_format: 'php', _locale: 'fr'}",
+					"HalBundle",
+					".{_format}",
+					".php",
+					"{_format}",
+					"/read/.{format}",
+					"href=\"javascript:;\"",
+					"layout",
+					"HalBundle",
+					"layout1",
+					"karlito_halbundle",
+					"Karlito\\HalBundle",
+					"Karlito\\",
+					"HalBundle",
+					"read",
+					"update",
+					"create",
+					", 1, '",
+					"btn-sm btn-circle green-meadow",
+					"blue-sharp",
+					"\t\t\t\t\t{{",
+					"\t\t\t\t\t{{ form_start(delete_form, {'attr': {'style' : 'display:inline-block'}}) }}<button class=\"btn btn-circle btn-icon-only red-thunderbird\"> <i class=\"icon-trash\"></i> </button>{{ form_end(delete_form) }}",
+					"fields-bootstrap-horizontal.html.twig",
+					"",
+					"SettingBundle",
+					"GeolocationBundle",
+					"{% extends \"ThemeBundle:layout5:default.html.twig\" %}",
+					"{% block content %}",
+					"{% extends \"ThemeBundle:layout5:default.html.twig\" %}",
+					"render('GeolocationBundle:",
+					"FileBundle",
+					"GeolocationBundle",
+					"geolocation_",
+					"GeolocationBundle",
+					"MyApp\\SettingBundle\\Repository",
+					"MyApp\\SettingBundle\\Entity",
+					"AUTO",
+					"{{ baseUrl }}assets/",
+					"#",
+					"XXX",
+					"#",
+					"\">",
+					"src=\"{{ baseUrl }}",
+					"= 'www/static/",
+					"= 'www/layouts/",
+					"'Static/",
+					"\\$",
+					"<?php $this->load->view('admin/partials/form-action'); ?>",
+					"<?php $this->load->view('admin/partials/portlet-title'); ?>",
+					"/assets/social/",
+					"../social/",
+					"= 'admin/layouts",
+					"public $view\t\t= 'admin/edit/",
+					"public $view\t= 'admin/tool/",
+					"public $view\t= 'admin/edit/",
+					"\"",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 802.0
+			},
+			"output.find_results":
+			{
+				"height": 398.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,728,118,0,1079",
+			"project": "",
+			"replace":
+			{
+				"height": 114.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS\\SublimeText\\Karlito-Blog.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 846.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 185.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 4
+			},
+			"window_id": 178,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/SublimeText/Hal.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/SublimeText/My-App.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/SublimeText/Karlito-Blog.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/SublimeText/Symfony.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS/SublimeText/Karlito-Blog.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS/SublimeText/Karlito-Timeout.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS/SublimeText/Karlito-Formula-1.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS/SublimeText/Karlito-Football.sublime-workspace"
+		]
+	}
+}
