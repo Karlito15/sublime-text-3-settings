@@ -9,4 +9,7 @@
     // if the specified path does not contain a dot (.) character.
     "default_extension": ".php",
     "default_root": "current",
+    "default_path": "C:\Users\Giancarlo\Downloads",
+    "folder_permissions": "777",
+    "file_permissions": "777",
 }

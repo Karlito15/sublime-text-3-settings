@@ -4,7 +4,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Sublimerge Pro"
 	],
 	"installed_packages":
 	[
@@ -18,7 +17,6 @@
 		"Compare Side-By-Side",
 		"DocBlockr",
 		"EditorConfig",
-		"FileDiffs",
 		"Highlight Build Errors",
 		"HTML Boilerplate",
 		"HTML-CSS-JS Prettify",
@@ -37,7 +35,6 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-php",
-		"Sublimerge Pro",
 		"Tag",
 		"Trimmer",
 		"Twig",
