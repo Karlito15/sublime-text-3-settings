@@ -8,13 +8,13 @@
 	{ "keys": ["ctrl+s"], "command": "save" },
 	{ "keys": ["ctrl+shift+s"], "command": "prompt_save_as" },
 	{ "keys": ["ctrl+w"], "command": "close" },
-	{ "keys": ["ctrl+k", "ctrl+b"], "command": "toggle_side_bar" },
 	{ "keys": ["ctrl+z"], "command": "undo" },
 	{ "keys": ["ctrl+shift+z"], "command": "redo" },
 	{ "keys": ["ctrl+x"], "command": "cut" },
 	{ "keys": ["ctrl+c"], "command": "copy" },
 	{ "keys": ["ctrl+v"], "command": "paste" },
 	{ "keys": ["ctrl+k", "ctrl+v"], "command": "paste_from_history" },
+	{ "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
 
 	// Text Case
 	{ "keys": ["ctrl+k", "ctrl+u"], "command": "upper_case" },
@@ -30,9 +30,15 @@
 	// Fold
 	{ "keys": ["ctrl+alt+w"], "command": "fold" },
 	{ "keys": ["ctrl+alt+x"], "command": "unfold" },
-	{ "keys": ["ctrl+alt+c"], "command": "unfold_all" },
+	{ "keys": ["ctrl+alt+shift+w"], "command": "fold_all" },
+	{ "keys": ["ctrl+alt+shift+x"], "command": "unfold_all" },
+
+	// Select
+	{ "keys": ["ctrl+d"], "command": "find_under_expand" },
+	{ "keys": ["ctrl+alt+d"], "command": "find_all_under" },
 
 	// Display
+	{ "keys": ["ctrl+k", "ctrl+b"], "command": "toggle_side_bar" },
 	{ "keys": ["ctrl+k", "ctrl+n"], "command": "toggle_minimap" },
 
 	// Macro
