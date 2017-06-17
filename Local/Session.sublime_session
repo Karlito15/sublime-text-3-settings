@@ -4,17 +4,29 @@
 		"/Q/apps/Faker"
 	],
 	"last_version": 3126,
-	"last_window_id": 227,
+	"last_window_id": 236,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 642.0,
+		"new_window_height": 941.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"a",
+						"auto"
+					],
+					[
+						"lorem",
+						"lorem\tlorem - One sentence"
+					],
+					[
+						"ht",
+						"htmlboiler\thtmlboiler"
+					]
 				]
 			},
 			"build_system_choices":
@@ -23,10 +35,26 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 337.0,
-				"last_filter": "pretty",
+				"height": 357.0,
+				"last_filter": "pac",
 				"selected_items":
 				[
+					[
+						"pac",
+						"Package Control: Disable Package"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"beaut",
+						"SQL Beautifier: Format Current SQL File"
+					]
 				],
 				"width": 510.0
 			},
@@ -48,14 +76,76 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_1.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/misc.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/textarea.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/layouts/layout-top-menu/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/plugins/jQuery-Smart-Wizard/js/jquery.smartWizard.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/js/global/wizard.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Controller/ReportHeaderController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_2.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_3.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_4.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_5.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/routing/reportheader.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/.editorconfig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Default/admin-top-menu-container.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/new.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/Default/table.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/input.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/label.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/row.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/layouts/layout-top-menu/js/layout.min.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/layouts/layout-top-menu/js/layout.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/js/site-settings.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/js/site.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/ReportHeaderType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/button.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/dropdown.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/js/global/advanced_elements.js",
+				"/C/Users/Giancarlo/OneDrive/Templates/Admin/backend-dashboard-admin-template/backend-html/backend/assets/global/css/components.css",
+				"/C/Users/Giancarlo/OneDrive/Templates/Admin/backend-dashboard-admin-template/backend-html/backend/assets/global/css/site.css",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/Default/form.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/UserBundle/Entity/Division.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/UserBundle/Entity/Company.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/Resources/config/routing.yml",
+				"/D/Server/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/Controller/DefaultController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/DependencyInjection/AdminExtension.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/DependencyInjection/Configuration.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/Tests/Controller/DefaultControllerTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/LayoutBundle.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Controller/DefaultController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/DependencyInjection/Configuration.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/DependencyInjection/LayountExtension.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/AdminBundle.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Tests/Controller/DefaultControllerTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/AppKernel.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/UploadBundle/Resources/config/validation.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/UploadBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/AdminBundle/Admin/CategoryAdmin.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/AdminBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/AdminBundle/Admin/CategoryAdmin (Copie en conflit de LAPTOP-RNNIGSOM 2017-06-15).php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/app/Resources/views/base.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/vendor/sonata-project/admin-bundle/Resources/views/CRUD/list.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/vendor/sonata-project/admin-bundle/Resources/views/CRUD/base_list.html.twig",
+				"/Q/WTF.html",
+				"/Q/WTF/Nintendo-NES-8bits/index.html",
+				"/Q/WTF/Star-Wars-bb8/index.html",
+				"/Q/nav.html"
 			],
 			"find":
 			{
-				"height": 27.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 346.0,
+				"height": 118.0,
 				"where_history":
 				[
 					"<open files>",
@@ -69,6 +159,68 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"{%",
+					"form_widget(",
+					"child",
+					"hideMessage",
+					"fixHeight",
+					"basic-wizard",
+					"wizard",
+					"step-content-wizzard",
+					"swMain",
+					"smartwizard",
+					"basic-wizard",
+					"<a href=\"#",
+					"{{ path('report_header_step_",
+					"report_header_step_one\n",
+					"#step-",
+					"report_header_step_",
+					":new",
+					"new",
+					"public function step",
+					"report_header_new",
+					"\t\t$reportHeader = new Reportheader();\n\t\t$form = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n\t\t$form->handleRequest($request);\n\n\t\tif ($form->isSubmitted() && $form->isValid()) {\n\t\t\t$em = $this->getDoctrine()->getManager();\n\t\t\t$em->persist($reportHeader);\n\t\t\t$em->flush();\n\n\t\t\treturn $this->redirectToRoute('report_header_show', array('id' => $reportHeader->getId()));\n\t\t}\n\n\t\treturn $this->render('FRBGeneratorBundle:reportheader:new.html.twig', array(\n\t\t\t'reportHeader' => $reportHeader,\n\t\t\t'form' => $form->createView(),\n\t\t));\n",
+					"<?php\n\nnamespace FRBGeneratorBundle\\Controller;\n\nuse FRBGeneratorBundle\\Entity\\ReportHeader;\nuse Symfony\\Bundle\\FrameworkBundle\\Controller\\Controller;\nuse Symfony\\Component\\HttpFoundation\\Request;\n\n/**\n * Reportheader controller.\n *\n */\nclass ReportHeaderController extends Controller\n{\n    /**\n     * Lists all reportHeader entities.\n     *\n     */\n    public function indexAction()\n    {\n        $em = $this->getDoctrine()->getManager();\n\n        $reportHeaders = $em->getRepository('FRBGeneratorBundle:ReportHeader')->findAll();\n\n        return $this->render('FRBGeneratorBundle:reportheader:index.html.twig', array(\n            'reportHeaders' => $reportHeaders,\n        ));\n    }\n\n    /**\n     * Creates a new reportHeader entity.\n     *\n     */\n    public function newAction(Request $request)\n    {\n        $reportHeader = new Reportheader();\n        $form = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n        $form->handleRequest($request);\n\n        if ($form->isSubmitted() && $form->isValid()) {\n            $em = $this->getDoctrine()->getManager();\n            $em->persist($reportHeader);\n            $em->flush();\n\n            return $this->redirectToRoute('report_header_show', array('id' => $reportHeader->getId()));\n        }\n\n        return $this->render('FRBGeneratorBundle:reportheader:new.html.twig', array(\n            'reportHeader' => $reportHeader,\n            'form' => $form->createView(),\n        ));\n    }\n\n    /**\n     * Finds and displays a reportHeader entity.\n     *\n     */\n    public function showAction(ReportHeader $reportHeader)\n    {\n        $deleteForm = $this->createDeleteForm($reportHeader);\n\n        return $this->render('FRBGeneratorBundle:reportheader:show.html.twig', array(\n            'reportHeader' => $reportHeader,\n            'delete_form' => $deleteForm->createView(),\n        ));\n    }\n\n    /**\n     * Displays a form to edit an existing reportHeader entity.\n     *\n     */\n    public function editAction(Request $request, ReportHeader $reportHeader)\n    {\n        $deleteForm = $this->createDeleteForm($reportHeader);\n        $editForm = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n        $editForm->handleRequest($request);\n\n        if ($editForm->isSubmitted() && $editForm->isValid()) {\n            $this->getDoctrine()->getManager()->flush();\n\n            return $this->redirectToRoute('report_header_edit', array('id' => $reportHeader->getId()));\n        }\n\n        return $this->render('FRBGeneratorBundle:reportheader:edit.html.twig', array(\n            'reportHeader' => $reportHeader,\n            'edit_form' => $editForm->createView(),\n            'delete_form' => $deleteForm->createView(),\n        ));\n    }\n\n    /**\n     * Deletes a reportHeader entity.\n     *\n     */\n    public function deleteAction(Request $request, ReportHeader $reportHeader)\n    {\n        $form = $this->createDeleteForm($reportHeader);\n        $form->handleRequest($request);\n\n        if ($form->isSubmitted() && $form->isValid()) {\n            $em = $this->getDoctrine()->getManager();\n            $em->remove($reportHeader);\n            $em->flush();\n        }\n\n        return $this->redirectToRoute('report_header_index');\n    }\n\n    /**\n     * Creates a form to delete a reportHeader entity.\n     *\n     * @param ReportHeader $reportHeader The reportHeader entity\n     *\n     * @return \\Symfony\\Component\\Form\\Form The form\n     */\n    private function createDeleteForm(ReportHeader $reportHeader)\n    {\n        return $this->createFormBuilder()\n            ->setAction($this->generateUrl('report_header_delete', array('id' => $reportHeader->getId())))\n            ->setMethod('DELETE')\n            ->getForm()\n        ;\n    }\n}\n",
+					"div",
+					"span",
+					"sapn",
+					"\t\t\t\t\t\t\t\t\t<a",
+					"{% extends 'LayoutBundle:Default:admin-top-menu-container.html.twig' %}\n\n{% set page_title = \"Report Header list\" %}\n\n{% block body %}\n\n\t{% block header %}\n\t\t{% include 'FRBGeneratorBundle:Partials:header.html.twig' %}\n\t{% endblock %}\n\n\t{% block breadcrumb %}\n\t\t{% include 'LayoutBundle:Partials:breadcrumb.html.twig' %}\n\t{% endblock %}\n\n\t{% block content %}\n\t\t<div class=\"content\">\n\t\t    <table>\n\t\t        <thead>\n\t\t            <tr>\n\t\t                <th>Id</th>\n\t\t                <th>Reportnumber</th>\n\t\t                <th>Reportname</th>\n\t\t                <th>Dim2</th>\n\t\t                <th>Thousand</th>\n\t\t                <th>Numberofcolumn</th>\n\t\t                <th>Budgetaccount</th>\n\t\t                <th>Balanceaccount</th>\n\t\t                <th>Profitandlossaccount</th>\n\t\t                <th>Receivableaccount</th>\n\t\t                <th>Fixeassets</th>\n\t\t                <th>Payableaccount</th>\n\t\t                <th>Costaccounting</th>\n\t\t                <th>Bankaccount</th>\n\t\t                <th>Inventoryaccount</th>\n\t\t                <th>Accountgroup1</th>\n\t\t                <th>Accountgroup2</th>\n\t\t                <th>Accountgroup3</th>\n\t\t                <th>Accountgroup4</th>\n\t\t                <th>Accountgroup5</th>\n\t\t                <th>Accountgroup6</th>\n\t\t                <th>Accountgroup7</th>\n\t\t                <th>Accountgroup8</th>\n\t\t                <th>Accountgroup9</th>\n\t\t                <th>Actions</th>\n\t\t            </tr>\n\t\t        </thead>\n\t\t        <tbody>\n\t\t        {% for reportHeader in reportHeaders %}\n\t\t            <tr>\n\t\t                <td><a href=\"{{ path('report_header_show', { 'id': reportHeader.id }) }}\">{{ reportHeader.id }}</a></td>\n\t\t                <td>{{ reportHeader.reportNumber }}</td>\n\t\t                <td>{{ reportHeader.reportName }}</td>\n\t\t                <td>{{ reportHeader.dim2 }}</td>\n\t\t                <td>{% if reportHeader.thousand %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{{ reportHeader.numberOfColumn }}</td>\n\t\t                <td>{% if reportHeader.budgetAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.balanceAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.profitAndLossAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.receivableAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.fixeAssets %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.payableAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.costAccounting %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.bankAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.inventoryAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup1 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup2 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup3 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup4 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup5 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup6 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup7 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup8 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup9 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>\n\t\t                    <ul>\n\t\t                        <li>\n\t\t                            <a href=\"{{ path('report_header_show', { 'id': reportHeader.id }) }}\">show</a>\n\t\t                        </li>\n\t\t                        <li>\n\t\t                            <a href=\"{{ path('report_header_edit', { 'id': reportHeader.id }) }}\">edit</a>\n\t\t                        </li>\n\t\t                    </ul>\n\t\t                </td>\n\t\t            </tr>\n\t\t        {% endfor %}\n\t\t        </tbody>\n\t\t    </table>\n\n\t\t    <ul>\n\t\t        <li>\n\t\t            <a href=\"{{ path('report_header_new') }}\">Create a new reportHeader</a>\n\t\t        </li>\n\t\t    </ul>\n\n    </div>\n\t{% endblock %}\n\n\t{% block side_setting %}{% endblock %}\n\n{% endblock %}",
+					"wizard",
+					"#}",
+					"stepContainer",
+					"hei",
+					"\t\t\t\t\t\t\t\t\tStep ",
+					"\" href",
+					" type=\"text/css\"",
+					"../../../",
+					" rel=\"stylesheet\" type=\"text/css\"",
+					"../../../",
+					".margin",
+					"GENERAL ELEMENTS",
+					"1. DIVIDERS",
+					"marg",
+					" %}",
+					"{% ",
+					"-%}",
+					"{{-",
+					"col-xl-",
+					"|nl2br",
+					"<br",
+					"<br ",
+					"-}}",
+					"{{-",
+					"-%}",
+					"{%-",
+					"{{-",
+					"{%-",
+					"col-lg-12",
+					"../../../assets/",
+					"->add(",
+					"render('reportheader/",
+					"/{id}",
+					"namespace ERPLink\\",
+					"<!"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -76,6 +228,11 @@
 				"regex": false,
 				"replace_history":
 				[
+					"}}",
+					"{{",
+					"%}",
+					"{%",
+					"namespace "
 				],
 				"reverse": false,
 				"show_context": true,
@@ -103,7 +260,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 82.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -112,6 +269,42 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"step",
+						"src\\FRBGeneratorBundle\\Resources\\views\\reportheader\\step_1.html.twig"
+					],
+					[
+						"cust",
+						"web\\assets\\layouts\\layout-top-menu\\css\\custom.css"
+					],
+					[
+						"wiza",
+						"web\\assets\\global\\plugins\\jQuery-Smart-Wizard\\js\\jquery.smartWizard.js"
+					],
+					[
+						"wizar",
+						"web\\assets\\global\\js\\global\\wizard.js"
+					],
+					[
+						"layout-top-menu/js/layout.js",
+						"web\\assets\\layouts\\layout-top-menu\\js\\layout.js"
+					],
+					[
+						"layout-top-menu/js/layout.min.js",
+						"web\\assets\\layouts\\layout-top-menu\\js\\layout.min.js"
+					],
+					[
+						"site-se",
+						"web\\assets\\global\\js\\site-settings.js"
+					],
+					[
+						"site.",
+						"web\\assets\\global\\js\\site.js"
+					],
+					[
+						"jquery.smartwizard.js",
+						"web\\assets\\global\\plugins\\jQuery-Smart-Wizard\\js\\jquery.smartWizard.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -122,6 +315,8 @@
 				"selected_items":
 				[
 					[
+						"",
+						""
 					]
 				],
 				"width": 380.0
@@ -138,15 +333,15 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 313.0,
+			"side_bar_visible": true,
+			"side_bar_width": 274.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			}
 		},
-		"new_window_width": 958.0
+		"new_window_width": 1482.0
 	},
 	"windows":
 	[
@@ -155,6 +350,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"a",
+						"auto"
+					],
+					[
+						"lorem",
+						"lorem\tlorem - One sentence"
+					],
 					[
 						"ht",
 						"htmlboiler\thtmlboiler"
@@ -172,9 +375,17 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "pretty",
+				"last_filter": "pac",
 				"selected_items":
 				[
+					[
+						"pac",
+						"Package Control: Disable Package"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
 					[
 						"pretty",
 						"HTMLPrettify"
@@ -204,10 +415,81 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder"
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Partials",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web"
 			],
 			"file_history":
 			[
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/app_casa.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/config_casa.yml",
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/Symfony/symfony-console.txt",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/.htaccess",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/AppKernel.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/parameters_casa.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/parameters_dev.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_1.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/misc.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/textarea.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/layouts/layout-top-menu/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/plugins/jQuery-Smart-Wizard/js/jquery.smartWizard.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/js/global/wizard.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Controller/ReportHeaderController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_2.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_3.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_4.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/step_5.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/routing/reportheader.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/.editorconfig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Default/admin-top-menu-container.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/reportheader/new.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/Default/table.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/input.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/label.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/row.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/layouts/layout-top-menu/js/layout.min.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/layouts/layout-top-menu/js/layout.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/js/site-settings.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/js/site.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/ReportHeaderType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/button.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/dropdown.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/js/global/advanced_elements.js",
+				"/C/Users/Giancarlo/OneDrive/Templates/Admin/backend-dashboard-admin-template/backend-html/backend/assets/global/css/components.css",
+				"/C/Users/Giancarlo/OneDrive/Templates/Admin/backend-dashboard-admin-template/backend-html/backend/assets/global/css/site.css",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/Default/form.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/UserBundle/Entity/Division.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/UserBundle/Entity/Company.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/Resources/config/routing.yml",
+				"/D/Server/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/Controller/DefaultController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/DependencyInjection/AdminExtension.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/DependencyInjection/Configuration.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/Tests/Controller/DefaultControllerTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/LayoutBundle.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Controller/DefaultController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/DependencyInjection/Configuration.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/DependencyInjection/LayountExtension.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/AdminBundle/AdminBundle.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Tests/Controller/DefaultControllerTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/UploadBundle/Resources/config/validation.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/UploadBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/AdminBundle/Admin/CategoryAdmin.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/AdminBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/AdminBundle/Admin/CategoryAdmin (Copie en conflit de LAPTOP-RNNIGSOM 2017-06-15).php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/app/Resources/views/base.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/vendor/sonata-project/admin-bundle/Resources/views/CRUD/list.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/vendor/sonata-project/admin-bundle/Resources/views/CRUD/base_list.html.twig",
 				"/Q/WTF.html",
 				"/Q/WTF/Nintendo-NES-8bits/index.html",
 				"/Q/WTF/Star-Wars-bb8/index.html",
@@ -219,7 +501,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 346.0,
+				"height": 118.0,
 				"where_history":
 				[
 					"<open files>",
@@ -233,6 +515,74 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"_casa",
+					"dev",
+					"    dev",
+					"    _dev",
+					"app_dev",
+					"      ",
+					"     ",
+					"{%",
+					"form_widget(",
+					"child",
+					"hideMessage",
+					"fixHeight",
+					"basic-wizard",
+					"wizard",
+					"step-content-wizzard",
+					"swMain",
+					"smartwizard",
+					"basic-wizard",
+					"<a href=\"#",
+					"{{ path('report_header_step_",
+					"report_header_step_one\n",
+					"#step-",
+					"report_header_step_",
+					":new",
+					"new",
+					"public function step",
+					"report_header_new",
+					"\t\t$reportHeader = new Reportheader();\n\t\t$form = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n\t\t$form->handleRequest($request);\n\n\t\tif ($form->isSubmitted() && $form->isValid()) {\n\t\t\t$em = $this->getDoctrine()->getManager();\n\t\t\t$em->persist($reportHeader);\n\t\t\t$em->flush();\n\n\t\t\treturn $this->redirectToRoute('report_header_show', array('id' => $reportHeader->getId()));\n\t\t}\n\n\t\treturn $this->render('FRBGeneratorBundle:reportheader:new.html.twig', array(\n\t\t\t'reportHeader' => $reportHeader,\n\t\t\t'form' => $form->createView(),\n\t\t));\n",
+					"<?php\n\nnamespace FRBGeneratorBundle\\Controller;\n\nuse FRBGeneratorBundle\\Entity\\ReportHeader;\nuse Symfony\\Bundle\\FrameworkBundle\\Controller\\Controller;\nuse Symfony\\Component\\HttpFoundation\\Request;\n\n/**\n * Reportheader controller.\n *\n */\nclass ReportHeaderController extends Controller\n{\n    /**\n     * Lists all reportHeader entities.\n     *\n     */\n    public function indexAction()\n    {\n        $em = $this->getDoctrine()->getManager();\n\n        $reportHeaders = $em->getRepository('FRBGeneratorBundle:ReportHeader')->findAll();\n\n        return $this->render('FRBGeneratorBundle:reportheader:index.html.twig', array(\n            'reportHeaders' => $reportHeaders,\n        ));\n    }\n\n    /**\n     * Creates a new reportHeader entity.\n     *\n     */\n    public function newAction(Request $request)\n    {\n        $reportHeader = new Reportheader();\n        $form = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n        $form->handleRequest($request);\n\n        if ($form->isSubmitted() && $form->isValid()) {\n            $em = $this->getDoctrine()->getManager();\n            $em->persist($reportHeader);\n            $em->flush();\n\n            return $this->redirectToRoute('report_header_show', array('id' => $reportHeader->getId()));\n        }\n\n        return $this->render('FRBGeneratorBundle:reportheader:new.html.twig', array(\n            'reportHeader' => $reportHeader,\n            'form' => $form->createView(),\n        ));\n    }\n\n    /**\n     * Finds and displays a reportHeader entity.\n     *\n     */\n    public function showAction(ReportHeader $reportHeader)\n    {\n        $deleteForm = $this->createDeleteForm($reportHeader);\n\n        return $this->render('FRBGeneratorBundle:reportheader:show.html.twig', array(\n            'reportHeader' => $reportHeader,\n            'delete_form' => $deleteForm->createView(),\n        ));\n    }\n\n    /**\n     * Displays a form to edit an existing reportHeader entity.\n     *\n     */\n    public function editAction(Request $request, ReportHeader $reportHeader)\n    {\n        $deleteForm = $this->createDeleteForm($reportHeader);\n        $editForm = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n        $editForm->handleRequest($request);\n\n        if ($editForm->isSubmitted() && $editForm->isValid()) {\n            $this->getDoctrine()->getManager()->flush();\n\n            return $this->redirectToRoute('report_header_edit', array('id' => $reportHeader->getId()));\n        }\n\n        return $this->render('FRBGeneratorBundle:reportheader:edit.html.twig', array(\n            'reportHeader' => $reportHeader,\n            'edit_form' => $editForm->createView(),\n            'delete_form' => $deleteForm->createView(),\n        ));\n    }\n\n    /**\n     * Deletes a reportHeader entity.\n     *\n     */\n    public function deleteAction(Request $request, ReportHeader $reportHeader)\n    {\n        $form = $this->createDeleteForm($reportHeader);\n        $form->handleRequest($request);\n\n        if ($form->isSubmitted() && $form->isValid()) {\n            $em = $this->getDoctrine()->getManager();\n            $em->remove($reportHeader);\n            $em->flush();\n        }\n\n        return $this->redirectToRoute('report_header_index');\n    }\n\n    /**\n     * Creates a form to delete a reportHeader entity.\n     *\n     * @param ReportHeader $reportHeader The reportHeader entity\n     *\n     * @return \\Symfony\\Component\\Form\\Form The form\n     */\n    private function createDeleteForm(ReportHeader $reportHeader)\n    {\n        return $this->createFormBuilder()\n            ->setAction($this->generateUrl('report_header_delete', array('id' => $reportHeader->getId())))\n            ->setMethod('DELETE')\n            ->getForm()\n        ;\n    }\n}\n",
+					"div",
+					"span",
+					"sapn",
+					"\t\t\t\t\t\t\t\t\t<a",
+					"{% extends 'LayoutBundle:Default:admin-top-menu-container.html.twig' %}\n\n{% set page_title = \"Report Header list\" %}\n\n{% block body %}\n\n\t{% block header %}\n\t\t{% include 'FRBGeneratorBundle:Partials:header.html.twig' %}\n\t{% endblock %}\n\n\t{% block breadcrumb %}\n\t\t{% include 'LayoutBundle:Partials:breadcrumb.html.twig' %}\n\t{% endblock %}\n\n\t{% block content %}\n\t\t<div class=\"content\">\n\t\t    <table>\n\t\t        <thead>\n\t\t            <tr>\n\t\t                <th>Id</th>\n\t\t                <th>Reportnumber</th>\n\t\t                <th>Reportname</th>\n\t\t                <th>Dim2</th>\n\t\t                <th>Thousand</th>\n\t\t                <th>Numberofcolumn</th>\n\t\t                <th>Budgetaccount</th>\n\t\t                <th>Balanceaccount</th>\n\t\t                <th>Profitandlossaccount</th>\n\t\t                <th>Receivableaccount</th>\n\t\t                <th>Fixeassets</th>\n\t\t                <th>Payableaccount</th>\n\t\t                <th>Costaccounting</th>\n\t\t                <th>Bankaccount</th>\n\t\t                <th>Inventoryaccount</th>\n\t\t                <th>Accountgroup1</th>\n\t\t                <th>Accountgroup2</th>\n\t\t                <th>Accountgroup3</th>\n\t\t                <th>Accountgroup4</th>\n\t\t                <th>Accountgroup5</th>\n\t\t                <th>Accountgroup6</th>\n\t\t                <th>Accountgroup7</th>\n\t\t                <th>Accountgroup8</th>\n\t\t                <th>Accountgroup9</th>\n\t\t                <th>Actions</th>\n\t\t            </tr>\n\t\t        </thead>\n\t\t        <tbody>\n\t\t        {% for reportHeader in reportHeaders %}\n\t\t            <tr>\n\t\t                <td><a href=\"{{ path('report_header_show', { 'id': reportHeader.id }) }}\">{{ reportHeader.id }}</a></td>\n\t\t                <td>{{ reportHeader.reportNumber }}</td>\n\t\t                <td>{{ reportHeader.reportName }}</td>\n\t\t                <td>{{ reportHeader.dim2 }}</td>\n\t\t                <td>{% if reportHeader.thousand %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{{ reportHeader.numberOfColumn }}</td>\n\t\t                <td>{% if reportHeader.budgetAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.balanceAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.profitAndLossAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.receivableAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.fixeAssets %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.payableAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.costAccounting %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.bankAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.inventoryAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup1 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup2 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup3 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup4 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup5 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup6 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup7 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup8 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup9 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>\n\t\t                    <ul>\n\t\t                        <li>\n\t\t                            <a href=\"{{ path('report_header_show', { 'id': reportHeader.id }) }}\">show</a>\n\t\t                        </li>\n\t\t                        <li>\n\t\t                            <a href=\"{{ path('report_header_edit', { 'id': reportHeader.id }) }}\">edit</a>\n\t\t                        </li>\n\t\t                    </ul>\n\t\t                </td>\n\t\t            </tr>\n\t\t        {% endfor %}\n\t\t        </tbody>\n\t\t    </table>\n\n\t\t    <ul>\n\t\t        <li>\n\t\t            <a href=\"{{ path('report_header_new') }}\">Create a new reportHeader</a>\n\t\t        </li>\n\t\t    </ul>\n\n    </div>\n\t{% endblock %}\n\n\t{% block side_setting %}{% endblock %}\n\n{% endblock %}",
+					"wizard",
+					"#}",
+					"stepContainer",
+					"hei",
+					"\t\t\t\t\t\t\t\t\tStep ",
+					"\" href",
+					" type=\"text/css\"",
+					"../../../",
+					" rel=\"stylesheet\" type=\"text/css\"",
+					"../../../",
+					".margin",
+					"GENERAL ELEMENTS",
+					"1. DIVIDERS",
+					"marg",
+					" %}",
+					"{% ",
+					"-%}",
+					"{{-",
+					"col-xl-",
+					"|nl2br",
+					"<br",
+					"<br ",
+					"-}}",
+					"{{-",
+					"-%}",
+					"{%-",
+					"{{-",
+					"{%-",
+					"col-lg-12",
+					"../../../assets/",
+					"->add(",
+					"render('reportheader/",
+					"/{id}",
+					"namespace ERPLink\\",
 					"<!"
 				],
 				"highlight": true,
@@ -241,6 +591,11 @@
 				"regex": false,
 				"replace_history":
 				[
+					"}}",
+					"{{",
+					"%}",
+					"{%",
+					"namespace "
 				],
 				"reverse": false,
 				"show_context": true,
@@ -296,7 +651,7 @@
 				"height": 398.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,909,2128,208,3102",
+			"position": "0,2,3,-1,-1,-1,-1,1119,2475,119,3973",
 			"project": "Finance-Report-Generator.sublime-project",
 			"replace":
 			{
@@ -309,6 +664,42 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"step",
+						"src\\FRBGeneratorBundle\\Resources\\views\\reportheader\\step_1.html.twig"
+					],
+					[
+						"cust",
+						"web\\assets\\layouts\\layout-top-menu\\css\\custom.css"
+					],
+					[
+						"wiza",
+						"web\\assets\\global\\plugins\\jQuery-Smart-Wizard\\js\\jquery.smartWizard.js"
+					],
+					[
+						"wizar",
+						"web\\assets\\global\\js\\global\\wizard.js"
+					],
+					[
+						"layout-top-menu/js/layout.js",
+						"web\\assets\\layouts\\layout-top-menu\\js\\layout.js"
+					],
+					[
+						"layout-top-menu/js/layout.min.js",
+						"web\\assets\\layouts\\layout-top-menu\\js\\layout.min.js"
+					],
+					[
+						"site-se",
+						"web\\assets\\global\\js\\site-settings.js"
+					],
+					[
+						"site.",
+						"web\\assets\\global\\js\\site.js"
+					],
+					[
+						"jquery.smartwizard.js",
+						"web\\assets\\global\\plugins\\jQuery-Smart-Wizard\\js\\jquery.smartWizard.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -342,7 +733,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 313.0,
+			"side_bar_width": 274.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
