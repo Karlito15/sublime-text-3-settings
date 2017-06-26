@@ -36,6 +36,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-php",
 		"Tag",
+		"Terminal",
 		"Trimmer",
 		"Twig",
 		"WordCount",

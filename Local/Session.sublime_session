@@ -1,20 +1,45 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Giancarlo/Dropbox/www/Laboratory/Symfony-Tuts",
 		"/Q/apps/Faker"
 	],
 	"last_version": 3126,
-	"last_window_id": 241,
+	"last_window_id": 247,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 941.0,
+		"new_window_height": 674.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"select",
+						"selected\tAttr"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"lorem",
+						"lorem\tlorem - One sentence"
+					],
+					[
+						"ht",
+						"htmlboiler\thtmlboiler"
+					]
 				]
 			},
 			"build_system_choices":
@@ -23,10 +48,34 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "pac",
+				"height": 76.0,
+				"last_filter": "json",
 				"selected_items":
 				[
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"pac",
+						"Package Control: Disable Package"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"beaut",
+						"SQL Beautifier: Format Current SQL File"
+					]
 				],
 				"width": 510.0
 			},
@@ -48,6 +97,134 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/IDE/SublimeText/Finance-Report-Generator.sublime-workspace",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/IDE/SublimeText/Symfony-Tuts.sublime-project",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/IDE/SublimeText/Hal.sublime-project",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/IDE/SublimeText/Finance-Report-Generator.sublime-project",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/IDE/SublimeText/OrderOnLine.sublime-project",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/IDE/SublimeText/Symfony-Tuts.sublime-workspace",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/IDE/SublimeText/OrderOnLine.sublime-workspace",
+				"/C/Users/Giancarlo/Downloads/httpd-vhosts.conf",
+				"/D/Server/wampmanager.ini",
+				"/D/Server/bin/apache/apache2.4.23/wampdefineapache.conf",
+				"/D/Server/bin/apache/apache2.4.23/wampserver.conf",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/Karlito.bscp",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/Wamp/my.ini",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/Wamp/apache/httpd.conf",
+				"/D/Server/bin/php/php7.0.20/phpForApache.ini",
+				"/D/Server/bin/php/php7.0.20/php.ini",
+				"/D/Server/bin/php/php7.0.20/wampserver.conf",
+				"/D/Server/bin/apache/apache2.4.23/conf/httpd.conf",
+				"/D/Server/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/prefs.js",
+				"/C/Users/Giancarlo/Dropbox/www/Training/Symfony-Tuts/app/config/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Training/Symfony-Tuts/var/data/data.sqlite",
+				"/C/Users/Giancarlo/Dropbox/www/GitHub/ST3-Preferences/Emmet/php.js",
+				"/C/Users/Giancarlo/Dropbox/www/GitHub/ST3-Preferences/Emmet/snippets-php.json",
+				"/C/Users/Giancarlo/Dropbox/www/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Homepage/public/home.php",
+				"/C/Users/Giancarlo/Dropbox/www/Wamp/src/yaml/lang-french.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Server/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/Wamp/src/yaml/lang-english.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/wamplangues/add_vhost_english.php",
+				"/C/Users/Giancarlo/Dropbox/www/wamplangues/index_english.php",
+				"/C/Users/Giancarlo/Dropbox/www/wamplangues/index_french.php",
+				"/C/Users/Giancarlo/Dropbox/www/wamplangues/add_vhost_french.php",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Homepage/system/lang.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Homepage/system/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Homepage/system/core/System/Config.php",
+				"/C/Users/Giancarlo/Dropbox/www/Wamp/src/core/Autoloader.php",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Homepage/system/core/Autoloader.php",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Homepage/system/core/System/Yaml.php",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Homepage/system/bootstrap.php",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Server/add_vhost.php",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/Wamp/apache/httpd-vhosts.conf",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/web/.htaccess",
+				"/C/Users/Giancarlo/Dropbox/www/Apps/Wamp-Homepage/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/Wamp/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/Wamp/vendor/js/ie10-viewport-bug-workaround.js",
+				"/C/Users/Giancarlo/Dropbox/www/Wamp/vendor/js/holder.min.js",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Symfony-Tuts.sublime-project",
+				"/C/Users/Giancarlo/Dropbox/www/Wamp/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/Laboratory/Symfony-Tuts/app/config/parameters.yml.dist",
+				"/C/Users/Giancarlo/Dropbox/www/Laboratory/Symfony-Tuts/app/config/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Laboratory/Symfony-Tuts/app/config/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Laboratory/Synfony-Tutos/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/DataFixtures/ORM/LoadDivision.php",
+				"/C/Users/Giancarlo/Dropbox/Projects/ERP/Financial Report Builder Generator.sql",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/.htaccess",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/ReportValue.php~",
+				"/C/Users/Giancarlo/Dropbox/Projects/ERP/Finance Report Builder Generator.sql",
+				"/C/Users/Giancarlo/Downloads/FRBG.sql",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/ReportHeaderType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/Header/new.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/Form/number.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/Form/checkbox-buttons.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/CustomCheckboxButtonType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/CustomNumberType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/input.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/.editorconfig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/DataTransformer/CompagnyTransformer.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/dropdown.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Default/admin-top-menu-container.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/plugins/PACE/pace.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/assets/global/plugins/PACE/themes/black/pace-theme-loading-bar.css",
+				"/D/Server/alias/user-guide-Symfony - Copie.conf",
+				"/C/Users/Giancarlo/Downloads/FRBG-2.sql",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/DataFixtures/ORM/LoadAccount.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/DataFixtures/ORM/LoadDim.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/LayoutBundle/Resources/views/Form/label.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/views/Line/new.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/Division.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/ReportHeader.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Controller/ReportHeaderController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/routing/reportheader.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/AppKernel.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/Company.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/DataFixtures/ORM/LoadPost.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/DataTransformer/DivisionTransformer.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/routing/reportcolumn.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/routing/reportlinet.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/BalanceValue.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/ReportColumn.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/ReportLineB.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/ReportLineS.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/ReportLineT.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/ReportValue.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/AccountingCode.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/Dim2.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/ReportLineSType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/ReportColumnType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/ReportLineTType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/validation.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/ReportLine.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/ReportLineS.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/ReportLineT.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/ReportHeader.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/ReportColumn.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/Dim2.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/BalanceValue.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/AccountingCode.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/ReportLineB.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/ReportValue.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/var/sessions/casa/sess_a1mi66agla471sr4rdouvtmr01",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Form/ReportLineBType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/parameters_casa.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/config_casa.yml",
+				"/D/Server/bin/mysql/mysql5.7.14/my.ini",
+				"/D/Server/bin/mysql/mysql5.7.14/my-default.ini",
+				"/D/Server/bin/mysql/mysql5.7.14/data/auto.cnf",
+				"/D/Server/bin/mysql/mysql5.7.14/data/erp@002dfinancial@002dreport/db.opt",
+				"/D/Server/bin/mysql/mysql5.7.14/wampserver.conf",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/var/bootstrap.php.cache",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Entity/Company.php~",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/ReportLine.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/src/FRBGeneratorBundle/Resources/config/doctrine/Division.orm.yml"
 			],
 			"find":
 			{
@@ -69,6 +246,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"C:\\\\Users\\\\Giancarlo\\\\Dropbox",
+					"C/Users/Giancarlo/Dropbox",
+					"${APACHE_DIR}",
+					"D:",
+					"C:/Users/Giancarlo/Dropbox",
+					"INSTALL_DIR",
+					"C:/Users/Giancarlo/Dropbox/www",
+					"\t'",
+					"\t\t'",
+					"\\'",
+					"n\\'",
+					"&nbsp;",
+					"<br />",
+					"\",",
+					": '",
+					"' => ",
+					"<Directory  ",
+					"\\wamp\\",
+					"$wampConf",
+					"cas",
+					"ca",
+					"Type\\",
+					"TextType",
+					"manager",
+					"$em",
+					"widget_attributes",
+					" ",
+					"spaceless",
+					"z-index:",
+					"pace-done",
+					"loading-bar",
+					"pace-progress",
+					"runni",
+					"Symfony",
+					"`, `",
+					"' => \"1\", \n['company_id",
+					"' => \"1\", \n\t",
+					"' => \"1\", ",
+					"C",
+					"B",
+					"D",
+					"C",
+					"B",
+					");",
+					", ",
+					"', ",
+					"'100",
+					"', '",
+					"INSERT INTO `frg_accounting_code` (`id`, `company_id`, `division_id`, `account_number`, `account_group`, `account_main`, `short_description`, `long_description`, `budget_account`, `balance_account`, `profit_and_loss_account`, `receivable_account`, `fixe_asset`, `payable_account`, `cost_accounting`, `bank_account`, `inventory_account`, `adjustement_account`) VALUES (",
+					"`) VALUES (",
+					");",
+					"TSA', '",
+					", 'TSA'",
+					"\"",
+					"\"frg_accounting_code\"",
+					"name",
+					"</optgroup>",
+					"dim2",
+					"' =",
+					"'class' => 'form-control',",
+					"\t\t\t])",
+					"->add(",
+					"name",
+					"$post",
+					"name",
+					"ring",
+					"ReportLine",
+					"->add",
+					"_dev",
+					"compa",
+					"Post",
+					"->add(",
+					"FRBGeneratorBundle\\Entity\\ReportHeader:\n    properties:\n        company:\n            - NotBlank: ~\n        division:\n            - NotBlank: ~\n",
+					";\n\n\n    /**",
+					";",
+					"->add(",
+					"_casa",
+					"\\",
+					"-6",
+					"\" />",
+					"center",
+					"{{ fo",
+					"{{ for",
+					"{{ form",
+					"{{",
+					"\t\t\t'reportHeader' => $reportHeader,\n\t\t\t'form' => $form->createView(),\n",
+					"\t\t$reportHeader = new Reportheader();\n\t\t$form = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n\t\t$form->handleRequest($request);\n\n\t\tif ($form->isSubmitted() && $form->isValid())\n\t\t{\n\t\t\t$em = $this->getDoctrine()->getManager();\n\t\t\t$em->persist($reportHeader);\n\t\t\t$em->flush();\n\n\t\t\treturn $this->redirectToRoute('report_header_show', array('id' => $reportHeader->getId()));\n\t\t}\n",
+					"report_header_step_two",
+					"form_widget(",
+					"child",
+					"hideMessage",
+					"fixHeight",
+					"basic-wizard",
+					"wizard",
+					"step-content-wizzard",
+					"swMain",
+					"smartwizard",
+					"basic-wizard",
+					"<a href=\"#",
+					"{{ path('report_header_step_",
+					"report_header_step_one\n",
+					"#step-",
+					"report_header_step_",
+					":new",
+					"new",
+					"public function step",
+					"report_header_new",
+					"\t\t$reportHeader = new Reportheader();\n\t\t$form = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n\t\t$form->handleRequest($request);\n\n\t\tif ($form->isSubmitted() && $form->isValid()) {\n\t\t\t$em = $this->getDoctrine()->getManager();\n\t\t\t$em->persist($reportHeader);\n\t\t\t$em->flush();\n\n\t\t\treturn $this->redirectToRoute('report_header_show', array('id' => $reportHeader->getId()));\n\t\t}\n\n\t\treturn $this->render('FRBGeneratorBundle:reportheader:new.html.twig', array(\n\t\t\t'reportHeader' => $reportHeader,\n\t\t\t'form' => $form->createView(),\n\t\t));\n",
+					"<?php\n\nnamespace FRBGeneratorBundle\\Controller;\n\nuse FRBGeneratorBundle\\Entity\\ReportHeader;\nuse Symfony\\Bundle\\FrameworkBundle\\Controller\\Controller;\nuse Symfony\\Component\\HttpFoundation\\Request;\n\n/**\n * Reportheader controller.\n *\n */\nclass ReportHeaderController extends Controller\n{\n    /**\n     * Lists all reportHeader entities.\n     *\n     */\n    public function indexAction()\n    {\n        $em = $this->getDoctrine()->getManager();\n\n        $reportHeaders = $em->getRepository('FRBGeneratorBundle:ReportHeader')->findAll();\n\n        return $this->render('FRBGeneratorBundle:reportheader:index.html.twig', array(\n            'reportHeaders' => $reportHeaders,\n        ));\n    }\n\n    /**\n     * Creates a new reportHeader entity.\n     *\n     */\n    public function newAction(Request $request)\n    {\n        $reportHeader = new Reportheader();\n        $form = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n        $form->handleRequest($request);\n\n        if ($form->isSubmitted() && $form->isValid()) {\n            $em = $this->getDoctrine()->getManager();\n            $em->persist($reportHeader);\n            $em->flush();\n\n            return $this->redirectToRoute('report_header_show', array('id' => $reportHeader->getId()));\n        }\n\n        return $this->render('FRBGeneratorBundle:reportheader:new.html.twig', array(\n            'reportHeader' => $reportHeader,\n            'form' => $form->createView(),\n        ));\n    }\n\n    /**\n     * Finds and displays a reportHeader entity.\n     *\n     */\n    public function showAction(ReportHeader $reportHeader)\n    {\n        $deleteForm = $this->createDeleteForm($reportHeader);\n\n        return $this->render('FRBGeneratorBundle:reportheader:show.html.twig', array(\n            'reportHeader' => $reportHeader,\n            'delete_form' => $deleteForm->createView(),\n        ));\n    }\n\n    /**\n     * Displays a form to edit an existing reportHeader entity.\n     *\n     */\n    public function editAction(Request $request, ReportHeader $reportHeader)\n    {\n        $deleteForm = $this->createDeleteForm($reportHeader);\n        $editForm = $this->createForm('FRBGeneratorBundle\\Form\\ReportHeaderType', $reportHeader);\n        $editForm->handleRequest($request);\n\n        if ($editForm->isSubmitted() && $editForm->isValid()) {\n            $this->getDoctrine()->getManager()->flush();\n\n            return $this->redirectToRoute('report_header_edit', array('id' => $reportHeader->getId()));\n        }\n\n        return $this->render('FRBGeneratorBundle:reportheader:edit.html.twig', array(\n            'reportHeader' => $reportHeader,\n            'edit_form' => $editForm->createView(),\n            'delete_form' => $deleteForm->createView(),\n        ));\n    }\n\n    /**\n     * Deletes a reportHeader entity.\n     *\n     */\n    public function deleteAction(Request $request, ReportHeader $reportHeader)\n    {\n        $form = $this->createDeleteForm($reportHeader);\n        $form->handleRequest($request);\n\n        if ($form->isSubmitted() && $form->isValid()) {\n            $em = $this->getDoctrine()->getManager();\n            $em->remove($reportHeader);\n            $em->flush();\n        }\n\n        return $this->redirectToRoute('report_header_index');\n    }\n\n    /**\n     * Creates a form to delete a reportHeader entity.\n     *\n     * @param ReportHeader $reportHeader The reportHeader entity\n     *\n     * @return \\Symfony\\Component\\Form\\Form The form\n     */\n    private function createDeleteForm(ReportHeader $reportHeader)\n    {\n        return $this->createFormBuilder()\n            ->setAction($this->generateUrl('report_header_delete', array('id' => $reportHeader->getId())))\n            ->setMethod('DELETE')\n            ->getForm()\n        ;\n    }\n}\n",
+					"div",
+					"span",
+					"sapn",
+					"\t\t\t\t\t\t\t\t\t<a",
+					"{% extends 'LayoutBundle:Default:admin-top-menu-container.html.twig' %}\n\n{% set page_title = \"Report Header list\" %}\n\n{% block body %}\n\n\t{% block header %}\n\t\t{% include 'FRBGeneratorBundle:Partials:header.html.twig' %}\n\t{% endblock %}\n\n\t{% block breadcrumb %}\n\t\t{% include 'LayoutBundle:Partials:breadcrumb.html.twig' %}\n\t{% endblock %}\n\n\t{% block content %}\n\t\t<div class=\"content\">\n\t\t    <table>\n\t\t        <thead>\n\t\t            <tr>\n\t\t                <th>Id</th>\n\t\t                <th>Reportnumber</th>\n\t\t                <th>Reportname</th>\n\t\t                <th>Dim2</th>\n\t\t                <th>Thousand</th>\n\t\t                <th>Numberofcolumn</th>\n\t\t                <th>Budgetaccount</th>\n\t\t                <th>Balanceaccount</th>\n\t\t                <th>Profitandlossaccount</th>\n\t\t                <th>Receivableaccount</th>\n\t\t                <th>Fixeassets</th>\n\t\t                <th>Payableaccount</th>\n\t\t                <th>Costaccounting</th>\n\t\t                <th>Bankaccount</th>\n\t\t                <th>Inventoryaccount</th>\n\t\t                <th>Accountgroup1</th>\n\t\t                <th>Accountgroup2</th>\n\t\t                <th>Accountgroup3</th>\n\t\t                <th>Accountgroup4</th>\n\t\t                <th>Accountgroup5</th>\n\t\t                <th>Accountgroup6</th>\n\t\t                <th>Accountgroup7</th>\n\t\t                <th>Accountgroup8</th>\n\t\t                <th>Accountgroup9</th>\n\t\t                <th>Actions</th>\n\t\t            </tr>\n\t\t        </thead>\n\t\t        <tbody>\n\t\t        {% for reportHeader in reportHeaders %}\n\t\t            <tr>\n\t\t                <td><a href=\"{{ path('report_header_show', { 'id': reportHeader.id }) }}\">{{ reportHeader.id }}</a></td>\n\t\t                <td>{{ reportHeader.reportNumber }}</td>\n\t\t                <td>{{ reportHeader.reportName }}</td>\n\t\t                <td>{{ reportHeader.dim2 }}</td>\n\t\t                <td>{% if reportHeader.thousand %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{{ reportHeader.numberOfColumn }}</td>\n\t\t                <td>{% if reportHeader.budgetAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.balanceAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.profitAndLossAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.receivableAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.fixeAssets %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.payableAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.costAccounting %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.bankAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.inventoryAccount %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup1 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup2 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup3 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup4 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup5 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup6 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup7 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup8 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>{% if reportHeader.accountGroup9 %}Yes{% else %}No{% endif %}</td>\n\t\t                <td>\n\t\t                    <ul>\n\t\t                        <li>\n\t\t                            <a href=\"{{ path('report_header_show', { 'id': reportHeader.id }) }}\">show</a>\n\t\t                        </li>\n\t\t                        <li>\n\t\t                            <a href=\"{{ path('report_header_edit', { 'id': reportHeader.id }) }}\">edit</a>\n\t\t                        </li>\n\t\t                    </ul>\n\t\t                </td>\n\t\t            </tr>\n\t\t        {% endfor %}\n\t\t        </tbody>\n\t\t    </table>\n\n\t\t    <ul>\n\t\t        <li>\n\t\t            <a href=\"{{ path('report_header_new') }}\">Create a new reportHeader</a>\n\t\t        </li>\n\t\t    </ul>\n\n    </div>\n\t{% endblock %}\n\n\t{% block side_setting %}{% endblock %}\n\n{% endblock %}",
+					"wizard",
+					"#}",
+					"stepContainer",
+					"hei",
+					"\t\t\t\t\t\t\t\t\tStep ",
+					"\" href",
+					" type=\"text/css\"",
+					"../../../",
+					" rel=\"stylesheet\" type=\"text/css\"",
+					"../../../",
+					".margin",
+					"GENERAL ELEMENTS",
+					"1. DIVIDERS",
+					"marg"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -76,6 +381,12 @@
 				"regex": false,
 				"replace_history":
 				[
+					"D:\\\\Server",
+					"${APACHE_DIR}",
+					"D:/Server/www",
+					"\\t",
+					"`",
+					"`frg_accounting_code`",
 					"}}",
 					"{{",
 					"%}",
@@ -117,6 +428,46 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"pace-theme-loading-bar.css",
+						"web\\assets\\global\\plugins\\PACE\\themes\\black\\pace-theme-loading-bar.css"
+					],
+					[
+						"pace.",
+						"web\\assets\\global\\plugins\\PACE\\pace.js"
+					],
+					[
+						"cust",
+						"web\\assets\\layouts\\layout-top-menu\\css\\custom.css"
+					],
+					[
+						"wiza",
+						"web\\assets\\global\\plugins\\jQuery-Smart-Wizard\\js\\jquery.smartWizard.js"
+					],
+					[
+						"wizar",
+						"web\\assets\\global\\js\\global\\wizard.js"
+					],
+					[
+						"layout-top-menu/js/layout.js",
+						"web\\assets\\layouts\\layout-top-menu\\js\\layout.js"
+					],
+					[
+						"layout-top-menu/js/layout.min.js",
+						"web\\assets\\layouts\\layout-top-menu\\js\\layout.min.js"
+					],
+					[
+						"site-se",
+						"web\\assets\\global\\js\\site-settings.js"
+					],
+					[
+						"site.",
+						"web\\assets\\global\\js\\site.js"
+					],
+					[
+						"jquery.smartwizard.js",
+						"web\\assets\\global\\plugins\\jQuery-Smart-Wizard\\js\\jquery.smartWizard.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -146,14 +497,14 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 274.0,
+			"side_bar_width": 262.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			}
 		},
-		"new_window_width": 1482.0
+		"new_window_width": 1020.0
 	},
 	"windows":
 	[
@@ -175,9 +526,13 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "",
+				"last_filter": "ter",
 				"selected_items":
 				[
+					[
+						"ter",
+						"Terminal: Open"
+					]
 				],
 				"width": 510.0
 			},
@@ -199,10 +554,33 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Hal"
+				"/D/Server/www/Hal"
 			],
 			"file_history":
 			[
+				"/D/Server/www/GitHub/PeuChePeu-Framework/public/reference.php",
+				"/D/Server/www/GitHub/PeuChePeu-Framework/public/info.php",
+				"/D/Server/www/GitHub/BlogMVC-Symfony3/app/DoctrineMigrations/Version20170118105139.php",
+				"/D/Server/www/GitHub/BlogMVC-Symfony3/tests/AppBundle/Repository/CategoryRepositoryTest.php",
+				"/D/Server/www/GitHub/BlogMVC-Symfony3/composer.json",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/D/Server/www/GitHub/Commandcar/README.md",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/IDE/SublimeText/- macros -/align.sublime-macro",
+				"/D/Server/www/GitHub/ST3-Preferences/Terminal.sublime-settings",
+				"/C/Users/Giancarlo/OneDrive/Documents/Microsoft Excel/F1-Result-Race-1950.csv",
+				"/C/Users/Giancarlo/OneDrive/Documents/Microsoft Excel/F1-Qualif-Race-2000-qualif.csv",
+				"/C/Users/Giancarlo/OneDrive/Documents/Microsoft Excel/F1-Qualif-Race-1990-qualif.csv",
+				"/C/Users/Giancarlo/OneDrive/Documents/Microsoft Excel/F1-Qualif-Race-1980-qualif.csv",
+				"/C/Users/Giancarlo/OneDrive/Documents/Microsoft Excel/F1-Qualif-Race-1970-qualif.csv",
+				"/C/Users/Giancarlo/OneDrive/Documents/Microsoft Excel/F1-Qualif-Race-1960-qualif.csv",
+				"/C/Users/Giancarlo/OneDrive/Documents/Microsoft Excel/F1-Qualif-Race-1950-qualif.csv",
+				"/D/Server/www/Hal/database/data.sqlite",
+				"/C/Users/Giancarlo/Downloads/dragtable-master/src/DataTable.html",
+				"/C/Users/Giancarlo/Downloads/dragtable-master/src/dragtable.html",
+				"/D/Server/www/Hal/app/config/config.yml",
+				"/D/Server/www/Hal/app/config/parameters.yml",
+				"/D/Server/www/Hal/app/config/parameters.yml.dist",
+				"/C/Users/Giancarlo/Dropbox (Personnelle)/# CONFIGS #/Q-Dir/Hal.qdr"
 			],
 			"find":
 			{
@@ -252,7 +630,7 @@
 			},
 			"input":
 			{
-				"height": 67.0
+				"height": 41.0
 			},
 			"layout":
 			{
@@ -286,7 +664,7 @@
 				"height": 600.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,735,-7,2,1029",
+			"position": "0,2,3,-32000,-32000,-1,-1,967,234,234,1270",
 			"project": "Hal.sublime-project",
 			"replace":
 			{
@@ -309,7 +687,8 @@
 				"selected_items":
 				[
 					[
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Finance-Report-Generator.sublime-project"
+						"",
+						""
 					]
 				],
 				"width": 380.0
@@ -331,13 +710,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 231.0,
+			"side_bar_width": 233.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			},
-			"window_id": 241,
+			"window_id": 247,
 			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace"
 		}
 	],
@@ -346,6 +725,7 @@
 		"recent_workspaces":
 		[
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Symfony-Tuts.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Finance-Report-Generator.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/OrderOnLine.sublime-workspace"
 		]
