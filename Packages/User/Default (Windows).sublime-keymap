@@ -1,6 +1,5 @@
 [
 	// Defaults Actions
-	{ "keys": ["ctrl+shift+n"], "command": "new_window" },
 	{ "keys": ["ctrl+shift+w"], "command": "close_window" },
 	{ "keys": ["ctrl+o"], "command": "prompt_open_file" },
 	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
@@ -21,7 +20,7 @@
 	{ "keys": ["ctrl+k", "ctrl+l"], "command": "lower_case" },
 	{ "keys": ["ctrl+k", "ctrl+p"], "command": "title_case" },
 
-	// Trimm
+	// Trimmer
 	{ "keys": ["ctrl+alt+s"], "command": "trimmer" },
 	{ "keys": ["ctrl+alt+f"], "command": "trim_leading_trailing_whitespace" },
 	{ "keys": ["ctrl+alt+q"], "command": "delete_empty_lines" },
@@ -42,6 +41,7 @@
 	{ "keys": ["ctrl+k", "ctrl+n"], "command": "toggle_minimap" },
 
 	// AdvencedNewFile PlugIn
+	{ "keys": ["ctrl+shift+n"], "command": "new_window" },
 
 	// Macro
 	{ "keys": ["ctrl+alt+v"], "command": "run_macro_file", "args": {"file": "Packages/User/align.sublime-macro"} }

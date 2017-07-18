@@ -3,7 +3,7 @@
 	[
 	],
 	"last_version": 3126,
-	"last_window_id": 254,
+	"last_window_id": 299,
 	"log_indexing": false,
 	"settings":
 	{
@@ -23,13 +23,13 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "ter",
+				"last_filter": "html",
 				"selected_items":
 				[
 					[
-						"ter",
-						"Terminal: Open"
-					]
+						"html",
+						"HTMLPrettify"
+					],
 				],
 				"width": 510.0
 			},
@@ -51,49 +51,6 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Command/AddCities.php",
-				"/C/Users/Giancarlo/Dropbox/www/Training/Symfony-Tuts/.gitignore",
-				"/C/Users/Giancarlo/Dropbox/www/Training/Symfony-Tuts/ (Copie en conflit de GIAN-Casa 2017-07-01).gitignore",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/City.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/Continent.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/Country.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/Department.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/District.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/City.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/Department.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/District.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/Country.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/Continent.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/composer (Copie en conflit de GIAN-Casa 2017-07-01).lock",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/City.php~",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/Continent.php~",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/Country.php~",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/Department.php~",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/District.php~",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Resources/views/Default/header.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/UserBundle/Resources/views/Partials/header.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/UploadBundle/Resources/views/Partials/header.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/views/Partials/header.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Profiler/header.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Resources/views/Default/home.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Training/Symfony-Tuts/src/AppBundle/Controller/MedecinController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/config_dev.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/sqlite/db.sqlite",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/parameters_dev.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Training/Symfony-Tuts/app/config/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/config_casa.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/parameters_casa.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/app/config/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/parameters_test.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/parameters_prod.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/config_test.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/config_prod.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/parameters.yml.dist",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Resources/views/Default/home.php.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Controller/DefaultController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/web/config.php"
 			],
 			"find":
 			{
@@ -115,17 +72,6 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"Strin",
-					"__to",
-					"city",
-					"\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-clock\"></i> Todo 1 </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-check\"></i> Todo 2 </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-envelope\"></i> Inbox </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-calendar\"></i> Calendar </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-notebook\"></i> Support </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n",
-					"\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"ecommerce_#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-home\"></i> Dashboard </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-basket\"></i> Orders </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-tag\"></i> Order View </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-graph\"></i> Products </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-graph\"></i> Product Edit </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n",
-					"\t\t\t\t\t\t\t\t\t<span class=\"arrow\"></span>\n",
-					" class=\"dropdown-submenu \"",
-					"\t\t\t\t\t\t\t\t\t<span class=\"arrow\"></span>\n",
-					"                                <ul class=\"dropdown-menu\">\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \" target=\"_blank\"> Coming Soon </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \"> 404 Page 1 </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \" target=\"_blank\"> 404 Page 2 </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \" target=\"_blank\"> 404 Page 3 </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \"> 500 Page 1 </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \" target=\"_blank\"> 500 Page 2 </a>\n                                    </li>\n                                </ul>\n",
-					"geolocation_",
-					"#"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -169,54 +115,6 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"header.html",
-						"vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle\\Resources\\views\\Profiler\\header.html.twig"
-					],
-					[
-						"app/appkernel.php",
-						"vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\FrameworkBundle\\Tests\\Functional\\app\\AppKernel.php"
-					],
-					[
-						"app/config/config.yml",
-						"app\\config\\config.yml"
-					],
-					[
-						"app/config/routing.yml",
-						"app\\config\\routing.yml"
-					],
-					[
-						"/apps/geolocationbundle/controller/citycontroller.php",
-						"src\\Apps\\GeolocationBundle\\Controller\\CityController.php"
-					],
-					[
-						"apps/geolocationbundle/datafixtures/orm/loaddepartmentdata.php",
-						"src\\Apps\\GeolocationBundle\\DataFixtures\\ORM\\LoadDepartmentData.php"
-					],
-					[
-						"/apps/geolocationbundle/form/citytype.php",
-						"src\\Apps\\GeolocationBundle\\Form\\CityType.php"
-					],
-					[
-						"apps/geolocationbundle/resources/views/partials/header.html.twig",
-						"src\\Apps\\GeolocationBundle\\Resources\\views\\Partials\\header.html.twig"
-					],
-					[
-						"/apps/uploadbundle/resources/config/routing.yml",
-						"src\\Apps\\UploadBundle\\Resources\\config\\routing.yml"
-					],
-					[
-						"apps/uploadbundle/resources/config/services.yml",
-						"src\\Apps\\UploadBundle\\Resources\\config\\services.yml"
-					],
-					[
-						"apps/uploadbundle/resources/views/default/index.html.twig",
-						"src\\Apps\\UploadBundle\\Resources\\views\\Default\\index.html.twig"
-					],
-					[
-						"apps/userbundle/resources/views/partials/header.html.twig",
-						"src\\Apps\\UserBundle\\Resources\\views\\Partials\\header.html.twig"
-					]
 				],
 				"width": 0.0
 			},
@@ -235,25 +133,25 @@
 			},
 			"select_symbol":
 			{
-				"height": 354.0,
+				"height": 357.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 846.0
+				"width": 894.0
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 281.0,
+			"side_bar_width": 318.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			}
 		},
-		"new_window_width": 1566.0
+		"new_window_width": 1008.0
 	},
 	"windows":
 	[
@@ -262,31 +160,10 @@
 			{
 				"selected_items":
 				[
-					[
-						"csv",
-						"csvFile"
-					],
-					[
-						"gett",
-						"gettype"
-					],
-					[
-						"csvM",
-						"csvMimes"
-					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart1Data.php",
-					"settings":
-					{
-						"buffer_size": 721322,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -296,21 +173,13 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "trimmer",
+				"last_filter": "html",
 				"selected_items":
 				[
 					[
-						"trimmer",
-						"Trimmer: Trim leading AND trailing whitespace."
+						"html",
+						"HTMLPrettify"
 					],
-					[
-						"word",
-						"Word Wrap: Toggle"
-					],
-					[
-						"ter",
-						"Terminal: Open"
-					]
 				],
 				"width": 510.0
 			},
@@ -332,65 +201,9 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Hal",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/tests"
 			],
 			"file_history":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Reporter-Builder/web/.htaccess",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadDistrictData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadDepartmentData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCurrencyData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadContinentData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCountryData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart5Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart3Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart4Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart2Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart1Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart6Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart7Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart8Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/csv/LoadCityPart8Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/csv/LoadCityPart6Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/csv/LoadCityPart5Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/csv/LoadCityPart7Data.php",
-				"/D/Server/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/csv/LoadCityPart3Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/csv/LoadCityPart2Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/csv/LoadCityPart4Data.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Command/InsertCitiesCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Apps/My-App/core/Class/Yaml.php",
-				"/C/Users/Giancarlo/Dropbox/www/Apps/My-App/public/test.php",
-				"/C/Users/Giancarlo/Dropbox/www/Apps/My-App/public/index.php",
-				"/C/Users/Giancarlo/Dropbox/www/Apps/My-App/public/cli.php",
-				"/C/Users/Giancarlo/Dropbox/www/Apps/My-App/public/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Apps/My-App/core/controller.class.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/City.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Laboratory/Import-CSV/index.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/views/Country/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Command/TruncateGeolocationCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/BlogBundle/Command/TruncateBlogCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/Continent.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/Continent.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/Country.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/District.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/Department.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Resources/config/doctrine/Currency.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/District.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Entity/Country.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityData.todo",
-				"/C/Users/Giancarlo/OneDrive/Documents/Microsoft Excel/Geolocation/allCountries.txt",
-				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.204/country.yaml",
-				"/C/Users/Giancarlo/OneDrive/world 17-05-08.sql",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/Command/AddCitiesCommand.php"
 			],
 			"find":
 			{
@@ -412,104 +225,6 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"INSERT INTO ",
-					"\t ",
-					"'-'",
-					"([0-9])(,)([0-9])",
-					"(([0-9])(,)([0-9]))",
-					"(([0-9]),([0-9]))",
-					"'NULL'",
-					"01120",
-					"'NULL",
-					"'NULL'",
-					"=> 'NULL",
-					"'\"",
-					"([0-9]{6})",
-					"department",
-					"$this->getDepartement($manager, $name)",
-					"XXXXX",
-					"XXXX",
-					"'ContinentCode' => ",
-					"$em",
-					"}\n\t\telse\n\t\t{",
-					"){",
-					"_FILES['file']['name']",
-					", '",
-					"USD",
-					"GeolocationBundle",
-					"blog_",
-					"ontinent",
-					"\"\"",
-					"\"['code",
-					"$continent",
-					"Alpha",
-					"', $OC, '",
-					"', $SA, '",
-					"', $NA, '",
-					"', $EU, '",
-					"', $AS, '",
-					"', $AN, '",
-					"=> $AS, '",
-					"', $AN, '",
-					"', $AF, '",
-					"'ContinentCode' => 'EU'",
-					"'ContinentCode' => 'NA'",
-					"'ContinentCode' => 'SA'",
-					"'ContinentCode' => 'OC'",
-					"'ContinentCode' => 'AS'",
-					"'ContinentCode' => 'AN'",
-					"'ContinentCode' => 'AF'",
-					"XXX",
-					"(",
-					"XXX",
-					"]\n\t\t\t[",
-					", '",
-					"\tXXX\t",
-					"\t",
-					"\"\t\" ",
-					"district",
-					"city",
-					"City",
-					"XXX",
-					"District",
-					"alpha",
-					"code",
-					"alpha",
-					"code",
-					"\", 'status' => 1],",
-					"\t\t\t['code' => '",
-					"', 'name' =>",
-					", 'code' =>",
-					"corse",
-					"auvergne_rhone_alpes",
-					"$france",
-					"'",
-					" ",
-					"é",
-					"ô",
-					"-",
-					"', 'name",
-					", ",
-					"setStatus(1)",
-					"ville",
-					"departement",
-					"$region",
-					"latitude' => ",
-					"distrcts",
-					"regions",
-					"departements",
-					"villes",
-					"Strin",
-					"__to",
-					"city",
-					"\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-clock\"></i> Todo 1 </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-check\"></i> Todo 2 </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-envelope\"></i> Inbox </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-calendar\"></i> Calendar </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-notebook\"></i> Support </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n",
-					"\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"ecommerce_#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-home\"></i> Dashboard </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-basket\"></i> Orders </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-tag\"></i> Order View </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-graph\"></i> Products </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li aria-haspopup=\"true\" class=\" \">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"nav-link \">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-graph\"></i> Product Edit </a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n",
-					"\t\t\t\t\t\t\t\t\t<span class=\"arrow\"></span>\n",
-					" class=\"dropdown-submenu \"",
-					"\t\t\t\t\t\t\t\t\t<span class=\"arrow\"></span>\n",
-					"                                <ul class=\"dropdown-menu\">\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \" target=\"_blank\"> Coming Soon </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \"> 404 Page 1 </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \" target=\"_blank\"> 404 Page 2 </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \" target=\"_blank\"> 404 Page 3 </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \"> 500 Page 1 </a>\n                                    </li>\n                                    <li aria-haspopup=\"true\" class=\" \">\n                                        <a href=\"#\" class=\"nav-link \" target=\"_blank\"> 500 Page 2 </a>\n                                    </li>\n                                </ul>\n",
-					"geolocation_",
-					"#"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -517,32 +232,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"\t",
-					"NULL",
-					"$1.$3",
-					"($1).($3)",
-					"$1.$3",
-					"$1.$2",
-					"NULL",
-					"'",
-					"', 'ContinentCode' => $OC, '",
-					"', 'ContinentCode' => $SA, '",
-					"', 'ContinentCode' => $NA, '",
-					"', 'ContinentCode' => $EU, '",
-					"', 'ContinentCode' => $AS, '",
-					"', 'ContinentCode' => $AN, '",
-					"', 'ContinentCode' => $AS, '",
-					"', 'ContinentCode' => $AN, '",
-					"', 'ContinentCode' => $AF, '",
-					"'ContinentCode' => $AF, '",
-					"$EU",
-					"$NA",
-					"$SA",
-					"$OC",
-					"$AS",
-					"$AN",
-					"$AF",
-					"\\t"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -553,128 +242,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/GeolocationBundle/DataFixtures/ORM/LoadCityPart1Data.php",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 721322,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										721211,
-										721211
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": -1,
-										"modified": true,
-										"selection": true,
-										"status": -1,
-										"syntax": "php"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-											"1":
-											[
-												721321,
-												721322
-											]
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"editorconfig": true,
-									"ensure_newline_at_eof_on_save": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"translate_tabs_to_spaces": false,
-									"trim_trailing_white_space_on_save": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 85092.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -718,7 +287,7 @@
 				"height": 600.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,832,0,130,1582",
+			"position": "0,2,3,-1,-1,-1,-1,728,0,26,1024",
 			"project": "Hal.sublime-project",
 			"replace":
 			{
@@ -731,54 +300,6 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"header.html",
-						"vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle\\Resources\\views\\Profiler\\header.html.twig"
-					],
-					[
-						"app/appkernel.php",
-						"vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\FrameworkBundle\\Tests\\Functional\\app\\AppKernel.php"
-					],
-					[
-						"app/config/config.yml",
-						"app\\config\\config.yml"
-					],
-					[
-						"app/config/routing.yml",
-						"app\\config\\routing.yml"
-					],
-					[
-						"/apps/geolocationbundle/controller/citycontroller.php",
-						"src\\Apps\\GeolocationBundle\\Controller\\CityController.php"
-					],
-					[
-						"apps/geolocationbundle/datafixtures/orm/loaddepartmentdata.php",
-						"src\\Apps\\GeolocationBundle\\DataFixtures\\ORM\\LoadDepartmentData.php"
-					],
-					[
-						"/apps/geolocationbundle/form/citytype.php",
-						"src\\Apps\\GeolocationBundle\\Form\\CityType.php"
-					],
-					[
-						"apps/geolocationbundle/resources/views/partials/header.html.twig",
-						"src\\Apps\\GeolocationBundle\\Resources\\views\\Partials\\header.html.twig"
-					],
-					[
-						"/apps/uploadbundle/resources/config/routing.yml",
-						"src\\Apps\\UploadBundle\\Resources\\config\\routing.yml"
-					],
-					[
-						"apps/uploadbundle/resources/config/services.yml",
-						"src\\Apps\\UploadBundle\\Resources\\config\\services.yml"
-					],
-					[
-						"apps/uploadbundle/resources/views/default/index.html.twig",
-						"src\\Apps\\UploadBundle\\Resources\\views\\Default\\index.html.twig"
-					],
-					[
-						"apps/userbundle/resources/views/partials/header.html.twig",
-						"src\\Apps\\UserBundle\\Resources\\views\\Partials\\header.html.twig"
-					]
 				],
 				"width": 0.0
 			},
@@ -797,28 +318,28 @@
 			},
 			"select_symbol":
 			{
-				"height": 354.0,
+				"height": 357.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 846.0
+				"width": 894.0
 			},
 			"selected_group": 0,
 			"settings":
 			{
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 281.0,
+			"side_bar_width": 318.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			},
-			"window_id": 253,
+			"window_id": 281,
 			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace"
 		}
 	],
@@ -827,9 +348,11 @@
 		"recent_workspaces":
 		[
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/FRBG.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Finance-Report-Generator.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/My-Tools.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/OrderOnLine.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Symfony-Tuts.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Finance-Report-Generator.sublime-workspace"
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Symfony-Tuts.sublime-workspace"
 		]
 	}
 }

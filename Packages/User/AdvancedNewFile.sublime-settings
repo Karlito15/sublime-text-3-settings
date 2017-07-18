@@ -5,6 +5,10 @@
     // false by default
     "auto_refresh_sidebar": true,
 
+    // alias names, the values represent the paths.
+    "alias": {"C:\\Users\\Giancarlo\\Downloads"},
+    "os_specific_alias": {"windows"},
+
     // String containing the default file extension. Note the extension is only applied
     // if the specified path does not contain a dot (.) character.
     "default_extension": ".php",
