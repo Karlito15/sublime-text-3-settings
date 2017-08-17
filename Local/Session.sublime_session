@@ -1,9 +1,11 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus",
+		"/Q/CodeIgniter/Tools"
 	],
 	"last_version": 3126,
-	"last_window_id": 299,
+	"last_window_id": 341,
 	"log_indexing": false,
 	"settings":
 	{
@@ -14,6 +16,286 @@
 			{
 				"selected_items":
 				[
+					[
+						"glo",
+						"glob"
+					],
+					[
+						"esc",
+						"escort"
+					],
+					[
+						"sta",
+						"status_id"
+					],
+					[
+						"do",
+						"domain"
+					],
+					[
+						"strto",
+						"strtolower"
+					],
+					[
+						"parse",
+						"parse_url"
+					],
+					[
+						"foun",
+						"foundSource"
+					],
+					[
+						"get",
+						"get_instance\tCI - Assign the CodeIgniter object to a variable"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"r",
+						"result"
+					],
+					[
+						"arr",
+						"array_unique"
+					],
+					[
+						"load",
+						"load_model\tCI - Load Model"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"fun",
+						"fun\tfunction …"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"crea",
+						"createJSONFiles"
+					],
+					[
+						"pa",
+						"path"
+					],
+					[
+						"du",
+						"dump"
+					],
+					[
+						"cre",
+						"createTreeView"
+					],
+					[
+						"html",
+						"html_entity_decode"
+					],
+					[
+						"sp",
+						"sprintf"
+					],
+					[
+						"pre",
+						"prefix"
+					],
+					[
+						"na",
+						"navigation"
+					],
+					[
+						"displa",
+						"displayNavigation"
+					],
+					[
+						"sub",
+						"subnavigation"
+					],
+					[
+						"d",
+						"dump"
+					],
+					[
+						"dis",
+						"displayDropdown"
+					],
+					[
+						"bloc",
+						"blockb\tTwig : Block (block)"
+					],
+					[
+						"blo",
+						"blockb\tTwig : Block (block)"
+					],
+					[
+						"ex",
+						"extensions"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"c",
+						"center〔value〕"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
+						"path",
+						"pathitem"
+					],
+					[
+						"if",
+						"if\tif …"
+					],
+					[
+						"sca",
+						"scanDirectory"
+					],
+					[
+						"getcons",
+						"get_defined_constants"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"htm",
+						"htmlspecialchars"
+					],
+					[
+						"ma",
+						"markup"
+					],
+					[
+						"tre",
+						"TreeDisplay"
+					],
+					[
+						"fla",
+						"flattened"
+					],
+					[
+						"lore",
+						"lorem\tlorem - One sentence"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"is",
+						"is_null"
+					],
+					[
+						"array_s",
+						"array_shift"
+					],
+					[
+						"arra",
+						"array_shift"
+					],
+					[
+						"disp",
+						"displayLink"
+					],
+					[
+						"pr",
+						"private"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"array_va",
+						"array_values_recursive"
+					],
+					[
+						"fil",
+						"filter"
+					],
+					[
+						"rec",
+						"recursive"
+					],
+					[
+						"f",
+						"filter"
+					],
+					[
+						"o",
+						"obj"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"gett",
+						"gettype"
+					],
+					[
+						"it",
+						"items"
+					],
+					[
+						"deb",
+						"debugPHP"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"is_a",
+						"is_array"
+					],
+					[
+						"des",
+						"destination"
+					],
+					[
+						"is_s",
+						"is_string"
+					],
+					[
+						"da",
+						"datas"
+					],
+					[
+						"is_n",
+						"is_null"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"ar",
+						"aria-haspopup"
+					],
+					[
+						"b",
+						"button"
+					],
+					[
+						"dr",
+						"dropdown"
+					]
 				]
 			},
 			"build_system_choices":
@@ -23,13 +305,41 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "html",
+				"last_filter": "prett",
 				"selected_items":
 				[
 					[
-						"html",
+						"prett",
 						"HTMLPrettify"
 					],
+					[
+						"ident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"term",
+						"Terminal: Open"
+					],
+					[
+						"termi",
+						"Terminal: Open"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"terminal",
+						"Terminal: Open"
+					]
 				],
 				"width": 510.0
 			},
@@ -51,6 +361,134 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/Bookmarks/Bookmarks 2017-08.sql",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/Bookmarks/bookmark [structure] 2017-07.sql",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/Bookmarks/web-codrups.sql",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/avril.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Escort/Control.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/F1/Util.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/config/routes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/models/Escort/Control_model.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/yaml/navigation.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/F1/YAML/Results/1950-1959.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/inactive.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-17/none.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/models/Escort/List_model.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_escort.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Escort/Generate.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/inactive.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/cli/inactive.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Rotten_tomatoes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/www/test.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/www/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-17/only-wannonce.sql",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/Colossus/Colossus.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/generate.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/system/3.1.5/libraries/Profiler.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/url.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/age.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/cli/age.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/control.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Blog/ressources/CRUD/Process.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/models/Escort/Status_model.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/models/Escort/update-with-select.sql",
+				"/C/Users/Giancarlo/Dropbox/www/home.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Explorer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/core/MY_Router.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-16/only-vivastreet.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-16/only-wannonce.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/system/3.1.5/core/Router.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-16/only-ladyxena.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/helpers/tableau_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-16/only-ladyxena.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Curl.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_f1.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/F1/Championship.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_F1Championship.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/f1/cli/generate.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/F1/YAML/Championships/fastest-laps.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/F1/YAML/Championships/team.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/F1/YAML/Championships/driver.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-ladyxena.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-sexemodel.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_f1-championship.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_f1-result.php",
+				"/Q/codeigniter/Colossus/www/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/test.txt",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/test.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-wannonce.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-vivastreet.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/cli/generate.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-ladyxena.json .sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-ladyxena.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/helpers/debug_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/helpers/explorer_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/config/constants.php",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/Wannonce - 75.html.URL",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/LadyXena - Paris 15ème.html.URL",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/SexeModel.html.URL",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/Vivastreet - Paris 15ème.html.URL",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/Wannonce - 92.html.URL",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Breadcrumbs.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/config/production/config.php",
+				"/Q/codeigniter/Colossus/application/libraries/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/README.md",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Home.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/F1/Result.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/CurlTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/DateTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/ExplorerTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/SlugTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/StringTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/core/MY_Controller.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/partials/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/partials/header.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Collection.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/helpers/mysql-backup.old",
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/PHP/functions.txt",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.693/phpunit.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/phpunit.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Twig.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/tpl/default.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/welcome.twig",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.070/install.php",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.960/composer.json",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.341/ci_instance.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/breadcrumbs.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Curl_escort.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Curl_f1.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Folder.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Mailerbyphpmailer.old",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/system/3.1.5/libraries/Unit_test.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/tpl/explorer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/www/assets/explorer/css/style.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Wamp.php",
+				"/C/Users/Giancarlo/OneDrive/Templates/Admin/nice/buttons.html",
+				"/D/Server/scripts/config.inc.php",
+				"/D/Server/scripts/wampserver.lib.php",
+				"/D/Server/alias/user-guide-CI.conf",
+				"/D/Server/alias/apps-phpmyadmin.conf",
+				"/D/Server/alias/apps-phpsysinfo.conf",
+				"/D/Server/alias/codrups.conf",
+				"/D/Server/alias/templates.conf",
+				"/D/Server/alias/user-guide-GIT.conf",
+				"/D/Server/alias/user-guide-Grav.conf",
+				"/D/Server/alias/user-guide-PHP.conf",
+				"/D/Server/alias/user-guide-php-unit.conf",
+				"/D/Server/alias/user-guide-Symfony.conf",
+				"/D/Server/alias/apps-adminer.conf",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.870/example.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/- en vrac -/conversion-dun-tableau-php-de-dimension-n-en-tableau-javascript.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/- en vrac -/mysql-backup.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/- en vrac -/listes-functions.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/- en vrac -/google-sitemap.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/76-scripts/lire-un-fichier-csv.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/76-scripts/construire-un-service-web.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/fil-ariane/index.php"
 			],
 			"find":
 			{
@@ -58,7 +496,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 158.0,
+				"height": 118.0,
 				"where_history":
 				[
 					"<open files>",
@@ -72,6 +510,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"default",
+					"** ",
+					"***",
+					"</span>",
+					"<span class=\"label label-info\">",
+					"<span class=\"label label-success\">",
+					"** ",
+					"**",
+					"***",
+					"**",
+					"***",
+					"</h3></div>",
+					"panel-default",
+					"</ul>",
+					"<ul class=\"list-group\">",
+					"<div class=\"page-header\">",
+					"<h3>",
+					"<li>",
+					"<ul>",
+					"$this->list",
+					"XXX",
+					"\t",
+					"escort.vivastreet.com/escort-girl-boy+",
+					" ",
+					"| ",
+					"= 0",
+					"foundSource",
+					"\t",
+					"driver",
+					"= ' ",
+					"' ",
+					", NULL, NULL",
+					"VALUES \\([0-9]+, ",
+					", `birthday`, `country_id`",
+					"`id`, ",
+					"DELETE FROM `f1_driver` WHERE `id`=",
+					", NULL",
+					"created",
+					", '2017-07-21 13:58:19', '2017-07-21 13:58:19', NULL",
+					", `created_at`, `updated_at`, `deleted_at`",
+					"$file",
+					"file",
+					"$files",
+					"\\",
+					"string ",
+					"Control_model",
+					")",
+					"->",
+					"$status",
+					"realpath($this->path_cookie))",
+					"'C:\\Users\\Giancarlo\\Dropbox\\www\\CodeIgniter\\Colossus\\www\\cookie.txt'",
+					"$match",
+					"CURLOPT_HTTPHEADER",
+					"realpath($this->path_cookie",
+					", ",
+					"/",
+					"public",
+					"/",
+					"->result()",
+					"_compile_queries(",
+					"->result()",
+					"\tdump($q);\n",
+					"'mytable'",
+					"switch (variable)",
+					"variable",
+					"\t\t\t# code...\n",
+					"$id ==",
+					"$id =",
+					"if( =",
+					"$this->uri->segment(2)",
+					"getUrlByName",
+					"url",
+					"\t ",
+					"/control",
+					"$count",
+					"$escort",
+					"table",
+					"escort.",
+					"__list__",
+					"Home",
+					"/",
+					"\\",
+					"../",
+					" . $this->suffix",
+					"\\",
+					"/",
+					"\\",
+					" )",
+					"( ",
+					" ",
+					"\\\\",
+					"/",
+					"\\",
+					"CI",
+					"this",
+					"$this->set_class($routing['controller'])",
+					"$this",
+					"ENVIRONMENT",
+					"basepath",
+					"DS",
+					"'/'",
+					"DIRECTORY_SEPARATOR",
+					"\\",
+					"\"name\"",
+					"\"",
+					"([0-9 ]+ => )",
+					"\"",
+					"\\\" => ",
+					"Array",
+					"url#",
+					"Text Input",
+					" />",
+					"p",
+					"$path_cookie",
+					"realpath(",
+					"path_cookie",
+					"path",
+					"XXX",
+					"http://www.vivastreet.com/erotica/paris-14eme-ardt-75014/babe-teen-livia-page/147889904",
+					"$url",
+					"datas",
+					" :array",
+					"string ",
+					"query",
+					"$file",
+					"path",
+					"\t\t$this->",
+					" . $this->path"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -79,6 +645,17 @@
 				"regex": false,
 				"replace_history":
 				[
+					"",
+					"www.vivastreet.com/erotica/",
+					"",
+					"= 1",
+					"= '",
+					"",
+					"VALUES (",
+					"",
+					"\\t",
+					"C:/Users/Giancarlo/Downloads",
+					"$view   = 'tests/html/report';"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -88,7 +665,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -97,11 +674,15 @@
 			"menu_visible": true,
 			"output.clipboard_manager":
 			{
-				"height": 800.0
+				"height": 802.0
+			},
+			"output.exec":
+			{
+				"height": 142.0
 			},
 			"output.find_results":
 			{
-				"height": 600.0
+				"height": 398.0
 			},
 			"pinned_build_system": "",
 			"replace":
@@ -115,6 +696,34 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"rou",
+						"application\\config\\routes.php"
+					],
+					[
+						"nav",
+						"application\\yaml\\navigation.yaml"
+					],
+					[
+						"rout",
+						"application\\config\\routes.php"
+					],
+					[
+						"route",
+						"application\\config\\routes.php"
+					],
+					[
+						"escort",
+						"application\\libraries\\cURL\\Curl_escort.php"
+					],
+					[
+						"esco",
+						"application\\libraries\\cURL\\Curl_escort.php"
+					],
+					[
+						"curl",
+						"application\\libraries\\Curl.php"
+					]
 				],
 				"width": 0.0
 			},
@@ -140,11 +749,11 @@
 				],
 				"width": 894.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 318.0,
+			"side_bar_visible": false,
+			"side_bar_width": 224.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -160,6 +769,286 @@
 			{
 				"selected_items":
 				[
+					[
+						"glo",
+						"glob"
+					],
+					[
+						"esc",
+						"escort"
+					],
+					[
+						"sta",
+						"status_id"
+					],
+					[
+						"do",
+						"domain"
+					],
+					[
+						"strto",
+						"strtolower"
+					],
+					[
+						"parse",
+						"parse_url"
+					],
+					[
+						"foun",
+						"foundSource"
+					],
+					[
+						"get",
+						"get_instance\tCI - Assign the CodeIgniter object to a variable"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"r",
+						"result"
+					],
+					[
+						"arr",
+						"array_unique"
+					],
+					[
+						"load",
+						"load_model\tCI - Load Model"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"fun",
+						"fun\tfunction …"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"crea",
+						"createJSONFiles"
+					],
+					[
+						"pa",
+						"path"
+					],
+					[
+						"du",
+						"dump"
+					],
+					[
+						"cre",
+						"createTreeView"
+					],
+					[
+						"html",
+						"html_entity_decode"
+					],
+					[
+						"sp",
+						"sprintf"
+					],
+					[
+						"pre",
+						"prefix"
+					],
+					[
+						"na",
+						"navigation"
+					],
+					[
+						"displa",
+						"displayNavigation"
+					],
+					[
+						"sub",
+						"subnavigation"
+					],
+					[
+						"d",
+						"dump"
+					],
+					[
+						"dis",
+						"displayDropdown"
+					],
+					[
+						"bloc",
+						"blockb\tTwig : Block (block)"
+					],
+					[
+						"blo",
+						"blockb\tTwig : Block (block)"
+					],
+					[
+						"ex",
+						"extensions"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"c",
+						"center〔value〕"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
+						"path",
+						"pathitem"
+					],
+					[
+						"if",
+						"if\tif …"
+					],
+					[
+						"sca",
+						"scanDirectory"
+					],
+					[
+						"getcons",
+						"get_defined_constants"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"htm",
+						"htmlspecialchars"
+					],
+					[
+						"ma",
+						"markup"
+					],
+					[
+						"tre",
+						"TreeDisplay"
+					],
+					[
+						"fla",
+						"flattened"
+					],
+					[
+						"lore",
+						"lorem\tlorem - One sentence"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"is",
+						"is_null"
+					],
+					[
+						"array_s",
+						"array_shift"
+					],
+					[
+						"arra",
+						"array_shift"
+					],
+					[
+						"disp",
+						"displayLink"
+					],
+					[
+						"pr",
+						"private"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"array_va",
+						"array_values_recursive"
+					],
+					[
+						"fil",
+						"filter"
+					],
+					[
+						"rec",
+						"recursive"
+					],
+					[
+						"f",
+						"filter"
+					],
+					[
+						"o",
+						"obj"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"gett",
+						"gettype"
+					],
+					[
+						"it",
+						"items"
+					],
+					[
+						"deb",
+						"debugPHP"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"is_a",
+						"is_array"
+					],
+					[
+						"des",
+						"destination"
+					],
+					[
+						"is_s",
+						"is_string"
+					],
+					[
+						"da",
+						"datas"
+					],
+					[
+						"is_n",
+						"is_null"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"ar",
+						"aria-haspopup"
+					],
+					[
+						"b",
+						"button"
+					],
+					[
+						"dr",
+						"dropdown"
+					]
 				]
 			},
 			"buffers":
@@ -173,13 +1062,41 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "html",
+				"last_filter": "prett",
 				"selected_items":
 				[
 					[
-						"html",
+						"prett",
 						"HTMLPrettify"
 					],
+					[
+						"ident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"term",
+						"Terminal: Open"
+					],
+					[
+						"termi",
+						"Terminal: Open"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"terminal",
+						"Terminal: Open"
+					]
 				],
 				"width": 510.0
 			},
@@ -199,19 +1116,144 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-			],
 			"file_history":
 			[
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Memos.txt",
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/Symfony/console.txt",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/Bookmarks/bookmark [datas] 2017-07.sql",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/Bookmarks/web-codrups.sql",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/Bookmarks/bookmark [structure] 2017-07.sql",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/Bookmarks/Bookmarks 2017-08.sql",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/avril.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Escort/Control.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/F1/Util.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/config/routes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/models/Escort/Control_model.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/yaml/navigation.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/F1/YAML/Results/1950-1959.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/inactive.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-17/none.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/models/Escort/List_model.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_escort.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Escort/Generate.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/inactive.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/cli/inactive.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Rotten_tomatoes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/www/test.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/www/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-17/only-wannonce.sql",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/Colossus/Colossus.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/generate.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/system/3.1.5/libraries/Profiler.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/url.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/age.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/cli/age.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/html/control.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Blog/ressources/CRUD/Process.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/models/Escort/Status_model.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/models/Escort/update-with-select.sql",
+				"/C/Users/Giancarlo/Dropbox/www/home.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Explorer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/core/MY_Router.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-16/only-vivastreet.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-16/only-wannonce.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/system/3.1.5/core/Router.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-16/only-ladyxena.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/helpers/tableau_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-16/only-ladyxena.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Curl.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_f1.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/F1/Championship.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_F1Championship.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/f1/cli/generate.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/F1/YAML/Championships/fastest-laps.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/F1/YAML/Championships/team.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/F1/YAML/Championships/driver.yaml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-ladyxena.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-sexemodel.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_f1-championship.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_f1-result.php",
+				"/Q/codeigniter/Colossus/www/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/test.txt",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/test.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-wannonce.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-vivastreet.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/escort/cli/generate.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-ladyxena.json .sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/__datas__/Escort/2017-08-15/JSON/only-ladyxena.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/helpers/debug_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/helpers/explorer_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/config/constants.php",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/Wannonce - 75.html.URL",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/LadyXena - Paris 15ème.html.URL",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/SexeModel.html.URL",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/Vivastreet - Paris 15ème.html.URL",
+				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/Wannonce - 92.html.URL",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Breadcrumbs.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/config/production/config.php",
+				"/Q/codeigniter/Colossus/application/libraries/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/README.md",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Home.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/F1/Result.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/CurlTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/DateTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/ExplorerTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/SlugTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/controllers/Tests/StringTest.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/core/MY_Controller.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/partials/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/partials/header.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Collection.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/helpers/mysql-backup.old",
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/PHP/functions.txt",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.693/phpunit.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/phpunit.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Twig.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/tpl/default.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/welcome.twig",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.070/install.php",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.960/composer.json",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.341/ci_instance.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/breadcrumbs.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Curl_escort.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Curl_f1.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Folder.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Mailerbyphpmailer.old",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/system/3.1.5/libraries/Unit_test.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/tpl/explorer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/www/assets/explorer/css/style.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/Wamp.php",
+				"/C/Users/Giancarlo/OneDrive/Templates/Admin/nice/buttons.html",
+				"/D/Server/scripts/config.inc.php",
+				"/D/Server/scripts/wampserver.lib.php",
+				"/D/Server/alias/user-guide-CI.conf",
+				"/D/Server/alias/apps-phpmyadmin.conf",
+				"/D/Server/alias/apps-phpsysinfo.conf",
+				"/D/Server/alias/codrups.conf",
+				"/D/Server/alias/templates.conf",
+				"/D/Server/alias/user-guide-GIT.conf",
+				"/D/Server/alias/user-guide-Grav.conf",
+				"/D/Server/alias/user-guide-PHP.conf",
+				"/D/Server/alias/user-guide-php-unit.conf",
+				"/D/Server/alias/user-guide-Symfony.conf",
+				"/D/Server/alias/apps-adminer.conf",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.870/example.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/- en vrac -/conversion-dun-tableau-php-de-dimension-n-en-tableau-javascript.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/- en vrac -/mysql-backup.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/- en vrac -/listes-functions.php",
+				"/C/Users/Giancarlo/Dropbox/www/Training/PHP/- en vrac -/google-sitemap.php"
 			],
 			"find":
 			{
-				"height": 44.0
+				"height": 60.0
 			},
 			"find_in_files":
 			{
-				"height": 158.0,
+				"height": 118.0,
 				"where_history":
 				[
 					"<open files>",
@@ -225,6 +1267,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"CREATE TABLE IF NOT EXISTS `",
+					"default",
+					"** ",
+					"***",
+					"</span>",
+					"<span class=\"label label-info\">",
+					"<span class=\"label label-success\">",
+					"** ",
+					"**",
+					"***",
+					"**",
+					"***",
+					"</h3></div>",
+					"panel-default",
+					"</ul>",
+					"<ul class=\"list-group\">",
+					"<div class=\"page-header\">",
+					"<h3>",
+					"<li>",
+					"<ul>",
+					"$this->list",
+					"XXX",
+					"\t",
+					"escort.vivastreet.com/escort-girl-boy+",
+					" ",
+					"| ",
+					"= 0",
+					"foundSource",
+					"\t",
+					"driver",
+					"= ' ",
+					"' ",
+					", NULL, NULL",
+					"VALUES \\([0-9]+, ",
+					", `birthday`, `country_id`",
+					"`id`, ",
+					"DELETE FROM `f1_driver` WHERE `id`=",
+					", NULL",
+					"created",
+					", '2017-07-21 13:58:19', '2017-07-21 13:58:19', NULL",
+					", `created_at`, `updated_at`, `deleted_at`",
+					"$file",
+					"file",
+					"$files",
+					"\\",
+					"string ",
+					"Control_model",
+					")",
+					"->",
+					"$status",
+					"realpath($this->path_cookie))",
+					"'C:\\Users\\Giancarlo\\Dropbox\\www\\CodeIgniter\\Colossus\\www\\cookie.txt'",
+					"$match",
+					"CURLOPT_HTTPHEADER",
+					"realpath($this->path_cookie",
+					", ",
+					"/",
+					"public",
+					"/",
+					"->result()",
+					"_compile_queries(",
+					"->result()",
+					"\tdump($q);\n",
+					"'mytable'",
+					"switch (variable)",
+					"variable",
+					"\t\t\t# code...\n",
+					"$id ==",
+					"$id =",
+					"if( =",
+					"$this->uri->segment(2)",
+					"getUrlByName",
+					"url",
+					"\t ",
+					"/control",
+					"$count",
+					"$escort",
+					"table",
+					"escort.",
+					"__list__",
+					"Home",
+					"/",
+					"\\",
+					"../",
+					" . $this->suffix",
+					"\\",
+					"/",
+					"\\",
+					" )",
+					"( ",
+					" ",
+					"\\\\",
+					"/",
+					"\\",
+					"CI",
+					"this",
+					"$this->set_class($routing['controller'])",
+					"$this",
+					"ENVIRONMENT",
+					"basepath",
+					"DS",
+					"'/'",
+					"DIRECTORY_SEPARATOR",
+					"\\",
+					"\"name\"",
+					"\"",
+					"([0-9 ]+ => )",
+					"\"",
+					"\\\" => ",
+					"Array",
+					"url#",
+					"Text Input",
+					" />",
+					"p",
+					"$path_cookie",
+					"realpath(",
+					"path_cookie",
+					"path",
+					"XXX",
+					"http://www.vivastreet.com/erotica/paris-14eme-ardt-75014/babe-teen-livia-page/147889904",
+					"$url",
+					"datas",
+					" :array",
+					"string ",
+					"query",
+					"$file",
+					"path",
+					"\t\t$this->"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -232,6 +1402,17 @@
 				"regex": false,
 				"replace_history":
 				[
+					"",
+					"www.vivastreet.com/erotica/",
+					"",
+					"= 1",
+					"= '",
+					"",
+					"VALUES (",
+					"",
+					"\\t",
+					"C:/Users/Giancarlo/Downloads",
+					"$view   = 'tests/html/report';"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -245,11 +1426,16 @@
 					"sheets":
 					[
 					]
+				},
+				{
+					"sheets":
+					[
+					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -264,11 +1450,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.5,
 					1.0
 				],
 				"rows":
@@ -280,15 +1473,19 @@
 			"menu_visible": true,
 			"output.clipboard_manager":
 			{
-				"height": 800.0
+				"height": 802.0
+			},
+			"output.exec":
+			{
+				"height": 142.0
 			},
 			"output.find_results":
 			{
-				"height": 600.0
+				"height": 398.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,728,0,26,1024",
-			"project": "Hal.sublime-project",
+			"position": "0,2,3,-1,-1,-1,-1,788,1920,86,2944",
+			"project": "",
 			"replace":
 			{
 				"height": 82.0
@@ -300,6 +1497,34 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"rou",
+						"application\\config\\routes.php"
+					],
+					[
+						"nav",
+						"application\\yaml\\navigation.yaml"
+					],
+					[
+						"rout",
+						"application\\config\\routes.php"
+					],
+					[
+						"route",
+						"application\\config\\routes.php"
+					],
+					[
+						"escort",
+						"application\\libraries\\cURL\\Curl_escort.php"
+					],
+					[
+						"esco",
+						"application\\libraries\\cURL\\Curl_escort.php"
+					],
+					[
+						"curl",
+						"application\\libraries\\Curl.php"
+					]
 				],
 				"width": 0.0
 			},
@@ -325,33 +1550,36 @@
 				],
 				"width": 894.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 318.0,
+			"side_bar_visible": false,
+			"side_bar_width": 224.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			},
-			"window_id": 281,
-			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace"
+			"window_id": 334,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/FRBG.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Colossus.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Tools.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Finance-Report-Generator.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/My-Tools.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/FRBG.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/OrderOnLine.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Web-Scraping.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/My-Tools.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Symfony-Tuts.sublime-workspace"
 		]
 	}
