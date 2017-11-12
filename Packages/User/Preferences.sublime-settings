@@ -23,14 +23,44 @@
 		"composer.lock"
 	],
 	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 2,
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "CRLF",
-	"detect_indentation": false,
+	"detect_indentation": true,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
 	"draw_minimap_border": true,
 	"fallback_encoding": "UTF-8",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.sublime-workspace"
+	],
 	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git"
+	],
 	"font_face": "fira code",
 	"font_options":
 	[
@@ -38,7 +68,7 @@
 		"no_italic",
 		"directwrite"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -60,18 +90,22 @@
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
 	"material_theme_small_statusbar": true,
+	"preview_on_click": false,
 	"show_encoding": true,
+	"show_errors_inline": true,
 	"show_line_endings": true,
 	"show_tab_close_buttons": true,
+	"tab_size": 4,
 	"theme": "Boxy Ocean.sublime-theme",
 	"theme_bar": true,
 	"theme_font_sm": true,
 	"theme_icons_atomized": true,
 	"theme_minimap_viewport_opacity_lw": true,
 	"theme_size_xs": true,
+	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": false,
-	"wrap_width": 120
+	"wrap_width": 150
 }

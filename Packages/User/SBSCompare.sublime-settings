@@ -1,0 +1,16 @@
+{
+    // uncomment to hide the menu (ST3 only)
+    "hide_menu": true,
+
+    //  uncomment to hide the minimap (ST3 only)
+    // "hide_minimap": true,
+
+    // uncomment to hide the status bar (ST3 only)
+    "hide_status_bar": true,
+
+    // completely ignore whitespace in all diffs
+    "ignore_whitespace": false,
+
+    // completely ignore case in all diffs
+    "ignore_case": false
+}

@@ -5,6 +5,7 @@
 	"in_process_packages":
 	[
 	],
+	"install_missing": true,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -27,6 +28,7 @@
 		"Placeholders",
 		"PlainTasks",
 		"Pretty YAML",
+		"SCSS",
 		"SideBarEnhancements",
 		"SqlBeautifier",
 		"SublimeCodeIntel",
@@ -38,7 +40,6 @@
 		"Terminal",
 		"Trimmer",
 		"Twig",
-		"WordCount",
-		"Zeal"
+		"WordCount"
 	]
 }

@@ -1,17 +1,19 @@
 {
 	"folder_history":
 	[
-		"/C/Users/Giancarlo/Dropbox/www/Projects/Sales-Potential",
-		"/C/Users/Giancarlo/Dropbox/www/NextRadioTV",
-		"/C/Users/Giancarlo/Dropbox/www/Projects/NextRadioTV",
-		"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Report-Builder"
+		"/C/Users/Giancarlo/Dropbox/www/Hal/Blog",
+		"/C/Users/Giancarlo/Dropbox/www/Hal/Formula-1",
+		"/C/Users/Giancarlo/Dropbox/www/Hal/Football",
+		"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout",
+		"/C/Users/Giancarlo/Dropbox/www/Hal/App",
+		"/C/Users/Giancarlo/Dropbox/www/Hal/Whore"
 	],
 	"last_version": 3143,
-	"last_window_id": 396,
+	"last_window_id": 468,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 815.0,
+		"new_window_height": 643.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -19,148 +21,44 @@
 				"selected_items":
 				[
 					[
-						"url",
-						"urls"
+						"se",
+						"settings"
 					],
 					[
-						"ta",
-						"table"
+						"con",
+						"console"
 					],
 					[
-						"escorta",
-						"escortads"
+						"ass",
+						"asset('assets"
 					],
 					[
-						"tr",
-						"transexualparis"
+						"sc",
+						"scrollTop〔function〕"
 					],
 					[
-						"paris",
-						"parisescorts"
+						"re",
+						"request"
 					],
 					[
-						"or",
-						"others"
+						"win",
+						"winheight"
 					],
 					[
-						"lo",
-						"lovesita"
+						"w",
+						"wintop"
 					],
 					[
-						"a",
-						"annonce6"
+						"o",
+						"offset"
 					],
 					[
-						"ma",
-						"massagerepublic"
+						"pa",
+						"page"
 					],
 					[
-						"esc",
-						"escortparis"
-					],
-					[
-						"craw",
-						"crawler"
-					],
-					[
-						"an",
-						"annonce"
-					],
-					[
-						"c",
-						"city"
-					],
-					[
-						"s",
-						"surface"
-					],
-					[
-						"ret",
-						"return"
-					],
-					[
-						"new",
-						"new_url"
-					],
-					[
-						"cont",
-						"continue"
-					],
-					[
-						"ex",
-						"explode"
-					],
-					[
-						"pre",
-						"preg_replace"
-					],
-					[
-						"fora",
-						"formated_urls"
-					],
-					[
-						"strto",
-						"strtolower"
-					],
-					[
-						"cle",
-						"cleanTitle"
-					],
-					[
-						"Forma",
-						"FormatData"
-					],
-					[
-						"ar",
-						"array_urls"
-					],
-					[
-						"lorem",
-						"lorem\tlorem - Medium paragraph"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"is_n",
-						"is_null"
-					],
-					[
-						"M",
-						"Moulineaux"
-					],
-					[
-						"Es",
-						"Escort"
-					],
-					[
-						"E",
-						"Europe"
-					],
-					[
-						"As",
-						"Asia"
-					],
-					[
-						"Tr",
-						"Tranny"
-					],
-					[
-						"for",
-						"foreach\tforeach …"
-					],
-					[
-						"str_re",
-						"str_replace"
-					],
-					[
-						"html",
-						"htmlentities"
-					],
-					[
-						"ht",
-						"htmlspecialchars"
+						"req",
+						"request"
 					]
 				]
 			},
@@ -170,53 +68,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 163.0,
-				"last_filter": "word ",
+				"height": 279.0,
+				"last_filter": "terminal",
 				"selected_items":
 				[
-					[
-						"word ",
-						"Word Wrap: Toggle"
-					],
 					[
 						"terminal",
 						"Terminal: Open in project folder"
 					],
 					[
-						"termian",
-						"Terminal: Open in project folder"
-					],
-					[
-						"trimmer",
-						"Trimmer: Trim leading AND trailing whitespace."
-					],
-					[
-						"term",
-						"Terminal: Open in project folder"
-					],
-					[
 						"pretty",
 						"HTMLPrettify"
-					],
-					[
-						"beauti",
-						"SQL Beautifier: Format Current SQL File"
-					],
-					[
-						"inden",
-						"Indentation: Convert to Tabs"
-					],
-					[
-						"align",
-						"Preferences: Alignment File Settings – Default"
-					],
-					[
-						"word",
-						"Word Wrap: Toggle"
-					],
-					[
-						"ter",
-						"Terminal: Open in project folder"
 					]
 				],
 				"width": 558.0
@@ -231,7 +93,7 @@
 			"distraction_free":
 			{
 				"menu_visible": true,
-				"show_minimap": false,
+				"show_minimap": true,
 				"show_open_files": false,
 				"show_tabs": false,
 				"side_bar_visible": false,
@@ -239,134 +101,103 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app/AppCache.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app/config/test/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-blog/config/prod/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-blog/config/test/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-f1/config/dev/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-f1/config/prod/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-f1/config/test/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-football/config/dev/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-football/config/prod/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-football/config/test/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-immo/config/dev/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-immo/config/prod/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-immo/config/test/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-timeout/config/dev/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-timeout/config/prod/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app/config/prod/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-blog/config/dev/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-whore/config/test/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-whore/config/prod/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-whore/config/dev/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-timeout/config/test/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app/config/dev/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-blog/BlogKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-f1/F1Kernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-football/FootballKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-immo/ImmoKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-timeout/TimeoutKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-whore/WhoreKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/autoload.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-blog/BlogCache.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-f1/F1Cache.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-football/FootballCache.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-immo/ImmoCache.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-blog/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-f1/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-football/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-immo/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-timeout/AppCache.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-timeout/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal-9000/app-whore/WhoreCache.php",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/NextRadioTV/src/NRTV/BFMTVBundle/Resources/views/Macros/category.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/NextRadioTV/application/BFMTV/views/home-tv-divertissement.php",
-				"/C/Users/Giancarlo/Dropbox/Office/Street/Escort/Escorts.html",
-				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/ERP/Potential/frbg.sql",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/NextRadioTV/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/NextRadioTV/tests/AppBundle/Controller/DefaultControllerTest.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/Resources/views/default/index.html.twig",
-				"/L/Tutos/GrafikArt/- Sources -/Symfony - Système de Tags/src/Grafikart/TagBundle/Tests/Form/DataTransformer/TagsTransformerTest.php",
-				"/D/Program/Bin/phpunit.cmd",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/libraries/cURL/Curl_escort.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/web/whore/status/2017-10.sql",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/web/whore/status/2017-10-05.sql",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/web/whore/status/2019214.tmp",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/VersionWhore.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/DataFixtures/ORM/LoadUrl.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/Version20171004231448.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/Version20171004230244.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/Version20171004225433.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/DataFixtures/ORM/LoadEscort.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Crawler/Escort.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Entity/Category.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Entity/Ethnic.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Entity/Url.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Form/EscortType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Form/CategoryType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Resources/views/Status/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Resources/views/Ethnic/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Resources/views/Category/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Resources/views/City/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Resources/views/Escort/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Controller/DefaultController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/DataFixtures/ORM/LoadSource.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Resources/views/Default/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Resources/views/Source/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Command/TruncateWhoreCommand.php",
-				"/R/synoscheduler/4/1507143302/script.log",
-				"/R/synoscheduler/4/1507143302/output.log",
-				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/NAS.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Nas/nas-memo.txt",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/README.md",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/logPath",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/var/logs/dev.log",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/var/logs/prod.log",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Command/ControlStatusCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Command/LogWriterCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/dev/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/common/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Command/BackupCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/bundle/bm_backup_manager.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/backup/59d52139108d1",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/backup/59d52027d2230",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/dev/parameters.yml.dist",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Command/AppsInstallCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/bundle/dizda_cloud_backup.yml",
-				"/Q/hal/app/config/bundle/dizda_cloud_backup.yml",
-				"/F/Program Files (x86)/Origin Games/Command and Conquer Red Alert II/RA2.INI",
-				"/F/Program Files (x86)/Origin Games/Command and Conquer Red Alert II/Keyboard.ini",
-				"/F/Program Files (x86)/Origin Games/Command and Conquer Red Alert II/art.ini",
-				"/F/Program Files (x86)/Origin Games/Command and Conquer Red Alert II/Register.ini",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/AcheterLouer.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/AvendrerAlouer.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/Century21.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/EraFrance.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/Explorimmo.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/Fnaim.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/Foncia.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/GuyHoquet.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/ImmobiliereParent.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/LaForet.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/LeBonCoin.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/LogicImmo.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/MeilleursAgents.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/Orpi.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/Pap.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/ParuVendu.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/PlazaImmo.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/Seloger.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/TopAnnonces.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Crawler/leSiteImmo.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/DataFixtures/ORM/LoadSource.php",
-				"/D/Program/CMDer/config/.history",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/web/bundles/fosjsrouting/js/router.js",
-				"/Q/__cdn__/memos/Nas/nas-memo.txt",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Controller/CrawlerLinkController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Resources/config/routing.yml"
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Highlight Build Errors/HighlightBuildErrors.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SqlBeautifier/SQL Beautifier.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Compare Side-By-Side/SBSCompare.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/AppKernel.php",
+				"/C/Users/Giancarlo/Downloads/Hal/app/config/security.yml",
+				"/C/Users/Giancarlo/Downloads/Hal/app/config/routing.yml",
+				"/C/Users/Giancarlo/Downloads/Hal/app/config/bundle/stof_doctrine_extensions.yml",
+				"/C/Users/Giancarlo/Downloads/Hal/app/config/bundle/fos_user.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/security.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/test/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/test/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/prod/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/prod/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/dev/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/dev/parameters.yml.dist",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/dev/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/dev/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/bundle/app.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/bundle/bm_backup_manager.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/bundle/doctrine_migrations.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/bundle/fos_user.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/bundle/knp_paginator.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/bundle/stof_doctrine_extensions.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/bundle/swiftmailer.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/bundles/immo/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/web/assets/layouts/layout4/css/themes/light.min.css",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/ControlStatusPage/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Dashboard/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Favoris/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Link/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/footer.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/header.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/LayoutBundle/Resources/views/empty.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/LayoutBundle/Resources/views/content.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/page-bar.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/page-title.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/quick-nav.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/quick-sidebar.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/sidebar.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/theme-panel.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/layout-content.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Controller/LinkController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/LayoutBundle/Resources/views/Partials/header/layout-4.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/LayoutBundle/Resources/views/Partials/header/layout-4.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/LayoutBundle/Resources/views/Partials/header/layout-4.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/ImmoBundle.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/public/js/app.js",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/public/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/web/app_test.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/bundles/layout/images/logo/layout.png",
+				"/C/Users/Giancarlo/OneDrive/Documents/Jeux/Red Alert II - argent illimité.txt",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Controller/AnnonceController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/assets/favicons/favicon.ico",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/assets/global/plugins/simple-line-icons/License.txt",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/assets/global/plugins/simple-line-icons/Readme.txt",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Form/Type/AnnonceType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Command/LogWriterCommand.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/app_dev.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/app.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/Core/Breadcrumbs.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/.gitignore",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/list.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/filters.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/example.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/AnnonceCrud/favorite.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/AnnonceCrud/delete.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/ajax.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Dashboard/control-status.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Dashboard/find-information.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Dashboard/find-link.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/public/js/portfolio.js",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/config/routing/annonce.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/assets/global/plugins/cubeportfolio/js/jquery.cubeportfolio.js",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/content-annonce.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Sales-Potential/src/PotentialBundle/Controller/DrillController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/bundles/immo/js/portfolio.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Sales-Potential/src/PotentialBundle/Resources/views/Display/index.html.twig",
+				"/C/Users/Giancarlo/Downloads/fr10112017.m3u",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/config/routing/crawler-annonce.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/config/routing/crawler-link.yml",
+				"/C/Users/Giancarlo/Downloads/dms.dmslog",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Entity/Annonce.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Controller/AnnonceCrudController.php",
+				"/R/Dune.I.II/Dune/tritoff62.nfo"
 			],
 			"find":
 			{
@@ -374,7 +205,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 215.0,
+				"height": 158.0,
 				"where_history":
 				[
 					"<open files>",
@@ -388,134 +219,35 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"config/routing_dev",
-					"{ resource: config.yml }",
-					"resource: config_dev",
-					" . ",
-					" . DIRECTORY_SEPARATOR",
-					"cook",
-					"http://www.wannonce.com",
-					"http://www.sexemodel.com",
-					"http://www.wannonce.com",
-					"\">(.*)",
-					"\t\t\t\t<li class=\"list-group-item\"><a target=\"_blank\" href=\"",
-					"\t\t\t\t<li class=\"list-group-item\"><a target=\"_blank\" href=\"XXX\">XXX</a></li>\n",
-					"$others",
-					"others",
-					"Site",
-					"\\console",
-					"$this->container",
-					"localhost",
-					"port: ",
-					"test",
-					"root",
-					"password",
-					"ovie",
-					"Movi",
-					"ovie",
-					"<br>",
-					"<br> <br> ",
-					"<br>",
-					"<br><br>",
-					"<br><br><br>",
-					"<br><br>",
-					"<br>",
-					"FormatData::cleanText($desc);",
-					"FormatData::cleanText($title);",
-					"use Apps\\ImmoBundle\\Utils\\FormatData;\n",
-					"', InputArgument::OPTIONAL",
-					"//\t\t\t->addArgument('",
-					"\n\t\t\treturn $title;\n",
-					"return '';",
-					"https:http://",
-					"%",
-					"span",
-					"XXX",
-					" class=\"btn btn-primary\"",
-					"col-md-4",
-					"\t\t\t\t\t\t<a class=\"btn btn-primary\"",
-					"\t\t\t\t\t\t\t\t<a href=\"javascript:;\"> <span class=\"badge badge-danger\"> 6 </span> Pending </a>",
-					"<div class=\"row\">",
-					"div class=\"row\">",
-					"\t\t\t\t\t<div class=\"col-lg-2\"></div>\n\t\t\t\t<div class=\"row\">\n",
-					"\">",
-					"$this->addFlash('info', $app->count . ' nouvelles annonces !');",
-					"notice",
-					"// URLS",
-					"annonce_",
-					"link_",
-					"2017",
-					"2016",
-					"2015",
-					" 2014",
-					". 2014",
-					"    crawler.",
-					"XXXX",
-					"Fnaim",
-					"AcheterLouer",
-					"acheterlouer",
-					"function crawl()",
-					"run()",
-					"Parser",
-					" + ",
-					"$count_",
-					"= count($annonce);",
-					" - $",
-					"dump",
-					"\"False\"",
-					"\"True\"",
-					"Check or Exit",
-					"CrawlerAnnonce",
-					":",
-					"    url:",
-					"\t\t$this->entityManager = $entityManager;\n",
-					"LinksManager",
-					"history",
-					"histor",
-					"histo",
-					"use Doctrine\\ORM\\EntityManager;\nuse Apps\\ImmoBundle\\Manager\\ImmoManager;\nuse Apps\\ImmoBundle\\Utils\\FormatData;",
-					"$config[",
-					"public function run(array $config)",
-					"$config",
-					"\tprivate $entityManager;\n",
-					"__construct(EntityManager $entityManager)",
-					"$lm",
-					"CommonManager",
-					"\tpublic function ",
-					"\tpublic function",
-					"argument",
-					"’",
-					"‘",
-					"\t\t{",
-					"‘",
-					"’",
-					"Res",
-					"Api",
-					"'2017-09-09 16:17:24'",
-					"%",
-					"https://www.avendrealouer.fr/recherche.html?pageIndex=1&sortPropertyName=ReleaseDate&sortDirection=Descending&searchTypeID=1&typeGroupCategoryID=1&transactionId=1&localityIds=4-42745&typeGroupIds=2,10,12",
-					"%",
-					"getUrlsBySource",
-					"\tpublic function getTitle(Crawler $crawler): string\n\t{\n\t\tif ($crawler->filterXPath('')->count() > 0) {\n\n\t\t}\n\n\t\treturn '';\n\t}\n\n",
-					"_immobilier_",
-					"NULL",
-					"?lb",
-					"NULL",
-					".smallphotoblock",
-					"room",
-					"surface",
-					"tmp",
-					"XXX",
-					"%",
-					"XXXXXXXXX",
-					"/html/body/div[3]/div[6]/div[2]/div[4]/div[5]",
-					"filter",
-					"body > div.navete12-globcontent > div.navete12-content > div.auto2010_hack.bp14-main > div.im12_txt_ann.im12_txt_ann_auto",
-					"/html/body/div[3]/div[6]/div[2]/div[4]/ul[2]/li[2]",
-					"XXX",
-					"filterXPath('XXX')",
-					"'XXX'",
-					"XXXXXXXXX"
+					"\", ",
+					"sidebar-toggle-light.png",
+					"app.",
+					"app",
+					"app.",
+					"app",
+					"app.",
+					"immo",
+					"immo.",
+					"immo",
+					"immo.",
+					"OR",
+					"append",
+					"offset",
+					"updateSinglePage",
+					"$('.cbp-wrapper').append(response);",
+					", statusCode",
+					"#content",
+					"url",
+					"{%-",
+					">\n",
+					"-%}",
+					"getmoredata",
+					"loadArticle",
+					"$page",
+					"; ",
+					"'o'",
+					"o",
+					"immo_control_status"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -523,133 +255,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"config/dev/routing",
-					"{ resource: ../config.yml }",
-					"resource: ../dev/config",
-					"https://www.wannonce.com",
-					"https://www.sexemodel.com",
-					"https://www.wannonce.com",
-					"",
-					"escr",
-					"FormatText::cleanParag($desc);",
-					"FormatText::cleanString($title);",
-					"use Apps\\ImmoBundle\\Utils\\FormatData;\nuse Core\\Text\\FormatText;\n",
-					"\t\t\t$title = $crawler->filterXPath('')->text();\n\n\t\t\treturn FormatData::cleanText($title);",
-					"return '---';",
-					"function findInformation()",
-					"findLink()",
-					"getLink()",
-					"Continue or Exit",
-					"\t\t$this->entityManager = $entityManager;\n\n\t\t$this->config \t\t = $config;\n",
-					"ImmoManager",
-					"use Doctrine\\ORM\\EntityManager;\nuse Symfony\\Component\\DomCrawler\\Crawler;\nuse utilphp\\util;\nuse Apps\\ImmoBundle\\Entity\\Image;\nuse Apps\\ImmoBundle\\Manager\\ImmoManager;\nuse Apps\\ImmoBundle\\Utils\\FormatData;",
-					"$this->config[",
-					"public function run()",
-					"\tprivate $entityManager;\n\n\t/**\n\t * @var array\n\t */\n\tprivate $config;\n",
-					"__construct(EntityManager $entityManager, array $config)",
-					"$manager",
-					"ImmoManager",
-					"setAdvert($this->getAdvert($crawler));",
-					"",
-					"scalar",
-					"%",
-					"$1_$2",
-					"($1)_($2)",
-					"$1\\_$2",
-					"$1_$2",
-					": ",
-					"%",
-					"%%",
-					"",
-					"NULL",
-					"[\"url\"",
-					"\"],",
-					"\"city\" => 'Paris'",
-					", ",
-					"\"ethnic\" => 'Portugal'",
-					"\"ethnic\" => 'Oriental'",
-					"\"ethnic\" => 'Latina'",
-					"\"ethnic\" => 'Italian'",
-					"\"ethnic\" => 'French'",
-					"\"ethnic\" => 'Black'",
-					"\"ethnic\" => 'Asia'",
-					"\"ethnic\" => 'Eastern Europe'",
-					"\"ethnic\" => 'Spanish'",
-					"'Oriental', ",
-					"'Latina', ",
-					"'Italian', ",
-					"'French', ",
-					"'Eastern Europe', ",
-					"'Asia', ",
-					", ",
-					"],",
-					"[",
-					"\"city\" => 'Paris $1e'",
-					"\"city\" => 'Neuilly'",
-					"\"city\" => 'Montrouge'",
-					"\"city\" => 'Levallois'",
-					"\"city\" => 'Anthony'",
-					"\"city\" => 'Boulogne'",
-					"\"city\" => 'Issy les Moulineaux'",
-					"\"city\" => 'Malakoff'",
-					"\"city\" => 'Clamart'",
-					"\"city\" => 'Vanves'",
-					"\"city\" => 'Paris'",
-					"\"source\" => 'backpage'",
-					"\"source\" => 'allo-escort'",
-					"\"source\" => 'backpage'",
-					"\"source\" => 'escortparis'",
-					"\"source\" => 'ladyxena'",
-					"\"source\" => 'massagerepublic'",
-					"\"source\" => 'others'",
-					"\"source\" => 'sexemodel'",
-					"\"source\" => 'tescort'",
-					"\"source\" => 'wannonce'",
-					"\"source\" => 'transexualparis'",
-					"\"source\" => 'zaramodel'",
-					"\"source\" => 'escorts69'",
-					"\"source\" => 'vivastreet'",
-					"\"category\" => 'Tranny'",
-					"\"category\" => 'Massage'",
-					"\"category\" => 'Escort'",
-					"\"category\" => 'Mature'",
-					"\"status\" => 'none'],",
-					"\"status\" => 'on line'",
-					"\"status\" => 'none'",
-					"\"status\" => 'inactive'",
-					"\"status\" => 'expensive'",
-					"\"status\" => 'untreated'",
-					"],\n[\"name\"",
-					", \"",
-					"[",
-					"],",
-					"\"],",
-					"[\"name\"",
-					", \"",
-					"[\"name\"",
-					"]",
-					", \"",
-					"'city'",
-					"\"none\"",
-					"none",
-					"$1, \"",
-					"NULL, \"",
-					"],",
-					", \"",
-					"),",
-					", \"",
-					"'url'",
-					"'year'",
-					"'name'",
-					"'phone'",
-					"'category'",
-					"category",
-					"\\t",
-					"'category'",
-					"[",
-					"{% extends 'WhoreBundle::",
-					"{% block container %}",
-					"{% extends 'WhoreBundle:layout.html.twig' %}"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -674,6 +279,10 @@
 			{
 				"height": 51.0
 			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
@@ -687,84 +296,12 @@
 				"selected_items":
 				[
 					[
-						"config.yml",
-						"app\\config\\common\\config.yml"
+						"cus",
+						"web\\bundles\\immo\\css\\custom.css"
 					],
 					[
-						"annon",
-						"src\\Apps\\ImmoBundle\\Entity\\Annonce.php"
-					],
-					[
-						"topa",
-						"src\\Apps\\ImmoBundle\\Crawler\\TopAnnonces.php"
-					],
-					[
-						"fna",
-						"src\\Apps\\ImmoBundle\\Crawler\\Fnaim.php"
-					],
-					[
-						"exp",
-						"src\\Apps\\ImmoBundle\\Crawler\\Explorimmo.php"
-					],
-					[
-						"loads",
-						"src\\Apps\\ImmoBundle\\DataFixtures\\ORM\\LoadSource.php"
-					],
-					[
-						"loadsour",
-						"src\\Apps\\ImmoBundle\\DataFixtures\\ORM\\LoadSource.php"
-					],
-					[
-						"loadv",
-						"src\\Apps\\ImmoBundle\\DataFixtures\\ORM\\LoadVille.php"
-					],
-					[
-						"configurat",
-						"src\\Apps\\LayoutBundle\\DependencyInjection\\Configuration.php"
-					],
-					[
-						"header.html",
-						"src\\Apps\\UserBundle\\Resources\\views\\Partials\\header.html.twig"
-					],
-					[
-						"header",
-						"src\\Apps\\GeolocationBundle\\Resources\\views\\Partials\\header.html.twig"
-					],
-					[
-						"header.",
-						"src\\Apps\\TagBundle\\Resources\\views\\Partials\\header.html.twig"
-					],
-					[
-						"footballteam",
-						"src\\Apps\\FootballBundle\\Resources\\config\\doctrine\\Team.orm.yml"
-					],
-					[
-						"team.orm",
-						"src\\Apps\\F1Bundle\\Resources\\config\\doctrine\\Team.orm.yml"
-					],
-					[
-						"stadium",
-						"src\\Apps\\FootballBundle\\Resources\\config\\doctrine\\Stadium.orm.yml"
-					],
-					[
-						"race.y",
-						"src\\Apps\\F1Bundle\\Resources\\config\\doctrine\\Race.orm.yml"
-					],
-					[
-						"ciruit",
-						"src\\Apps\\F1Bundle\\Resources\\config\\doctrine\\Circuit.orm.yml"
-					],
-					[
-						"security",
-						"app\\config\\common\\security.yml"
-					],
-					[
-						"header.html.twig",
-						"src\\Apps\\TagBundle\\Resources\\views\\Partials\\header.html.twig"
-					],
-					[
-						"",
-						""
+						"js/portfolio.js",
+						"web\\bundles\\immo\\js\\portfolio.js"
 					]
 				],
 				"width": 0.0
@@ -777,7 +314,7 @@
 				[
 					[
 						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\NextRadioTV.sublime-project"
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Football.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -802,7 +339,7 @@
 				"max_columns": 4
 			}
 		},
-		"new_window_width": 1486.0
+		"new_window_width": 1008.0
 	},
 	"windows":
 	[
@@ -812,44 +349,44 @@
 				"selected_items":
 				[
 					[
-						"is_n",
-						"is_null"
+						"se",
+						"settings"
 					],
 					[
-						"M",
-						"Moulineaux"
+						"con",
+						"console"
 					],
 					[
-						"Es",
-						"Escort"
+						"ass",
+						"asset('assets"
 					],
 					[
-						"E",
-						"Europe"
+						"sc",
+						"scrollTop〔function〕"
 					],
 					[
-						"As",
-						"Asia"
+						"re",
+						"request"
 					],
 					[
-						"Tr",
-						"Tranny"
+						"win",
+						"winheight"
 					],
 					[
-						"for",
-						"foreach\tforeach …"
+						"w",
+						"wintop"
 					],
 					[
-						"str_re",
-						"str_replace"
+						"o",
+						"offset"
 					],
 					[
-						"html",
-						"htmlentities"
+						"pa",
+						"page"
 					],
 					[
-						"ht",
-						"htmlspecialchars"
+						"req",
+						"request"
 					]
 				]
 			},
@@ -863,21 +400,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 163.0,
-				"last_filter": "word",
+				"height": 76.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"word",
-						"Word Wrap: Toggle"
+						"terminal",
+						"Terminal: Open in project folder"
 					],
 					[
 						"pretty",
 						"HTMLPrettify"
-					],
-					[
-						"ter",
-						"Terminal: Open in project folder"
 					]
 				],
 				"width": 558.0
@@ -892,7 +425,7 @@
 			"distraction_free":
 			{
 				"menu_visible": true,
-				"show_minimap": false,
+				"show_minimap": true,
 				"show_open_files": false,
 				"show_tabs": false,
 				"side_bar_visible": false,
@@ -900,138 +433,137 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Report-Builder"
 			],
 			"file_history":
 			[
-				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/ERP-FRBG.sublime-workspace",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/NextRadioTV/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/NextRadioTV/public/BFMTV/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/NextRadioTV/public/RMC/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/NextRadioTV/web/assets/favicon/rmc_favicon.ico",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/NextRadioTV/web/assets/favicon/favicon.ico",
-				"/C/Users/Giancarlo/Dropbox/www/Training/premium-quotes-php-script/script/install.php",
-				"/C/Users/Giancarlo/Dropbox/www/Training/cURL/Commandcar/index.js",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Memos.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/Symfony/console.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/Symfony/doctrine.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/Symfony/fosuser.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/Symfony/validations.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/Symfony/list-services.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/CodeIgniter/form-validation.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/CodeIgniter/upload.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/CodeIgniter/email-preferences.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/CodeIgniter/common.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/CodeIgniter/constant.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/Frameworks/CodeIgniter/codeigniter.txt",
-				"/C/Users/Giancarlo/Downloads/httpd-vhosts.conf",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Report-Builder/app/config/dev/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Report-Builder/app/config/dev/parameters.yml.dist",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Report-Builder/app/config/erp/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Report-Builder/app/config/erp/parameters.yml.dist",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Finance-Report-Builder/app/config/casa/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace",
-				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/ERP-FRBG.sublime-project",
-				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-project",
-				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-				"/D/Server/bin/apache/apache2.4.23/conf/httpd.conf",
-				"/D/Server/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/FinanceRBG/app/config/config_casa.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/FinanceRBG/app/config/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Finance-Report-Builder/app/config/bundles/finance-report-builder.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/FinanceRBG/app/config/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Logger/HalLogger.php",
-				"/C/Users/Giancarlo/Downloads/spyimmo-master/src/SpyimmoBundle/Manager/OfferManager.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/web/app_test.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Controller/CrawlerController.php",
-				"/Q/hal/src/Apps/ImmoBundle/Controller/CrawlerController.php",
-				"/Q/hal/web/.htaccess",
-				"/C/Users/Giancarlo/Downloads/spyimmo-master/src/SpyimmoBundle/Entity/Profile.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Resources/views/Crawler/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/Resources/config/routing/crawler.yml",
-				"/Q/hal/app/config/dev/parameters.yml",
-				"/Q/hal/app/config/prod/parameters.yml",
-				"/Q/hal/app/config/prod/config.yml",
-				"/Q/hal/web/app.php",
-				"/Q/hal/app/AppKernel.php",
-				"/Q/hal/web/app_dev.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/var/logs/dev.log",
-				"/Q/symfo/app/config/config.yml",
-				"/Q/symfo/app/config/config_prod.yml",
-				"/Q/symfo/app/config/parameters.yml",
-				"/Q/symfo/symfony.bat",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/.git/info/exclude",
-				"/Q/hal/web/config.php",
-				"/Q/hal/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/composer.json",
-				"/Q/hal/.gitignore",
-				"/Q/hal/web/karlito.php",
-				"/Q/hal/var/logs/prod.log",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/ImmoBundle/DataFixtures/ORM/LoadSource.php",
-				"/D/Server/bin/php/php7.0.10/php.ini",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/WhoreBundle/Resources/config/routing/crawler.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/mysql/2017-09-01-annonces.sql",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/.gitignore",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/web/app.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/README.md",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/test/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Resources/config/services.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/common/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/common/services.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/dev/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/prod/parameters.yml",
-				"/C/Users/Giancarlo/Downloads/4.csv",
-				"/C/Users/Giancarlo/Downloads/4 - Copie.csv",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Service/AccountService.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Util/Mailer.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Resources/views/Mailer/Registration.txt.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/test/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/app/config/dev/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Command/TruncateAllTablesCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/VersionFootball.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/VersionF1.php",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Order-On-Line/app/config/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/Order-On-Line/app/config/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/Version20170917143426.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Team.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/F1Bundle/Resources/config/doctrine/Team.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Stadium.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/Version20170917143055.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/Version20170917134945.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadRole.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadSeason.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Command/TruncateFootballCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/LayoutBundle/Command/DeleteAllTablesCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadTeam.php7",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Person.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Role.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Season.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Size.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Category.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Competition.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Division.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/Resources/config/doctrine/Ground.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/Version20170917094549.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadPerson.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadTeam.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadCategory.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadCompetition.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadDivision.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadGround.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/FootballBundle/DataFixtures/ORM/LoadSize.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/BlogBundle/DataFixtures/ORM/LoadPost.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/BlogBundle/DataFixtures/ORM/LoadCategory.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/database/migrations/Version20170917083450.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/F1Bundle/Resources/config/doctrine/Result.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/F1Bundle/Resources/config/doctrine/Driver.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/F1Bundle/Resources/config/doctrine/Race.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/F1Bundle/Resources/config/doctrine/Circuit.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/F1Bundle/Resources/config/doctrine/Motor.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Apps/F1Bundle/Resources/config/doctrine/Season.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Core/Crawler/Whore/Escort.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Core/cURL/Curl.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Core/Wamp/Alias.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/src/Core/Wamp/Extensions.php"
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/SQL Beautifier.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/WordCount.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/SBSCompare.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/bundle/app.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/AppKernel.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/security.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/dev/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/dev/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/dev/parameters.yml.dist",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/dev/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/bundle/bm_backup_manager.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/bundle/doctrine_migrations.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/bundle/fos_user.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/bundle/knp_paginator.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/bundle/stof_doctrine_extensions.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Football/app/config/bundle/swiftmailer.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/Partials/footer.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/public/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/web/bundles/timeout/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/README.md",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/bundle/app.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/layout-content.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/Partials/header.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/Dashboard/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/LayoutBundle/Resources/views/content.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/Partials/quick-nav.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/Partials/sidebar.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/Partials/theme-panel.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/Partials/quick-sidebar.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/Partials/page-title.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/views/Partials/page-bar.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/UserBundle/Resources/views/layout-empty.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/UserBundle/Resources/views/layout-content.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/UserBundle/Resources/views/Security/login.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/LayoutBundle/Resources/views/empty.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/TimeoutBundle.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Controller/DefaultController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/LayoutBundle/Resources/views/Layouts/layout-4-content.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/LayoutBundle/Resources/views/content.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/src/KW/TimeoutBundle/Resources/public/js/app.js",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/AppKernel.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/routing.yml",
+				"/C/Users/Giancarlo/Downloads/Hal/database/migrations/app-timeout/Version20171020102315.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/web/.htaccess",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/security.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/bundle/swiftmailer.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/bundle/stof_doctrine_extensions.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/bundle/fos_user.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/bundle/knp_paginator.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/bundle/doctrine_migrations.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/bundle/bm_backup_manager.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/test/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/test/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/prod/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/prod/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/dev/config.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/dev/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Timeout/app/config/dev/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-project",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-project",
+				"/C/Users/Giancarlo/OneDrive/Documents/Jeux/Red Alert II - argent illimité.txt",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Controller/AnnonceController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/assets/favicons/favicon.ico",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/assets/global/plugins/simple-line-icons/License.txt",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/assets/global/plugins/simple-line-icons/Readme.txt",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/dev/parameters.yml.dist",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/dev/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Form/Type/AnnonceType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Command/LogWriterCommand.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/app_dev.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/app.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/Core/Breadcrumbs.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Dashboard/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/test/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/app/config/prod/parameters.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/.gitignore",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/list.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/filters.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/example.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/AnnonceCrud/favorite.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/AnnonceCrud/delete.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/ControlStatusPage/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/ajax.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Dashboard/control-status.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Dashboard/find-information.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Dashboard/find-link.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/page-bar.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/page-title.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/quick-nav.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/quick-sidebar.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/sidebar.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/theme-panel.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/layout-content.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/header.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Partials/footer.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Link/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Favoris/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/public/js/portfolio.js",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/config/routing/annonce.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/assets/global/plugins/cubeportfolio/js/jquery.cubeportfolio.js",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/views/Annonce/content-annonce.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Sales-Potential/src/PotentialBundle/Controller/DrillController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/web/bundles/immo/js/portfolio.js",
+				"/C/Users/Giancarlo/Dropbox/www/Projects/Sales-Potential/src/PotentialBundle/Resources/views/Display/index.html.twig",
+				"/C/Users/Giancarlo/Downloads/fr10112017.m3u",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/config/routing/crawler-annonce.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/src/KW/ImmoBundle/Resources/config/routing/crawler-link.yml",
+				"/C/Users/Giancarlo/Downloads/dms.dmslog"
 			],
 			"find":
 			{
@@ -1053,134 +585,45 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"      ",
-					"     ",
-					"    ",
-					"   ",
-					"  ",
-					"  :",
-					"         :",
-					"\t :",
-					"\t:",
-					"casa",
-					"vhos",
-					"CodeIgniter - ",
-					"FinanceRBG",
-					"        # ",
-					"casa",
-					"C:/Users/Giancarlo/Dropbox/www/",
-					"> ",
-					"·        ",
-					"Spyimmo",
-					"dump",
-					"app_dev",
-					"fancy",
-					"https://static.paruvendu.com",
-					"https://js.paruvendu.fr",
-					"//ajax.googleapis.com",
-					"href=\"https://css.paruvendu",
-					"src='//",
-					"\"#\"",
-					"crawler_",
-					"_seloger",
-					"app_dev",
-					"/app_dev",
-					"^3.3",
-					"3.2",
-					".dist",
-					"_dev",
-					"karlito",
-					"app.php",
-					"_dev",
-					"\\",
-					"http://www.seloger.com/annonces/achat/maison/chatillon-92/stade/",
-					"max",
-					"?search_id=",
-					"?search_id=1577344493775893&offset=1&",
-					"http://www.bellesdemeures.com/annonces/achat-de-prestige/maison/issy-les-moulineaux-92/120059857.htm",
-					"?search_id",
-					"?c",
-					"www.meilleursagents.",
-					"https",
-					"http://www.leboncoin.",
-					"?ca=12_s",
-					"INSERT INTO `immo_annonce` (`url`) VALUES ('",
-					"', NULL",
-					"INSERT INTO `immo_annonce` (`id`, `source_id`, `ville_id`, `url`, `title`, `cover`) VALUES (",
-					"dev",
-					"<br />",
-					"FRBG",
-					"frbg.local",
-					"\\",
-					"->format('Y-m-d H:i:s')",
-					"new \\DateTime(",
-					"$v['",
-					" 00:00:00",
-					"Tables",
-					"role",
-					"_setting",
-					"Geolocation",
-					"\"\\t\"",
-					";$U$1;",
-					"category",
-					"Team",
-					"Size",
-					"Season",
-					"Role",
-					"Ground",
-					"Division",
-					"Competition",
-					"Category",
-					"$tag",
-					"Tag",
-					"date",
-					"path:     /",
-					"Whore",
-					"editionNumber",
-					"editionFirst",
-					"Edition",
-					"firstEdition",
-					"Edition",
-					"            unique: true\n            unique: true\n",
-					"f1",
-					"blog",
-					"http://www.diane-escort-coquine.com/",
-					"http://www.sexemodel.com/escort/kimsun0614324901/",
-					"\"url2\"",
-					"[\"url\"",
-					"], [",
-					"\"url\"",
-					"\",\n\"url2\"",
-					"\",\n\"",
-					"array(\n\"url\"",
-					"\",\n),",
-					"`list`",
-					"\"city\" => NULL",
-					"category",
-					"\t),\n",
-					"\tarray(\n\t\t",
-					",\n\t),",
-					"\"ethnic\" => 9",
-					"\"ethnic\" => 8",
-					"\"ethnic\" => 7",
-					"\"ethnic\" => 6",
-					"\"ethnic\" => 5",
-					"\"ethnic\" => 2",
-					"\"ethnic\" => 1",
-					"\"ethnic\" => 4",
-					"\"ethnic\" => 'Oriental'",
-					"10,",
-					"10, ",
-					"9, ",
-					"8, ",
-					"7, ",
-					"9', ",
-					"8', ",
-					"7', ",
-					"6', ",
-					"5, ",
-					"4, ",
-					"2, "
+					"go2top",
+					"app",
+					"timeout",
+					"timeout.",
+					"timeout",
+					"javascript:;",
+					"../assets/layouts/layout3/img/avatar",
+					"../assets/layouts/layout3/img/avatar1",
+					"../assets/layouts/layout3/img/avatar1.jpg",
+					"../assets/layouts/layout3/img/",
+					".html\"",
+					"immo.",
+					"immo",
+					"#",
+					"/layout-4",
+					"LayoutBundle:Partials",
+					"ImmoBundle",
+					"Immo",
+					"timeout",
+					"immo",
+					"Apps\\",
+					"OR",
+					"append",
+					"offset",
+					"updateSinglePage",
+					"$('.cbp-wrapper').append(response);",
+					", statusCode",
+					"#content",
+					"url",
+					"{%-",
+					">\n",
+					"-%}",
+					"getmoredata",
+					"loadArticle",
+					"$page",
+					"; ",
+					"'o'",
+					"o",
+					"immo_control_status"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1188,97 +631,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"\",\n",
-					"",
-					"NULL",
-					"[\"url\"",
-					"\"],",
-					"\"city\" => 'Paris'",
-					", ",
-					"\"ethnic\" => 'Portugal'",
-					"\"ethnic\" => 'Oriental'",
-					"\"ethnic\" => 'Latina'",
-					"\"ethnic\" => 'Italian'",
-					"\"ethnic\" => 'French'",
-					"\"ethnic\" => 'Black'",
-					"\"ethnic\" => 'Asia'",
-					"\"ethnic\" => 'Eastern Europe'",
-					"\"ethnic\" => 'Spanish'",
-					"'Oriental', ",
-					"'Latina', ",
-					"'Italian', ",
-					"'French', ",
-					"'Eastern Europe', ",
-					"'Asia', ",
-					", ",
-					"],",
-					"[",
-					"\"city\" => 'Paris $1e'",
-					"\"city\" => 'Neuilly'",
-					"\"city\" => 'Montrouge'",
-					"\"city\" => 'Levallois'",
-					"\"city\" => 'Anthony'",
-					"\"city\" => 'Boulogne'",
-					"\"city\" => 'Issy les Moulineaux'",
-					"\"city\" => 'Malakoff'",
-					"\"city\" => 'Clamart'",
-					"\"city\" => 'Vanves'",
-					"\"city\" => 'Paris'",
-					"\"source\" => 'backpage'",
-					"\"source\" => 'allo-escort'",
-					"\"source\" => 'backpage'",
-					"\"source\" => 'escortparis'",
-					"\"source\" => 'ladyxena'",
-					"\"source\" => 'massagerepublic'",
-					"\"source\" => 'others'",
-					"\"source\" => 'sexemodel'",
-					"\"source\" => 'tescort'",
-					"\"source\" => 'wannonce'",
-					"\"source\" => 'transexualparis'",
-					"\"source\" => 'zaramodel'",
-					"\"source\" => 'escorts69'",
-					"\"source\" => 'vivastreet'",
-					"\"category\" => 'Tranny'",
-					"\"category\" => 'Massage'",
-					"\"category\" => 'Escort'",
-					"\"category\" => 'Mature'",
-					"\"status\" => 'none'],",
-					"\"status\" => 'on line'",
-					"\"status\" => 'none'",
-					"\"status\" => 'inactive'",
-					"\"status\" => 'expensive'",
-					"\"status\" => 'untreated'",
-					"],\n[\"name\"",
-					", \"",
-					"[",
-					"],",
-					"\"],",
-					"[\"name\"",
-					", \"",
-					"[\"name\"",
-					"]",
-					", \"",
-					"'city'",
-					"\"none\"",
-					"none",
-					"$1, \"",
-					"NULL, \"",
-					"],",
-					", \"",
-					"),",
-					", \"",
-					"'url'",
-					"'year'",
-					"'name'",
-					"'phone'",
-					"'category'",
-					"category",
-					"\\t",
-					"'category'",
-					"[",
-					"{% extends 'WhoreBundle::",
-					"{% block container %}",
-					"{% extends 'WhoreBundle:layout.html.twig' %}"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1333,9 +685,13 @@
 			{
 				"height": 51.0
 			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,970,561,96,2063",
-			"project": "ERP-FRBG.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,910,0,208,1024",
+			"project": "Hal-Football.sublime-project",
 			"replace":
 			{
 				"height": 84.0
@@ -1348,40 +704,12 @@
 				"selected_items":
 				[
 					[
-						"footballteam",
-						"src\\Apps\\FootballBundle\\Resources\\config\\doctrine\\Team.orm.yml"
+						"custom",
+						"web\\bundles\\timeout\\css\\custom.css"
 					],
 					[
-						"team.orm",
-						"src\\Apps\\F1Bundle\\Resources\\config\\doctrine\\Team.orm.yml"
-					],
-					[
-						"stadium",
-						"src\\Apps\\FootballBundle\\Resources\\config\\doctrine\\Stadium.orm.yml"
-					],
-					[
-						"race.y",
-						"src\\Apps\\F1Bundle\\Resources\\config\\doctrine\\Race.orm.yml"
-					],
-					[
-						"ciruit",
-						"src\\Apps\\F1Bundle\\Resources\\config\\doctrine\\Circuit.orm.yml"
-					],
-					[
-						"security",
-						"app\\config\\common\\security.yml"
-					],
-					[
-						"header.html.twig",
-						"src\\Apps\\TagBundle\\Resources\\views\\Partials\\header.html.twig"
-					],
-					[
-						"header.html",
-						"src\\Apps\\ImmoBundle\\Resources\\views\\Partials\\header.html.twig"
-					],
-					[
-						"",
-						""
+						"js/portfolio.js",
+						"web\\bundles\\immo\\js\\portfolio.js"
 					]
 				],
 				"width": 0.0
@@ -1394,7 +722,7 @@
 				[
 					[
 						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\ERP-Potential.sublime-project"
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-F1.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1416,24 +744,28 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 234.0,
+			"side_bar_width": 258.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			},
-			"window_id": 396,
-			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/ERP-FRBG.sublime-workspace"
+			"window_id": 457,
+			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Football.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/ERP-FRBG.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/ERP-Potential.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/NextRadioTV.sublime-workspace"
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Football.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Whore.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Blog.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-F1.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/ERP-Potential.sublime-workspace"
 		]
 	}
 }

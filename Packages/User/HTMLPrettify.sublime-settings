@@ -1,6 +1,8 @@
 {
-    "node_path":
-    {
-        "windows": "D:/Program/NodeJS/node.exe",
-    }
+	"node_path":
+	{
+		"windows": "D:/Program/NodeJS/node.exe",
+	},
+	"format_on_save": false,
+	"use_editor_indentation": true
 }
