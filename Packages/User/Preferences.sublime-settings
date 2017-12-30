@@ -20,7 +20,10 @@
 		"*.ttf",
 		"*.zip",
 		".idea/*",
-		"composer.lock"
+		"/D/Server/www/wampthemes/**",
+		"composer.lock",
+		"wamplangues/**",
+		"wampthemes/**"
 	],
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,
@@ -73,6 +76,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"October Twig Highlighter",
 		"Python",
 		"R",
 		"Rails",

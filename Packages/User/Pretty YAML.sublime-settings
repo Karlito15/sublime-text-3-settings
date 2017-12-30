@@ -8,7 +8,7 @@
     	"width": 4,
 		"allow_unicode": null,
 		"line_break": null,
-		"encoding": null,
+		"encoding": "UTF-8",
 		"explicit_start": null,
 		"explicit_end": null,
 		"version": null,

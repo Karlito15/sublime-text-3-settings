@@ -46,5 +46,8 @@
 	// Macro
 	{ "keys": ["ctrl+alt+v"], "command": "run_macro_file", "args": {"file": "Packages/User/align.sublime-macro"} },
 	{ "keys": ["ctrl+q"], "command": "toggle_record_macro" },
-	{ "keys": ["ctrl+shift+q"], "command": "run_macro" }
+	{ "keys": ["ctrl+shift+q"], "command": "run_macro" },
+
+	// Terminal
+    { "keys": ["ctrl+alt+t"], "command": "open_terminal_project_folder" }
 ]
