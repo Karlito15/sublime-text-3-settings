@@ -1,14 +1,10 @@
 {
 	"folder_history":
 	[
-		"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/admin-4-material-design",
-		"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/admin-2-material-design",
-		"/D/Server/www/Hal/App",
-		"/D/Server/www/Hal/Blog",
-		"/D/Server/www/Hal/Formula-1"
+		"/D/Server/www/Hal/Api"
 	],
 	"last_version": 3143,
-	"last_window_id": 592,
+	"last_window_id": 682,
 	"log_indexing": false,
 	"settings":
 	{
@@ -20,8 +16,32 @@
 				"selected_items":
 				[
 					[
-						"em",
-						"empty"
+						"html",
+						"htmlboiler\thtmlboiler"
+					],
+					[
+						"pa",
+						"parameters"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"acc",
+						"accessToken"
+					],
+					[
+						"cl",
+						"clientSecret"
+					],
+					[
+						"av",
+						"avatarFile"
+					],
+					[
+						"c",
+						"class\tAttr"
 					]
 				]
 			},
@@ -32,16 +52,16 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "trimmer",
+				"last_filter": "prett",
 				"selected_items":
 				[
 					[
-						"trimmer",
-						"Trimmer: Trim leading AND trailing whitespace."
+						"prett",
+						"HTMLPrettify"
 					],
 					[
-						"word",
-						"Word Wrap: Toggle"
+						"prettify",
+						"HTMLPrettify"
 					]
 				],
 				"width": 558.0
@@ -64,6 +84,134 @@
 			},
 			"file_history":
 			[
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Migrations/VersionUserDatas.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadGroupsData.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadMemberData.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadUsersData.php",
+				"/D/Server/www/Hal/App/app/config/bundle/api.yml",
+				"/D/Server/www/Hal/App/app/config/bundle/hwi_oauth.yml",
+				"/D/Server/www/Hal/App/app/config/security.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/services.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login.html.twig",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Groups.php~",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Member.php~",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Users.orm.yml",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_success.html.twig",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_confirm.html.twig",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/registration_success.html.twig",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/registration.html.twig",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/login.html.twig",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Controller/ConnectController.php",
+				"/D/Program/CMDer/config/.history",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Security/Core/User/OAuthUserProvider.php",
+				"/D/Server/www/Hal/App/app/config/config.yml",
+				"/D/Server/www/Hal/App/app/config/bundle/httplug.yml",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Controller/UserController.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/config/routing.yml",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/config/services.yml",
+				"/D/Server/www/Hal/App/web/social-connect.php",
+				"/Q/blog/web/twitter-connect.html",
+				"/C/Users/Giancarlo/Downloads/client_secret_158507534592-vskdcao2b6ugmi7202hfb4o65q40lg2p.apps.googleusercontent.com.json",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Secured/hello.html.twig",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Users.php",
+				"/D/Server/www/Hal/App/app/config/bundle/fos_user.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-1.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-2.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-3.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-4.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-5.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-6.html",
+				"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/admin-6-material-design/page_user_login_6.html",
+				"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/assets/global/plugins/socicon/socicon.css",
+				"/D/Server/www/Hal/_Common_/socicon/style.css",
+				"/D/Server/www/Hal/App/app/config/bundle/app.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Partials/header.html.twig",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/avatar.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/Dark-Maul.jpg",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/JAY-Z.jpg",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/lock-screen.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/registration.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/karlito-web.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/layout.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/create.html.twig",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/FOSUBUserProvider.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/display.html.twig",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/DependencyInjection/Configuration.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Groups.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Google/Gmaps.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Google/Gplaces.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/connexion",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Migrations/VersionUser.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Groups.orm.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Member.orm.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Member.php",
+				"/D/Server/www/Hal/App/app/AppKernel.php",
+				"/D/Server/www/Hal/App/app/config/routing.yml",
+				"/D/Server/www/Hal/App/app/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-project",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Controller/DashboardController.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instagram/Instagram.php",
+				"/D/Server/www/Hal/App/composer.json",
+				"/D/Server/www/Training/API/Instagram-PHP-API/test-1/src/Instagram.php",
+				"/D/Server/www/Training/API/Instagram-PHP-API/league/oauth2-instagram/composer.json",
+				"/D/Server/www/Training/API/Instagram-PHP-API/league/oauth2-client/composer.json",
+				"/D/Server/www/Training/API/Instagram-PHP-API/php-instagram-api/php-instagram-api/composer.json",
+				"/D/Server/www/Training/API/Instagram-PHP-API/composer.json",
+				"/D/Server/www/Training/API/Pocket/index.php",
+				"/D/Server/www/Training/API/Pocket/Pocket.php",
+				"/D/Server/www/Training/API/Pocket/return.html",
+				"/D/Server/www/Training/API/Twitter/composer.json",
+				"/D/Server/www/Hal/App/web/insta.html",
+				"/D/Server/www/Hal/App/web/robots.txt",
+				"/D/Server/www/Hal/App/web/insta.twig",
+				"/D/Server/www/Hal/App/web/test.html",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instagram/test.html",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Pocket/Pocket.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Pocket/PocketException.php",
+				"/D/Server/www/Training/API/Instagram-PHP-API/src/Instagram.php",
+				"/D/Server/www/Training/API/Instagram-PHP-API/src/InstagramException.php",
+				"/C/Users/Giancarlo/Downloads/rootCA.key",
+				"/D/Server/www/Training/API/Instapaper/oauth1-client-master/resources/examples/twitter.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/request_token.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/request_signing.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/access_token.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/config.inc.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/google/access_token.php",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.022/request_token.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper - Copie.php",
+				"/D/Server/www/Training/API/Instapaper/index.php",
+				"/D/Server/www/Training/API/Instapaper/instapaperxauth.php",
+				"/D/Server/www/Training/API/Instapaper/config.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper/OAuth.php",
+				"/D/Server/www/Training/API/Instapaper/OAuth.php",
+				"/D/Server/www/Training/API/Instapaper/package-lock.json",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Pocket.memo",
+				"/D/Server/www/Training/API/Pocket/sample.php",
+				"/C/Users/Giancarlo/Downloads/sample.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Yelp.memo",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Twitter.memo",
+				"/Q/blog/web/privacy - Copie.html",
+				"/Q/blog/web/callback.html",
+				"/Q/blog/web/privacy.html",
+				"/D/Server/www/Hal/Blog/composer.json",
+				"/D/Server/www/Hal/Football/composer.json",
+				"/D/Server/www/Hal/Formula-1/composer.json",
+				"/D/Server/www/Hal/Timeout/composer.json",
+				"/D/Server/www/Hal/Whore/composer.json",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Instapaper.memo",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.260/config.php",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.053/index.php",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.087/instapaperxauth.php",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.569/OAuth.php",
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/API/API.txt",
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/API/facebook-connect.txt",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.585/composer.json",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/views/Partials/sidebar.html.twig",
+				"/D/Server/www/Hal/App/src/KW/ExcelBundle/Resources/views/layout-content.html.twig",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/views/layout-content.html.twig"
 			],
 			"find":
 			{
@@ -75,9 +223,9 @@
 				"where_history":
 				[
 					"<open files>",
-					"",
-					"<open files>",
-					""
+					"<open folders>",
+					"<open files>,<open folders>",
+					"<open files>"
 				]
 			},
 			"find_state":
@@ -85,134 +233,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"private $",
-					"setName",
-					"zipcode",
-					"getName",
-					"private $",
-					", array(",
-					"$place",
-					"Place",
-					"//                ->getRepository('AppBundle:Place')",
-					"places",
+					"\t\t\t\t// 'user' =>",
+					"\t\t\t\t'user' =>",
+					"user",
+					"member",
+					"user",
+					"memb",
+					"member",
+					"login",
+					"Users",
+					"hwi_oauth_login",
+					"hwi_oauth_connect",
+					"login_",
+					"hwi_oauth_connect",
+					"fos_user_security_login",
+					"/connect/",
+					" #",
+					"check-",
+					"\",\"",
+					"{",
+					"login_",
+					"                                    <i",
+					"                    <a",
+					" href=\"javascript:;\"",
+					"                    <a",
+					"<li>\n                    <a",
+					"Amazon",
+					"amazon",
+					" href=\"javascript:;\"",
+					"<li>\n                            <a",
+					"socicon-solid ",
+					" tooltips",
+					"socicon-btn socicon-btn-circle socicon-solid ",
+					"socicon-lg ",
+					"<i class=\"icon-social-",
+					"google",
+					"facebook",
+					"login",
+					"}}\"> ",
+					"twitter",
+					"login",
+					"           ",
+					"          ",
+					"         ",
+					"        ",
+					"       ",
+					"      ",
+					"     ",
+					"    ",
+					"   ",
+					"  ",
+					"facebook",
+					"stackexchange",
+					"github",
+					"plus",
+					"facebook",
+					"github",
+					"plus",
+					"consumer_key",
+					"yahoo",
+					"facebook",
+					"google",
+					"id",
+					"/api",
+					"prefix:   /",
+					"=NULL",
+					"XOAUTH_USERNAME",
+					"accessTokenURL",
+					"bookmarksGetText",
+					"bookmarksList",
+					"/api/1/bookmarks/list",
+					"bookmarksGetText",
+					"get_normalized_http_url",
+					"<br />",
+					")  {",
+					"<br />",
+					"  \"",
+					"/api",
+					"p",
+					"ApiBundle",
+					"ExcelBundle",
+					"javascript:;",
+					"\t\t\t\t\t</li>",
+					"/layout-3",
+					"LayoutBundle",
+					"ExcelBundle",
+					" '",
+					"  ",
+					"\"",
+					",\nhttp",
+					"(\"http",
+					"\",",
+					"\"http",
+					".it",
+					"\"\n\"",
+					"Input parameter: bookmark_id",
+					",",
+					"$_access_token_endpoint",
+					"%",
+					": ",
+					"WWWWWW",
+					"XXXXXX",
+					"clien_id",
+					"consumer",
+					"vofi7PJvRghTjB2UqKzLhAIlM",
+					"JFJU6putx56oREhaR72pOR9UU2SOiIp71tscu1HUEo6fW",
+					"526379436-CgU047WyVItNFCvFSLehRfTpUvSQVC7teEaafK0u",
+					"D8ndkiESZsPqDeufKmr4AxK22uFh3RDpKBRXmY10o28gH9TsVX",
+					":",
+					"  ",
+					" null",
+					"null",
+					"ANY      ANY    ",
+					"{_format}",
+					"/item/{id}",
+					"item/",
+					"{_format}",
+					"city",
 					"Ambiance",
-					"ambiance",
-					"Ambiance",
-					"ambiance",
-					"Ambiance",
-					"ambiance",
-					"Ambiance",
-					"ambiance",
-					"Ambiance",
-					"place",
-					"$em",
-					"$ambiance",
-					"Ambiance",
-					"$ambiance",
-					"Ambiance",
-					"$ambiance",
-					"Ambiance",
-					"$em",
-					"em",
-					"$place",
-					"namespace KW\\TimeoutBundle\\Form;",
-					"->add",
-					"->add('",
-					"->add",
-					"ambiance",
-					"* @Rest\\Post(\"/post\")",
-					"     * @Rest\\View()\n     * @Rest\\Post(\"/post\")\n",
-					"        // Création d'une vue FOSRestBundle\n",
-					"use FOS\\RestBundle\\View\\View;\n",
-					"return View::create($response);",
-					"\t\treturn new JsonResponse($response);\n",
-					"use FOS\\RestBundle\\View\\ViewHandler;\n",
-					"$view = View::create($response);",
-					"return View::create($response);",
-					"        $view->setFormat('json');\n\n        // Gestion de la réponse\n        return $view;\n",
-					"return $viewHandler->handle($view);",
-					"        // Récupération du view handler\n        $viewHandler = $this->get('fos_rest.view_handler');\n\n",
-					"true",
-					"'zipCode'",
-					"->zipCode",
-					"zipCode",
-					"ambiance",
-					"ambiances",
-					"Ambiance",
-					"ambiance",
-					"ambiances",
-					"Ambiances",
-					"ambiance",
-					"ambiances",
-					"Ambiance",
-					"Ambiances",
-					"            // Hal",
-					"\t\t\t// Hal",
+					"api_ambiance_",
+					"list:",
+					"api_",
 					"Timeout",
-					"TimeoutBundle",
-					"country",
-					"countries",
-					"$em",
-					"Admin/",
-					"admin",
-					"-",
-					"render('TimeoutBundle:Admin/Timeout/",
-					"render('TimeoutBundle:Admin/City/",
-					"render('TimeoutBundle:Admin/Category/",
-					"render('TimeoutBundle:Admin/Ambiance/",
-					"render('ambiance/",
-					"render('category/",
-					"render('city/",
-					"render('timeout/",
-					"'timeout/",
-					"KW\\TimeoutBundle\\Form\\",
-					"    prefix:   /api/v1\n",
-					"    prefix:   /",
-					"admin",
-					"admin_homepage",
-					"admin",
-					":Admin/",
-					"KW\\TimeoutBundle\\Controller;",
-					":Timeout",
-					"Timeout",
-					":City",
-					"Bundle:Category",
-					":Ambiance",
-					"city_",
-					"/{id}",
-					"admin",
-					"timeout_",
-					"admin_",
-					"admin/",
-					"routing/",
-					"timeout",
-					"    timeout_admin_timeout:",
-					"TimeoutBundle:Partials",
-					"\"\"",
-					")",
-					"=",
-					"\", 'phone' => '",
-					", 'comment' => \"",
-					"\", 'address' => ",
-					"\"],",
-					"['name' => \"",
-					"\", 'comment' => \"",
-					"\", 'address' => \"",
-					"DOUBLE",
-					", 'city' => NULL",
-					", 'phone' => NULL",
-					", 'url' => NULL",
-					", 'comment' => NULL",
-					"'url' => '(.*)'",
-					"'comment' => \"\"",
-					"'url' => ''",
-					"'phone' => '([0-9 ]+)'",
-					"'phone' => ''",
-					", 'city' => '([0-9]+)'",
-					"’S",
-					"''",
-					"\"\"",
-					"DOUBLE"
+					"path",
+					"cked",
+					"string",
+					"avatar",
+					"image",
+					"Image"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -220,63 +368,15 @@
 				"regex": false,
 				"replace_history":
 				[
-					"namespace KW\\TimeoutBundle\\Form\\Type;",
-					"     * @Rest\\View(statusCode=Response::HTTP_CREATED)\n     * @Rest\\Post(\"/post\")\n",
-					"",
-					"return $response;",
-					"        // Création d'une vue FOSRestBundle\n        return View::create($response);\n",
-					"",
-					"return View::create($response);",
-					"$view = View::create($response);",
-					"",
-					"return $view;",
-					"",
-					"            // Karlito Web",
-					"$manager",
-					"render('TimeoutBundle:Admin/Timeout:",
-					"render('TimeoutBundle:Admin/City:",
-					"render('TimeoutBundle:Admin/Category:",
-					"render('TimeoutBundle:Admin/Ambiance:",
-					"render('TimeoutBundle:Admin/Ambiance/",
-					"render('TimeoutBundle:Admin/Category/",
-					"render('TimeoutBundle:Admin/City/",
-					"render('TimeoutBundle:Admin/Timeout/",
-					"KW\\TimeoutBundle\\Form\\Type\\",
-					"KW\\TimeoutBundle\\Controller\\Admin;",
-					"NULL",
-					"|",
-					"",
-					"'url' => NULL, 'comment'",
-					"'comment' => NULL",
-					"'url' => NULL",
-					"'phone' => NULL",
-					", 'city' => NULL",
-					"NULL",
-					"'phone' => NULL",
-					"",
-					"|",
-					"NULL",
-					"'city' => NULL",
-					"||\n",
-					"|",
 					"'",
 					"",
-					"|",
+					"('http",
+					"\",\n\"",
 					"",
-					", ''],",
-					", ''",
-					", 'Bar'",
-					", 'Restaurant'",
-					", ''",
-					"', 'address'",
-					"['name' => '",
-					"['",
-					", ''",
-					"', '",
-					"'],",
-					"['",
+					"json",
 					"",
-					"\\n"
+					"<link rel=\"icon\" type=\"image/png\" href=\"http://giancarlo-palumbo.ovh/__cdn__/favicons/favicon-2-96X96.png\">",
+					"KW\\GeolocationBundle\\Controller\\Api;"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -286,7 +386,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -318,8 +418,100 @@
 				"selected_items":
 				[
 					[
-						"fos_rest",
-						"app\\config\\bundle\\fos_rest.yml"
+						"h",
+						"〈〈    APP    〉〉\\app\\config\\bundle\\hwi_oauth.yml"
+					],
+					[
+						"page_user_login_6.html",
+						"admin-6-material-design\\page_user_login_6.html"
+					],
+					[
+						"model/user",
+						"〈〈    APP    〉〉\\vendor\\friendsofsymfony\\user-bundle\\Model\\User.php"
+					],
+					[
+						"form-dropzone.js",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\form-dropzone.js"
+					],
+					[
+						"form_dropzone.html",
+						"admin-6-material-design\\form_dropzone.html"
+					],
+					[
+						"fosuserbundle",
+						"〈〈    APP    〉〉\\src\\KW\\UserBundle\\Resources\\translations\\FOSUserBundle.fr.yml"
+					],
+					[
+						"fosuserbundle.fr.yml",
+						"〈〈    APP    〉〉\\vendor\\friendsofsymfony\\user-bundle\\Resources\\translations\\FOSUserBundle.fr.yml"
+					],
+					[
+						"form_controls.html",
+						"admin-6-material-design\\form_controls.html"
+					],
+					[
+						"sidebar.html.twig",
+						"〈〈    APP    〉〉\\src\\KW\\UploadBundle\\Resources\\views\\Partials\\sidebar.html.twig"
+					],
+					[
+						"portlet_light.html",
+						"admin-6-material-design\\portlet_light.html"
+					],
+					[
+						"table-datatables-fixedheader",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\table-datatables-fixedheader.js"
+					],
+					[
+						"table_datatables_fixedheader.html",
+						"admin-6-material-design\\table_datatables_fixedheader.html"
+					],
+					[
+						"components-bootstrap-tagsinput.js",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-bootstrap-tagsinput.js"
+					],
+					[
+						"components-code-editors",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.js"
+					],
+					[
+						"tag.js",
+						"〈〈    APP    〉〉\\src\\KW\\TagBundle\\Resources\\public\\js\\tag.js"
+					],
+					[
+						"code-ed",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.min.js"
+					],
+					[
+						"components-code-editors.js",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.js"
+					],
+					[
+						"layout-content.html.twig",
+						"〈〈    APP    〉〉\\src\\AppBundle\\Resources\\views\\layout-content.html.twig"
+					],
+					[
+						"components_code_editors.html",
+						"admin-6-material-design\\components_code_editors.html"
+					],
+					[
+						"components_bootstrap_tagsinput.html",
+						"admin-6-material-design\\components_bootstrap_tagsinput.html"
+					],
+					[
+						"layout-6-content.html.twig",
+						"〈〈    APP    〉〉\\src\\KW\\LayoutBundle\\Resources\\views\\Layouts\\layout-6-content.html.twig"
+					],
+					[
+						"datatable.js",
+						"〈〈    APP    〉〉\\web\\assets\\global\\scripts\\datatable.js"
+					],
+					[
+						"datatable.min.js",
+						"〈〈    APP    〉〉\\web\\assets\\global\\scripts\\datatable.min.js"
+					],
+					[
+						"table_bootstrap.html",
+						"admin-6-material-design\\table_bootstrap.html"
 					],
 					[
 						"custom",
@@ -335,16 +527,36 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "w",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"w",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Whore.sublime-project"
+						"",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
 					],
 					[
-						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Football.sublime-project"
+						"Blo",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+					],
+					[
+						"Blog",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+					],
+					[
+						"immo",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
+					],
+					[
+						"blog",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+					],
+					[
+						"Time",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
+					],
+					[
+						"b",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -362,14 +574,14 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 258.0,
+			"side_bar_width": 305.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			}
 		},
-		"new_window_width": 1479.0
+		"new_window_width": 1008.0
 	},
 	"windows":
 	[
@@ -379,13 +591,110 @@
 				"selected_items":
 				[
 					[
-						"em",
-						"empty"
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"html",
+						"htmlboiler\thtmlboiler"
+					],
+					[
+						"pa",
+						"parameters"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"acc",
+						"accessToken"
+					],
+					[
+						"cl",
+						"clientSecret"
+					],
+					[
+						"av",
+						"avatarFile"
+					],
+					[
+						"c",
+						"class\tAttr"
 					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/Giancarlo/Desktop/tutos.txt",
+					"settings":
+					{
+						"buffer_size": 223,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Server/www/Hal/App/app/config/bundle/knpu_oauth2_client.yml",
+					"settings":
+					{
+						"buffer_size": 697,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Server/www/Hal/App/app/config/bundle/api.yml",
+					"settings":
+					{
+						"buffer_size": 2093,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing.yml",
+					"settings":
+					{
+						"buffer_size": 695,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Server/www/Hal/App/app/config/security.yml",
+					"settings":
+					{
+						"buffer_size": 2914,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/services.yml",
+					"settings":
+					{
+						"buffer_size": 629,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Controller/FacebookController.php",
+					"settings":
+					{
+						"buffer_size": 1756,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Security/MyFacebookAuthenticator.php",
+					"settings":
+					{
+						"buffer_size": 2122,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -395,16 +704,16 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "",
+				"last_filter": "prett",
 				"selected_items":
 				[
 					[
-						"trimmer",
-						"Trimmer: Trim leading AND trailing whitespace."
+						"prett",
+						"HTMLPrettify"
 					],
 					[
-						"word",
-						"Word Wrap: Toggle"
+						"prettify",
+						"HTMLPrettify"
 					]
 				],
 				"width": 558.0
@@ -427,10 +736,146 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Server/www/Hal/Timeout"
+				"/D/Server/www/Hal/App",
+				"/D/Server/www/Hal/App/app",
+				"/D/Server/www/Hal/App/app/config",
+				"/D/Server/www/Hal/App/src",
+				"/D/Server/www/Hal/App/src/KW",
+				"/D/Server/www/Hal/App/src/KW/UserBundle",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Security"
 			],
 			"file_history":
 			[
+				"/D/Server/www/Hal/App/app/config/bundle/api.yml",
+				"/C/Users/Giancarlo/Desktop/tutos.txt",
+				"/D/Server/www/Hal/App/composer.json",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login.html.twig",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Security/MyFacebookAuthenticator.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Controller/DashboardController.php",
+				"/D/Server/www/Hal/App/app/AppKernel.php",
+				"/D/Server/www/Hal/App/app/config/bundle/hwi_oauth.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/services.yml",
+				"/D/Server/www/Hal/App/app/config/services.yml",
+				"/D/Server/www/Hal/App/app/config/security.yml",
+				"/D/Server/www/Hal/App/app/config/routing.yml",
+				"/D/Server/www/Hal/App/app/config/config.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Controller/ConnectController.old",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Controller/ConnectController.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing/connect.xml",
+				"/D/Server/www/Hal/App/app/config/bundle/fos_user.yml",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/config/routing/connect.xml",
+				"/D/Server/www/Hal/App/src/KW/GeolocationBundle/Resources/config/routing.yml",
+				"/D/Server/www/Hal/App/app/config/bundle/fos_rest.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Users.orm.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Social.orm.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Users.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Social.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Security/Core/User/FOSUBUserProvider.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Controller/DashboardController.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/FOSUBUserProvider.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Member.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadUsersData.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Member.orm.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadMemberData.php",
+				"/D/Server/www/Hal/App/vendor/friendsofsymfony/user-bundle/Model/User.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Form/Type/UsersType.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Migrations/VersionUser.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Migrations/VersionUserDatas.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadGroupsData.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Groups.php~",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Member.php~",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_success.html.twig",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_confirm.html.twig",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/registration_success.html.twig",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/registration.html.twig",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/login.html.twig",
+				"/D/Program/CMDer/config/.history",
+				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Security/Core/User/OAuthUserProvider.php",
+				"/D/Server/www/Hal/App/app/config/bundle/httplug.yml",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Controller/UserController.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/config/routing.yml",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/config/services.yml",
+				"/D/Server/www/Hal/App/web/social-connect.php",
+				"/Q/blog/web/twitter-connect.html",
+				"/C/Users/Giancarlo/Downloads/client_secret_158507534592-vskdcao2b6ugmi7202hfb4o65q40lg2p.apps.googleusercontent.com.json",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Secured/hello.html.twig",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-1.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-2.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-3.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-4.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-5.html",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-6.html",
+				"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/admin-6-material-design/page_user_login_6.html",
+				"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/assets/global/plugins/socicon/socicon.css",
+				"/D/Server/www/Hal/_Common_/socicon/style.css",
+				"/D/Server/www/Hal/App/app/config/bundle/app.yml",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Partials/header.html.twig",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/avatar.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/Dark-Maul.jpg",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/JAY-Z.jpg",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/lock-screen.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/registration.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/karlito-web.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/layout.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar.png",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/create.html.twig",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/display.html.twig",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/DependencyInjection/Configuration.php",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Groups.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Google/Gmaps.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Google/Gplaces.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/connexion",
+				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Groups.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-project",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instagram/Instagram.php",
+				"/D/Server/www/Training/API/Instagram-PHP-API/test-1/src/Instagram.php",
+				"/D/Server/www/Training/API/Instagram-PHP-API/league/oauth2-instagram/composer.json",
+				"/D/Server/www/Training/API/Instagram-PHP-API/league/oauth2-client/composer.json",
+				"/D/Server/www/Training/API/Instagram-PHP-API/php-instagram-api/php-instagram-api/composer.json",
+				"/D/Server/www/Training/API/Instagram-PHP-API/composer.json",
+				"/D/Server/www/Training/API/Pocket/index.php",
+				"/D/Server/www/Training/API/Pocket/Pocket.php",
+				"/D/Server/www/Training/API/Pocket/return.html",
+				"/D/Server/www/Training/API/Twitter/composer.json",
+				"/D/Server/www/Hal/App/web/insta.html",
+				"/D/Server/www/Hal/App/web/robots.txt",
+				"/D/Server/www/Hal/App/web/insta.twig",
+				"/D/Server/www/Hal/App/web/test.html",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instagram/test.html",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Pocket/Pocket.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Pocket/PocketException.php",
+				"/D/Server/www/Training/API/Instagram-PHP-API/src/Instagram.php",
+				"/D/Server/www/Training/API/Instagram-PHP-API/src/InstagramException.php",
+				"/C/Users/Giancarlo/Downloads/rootCA.key",
+				"/D/Server/www/Training/API/Instapaper/oauth1-client-master/resources/examples/twitter.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/request_token.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/request_signing.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/access_token.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/config.inc.php",
+				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/google/access_token.php",
+				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.022/request_token.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper - Copie.php",
+				"/D/Server/www/Training/API/Instapaper/index.php",
+				"/D/Server/www/Training/API/Instapaper/instapaperxauth.php",
+				"/D/Server/www/Training/API/Instapaper/config.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper/OAuth.php",
+				"/D/Server/www/Training/API/Instapaper/OAuth.php",
+				"/D/Server/www/Training/API/Instapaper/package-lock.json",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Pocket.memo",
+				"/D/Server/www/Training/API/Pocket/sample.php",
+				"/C/Users/Giancarlo/Downloads/sample.php",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Yelp.memo",
+				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Twitter.memo",
+				"/Q/blog/web/privacy - Copie.html",
+				"/Q/blog/web/callback.html",
+				"/Q/blog/web/privacy.html",
+				"/D/Server/www/Hal/Blog/composer.json",
+				"/D/Server/www/Hal/Football/composer.json",
+				"/D/Server/www/Hal/Formula-1/composer.json"
 			],
 			"find":
 			{
@@ -442,9 +887,9 @@
 				"where_history":
 				[
 					"<open files>",
-					"",
-					"<open files>",
-					""
+					"<open folders>",
+					"<open files>,<open folders>",
+					"<open files>"
 				]
 			},
 			"find_state":
@@ -452,134 +897,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"private $",
-					"setName",
-					"zipcode",
-					"getName",
-					"private $",
+					"_",
+					"{key}",
+					"resource",
+					"        //",
+					":",
+					"_id",
+					"google_id",
 					", array(",
-					"$place",
-					"Place",
-					"//                ->getRepository('AppBundle:Place')",
-					"places",
-					"Ambiance",
-					"ambiance",
-					"Ambiance",
-					"ambiance",
-					"Ambiance",
-					"ambiance",
-					"Ambiance",
-					"ambiance",
-					"Ambiance",
-					"place",
-					"$em",
-					"$ambiance",
-					"Ambiance",
-					"$ambiance",
-					"Ambiance",
-					"$ambiance",
-					"Ambiance",
-					"$em",
-					"em",
-					"$place",
-					"namespace KW\\TimeoutBundle\\Form;",
-					"->add",
-					"->add('",
-					"->add",
-					"ambiance",
-					"* @Rest\\Post(\"/post\")",
-					"     * @Rest\\View()\n     * @Rest\\Post(\"/post\")\n",
-					"        // Création d'une vue FOSRestBundle\n",
-					"use FOS\\RestBundle\\View\\View;\n",
-					"return View::create($response);",
-					"\t\treturn new JsonResponse($response);\n",
-					"use FOS\\RestBundle\\View\\ViewHandler;\n",
-					"$view = View::create($response);",
-					"return View::create($response);",
-					"        $view->setFormat('json');\n\n        // Gestion de la réponse\n        return $view;\n",
-					"return $viewHandler->handle($view);",
-					"        // Récupération du view handler\n        $viewHandler = $this->get('fos_rest.view_handler');\n\n",
-					"true",
-					"'zipCode'",
-					"->zipCode",
-					"zipCode",
-					"ambiance",
-					"ambiances",
-					"Ambiance",
-					"ambiance",
-					"ambiances",
-					"Ambiances",
-					"ambiance",
-					"ambiances",
-					"Ambiance",
-					"Ambiances",
-					"            // Hal",
-					"\t\t\t// Hal",
-					"Timeout",
-					"TimeoutBundle",
-					"country",
-					"countries",
-					"$em",
-					"Admin/",
-					"admin",
-					"-",
-					"render('TimeoutBundle:Admin/Timeout/",
-					"render('TimeoutBundle:Admin/City/",
-					"render('TimeoutBundle:Admin/Category/",
-					"render('TimeoutBundle:Admin/Ambiance/",
-					"render('ambiance/",
-					"render('category/",
-					"render('city/",
-					"render('timeout/",
-					"'timeout/",
-					"KW\\TimeoutBundle\\Form\\",
-					"    prefix:   /api/v1\n",
-					"    prefix:   /",
-					"admin",
-					"admin_homepage",
-					"admin",
-					":Admin/",
-					"KW\\TimeoutBundle\\Controller;",
-					":Timeout",
-					"Timeout",
-					":City",
-					"Bundle:Category",
-					":Ambiance",
-					"city_",
-					"/{id}",
-					"admin",
-					"timeout_",
-					"admin_",
-					"admin/",
-					"routing/",
-					"timeout",
-					"    timeout_admin_timeout:",
-					"TimeoutBundle:Partials",
-					"\"\"",
-					")",
-					"=",
-					"\", 'phone' => '",
-					", 'comment' => \"",
-					"\", 'address' => ",
-					"\"],",
-					"['name' => \"",
-					"\", 'comment' => \"",
-					"\", 'address' => \"",
-					"DOUBLE",
-					", 'city' => NULL",
-					", 'phone' => NULL",
-					", 'url' => NULL",
-					", 'comment' => NULL",
-					"'url' => '(.*)'",
-					"'comment' => \"\"",
-					"'url' => ''",
-					"'phone' => '([0-9 ]+)'",
-					"'phone' => ''",
-					", 'city' => '([0-9]+)'",
-					"’S",
-					"''",
-					"\"\"",
-					"DOUBLE"
+					"array(",
+					"@HWIOAuth/",
+					"@HWIOAuth",
+					"apps.fos_user.oauth_provider",
+					"facebook",
+					"google",
+					"plus",
+					"\t\t$user        = parent::loadUserByOAuthUserResponse($response);\n\t\t\n\t\t$serviceName = $response->getResourceOwner()->getName();\n\t\t\n\t\t$setter      = 'set' . ucfirst($serviceName) . 'AccessToken';\n",
+					"        #         csrf:            true",
+					"$this->getReference('",
+					"->setEmailCanonical",
+					"usernameCanonical",
+					"->setemail(",
+					"@star-wars.com",
+					"@gmail.com",
+					"cascade: [\"all\"]",
+					"->setMem",
+					"yodaXX",
+					"\tsetMember()",
+					"->setUsername('",
+					"->setFirstname('",
+					"$XXXXXX =",
+					"\t\t\t\t'user' => '",
+					"darksidious',\n",
+					"\t\t\t\t'firstname' => '',\n\t\t\t\t'lastname' => \"\",\n\t\t\t\t'avatar' => ,\n\t\t\t\t'occupation' => ,",
+					"$v['occupation'])",
+					"\t\t\t\t'occupation' => \"",
+					"$v['avatar']",
+					"\t\t\t\t'avatar' => \"",
+					"$v['lastname']",
+					"\t\t\t\t'lastname' => \"",
+					"$v['firstname']",
+					"\t\t\t\t'firstname' => '",
+					"information",
+					"\t\t\t[",
+					"'user' => $this->getReference(",
+					"$this->getReference('",
+					"referencedColumnName: id",
+					"persist",
+					"\t\t$this->addReference(",
+					"\t\t\t\t// 'user' =>",
+					"\t\t\t\t'user' =>",
+					"user",
+					"member",
+					"user",
+					"memb",
+					"member",
+					"login",
+					"Users",
+					"hwi_oauth_login",
+					"hwi_oauth_connect",
+					"login_",
+					"hwi_oauth_connect",
+					"fos_user_security_login",
+					"/connect/",
+					" #",
+					"check-",
+					"\",\"",
+					"{",
+					"login_",
+					"                                    <i",
+					"                    <a",
+					" href=\"javascript:;\"",
+					"                    <a",
+					"<li>\n                    <a",
+					"Amazon",
+					"amazon",
+					" href=\"javascript:;\"",
+					"<li>\n                            <a",
+					"socicon-solid ",
+					" tooltips",
+					"socicon-btn socicon-btn-circle socicon-solid ",
+					"socicon-lg ",
+					"<i class=\"icon-social-",
+					"google",
+					"facebook",
+					"login",
+					"}}\"> ",
+					"twitter",
+					"login",
+					"           ",
+					"          ",
+					"         ",
+					"        ",
+					"       ",
+					"      ",
+					"     ",
+					"    ",
+					"   ",
+					"  ",
+					"facebook",
+					"stackexchange",
+					"github",
+					"plus",
+					"facebook",
+					"github",
+					"plus",
+					"consumer_key",
+					"yahoo",
+					"facebook",
+					"google",
+					"id",
+					"/api",
+					"prefix:   /",
+					"=NULL",
+					"XOAUTH_USERNAME",
+					"accessTokenURL",
+					"bookmarksGetText",
+					"bookmarksList",
+					"/api/1/bookmarks/list",
+					"bookmarksGetText",
+					"get_normalized_http_url",
+					"<br />",
+					")  {",
+					"<br />",
+					"  \"",
+					"/api",
+					"p",
+					"ApiBundle",
+					"ExcelBundle"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -587,63 +1032,15 @@
 				"regex": false,
 				"replace_history":
 				[
-					"namespace KW\\TimeoutBundle\\Form\\Type;",
-					"     * @Rest\\View(statusCode=Response::HTTP_CREATED)\n     * @Rest\\Post(\"/post\")\n",
-					"",
-					"return $response;",
-					"        // Création d'une vue FOSRestBundle\n        return View::create($response);\n",
-					"",
-					"return View::create($response);",
-					"$view = View::create($response);",
-					"",
-					"return $view;",
-					"",
-					"            // Karlito Web",
-					"$manager",
-					"render('TimeoutBundle:Admin/Timeout:",
-					"render('TimeoutBundle:Admin/City:",
-					"render('TimeoutBundle:Admin/Category:",
-					"render('TimeoutBundle:Admin/Ambiance:",
-					"render('TimeoutBundle:Admin/Ambiance/",
-					"render('TimeoutBundle:Admin/Category/",
-					"render('TimeoutBundle:Admin/City/",
-					"render('TimeoutBundle:Admin/Timeout/",
-					"KW\\TimeoutBundle\\Form\\Type\\",
-					"KW\\TimeoutBundle\\Controller\\Admin;",
-					"NULL",
-					"|",
-					"",
-					"'url' => NULL, 'comment'",
-					"'comment' => NULL",
-					"'url' => NULL",
-					"'phone' => NULL",
-					", 'city' => NULL",
-					"NULL",
-					"'phone' => NULL",
-					"",
-					"|",
-					"NULL",
-					"'city' => NULL",
-					"||\n",
-					"|",
 					"'",
 					"",
-					"|",
+					"('http",
+					"\",\n\"",
 					"",
-					", ''],",
-					", ''",
-					", 'Bar'",
-					", 'Restaurant'",
-					", ''",
-					"', 'address'",
-					"['name' => '",
-					"['",
-					", ''",
-					"', '",
-					"'],",
-					"['",
+					"json",
 					"",
-					"\\n"
+					"<link rel=\"icon\" type=\"image/png\" href=\"http://giancarlo-palumbo.ovh/__cdn__/favicons/favicon-2-96X96.png\">",
+					"KW\\GeolocationBundle\\Controller\\Api;"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -654,14 +1051,1478 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Giancarlo/Desktop/tutos.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 223,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										166,
+										113
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 10,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Server/www/Hal/App/app/config/bundle/knpu_oauth2_client.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 697,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										681,
+										681
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 57,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Server/www/Hal/App/app/config/bundle/api.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2093,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 84,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/YAML/YAML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 695,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										692,
+										692
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 33,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												693,
+												694
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												650,
+												651
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												693,
+												694
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												650,
+												651
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/Server/www/Hal/App/app/config/security.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2914,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2160,
+										2160
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 134,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 264.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/services.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 629,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9,
+										9
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 23,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/YAML/YAML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Controller/FacebookController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1756,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24,
+										24
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": -1,
+										"modified": true,
+										"selection": true,
+										"status": -1,
+										"syntax": "php"
+									},
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1754,
+												1755
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												263,
+												264
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Security/MyFacebookAuthenticator.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2122,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": -1,
+										"modified": true,
+										"selection": true,
+										"status": -1,
+										"syntax": "php"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -703,8 +2564,8 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,762,2352,60,3847",
-			"project": "Hal-Timeout.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,702,0,0,1024",
+			"project": "Hal-App.sublime-project",
 			"replace":
 			{
 				"height": 84.0
@@ -717,8 +2578,104 @@
 				"selected_items":
 				[
 					[
-						"fos_rest",
-						"app\\config\\bundle\\fos_rest.yml"
+						"connect.xml",
+						"〈〈    APP    〉〉\\vendor\\hwi\\oauth-bundle\\Resources\\config\\routing\\connect.xml"
+					],
+					[
+						"h",
+						"〈〈    APP    〉〉\\app\\config\\bundle\\hwi_oauth.yml"
+					],
+					[
+						"page_user_login_6.html",
+						"admin-6-material-design\\page_user_login_6.html"
+					],
+					[
+						"model/user",
+						"〈〈    APP    〉〉\\vendor\\friendsofsymfony\\user-bundle\\Model\\User.php"
+					],
+					[
+						"form-dropzone.js",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\form-dropzone.js"
+					],
+					[
+						"form_dropzone.html",
+						"admin-6-material-design\\form_dropzone.html"
+					],
+					[
+						"fosuserbundle",
+						"〈〈    APP    〉〉\\src\\KW\\UserBundle\\Resources\\translations\\FOSUserBundle.fr.yml"
+					],
+					[
+						"fosuserbundle.fr.yml",
+						"〈〈    APP    〉〉\\vendor\\friendsofsymfony\\user-bundle\\Resources\\translations\\FOSUserBundle.fr.yml"
+					],
+					[
+						"form_controls.html",
+						"admin-6-material-design\\form_controls.html"
+					],
+					[
+						"sidebar.html.twig",
+						"〈〈    APP    〉〉\\src\\KW\\UploadBundle\\Resources\\views\\Partials\\sidebar.html.twig"
+					],
+					[
+						"portlet_light.html",
+						"admin-6-material-design\\portlet_light.html"
+					],
+					[
+						"table-datatables-fixedheader",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\table-datatables-fixedheader.js"
+					],
+					[
+						"table_datatables_fixedheader.html",
+						"admin-6-material-design\\table_datatables_fixedheader.html"
+					],
+					[
+						"components-bootstrap-tagsinput.js",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-bootstrap-tagsinput.js"
+					],
+					[
+						"components-code-editors",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.js"
+					],
+					[
+						"tag.js",
+						"〈〈    APP    〉〉\\src\\KW\\TagBundle\\Resources\\public\\js\\tag.js"
+					],
+					[
+						"code-ed",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.min.js"
+					],
+					[
+						"components-code-editors.js",
+						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.js"
+					],
+					[
+						"layout-content.html.twig",
+						"〈〈    APP    〉〉\\src\\AppBundle\\Resources\\views\\layout-content.html.twig"
+					],
+					[
+						"components_code_editors.html",
+						"admin-6-material-design\\components_code_editors.html"
+					],
+					[
+						"components_bootstrap_tagsinput.html",
+						"admin-6-material-design\\components_bootstrap_tagsinput.html"
+					],
+					[
+						"layout-6-content.html.twig",
+						"〈〈    APP    〉〉\\src\\KW\\LayoutBundle\\Resources\\views\\Layouts\\layout-6-content.html.twig"
+					],
+					[
+						"datatable.js",
+						"〈〈    APP    〉〉\\web\\assets\\global\\scripts\\datatable.js"
+					],
+					[
+						"datatable.min.js",
+						"〈〈    APP    〉〉\\web\\assets\\global\\scripts\\datatable.min.js"
+					],
+					[
+						"table_bootstrap.html",
+						"admin-6-material-design\\table_bootstrap.html"
 					],
 					[
 						"custom",
@@ -734,16 +2691,36 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "w",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"w",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Whore.sublime-project"
+						"",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
 					],
 					[
-						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Football.sublime-project"
+						"Blo",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+					],
+					[
+						"Blog",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+					],
+					[
+						"immo",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
+					],
+					[
+						"blog",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+					],
+					[
+						"Time",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
+					],
+					[
+						"b",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -760,41 +2737,34 @@
 			"selected_group": 0,
 			"settings":
 			{
-				"last_automatic_layout":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				]
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 258.0,
+			"side_bar_width": 305.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			},
-			"window_id": 584,
-			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-workspace"
+			"window_id": 676,
+			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Whore.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-F1.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Football.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Blog.sublime-workspace"
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Blog.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Whore.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-F1.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Api.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Template-Metronic.sublime-workspace"
 		]
 	}
 }
