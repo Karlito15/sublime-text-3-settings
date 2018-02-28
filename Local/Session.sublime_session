@@ -1,14 +1,17 @@
 {
 	"folder_history":
 	[
-		"/D/Server/www/Hal/Api"
+		"/C/Users/Giancarlo/Dropbox/www/- Templates -/Admin/backend-dashboard-admin-template/admin-top-menu/material-default",
+		"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link",
+		"/D/Server/www/CodeIgniter/Wamp",
+		"/Q/hal"
 	],
 	"last_version": 3143,
-	"last_window_id": 682,
+	"last_window_id": 751,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 643.0,
+		"new_window_height": 666.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -16,32 +19,24 @@
 				"selected_items":
 				[
 					[
+						"url",
+						"urlShow"
+					],
+					[
+						"col-lg",
+						"col-lg-5"
+					],
+					[
+						"text-",
+						"text-light"
+					],
+					[
 						"html",
 						"htmlboiler\thtmlboiler"
 					],
 					[
-						"pa",
-						"parameters"
-					],
-					[
-						"va",
-						"var_dump"
-					],
-					[
-						"acc",
-						"accessToken"
-					],
-					[
-						"cl",
-						"clientSecret"
-					],
-					[
-						"av",
-						"avatarFile"
-					],
-					[
-						"c",
-						"class\tAttr"
+						"Res",
+						"Resume"
 					]
 				]
 			},
@@ -84,134 +79,134 @@
 			},
 			"file_history":
 			[
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Migrations/VersionUserDatas.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadGroupsData.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadMemberData.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadUsersData.php",
-				"/D/Server/www/Hal/App/app/config/bundle/api.yml",
-				"/D/Server/www/Hal/App/app/config/bundle/hwi_oauth.yml",
-				"/D/Server/www/Hal/App/app/config/security.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/services.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login.html.twig",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Groups.php~",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Member.php~",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Users.orm.yml",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_success.html.twig",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_confirm.html.twig",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/registration_success.html.twig",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/registration.html.twig",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/login.html.twig",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Controller/ConnectController.php",
-				"/D/Program/CMDer/config/.history",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Security/Core/User/OAuthUserProvider.php",
-				"/D/Server/www/Hal/App/app/config/config.yml",
-				"/D/Server/www/Hal/App/app/config/bundle/httplug.yml",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Controller/UserController.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/config/routing.yml",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/config/services.yml",
-				"/D/Server/www/Hal/App/web/social-connect.php",
-				"/Q/blog/web/twitter-connect.html",
-				"/C/Users/Giancarlo/Downloads/client_secret_158507534592-vskdcao2b6ugmi7202hfb4o65q40lg2p.apps.googleusercontent.com.json",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Secured/hello.html.twig",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Users.php",
-				"/D/Server/www/Hal/App/app/config/bundle/fos_user.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-1.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-2.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-3.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-4.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-5.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-6.html",
-				"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/admin-6-material-design/page_user_login_6.html",
-				"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/assets/global/plugins/socicon/socicon.css",
-				"/D/Server/www/Hal/_Common_/socicon/style.css",
-				"/D/Server/www/Hal/App/app/config/bundle/app.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Partials/header.html.twig",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/avatar.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/Dark-Maul.jpg",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/JAY-Z.jpg",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/lock-screen.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/registration.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/karlito-web.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/layout.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/create.html.twig",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/FOSUBUserProvider.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/display.html.twig",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/DependencyInjection/Configuration.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Groups.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Google/Gmaps.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Google/Gplaces.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/connexion",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Migrations/VersionUser.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Groups.orm.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Member.orm.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Member.php",
-				"/D/Server/www/Hal/App/app/AppKernel.php",
-				"/D/Server/www/Hal/App/app/config/routing.yml",
-				"/D/Server/www/Hal/App/app/config/services.yml",
-				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-project",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Controller/DashboardController.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instagram/Instagram.php",
-				"/D/Server/www/Hal/App/composer.json",
-				"/D/Server/www/Training/API/Instagram-PHP-API/test-1/src/Instagram.php",
-				"/D/Server/www/Training/API/Instagram-PHP-API/league/oauth2-instagram/composer.json",
-				"/D/Server/www/Training/API/Instagram-PHP-API/league/oauth2-client/composer.json",
-				"/D/Server/www/Training/API/Instagram-PHP-API/php-instagram-api/php-instagram-api/composer.json",
-				"/D/Server/www/Training/API/Instagram-PHP-API/composer.json",
-				"/D/Server/www/Training/API/Pocket/index.php",
-				"/D/Server/www/Training/API/Pocket/Pocket.php",
-				"/D/Server/www/Training/API/Pocket/return.html",
-				"/D/Server/www/Training/API/Twitter/composer.json",
-				"/D/Server/www/Hal/App/web/insta.html",
-				"/D/Server/www/Hal/App/web/robots.txt",
-				"/D/Server/www/Hal/App/web/insta.twig",
-				"/D/Server/www/Hal/App/web/test.html",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instagram/test.html",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Pocket/Pocket.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Pocket/PocketException.php",
-				"/D/Server/www/Training/API/Instagram-PHP-API/src/Instagram.php",
-				"/D/Server/www/Training/API/Instagram-PHP-API/src/InstagramException.php",
-				"/C/Users/Giancarlo/Downloads/rootCA.key",
-				"/D/Server/www/Training/API/Instapaper/oauth1-client-master/resources/examples/twitter.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/request_token.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/request_signing.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/access_token.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/config.inc.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/google/access_token.php",
-				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.022/request_token.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper - Copie.php",
-				"/D/Server/www/Training/API/Instapaper/index.php",
-				"/D/Server/www/Training/API/Instapaper/instapaperxauth.php",
-				"/D/Server/www/Training/API/Instapaper/config.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper/OAuth.php",
-				"/D/Server/www/Training/API/Instapaper/OAuth.php",
-				"/D/Server/www/Training/API/Instapaper/package-lock.json",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Pocket.memo",
-				"/D/Server/www/Training/API/Pocket/sample.php",
-				"/C/Users/Giancarlo/Downloads/sample.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Yelp.memo",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Twitter.memo",
-				"/Q/blog/web/privacy - Copie.html",
-				"/Q/blog/web/callback.html",
-				"/Q/blog/web/privacy.html",
-				"/D/Server/www/Hal/Blog/composer.json",
-				"/D/Server/www/Hal/Football/composer.json",
-				"/D/Server/www/Hal/Formula-1/composer.json",
-				"/D/Server/www/Hal/Timeout/composer.json",
-				"/D/Server/www/Hal/Whore/composer.json",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Instapaper.memo",
-				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.260/config.php",
-				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.053/index.php",
-				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.087/instapaperxauth.php",
-				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.569/OAuth.php",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/API/API.txt",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/memos/API/facebook-connect.txt",
-				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.585/composer.json",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/views/Partials/sidebar.html.twig",
-				"/D/Server/www/Hal/App/src/KW/ExcelBundle/Resources/views/layout-content.html.twig",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/views/layout-content.html.twig"
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Command/InstallCommand.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Migrations/VersionSoccer.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Migrations/VersionUser.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/DataFixtures/ORM/LoadUsersLoginData.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/DataFixtures/ORM/LoadUsersMemberData.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/App_Club_OrganizationType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/App_TeamType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/CategoryType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/ClubType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/CompetitionType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/DivisionType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/EquipmentType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/GroundType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/PersonType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/RoleType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/SeasonType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/SizeType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/StadiumType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/TeamType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Command/PurgeCommand.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/App_Club_OrganizationController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/App_TeamController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/CategoryController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/ClubController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/CompetitionController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/DashboardController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/DivisionController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/EquipmentController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/GroundController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/PersonController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/RoleController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/SeasonController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/SizeController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/StadiumController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/TeamController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Division/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Team/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Stadium/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Size/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Season/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Role/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Person/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Ground/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Equipment/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Division/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Competition/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Club/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Category/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-team/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-club-organization/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Team/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Stadium/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Size/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Season/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Role/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Person/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Ground/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Equipment/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Competition/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Club/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Category/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-team/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-club-organization/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/views/Information/contact.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/translations/messages.en.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/translations/messages.fr.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/F1/web/app_dev.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Functional/app/AppKernel.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/translations/messages.fr.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/translations/messages.en.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/translations/messages.fr.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/translations/messages.en.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/public/js/football.js",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/public/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/serialization.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/validation.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/stadium.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/team.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/size.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/season.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/role.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/person.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/ground.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/division.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/equipment.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/competition.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/club.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/category.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/app-club-organization.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/app-team.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/api.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/App_Club_Organization.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/App_Team.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Club.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Category.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Division.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Competition.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Equipment.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Ground.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Person.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Season.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Role.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Stadium.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Size.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Team.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/App_Club_OrganizationRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/App_TeamRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/CategoryRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/ClubRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/CompetitionRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/DivisionRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/EquipmentRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/GroundRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/RoleRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/PersonRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/SeasonRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/SizeRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/StadiumRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/TeamRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/App_Team.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/Category.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/Club.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/Competition.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/Division.php"
 			],
 			"find":
 			{
@@ -223,9 +218,9 @@
 				"where_history":
 				[
 					"<open files>",
-					"<open folders>",
-					"<open files>,<open folders>",
-					"<open files>"
+					"",
+					"<open files>",
+					""
 				]
 			},
 			"find_state":
@@ -233,134 +228,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"\t\t\t\t// 'user' =>",
-					"\t\t\t\t'user' =>",
-					"user",
-					"member",
-					"user",
-					"memb",
-					"member",
-					"login",
-					"Users",
-					"hwi_oauth_login",
-					"hwi_oauth_connect",
-					"login_",
-					"hwi_oauth_connect",
-					"fos_user_security_login",
-					"/connect/",
-					" #",
-					"check-",
-					"\",\"",
-					"{",
-					"login_",
-					"                                    <i",
-					"                    <a",
-					" href=\"javascript:;\"",
-					"                    <a",
-					"<li>\n                    <a",
-					"Amazon",
-					"amazon",
-					" href=\"javascript:;\"",
-					"<li>\n                            <a",
-					"socicon-solid ",
-					" tooltips",
-					"socicon-btn socicon-btn-circle socicon-solid ",
-					"socicon-lg ",
-					"<i class=\"icon-social-",
-					"google",
-					"facebook",
-					"login",
-					"}}\"> ",
-					"twitter",
-					"login",
-					"           ",
-					"          ",
-					"         ",
-					"        ",
-					"       ",
-					"      ",
-					"     ",
-					"    ",
-					"   ",
-					"  ",
-					"facebook",
-					"stackexchange",
-					"github",
-					"plus",
-					"facebook",
-					"github",
-					"plus",
-					"consumer_key",
-					"yahoo",
-					"facebook",
-					"google",
-					"id",
-					"/api",
-					"prefix:   /",
-					"=NULL",
-					"XOAUTH_USERNAME",
-					"accessTokenURL",
-					"bookmarksGetText",
-					"bookmarksList",
-					"/api/1/bookmarks/list",
-					"bookmarksGetText",
-					"get_normalized_http_url",
-					"<br />",
-					")  {",
-					"<br />",
-					"  \"",
-					"/api",
-					"p",
-					"ApiBundle",
-					"ExcelBundle",
-					"javascript:;",
-					"\t\t\t\t\t</li>",
-					"/layout-3",
-					"LayoutBundle",
-					"ExcelBundle",
-					" '",
-					"  ",
-					"\"",
-					",\nhttp",
-					"(\"http",
-					"\",",
-					"\"http",
-					".it",
-					"\"\n\"",
-					"Input parameter: bookmark_id",
-					",",
-					"$_access_token_endpoint",
-					"%",
-					": ",
-					"WWWWWW",
-					"XXXXXX",
-					"clien_id",
-					"consumer",
-					"vofi7PJvRghTjB2UqKzLhAIlM",
-					"JFJU6putx56oREhaR72pOR9UU2SOiIp71tscu1HUEo6fW",
-					"526379436-CgU047WyVItNFCvFSLehRfTpUvSQVC7teEaafK0u",
-					"D8ndkiESZsPqDeufKmr4AxK22uFh3RDpKBRXmY10o28gH9TsVX",
-					":",
-					"  ",
-					" null",
-					"null",
-					"ANY      ANY    ",
-					"{_format}",
-					"/item/{id}",
-					"item/",
-					"{_format}",
-					"city",
-					"Ambiance",
-					"api_ambiance_",
-					"list:",
-					"api_",
-					"Timeout",
-					"path",
-					"cked",
-					"string",
-					"avatar",
-					"image",
-					"Image"
+					"\t\t\t\t\t'class' => '',\n",
+					"                'attr' => [\n                    'class' => '',\n                ]\n",
+					"'link_index",
+					"            'pageTitle",
+					" 'link_index'",
+					"            'link_index'",
+					"            'pageTitle",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"'link_index",
+					"            'link_index",
+					"link_index",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"            'link_index'",
+					"            'pageTitle",
+					"            'pageTitle'",
+					"            'pageTitle'  => $this->get('translator')->trans('admin.text.size'),\n",
+					"            'link_index'   => 'football_admin_team_index',\n",
+					"            'pageTitle'  => $this->get('translator')->trans('admin.text.team'),\n",
+					"            'pageTitle'             => $this->get('translator')->trans('admin.text.app_club_organization'),\n            'link_index'            => 'football_admin_app_club_organization_index',\n",
+					"ITEM",
+					"'Y-m-d H:i:s'",
+					"ITEM",
+					"    {% block portlet_action %}\n        <div class=\"actions\">\n            <div class=\"btn-group\">\n                <a href=\"{{ path('football_admin_app_club_organization_index') }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.back.to.list'|trans }} </a>\n                <a href=\"{{ path('football_admin_app_club_organization_edit', {'id': app_club_Organization.id}) }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.edit.item'|trans }} </a>\n                <a href=\"{{ path('football_admin_app_club_organization_new') }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.new.item'|trans }} </a>\n            </div>\n        </div>\n    {% endblock %}\n\n",
+					"ITEM",
+					"{{ .id }}",
+					"person",
+					"ITEM",
+					"'football_admin_equipment_show'",
+					"ITEM",
+					"'football_admin_club_show'",
+					"    {% block portlet_action %}\n        <div class=\"actions\">\n            <div class=\"btn-group\">\n                <a href=\"{{ path(link_add) }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.new.item'|trans }} </a>\n            </div>\n        </div>\n\n    {% endblock %}\n\n",
+					"ITEM",
+					"'football_admin_app_team_show'",
+					"ITEM",
+					"    'itemId' : ITEM.id,\n",
+					"app_club_Organization.id",
+					"ITEM",
+					"AIzaSyDPIzIYVUnjkwYQDOhEiJNLkNYFjl7Lacs",
+					"/*  */",
+					"admin_",
+					"AppBundle",
+					"FootballBundle",
+					"Admin/",
+					"admin_",
+					"FootballBundle",
+					"'form-control'",
+					"FootballBundle",
+					"            'action'     => 'new',\n",
+					"'title'",
+					"'link'",
+					":Admin/",
+					"KW\\FootballBundle",
+					"\\Admin;",
+					"\\Front",
+					"/layout/",
+					"filter",
+					"],",
+					"transformers-512x-512.png",
+					"$app['cdn'] . \"/img/avatars/",
+					"'user' => $manager->getRepository(Users::class)->findOneBy(['username'",
+					"png",
+					"starwars-13-512x-512.png",
+					"starwars-12-512x-512.png",
+					"SW-icons-4-512x512.png",
+					"SW-starwars-14-512x-512.png",
+					"'avatar' => \"/",
+					"application.cdn . ",
+					"\"/assets/img/",
+					"app.user.member",
+					" monthly stats",
+					">\n                    <img",
+					"             <img",
+					"<li>\n                    <strong",
+					" <li>\n                    <strong>",
+					"                    <strong",
+					"                    <img",
+					"<img",
+					"/assets/img/",
+					"Bolt UI",
+					"//assets.giancarlo-palumbo.ovh/metronic/",
+					"class=\"bold\"",
+					"<td>",
+					"WWWWW",
+					"@",
+					"cache_clear_nas",
+					"<pre>",
+					"Tools",
+					"fa fa-clipboard",
+					" fa fa-clipboard",
+					"fa-clipboard mt-clipboard",
+					"fa-clipboard ",
+					"include_once(",
+					"html",
+					"cache_warmup",
+					"cache_clear",
+					" border border-white",
+					"<hr>",
+					"<h4 class=\"display-4",
+					"<h2 class=\"display-4",
+					"<dt class=\"col-sm-2 text-light\">",
+					"<dt class=\"col-sm-3 text-light\">",
+					"<dt class=\"col-sm-3 text-light\"></dt>",
+					"border border-danger",
+					" text-center text-info bg-light",
+					"btn btn-dark",
+					"<dt class=\"col-sm-3\">",
+					"<dt class=\"col-sm-2\">",
+					"bg-secondary",
+					"home",
+					"</li>\n            <li class=\"nav-item\">",
+					"            <li class=\"nav-item\">",
+					"<li class=\"nav-item\">",
+					", '",
+					"/' %} {% menu",
+					"' %} {{",
+					"{{%menu['",
+					"{% menu",
+					"''"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -368,15 +363,24 @@
 				"regex": false,
 				"replace_history":
 				[
-					"'",
 					"",
-					"('http",
-					"\",\n\"",
+					"KW\\FootballAdminBundle",
+					"FootballAdminBundle",
 					"",
-					"json",
+					"football_admin_",
+					"FootballAdminBundle",
+					"''",
+					"FootballAdminBundle",
 					"",
-					"<link rel=\"icon\" type=\"image/png\" href=\"http://giancarlo-palumbo.ovh/__cdn__/favicons/favicon-2-96X96.png\">",
-					"KW\\GeolocationBundle\\Controller\\Api;"
+					"'pageTitle'",
+					"'link_index'",
+					":",
+					"KW\\FootballAdminBundle",
+					";",
+					"",
+					"/img/",
+					"//assets.giancarlo-palumbo.ovh/templates/metronic/",
+					"\t"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -386,7 +390,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 29.0
 			},
 			"input":
 			{
@@ -418,108 +422,108 @@
 				"selected_items":
 				[
 					[
-						"h",
-						"〈〈    APP    〉〉\\app\\config\\bundle\\hwi_oauth.yml"
+						"partials/header.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Admin\\Partials\\header.html.twig"
 					],
 					[
-						"page_user_login_6.html",
-						"admin-6-material-design\\page_user_login_6.html"
+						"portlet_solid.html",
+						"admin-4-material-design\\portlet_solid.html"
 					],
 					[
-						"model/user",
-						"〈〈    APP    〉〉\\vendor\\friendsofsymfony\\user-bundle\\Model\\User.php"
+						"workfor",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Team\\workforce-datas.html.twig"
 					],
 					[
-						"form-dropzone.js",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\form-dropzone.js"
+						"page_cookie_consent_1.html",
+						"admin-4-material-design\\page_cookie_consent_1.html"
 					],
 					[
-						"form_dropzone.html",
-						"admin-6-material-design\\form_dropzone.html"
+						"ui_buttons.html",
+						"admin-4-material-design\\ui_buttons.html"
 					],
 					[
-						"fosuserbundle",
-						"〈〈    APP    〉〉\\src\\KW\\UserBundle\\Resources\\translations\\FOSUserBundle.fr.yml"
+						"page_general_blog.html",
+						"admin-4-material-design\\page_general_blog.html"
 					],
 					[
-						"fosuserbundle.fr.yml",
-						"〈〈    APP    〉〉\\vendor\\friendsofsymfony\\user-bundle\\Resources\\translations\\FOSUserBundle.fr.yml"
+						"page_general_blog_post.html",
+						"admin-4-material-design\\page_general_blog_post.html"
 					],
 					[
 						"form_controls.html",
-						"admin-6-material-design\\form_controls.html"
+						"admin-4-material-design\\form_controls.html"
 					],
 					[
-						"sidebar.html.twig",
-						"〈〈    APP    〉〉\\src\\KW\\UploadBundle\\Resources\\views\\Partials\\sidebar.html.twig"
+						"ui_page_progress_style_1.html",
+						"admin-4-material-design\\ui_page_progress_style_1.html"
 					],
 					[
-						"portlet_light.html",
-						"admin-6-material-design\\portlet_light.html"
+						"page_general_about.html",
+						"admin-4-material-design\\page_general_about.html"
 					],
 					[
-						"table-datatables-fixedheader",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\table-datatables-fixedheader.js"
+						"ayout_blank_page.html",
+						"admin-4-material-design\\layout_blank_page.html"
 					],
 					[
-						"table_datatables_fixedheader.html",
-						"admin-6-material-design\\table_datatables_fixedheader.html"
+						"app/config/services.yml",
+						"〈〈    SOCCER    〉〉\\app\\config\\services.yml"
 					],
 					[
-						"components-bootstrap-tagsinput.js",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-bootstrap-tagsinput.js"
+						"/resources/views/admin/layout-content.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Admin\\layout-content.html.twig"
 					],
 					[
-						"components-code-editors",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.js"
+						"/footballbundle/resources/views/front/homepage/index.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Homepage\\index.html.twig"
 					],
 					[
-						"tag.js",
-						"〈〈    APP    〉〉\\src\\KW\\TagBundle\\Resources\\public\\js\\tag.js"
+						"kw/footballbundle/resources/views/front/partials/sidebar.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Partials\\sidebar.html.twig"
 					],
 					[
-						"code-ed",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.min.js"
+						"kw/footballbundle/resources/views/front/layout-content.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\layout-content.html.twig"
 					],
 					[
-						"components-code-editors.js",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.js"
+						"/footballbundle/tests/controller/admin/competitioncontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\CompetitionControllerTest.php"
 					],
 					[
-						"layout-content.html.twig",
-						"〈〈    APP    〉〉\\src\\AppBundle\\Resources\\views\\layout-content.html.twig"
+						"footballbundle/tests/controller/admin/divisioncontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\DivisionControllerTest.php"
 					],
 					[
-						"components_code_editors.html",
-						"admin-6-material-design\\components_code_editors.html"
+						"bundle/tests/controller/admin/groundcontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\GroundControllerTest.php"
 					],
 					[
-						"components_bootstrap_tagsinput.html",
-						"admin-6-material-design\\components_bootstrap_tagsinput.html"
+						"lbundle/tests/controller/admin/personcontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\PersonControllerTest.php"
 					],
 					[
-						"layout-6-content.html.twig",
-						"〈〈    APP    〉〉\\src\\KW\\LayoutBundle\\Resources\\views\\Layouts\\layout-6-content.html.twig"
+						"/tests/controller/admin/rolecontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\RoleControllerTest.php"
 					],
 					[
-						"datatable.js",
-						"〈〈    APP    〉〉\\web\\assets\\global\\scripts\\datatable.js"
+						"/controller/admin/seasoncontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\SeasonControllerTest.php"
 					],
 					[
-						"datatable.min.js",
-						"〈〈    APP    〉〉\\web\\assets\\global\\scripts\\datatable.min.js"
+						"/tests/controller/admin/sizecontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\SizeControllerTest.php"
 					],
 					[
-						"table_bootstrap.html",
-						"admin-6-material-design\\table_bootstrap.html"
+						"e/tests/controller/admin/stadiumcontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\StadiumControllerTest.php"
 					],
 					[
-						"custom",
-						"web\\bundles\\timeout\\css\\custom.css"
+						"/tests/controller/admin/teamcontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\TeamControllerTest.php"
 					],
 					[
-						"js/portfolio.js",
-						"web\\bundles\\immo\\js\\portfolio.js"
+						"layout-c",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\layout-content.html.twig"
 					]
 				],
 				"width": 0.0
@@ -527,36 +531,40 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "App",
 				"selected_items":
 				[
+					[
+						"App",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-App.sublime-project"
+					],
 					[
 						"",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
 					],
 					[
-						"Blo",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+						"Api",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Api.sublime-project"
+					],
+					[
+						"t",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
 					],
 					[
 						"Blog",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
 					],
 					[
-						"immo",
+						"Im",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					],
 					[
-						"blog",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
-					],
-					[
-						"Time",
+						"time",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
 					],
 					[
-						"b",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+						"T",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -574,7 +582,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 305.0,
+			"side_bar_width": 294.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -591,110 +599,29 @@
 				"selected_items":
 				[
 					[
-						"for",
-						"foreach\tforeach …"
+						"url",
+						"urlShow"
+					],
+					[
+						"col-lg",
+						"col-lg-5"
+					],
+					[
+						"text-",
+						"text-light"
 					],
 					[
 						"html",
 						"htmlboiler\thtmlboiler"
 					],
 					[
-						"pa",
-						"parameters"
-					],
-					[
-						"va",
-						"var_dump"
-					],
-					[
-						"acc",
-						"accessToken"
-					],
-					[
-						"cl",
-						"clientSecret"
-					],
-					[
-						"av",
-						"avatarFile"
-					],
-					[
-						"c",
-						"class\tAttr"
+						"Res",
+						"Resume"
 					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/Giancarlo/Desktop/tutos.txt",
-					"settings":
-					{
-						"buffer_size": 223,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Server/www/Hal/App/app/config/bundle/knpu_oauth2_client.yml",
-					"settings":
-					{
-						"buffer_size": 697,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Server/www/Hal/App/app/config/bundle/api.yml",
-					"settings":
-					{
-						"buffer_size": 2093,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing.yml",
-					"settings":
-					{
-						"buffer_size": 695,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Server/www/Hal/App/app/config/security.yml",
-					"settings":
-					{
-						"buffer_size": 2914,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/services.yml",
-					"settings":
-					{
-						"buffer_size": 629,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Controller/FacebookController.php",
-					"settings":
-					{
-						"buffer_size": 1756,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Security/MyFacebookAuthenticator.php",
-					"settings":
-					{
-						"buffer_size": 2122,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -703,10 +630,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "prett",
+				"height": 279.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"prett",
 						"HTMLPrettify"
@@ -736,146 +667,138 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Server/www/Hal/App",
-				"/D/Server/www/Hal/App/app",
-				"/D/Server/www/Hal/App/app/config",
-				"/D/Server/www/Hal/App/src",
-				"/D/Server/www/Hal/App/src/KW",
-				"/D/Server/www/Hal/App/src/KW/UserBundle",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Security"
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer"
 			],
 			"file_history":
 			[
-				"/D/Server/www/Hal/App/app/config/bundle/api.yml",
-				"/C/Users/Giancarlo/Desktop/tutos.txt",
-				"/D/Server/www/Hal/App/composer.json",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login.html.twig",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Security/MyFacebookAuthenticator.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Controller/DashboardController.php",
-				"/D/Server/www/Hal/App/app/AppKernel.php",
-				"/D/Server/www/Hal/App/app/config/bundle/hwi_oauth.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/services.yml",
-				"/D/Server/www/Hal/App/app/config/services.yml",
-				"/D/Server/www/Hal/App/app/config/security.yml",
-				"/D/Server/www/Hal/App/app/config/routing.yml",
-				"/D/Server/www/Hal/App/app/config/config.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Controller/ConnectController.old",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Controller/ConnectController.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing/connect.xml",
-				"/D/Server/www/Hal/App/app/config/bundle/fos_user.yml",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/config/routing/connect.xml",
-				"/D/Server/www/Hal/App/src/KW/GeolocationBundle/Resources/config/routing.yml",
-				"/D/Server/www/Hal/App/app/config/bundle/fos_rest.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Users.orm.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Social.orm.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Users.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Social.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Security/Core/User/FOSUBUserProvider.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Controller/DashboardController.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/FOSUBUserProvider.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Member.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadUsersData.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Member.orm.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadMemberData.php",
-				"/D/Server/www/Hal/App/vendor/friendsofsymfony/user-bundle/Model/User.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Form/Type/UsersType.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Migrations/VersionUser.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Migrations/VersionUserDatas.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadGroupsData.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Groups.php~",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Member.php~",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_success.html.twig",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_confirm.html.twig",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/registration_success.html.twig",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/registration.html.twig",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Resources/views/Connect/login.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/.editorconfig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/HomepageController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/BlogController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/ClubController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/InformationController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/MediaController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/TeamController.php",
+				"/D/Program/CMDer/config/settings",
 				"/D/Program/CMDer/config/.history",
-				"/D/Server/www/Hal/App/vendor/hwi/oauth-bundle/Security/Core/User/OAuthUserProvider.php",
-				"/D/Server/www/Hal/App/app/config/bundle/httplug.yml",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Controller/UserController.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/config/routing.yml",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Resources/config/services.yml",
-				"/D/Server/www/Hal/App/web/social-connect.php",
-				"/Q/blog/web/twitter-connect.html",
-				"/C/Users/Giancarlo/Downloads/client_secret_158507534592-vskdcao2b6ugmi7202hfb4o65q40lg2p.apps.googleusercontent.com.json",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Secured/hello.html.twig",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-1.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-2.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-3.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-4.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-5.html",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Security/login-6.html",
-				"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/admin-6-material-design/page_user_login_6.html",
-				"/D/Server/www/- Templates -/2017/Metronic-v4.7.5/assets/global/plugins/socicon/socicon.css",
-				"/D/Server/www/Hal/_Common_/socicon/style.css",
-				"/D/Server/www/Hal/App/app/config/bundle/app.yml",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Partials/header.html.twig",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/avatar.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/Dark-Maul.jpg",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar/JAY-Z.jpg",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/lock-screen.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/registration.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/karlito-web.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/logo/layout.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/public/images/avatar.png",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/create.html.twig",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/display.html.twig",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/DependencyInjection/Configuration.php",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Entity/Groups.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Google/Gmaps.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Google/Gplaces.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/connexion",
-				"/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/doctrine/Groups.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-project",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instagram/Instagram.php",
-				"/D/Server/www/Training/API/Instagram-PHP-API/test-1/src/Instagram.php",
-				"/D/Server/www/Training/API/Instagram-PHP-API/league/oauth2-instagram/composer.json",
-				"/D/Server/www/Training/API/Instagram-PHP-API/league/oauth2-client/composer.json",
-				"/D/Server/www/Training/API/Instagram-PHP-API/php-instagram-api/php-instagram-api/composer.json",
-				"/D/Server/www/Training/API/Instagram-PHP-API/composer.json",
-				"/D/Server/www/Training/API/Pocket/index.php",
-				"/D/Server/www/Training/API/Pocket/Pocket.php",
-				"/D/Server/www/Training/API/Pocket/return.html",
-				"/D/Server/www/Training/API/Twitter/composer.json",
-				"/D/Server/www/Hal/App/web/insta.html",
-				"/D/Server/www/Hal/App/web/robots.txt",
-				"/D/Server/www/Hal/App/web/insta.twig",
-				"/D/Server/www/Hal/App/web/test.html",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instagram/test.html",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Pocket/Pocket.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Pocket/PocketException.php",
-				"/D/Server/www/Training/API/Instagram-PHP-API/src/Instagram.php",
-				"/D/Server/www/Training/API/Instagram-PHP-API/src/InstagramException.php",
-				"/C/Users/Giancarlo/Downloads/rootCA.key",
-				"/D/Server/www/Training/API/Instapaper/oauth1-client-master/resources/examples/twitter.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/request_token.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/request_signing.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/access_token.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/config.inc.php",
-				"/D/Server/www/Training/API/Instapaper/oauth-1.2.3/examples/google/access_token.php",
-				"/C/Users/Giancarlo/AppData/Local/Temp/Rar$DIa0.022/request_token.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper - Copie.php",
-				"/D/Server/www/Training/API/Instapaper/index.php",
-				"/D/Server/www/Training/API/Instapaper/instapaperxauth.php",
-				"/D/Server/www/Training/API/Instapaper/config.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Instapaper/OAuth.php",
-				"/D/Server/www/Training/API/Instapaper/OAuth.php",
-				"/D/Server/www/Training/API/Instapaper/package-lock.json",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Pocket.memo",
-				"/D/Server/www/Training/API/Pocket/sample.php",
-				"/C/Users/Giancarlo/Downloads/sample.php",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Yelp.memo",
-				"/D/Server/www/Hal/App/src/KW/ApiBundle/Utils/Api/Memos/Twitter.memo",
-				"/Q/blog/web/privacy - Copie.html",
-				"/Q/blog/web/callback.html",
-				"/Q/blog/web/privacy.html",
-				"/D/Server/www/Hal/Blog/composer.json",
-				"/D/Server/www/Hal/Football/composer.json",
-				"/D/Server/www/Hal/Formula-1/composer.json"
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/CMDer/.history",
+				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/.gitconfig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Command/InstallCommand.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Migrations/VersionSoccer.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Migrations/VersionUser.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/DataFixtures/ORM/LoadUsersLoginData.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/DataFixtures/ORM/LoadUsersMemberData.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/App_Club_OrganizationType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/App_TeamType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/CategoryType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/ClubType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/CompetitionType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/DivisionType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/EquipmentType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/GroundType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/PersonType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/RoleType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/SeasonType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/SizeType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/StadiumType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/TeamType.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Command/PurgeCommand.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/App_Club_OrganizationController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/App_TeamController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/CategoryController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/ClubController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/CompetitionController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/DashboardController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/DivisionController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/EquipmentController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/GroundController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/PersonController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/RoleController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/SeasonController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/SizeController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/StadiumController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/TeamController.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Division/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Team/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Stadium/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Size/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Season/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Role/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Person/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Ground/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Equipment/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Division/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Competition/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Club/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Category/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-team/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-club-organization/show.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Team/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Stadium/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Size/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Season/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Role/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Person/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Ground/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Equipment/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Competition/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Club/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Category/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-team/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-club-organization/index.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/views/Information/contact.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/translations/messages.en.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/translations/messages.fr.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/F1/web/app_dev.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Functional/app/AppKernel.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/translations/messages.fr.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/translations/messages.en.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/translations/messages.fr.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/translations/messages.en.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/public/js/football.js",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/public/css/custom.css",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/serialization.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/services.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/validation.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/stadium.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/team.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/size.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/season.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/role.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/person.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/ground.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/division.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/equipment.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/competition.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/club.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/category.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/app-club-organization.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/app-team.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/api.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/config/routing.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/App_Club_Organization.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/App_Team.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Club.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Category.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Division.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Competition.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Equipment.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Ground.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Person.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Season.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Role.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Stadium.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Size.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Team.orm.yml",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/App_Club_OrganizationRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/App_TeamRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/CategoryRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/ClubRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/CompetitionRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/DivisionRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/EquipmentRepository.php",
+				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/GroundRepository.php"
 			],
 			"find":
 			{
@@ -887,9 +810,9 @@
 				"where_history":
 				[
 					"<open files>",
-					"<open folders>",
-					"<open files>,<open folders>",
-					"<open files>"
+					"",
+					"<open files>",
+					""
 				]
 			},
 			"find_state":
@@ -897,134 +820,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"_",
-					"{key}",
-					"resource",
-					"        //",
-					":",
-					"_id",
-					"google_id",
-					", array(",
-					"array(",
-					"@HWIOAuth/",
-					"@HWIOAuth",
-					"apps.fos_user.oauth_provider",
-					"facebook",
-					"google",
-					"plus",
-					"\t\t$user        = parent::loadUserByOAuthUserResponse($response);\n\t\t\n\t\t$serviceName = $response->getResourceOwner()->getName();\n\t\t\n\t\t$setter      = 'set' . ucfirst($serviceName) . 'AccessToken';\n",
-					"        #         csrf:            true",
-					"$this->getReference('",
-					"->setEmailCanonical",
-					"usernameCanonical",
-					"->setemail(",
-					"@star-wars.com",
-					"@gmail.com",
-					"cascade: [\"all\"]",
-					"->setMem",
-					"yodaXX",
-					"\tsetMember()",
-					"->setUsername('",
-					"->setFirstname('",
-					"$XXXXXX =",
-					"\t\t\t\t'user' => '",
-					"darksidious',\n",
-					"\t\t\t\t'firstname' => '',\n\t\t\t\t'lastname' => \"\",\n\t\t\t\t'avatar' => ,\n\t\t\t\t'occupation' => ,",
-					"$v['occupation'])",
-					"\t\t\t\t'occupation' => \"",
-					"$v['avatar']",
-					"\t\t\t\t'avatar' => \"",
-					"$v['lastname']",
-					"\t\t\t\t'lastname' => \"",
-					"$v['firstname']",
-					"\t\t\t\t'firstname' => '",
-					"information",
-					"\t\t\t[",
-					"'user' => $this->getReference(",
-					"$this->getReference('",
-					"referencedColumnName: id",
-					"persist",
-					"\t\t$this->addReference(",
-					"\t\t\t\t// 'user' =>",
-					"\t\t\t\t'user' =>",
-					"user",
-					"member",
-					"user",
-					"memb",
-					"member",
-					"login",
-					"Users",
-					"hwi_oauth_login",
-					"hwi_oauth_connect",
-					"login_",
-					"hwi_oauth_connect",
-					"fos_user_security_login",
-					"/connect/",
-					" #",
-					"check-",
-					"\",\"",
-					"{",
-					"login_",
-					"                                    <i",
-					"                    <a",
-					" href=\"javascript:;\"",
-					"                    <a",
-					"<li>\n                    <a",
-					"Amazon",
-					"amazon",
-					" href=\"javascript:;\"",
-					"<li>\n                            <a",
-					"socicon-solid ",
-					" tooltips",
-					"socicon-btn socicon-btn-circle socicon-solid ",
-					"socicon-lg ",
-					"<i class=\"icon-social-",
-					"google",
-					"facebook",
-					"login",
-					"}}\"> ",
-					"twitter",
-					"login",
-					"           ",
-					"          ",
-					"         ",
-					"        ",
-					"       ",
-					"      ",
-					"     ",
-					"    ",
-					"   ",
-					"  ",
-					"facebook",
-					"stackexchange",
-					"github",
-					"plus",
-					"facebook",
-					"github",
-					"plus",
-					"consumer_key",
-					"yahoo",
-					"facebook",
-					"google",
-					"id",
-					"/api",
-					"prefix:   /",
-					"=NULL",
-					"XOAUTH_USERNAME",
-					"accessTokenURL",
-					"bookmarksGetText",
-					"bookmarksList",
-					"/api/1/bookmarks/list",
-					"bookmarksGetText",
-					"get_normalized_http_url",
-					"<br />",
-					")  {",
-					"<br />",
-					"  \"",
-					"/api",
-					"p",
-					"ApiBundle",
-					"ExcelBundle"
+					"    \t$response = $this->cacheETag($request);\n\n        // Or render a template with the $response you've already started\n",
+					"\t\t// Cache\n\t\t$response = $this->cacheETag($request);\n\n",
+					"        $response = $this->cacheETag($request);\n        // Or render a template with the $response you've already started\n",
+					"\t\t\t\t\t'class' => '',\n",
+					"                'attr' => [\n                    'class' => '',\n                ]\n",
+					"'link_index",
+					"            'pageTitle",
+					" 'link_index'",
+					"            'link_index'",
+					"            'pageTitle",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"'link_index",
+					"            'link_index",
+					"link_index",
+					"            'link_index",
+					"            'pageTitle",
+					"            'link_index",
+					"            'link_index'",
+					"            'pageTitle",
+					"            'pageTitle'",
+					"            'pageTitle'  => $this->get('translator')->trans('admin.text.size'),\n",
+					"            'link_index'   => 'football_admin_team_index',\n",
+					"            'pageTitle'  => $this->get('translator')->trans('admin.text.team'),\n",
+					"            'pageTitle'             => $this->get('translator')->trans('admin.text.app_club_organization'),\n            'link_index'            => 'football_admin_app_club_organization_index',\n",
+					"ITEM",
+					"'Y-m-d H:i:s'",
+					"ITEM",
+					"    {% block portlet_action %}\n        <div class=\"actions\">\n            <div class=\"btn-group\">\n                <a href=\"{{ path('football_admin_app_club_organization_index') }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.back.to.list'|trans }} </a>\n                <a href=\"{{ path('football_admin_app_club_organization_edit', {'id': app_club_Organization.id}) }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.edit.item'|trans }} </a>\n                <a href=\"{{ path('football_admin_app_club_organization_new') }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.new.item'|trans }} </a>\n            </div>\n        </div>\n    {% endblock %}\n\n",
+					"ITEM",
+					"{{ .id }}",
+					"person",
+					"ITEM",
+					"'football_admin_equipment_show'",
+					"ITEM",
+					"'football_admin_club_show'",
+					"    {% block portlet_action %}\n        <div class=\"actions\">\n            <div class=\"btn-group\">\n                <a href=\"{{ path(link_add) }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.new.item'|trans }} </a>\n            </div>\n        </div>\n\n    {% endblock %}\n\n",
+					"ITEM",
+					"'football_admin_app_team_show'",
+					"ITEM",
+					"    'itemId' : ITEM.id,\n",
+					"app_club_Organization.id",
+					"ITEM",
+					"AIzaSyDPIzIYVUnjkwYQDOhEiJNLkNYFjl7Lacs",
+					"/*  */",
+					"admin_",
+					"AppBundle",
+					"FootballBundle",
+					"Admin/",
+					"admin_",
+					"FootballBundle",
+					"'form-control'",
+					"FootballBundle",
+					"            'action'     => 'new',\n",
+					"'title'",
+					"'link'",
+					":Admin/",
+					"KW\\FootballBundle",
+					"\\Admin;",
+					"\\Front",
+					"/layout/",
+					"filter",
+					"],",
+					"transformers-512x-512.png",
+					"$app['cdn'] . \"/img/avatars/",
+					"'user' => $manager->getRepository(Users::class)->findOneBy(['username'",
+					"png",
+					"starwars-13-512x-512.png",
+					"starwars-12-512x-512.png",
+					"SW-icons-4-512x512.png",
+					"SW-starwars-14-512x-512.png",
+					"'avatar' => \"/",
+					"application.cdn . ",
+					"\"/assets/img/",
+					"app.user.member",
+					" monthly stats",
+					">\n                    <img",
+					"             <img",
+					"<li>\n                    <strong",
+					" <li>\n                    <strong>",
+					"                    <strong",
+					"                    <img",
+					"<img",
+					"/assets/img/",
+					"Bolt UI",
+					"//assets.giancarlo-palumbo.ovh/metronic/",
+					"class=\"bold\"",
+					"<td>",
+					"WWWWW",
+					"@",
+					"cache_clear_nas",
+					"<pre>",
+					"Tools",
+					"fa fa-clipboard",
+					" fa fa-clipboard",
+					"fa-clipboard mt-clipboard",
+					"fa-clipboard ",
+					"include_once(",
+					"html",
+					"cache_warmup",
+					"cache_clear",
+					" border border-white",
+					"<hr>",
+					"<h4 class=\"display-4",
+					"<h2 class=\"display-4",
+					"<dt class=\"col-sm-2 text-light\">",
+					"<dt class=\"col-sm-3 text-light\">",
+					"<dt class=\"col-sm-3 text-light\"></dt>",
+					"border border-danger",
+					" text-center text-info bg-light",
+					"btn btn-dark",
+					"<dt class=\"col-sm-3\">",
+					"<dt class=\"col-sm-2\">",
+					"bg-secondary",
+					"home",
+					"</li>\n            <li class=\"nav-item\">",
+					"            <li class=\"nav-item\">",
+					"<li class=\"nav-item\">",
+					", '",
+					"/' %} {% menu",
+					"' %} {{"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1032,15 +955,24 @@
 				"regex": false,
 				"replace_history":
 				[
-					"'",
 					"",
-					"('http",
-					"\",\n\"",
+					"KW\\FootballAdminBundle",
+					"FootballAdminBundle",
 					"",
-					"json",
+					"football_admin_",
+					"FootballAdminBundle",
+					"''",
+					"FootballAdminBundle",
 					"",
-					"<link rel=\"icon\" type=\"image/png\" href=\"http://giancarlo-palumbo.ovh/__cdn__/favicons/favicon-2-96X96.png\">",
-					"KW\\GeolocationBundle\\Controller\\Api;"
+					"'pageTitle'",
+					"'link_index'",
+					":",
+					"KW\\FootballAdminBundle",
+					";",
+					"",
+					"/img/",
+					"//assets.giancarlo-palumbo.ovh/templates/metronic/",
+					"\t"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1051,1478 +983,14 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/Giancarlo/Desktop/tutos.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 223,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										166,
-										113
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": 0,
-										"count": 10,
-										"modified": false,
-										"selection": false,
-										"status": -1,
-										"syntax": "plain text"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/Server/www/Hal/App/app/config/bundle/knpu_oauth2_client.yml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 697,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										681,
-										681
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": 0,
-										"count": 57,
-										"modified": false,
-										"selection": false,
-										"status": -1,
-										"syntax": "plain text"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"open_with_edit": true,
-									"syntax": "Packages/YAML/YAML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/Server/www/Hal/App/app/config/bundle/api.yml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2093,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": 0,
-										"count": 84,
-										"modified": false,
-										"selection": false,
-										"status": -1,
-										"syntax": "plain text"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"syntax": "Packages/YAML/YAML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/routing.yml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 695,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										692,
-										692
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": 0,
-										"count": 33,
-										"modified": false,
-										"selection": false,
-										"status": -1,
-										"syntax": "plain text"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												693,
-												694
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												650,
-												651
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												693,
-												694
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												650,
-												651
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"syntax": "Packages/YAML/YAML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/Server/www/Hal/App/app/config/security.yml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2914,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2160,
-										2160
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": 0,
-										"count": 134,
-										"modified": false,
-										"selection": false,
-										"status": -1,
-										"syntax": "plain text"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"syntax": "Packages/YAML/YAML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 264.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Resources/config/services.yml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 629,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										9,
-										9
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": 0,
-										"count": 23,
-										"modified": false,
-										"selection": false,
-										"status": -1,
-										"syntax": "plain text"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"syntax": "Packages/YAML/YAML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Controller/FacebookController.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1756,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										24,
-										24
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": -1,
-										"modified": true,
-										"selection": true,
-										"status": -1,
-										"syntax": "php"
-									},
-									"auto_complete": true,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												1754,
-												1755
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												263,
-												264
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"open_with_edit": true,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/D/Server/www/Hal/App/src/KW/UserBundle/Security/MyFacebookAuthenticator.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2122,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": -1,
-										"modified": true,
-										"selection": true,
-										"status": -1,
-										"syntax": "php"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 29.0
 			},
 			"input":
 			{
@@ -2564,8 +1032,8 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,702,0,0,1024",
-			"project": "Hal-App.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,848,-7,123,1017",
+			"project": "Hal-Soccer.sublime-project",
 			"replace":
 			{
 				"height": 84.0
@@ -2578,112 +1046,108 @@
 				"selected_items":
 				[
 					[
-						"connect.xml",
-						"〈〈    APP    〉〉\\vendor\\hwi\\oauth-bundle\\Resources\\config\\routing\\connect.xml"
+						"partials/header.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Admin\\Partials\\header.html.twig"
 					],
 					[
-						"h",
-						"〈〈    APP    〉〉\\app\\config\\bundle\\hwi_oauth.yml"
+						"portlet_solid.html",
+						"admin-4-material-design\\portlet_solid.html"
 					],
 					[
-						"page_user_login_6.html",
-						"admin-6-material-design\\page_user_login_6.html"
+						"workfor",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Team\\workforce-datas.html.twig"
 					],
 					[
-						"model/user",
-						"〈〈    APP    〉〉\\vendor\\friendsofsymfony\\user-bundle\\Model\\User.php"
+						"page_cookie_consent_1.html",
+						"admin-4-material-design\\page_cookie_consent_1.html"
 					],
 					[
-						"form-dropzone.js",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\form-dropzone.js"
+						"ui_buttons.html",
+						"admin-4-material-design\\ui_buttons.html"
 					],
 					[
-						"form_dropzone.html",
-						"admin-6-material-design\\form_dropzone.html"
+						"page_general_blog.html",
+						"admin-4-material-design\\page_general_blog.html"
 					],
 					[
-						"fosuserbundle",
-						"〈〈    APP    〉〉\\src\\KW\\UserBundle\\Resources\\translations\\FOSUserBundle.fr.yml"
-					],
-					[
-						"fosuserbundle.fr.yml",
-						"〈〈    APP    〉〉\\vendor\\friendsofsymfony\\user-bundle\\Resources\\translations\\FOSUserBundle.fr.yml"
+						"page_general_blog_post.html",
+						"admin-4-material-design\\page_general_blog_post.html"
 					],
 					[
 						"form_controls.html",
-						"admin-6-material-design\\form_controls.html"
+						"admin-4-material-design\\form_controls.html"
 					],
 					[
-						"sidebar.html.twig",
-						"〈〈    APP    〉〉\\src\\KW\\UploadBundle\\Resources\\views\\Partials\\sidebar.html.twig"
+						"ui_page_progress_style_1.html",
+						"admin-4-material-design\\ui_page_progress_style_1.html"
 					],
 					[
-						"portlet_light.html",
-						"admin-6-material-design\\portlet_light.html"
+						"page_general_about.html",
+						"admin-4-material-design\\page_general_about.html"
 					],
 					[
-						"table-datatables-fixedheader",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\table-datatables-fixedheader.js"
+						"ayout_blank_page.html",
+						"admin-4-material-design\\layout_blank_page.html"
 					],
 					[
-						"table_datatables_fixedheader.html",
-						"admin-6-material-design\\table_datatables_fixedheader.html"
+						"app/config/services.yml",
+						"〈〈    SOCCER    〉〉\\app\\config\\services.yml"
 					],
 					[
-						"components-bootstrap-tagsinput.js",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-bootstrap-tagsinput.js"
+						"/resources/views/admin/layout-content.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Admin\\layout-content.html.twig"
 					],
 					[
-						"components-code-editors",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.js"
+						"/footballbundle/resources/views/front/homepage/index.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Homepage\\index.html.twig"
 					],
 					[
-						"tag.js",
-						"〈〈    APP    〉〉\\src\\KW\\TagBundle\\Resources\\public\\js\\tag.js"
+						"kw/footballbundle/resources/views/front/partials/sidebar.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Partials\\sidebar.html.twig"
 					],
 					[
-						"code-ed",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.min.js"
+						"kw/footballbundle/resources/views/front/layout-content.html.twig",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\layout-content.html.twig"
 					],
 					[
-						"components-code-editors.js",
-						"〈〈    APP    〉〉\\web\\assets\\pages\\scripts\\components-code-editors.js"
+						"/footballbundle/tests/controller/admin/competitioncontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\CompetitionControllerTest.php"
 					],
 					[
-						"layout-content.html.twig",
-						"〈〈    APP    〉〉\\src\\AppBundle\\Resources\\views\\layout-content.html.twig"
+						"footballbundle/tests/controller/admin/divisioncontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\DivisionControllerTest.php"
 					],
 					[
-						"components_code_editors.html",
-						"admin-6-material-design\\components_code_editors.html"
+						"bundle/tests/controller/admin/groundcontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\GroundControllerTest.php"
 					],
 					[
-						"components_bootstrap_tagsinput.html",
-						"admin-6-material-design\\components_bootstrap_tagsinput.html"
+						"lbundle/tests/controller/admin/personcontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\PersonControllerTest.php"
 					],
 					[
-						"layout-6-content.html.twig",
-						"〈〈    APP    〉〉\\src\\KW\\LayoutBundle\\Resources\\views\\Layouts\\layout-6-content.html.twig"
+						"/tests/controller/admin/rolecontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\RoleControllerTest.php"
 					],
 					[
-						"datatable.js",
-						"〈〈    APP    〉〉\\web\\assets\\global\\scripts\\datatable.js"
+						"/controller/admin/seasoncontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\SeasonControllerTest.php"
 					],
 					[
-						"datatable.min.js",
-						"〈〈    APP    〉〉\\web\\assets\\global\\scripts\\datatable.min.js"
+						"/tests/controller/admin/sizecontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\SizeControllerTest.php"
 					],
 					[
-						"table_bootstrap.html",
-						"admin-6-material-design\\table_bootstrap.html"
+						"e/tests/controller/admin/stadiumcontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\StadiumControllerTest.php"
 					],
 					[
-						"custom",
-						"web\\bundles\\timeout\\css\\custom.css"
+						"/tests/controller/admin/teamcontrollertest.php",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\TeamControllerTest.php"
 					],
 					[
-						"js/portfolio.js",
-						"web\\bundles\\immo\\js\\portfolio.js"
+						"layout-c",
+						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\layout-content.html.twig"
 					]
 				],
 				"width": 0.0
@@ -2691,36 +1155,40 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "App",
 				"selected_items":
 				[
+					[
+						"App",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-App.sublime-project"
+					],
 					[
 						"",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
 					],
 					[
-						"Blo",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+						"Api",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Api.sublime-project"
+					],
+					[
+						"t",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
 					],
 					[
 						"Blog",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
 					],
 					[
-						"immo",
+						"Im",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					],
 					[
-						"blog",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
-					],
-					[
-						"Time",
+						"time",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
 					],
 					[
-						"b",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
+						"T",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -2742,29 +1210,29 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 305.0,
+			"side_bar_width": 294.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			},
-			"window_id": 676,
-			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace"
+			"window_id": 749,
+			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Soccer.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Soccer.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Football.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Blog.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Whore.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-F1.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Api.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Template-Metronic.sublime-workspace"
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Whore.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-F1.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Wamp.sublime-workspace"
 		]
 	}
 }
