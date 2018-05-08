@@ -45,6 +45,7 @@
 
 	// Macro
 	{ "keys": ["ctrl+alt+v"], "command": "run_macro_file", "args": {"file": "Packages/User/align.sublime-macro"} },
+	{ "keys": ["ctrl+alt+b"], "command": "run_macro_file", "args": {"file": "Packages/User/beautify.sublime-macro"} },
 	{ "keys": ["ctrl+q"], "command": "toggle_record_macro" },
 	{ "keys": ["ctrl+shift+q"], "command": "run_macro" },
 

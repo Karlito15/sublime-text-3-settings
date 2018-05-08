@@ -1,17 +1,37 @@
 {
 	"folder_history":
 	[
+		"/D/Server/www/Shipping",
+		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Wamp",
+		"/D/Server/www/immobiliare/src/KW/ImmoBundle",
+		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Eros",
+		"/Q/immobiliare/src",
+		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web",
+		"/D/Server/www/Training/PHP/Bookmarks",
+		"/D/Server/www/Training/PHP/Array-Functions",
+		"/C/Users/Giancarlo/Dropbox/www/__cdn__/vhost",
+		"/D/Server/www/GitHub/Invoice-Ninja",
+		"/C/Users/Giancarlo/Dropbox/www/Projects/Kelly-Kapowski",
+		"/Q/Elsa",
+		"/D/Server/www/Elsa",
+		"/C/Users/Giancarlo/Dropbox/www/- Templates -/2017/Metronic-v4.7.5",
+		"/C/Users/Giancarlo/Dropbox/www/- Templates -/2017/Metronic-v4.7.5/admin-2",
+		"/D/Server/www/Training/PHP/Replace",
+		"/C/Users/Giancarlo/Downloads/Metronic-v4.7.5/admin-1-rounded",
+		"/C/Users/Giancarlo/Downloads/Metronic-v4.7.5/admin-1-material-design",
+		"/D/Server/www/Demo/Potential",
+		"/D/Server/www/Demo/Finance",
 		"/C/Users/Giancarlo/Dropbox/www/- Templates -/Admin/backend-dashboard-admin-template/admin-top-menu/material-default",
 		"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link",
 		"/D/Server/www/CodeIgniter/Wamp",
 		"/Q/hal"
 	],
-	"last_version": 3143,
-	"last_window_id": 751,
+	"last_version": 3170,
+	"last_window_id": 826,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 666.0,
+		"new_window_height": 667.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -19,24 +39,132 @@
 				"selected_items":
 				[
 					[
-						"url",
-						"urlShow"
+						"col",
+						"col-3 \tBootstrap 4 Class"
 					],
 					[
-						"col-lg",
-						"col-lg-5"
+						"di",
+						"div\tTag"
+					],
+					[
+						"script",
+						"script\tTag"
+					],
+					[
+						"scr",
+						"script"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"se",
+						"second"
+					],
+					[
+						"lorem",
+						"lorem\tlorem - Medium paragraph"
+					],
+					[
+						"dis",
+						"disabled"
+					],
+					[
+						"d",
+						"disabled \tBootstrap 4 Class"
+					],
+					[
+						"a",
+						"annonces"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"text-d",
+						"text-danger \tBootstrap 4 Class"
+					],
+					[
+						"s",
+						"second"
+					],
+					[
+						"f",
+						"first"
+					],
+					[
+						"bloc",
+						"d-block \tBootstrap 4 Class"
+					],
+					[
+						"link",
+						"btn-link \tBootstrap 4 Class"
+					],
+					[
+						"table-",
+						"table-bordered \tBootstrap 4 Class"
+					],
+					[
+						"mt-3",
+						"mt-lg-3 \tBootstrap 4 Class"
+					],
+					[
+						"ta",
+						"table-hover \tBootstrap 4 Class"
+					],
+					[
+						"bg-",
+						"bg-inverse \tBootstrap 4 Class"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"text-s",
+						"text-success \tBootstrap 4 Class"
+					],
+					[
+						"load",
+						"load_view\tCI - Load View"
+					],
+					[
+						"text-sm",
+						"text-sm-right \tBootstrap 4 Class"
+					],
+					[
+						"pull--",
+						"pull-lg-2 \tBootstrap 4 Class"
+					],
+					[
+						"text-w",
+						"text-white \tBootstrap 4 Class"
 					],
 					[
 						"text-",
-						"text-light"
+						"text-info \tBootstrap 4 Class"
 					],
 					[
-						"html",
-						"htmlboiler\thtmlboiler"
+						"form-",
+						"col-form-label \tBootstrap 4 Class"
 					],
 					[
-						"Res",
-						"Resume"
+						"form-c",
+						"form-control \tBootstrap 4 Class"
+					],
+					[
+						"c",
+						"class\tAttr"
+					],
+					[
+						"btn-ou",
+						"btn-outline-primary \tBootstrap 4 Class"
 					]
 				]
 			},
@@ -47,15 +175,11 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "prett",
+				"last_filter": "pretty",
 				"selected_items":
 				[
 					[
-						"prett",
-						"HTMLPrettify"
-					],
-					[
-						"prettify",
+						"pretty",
 						"HTMLPrettify"
 					]
 				],
@@ -79,138 +203,131 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Command/InstallCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Migrations/VersionSoccer.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Migrations/VersionUser.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/DataFixtures/ORM/LoadUsersLoginData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/DataFixtures/ORM/LoadUsersMemberData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/App_Club_OrganizationType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/App_TeamType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/CategoryType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/ClubType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/CompetitionType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/DivisionType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/EquipmentType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/GroundType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/PersonType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/RoleType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/SeasonType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/SizeType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/StadiumType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/TeamType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Command/PurgeCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/App_Club_OrganizationController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/App_TeamController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/CategoryController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/ClubController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/CompetitionController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/DashboardController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/DivisionController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/EquipmentController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/GroundController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/PersonController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/RoleController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/SeasonController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/SizeController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/StadiumController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/TeamController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Division/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Team/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Stadium/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Size/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Season/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Role/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Person/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Ground/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Equipment/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Division/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Competition/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Club/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Category/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-team/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-club-organization/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Team/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Stadium/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Size/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Season/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Role/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Person/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Ground/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Equipment/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Competition/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Club/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Category/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-team/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-club-organization/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/views/Information/contact.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/translations/messages.en.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/translations/messages.fr.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/F1/web/app_dev.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Functional/app/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/translations/messages.fr.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/translations/messages.en.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/translations/messages.fr.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/translations/messages.en.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/public/js/football.js",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/css/custom.css",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/public/css/custom.css",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/serialization.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/services.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/validation.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/stadium.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/team.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/size.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/season.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/role.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/person.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/ground.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/division.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/equipment.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/competition.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/club.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/category.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/app-club-organization.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/app-team.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/api.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/config/routing.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/App_Club_Organization.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/App_Team.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Club.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Category.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Division.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Competition.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Equipment.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Ground.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Person.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Season.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Role.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Stadium.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Size.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Team.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/App_Club_OrganizationRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/App_TeamRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/CategoryRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/ClubRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/CompetitionRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/DivisionRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/EquipmentRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/GroundRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/RoleRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/PersonRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/SeasonRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/SizeRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/StadiumRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/TeamRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/App_Team.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/Category.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/Club.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/Competition.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Entity/Division.php"
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.lock",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/README.md",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.editorconfig",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.gitignore",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.git/config",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Welcome.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/homepage.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/layout.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/application.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/error.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/loader.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/404.png",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/logo.png",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/logo.svg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/git.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/composer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/head.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/header.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/loader.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/footer.php",
+				"/D/Server/www/2018-03-30.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/scripts/application.js",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/plugins/pagemap/pagemap.min.js",
+				"/C/Users/Giancarlo/Downloads/Hip-Hop.html",
+				"/C/Users/Giancarlo/Downloads/Foot.html",
+				"/C/Users/Giancarlo/Downloads/F1.html",
+				"/C/Users/Giancarlo/Downloads/Mafia.html",
+				"/Q/__cdn__/images/logos/SVG/grey-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/grey-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/grey-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/black-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/yellow-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/blue-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/green-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/orange-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/red-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/black-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/yellow-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/red-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/orange-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/green-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/blue-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/yellow-web.svg",
+				"/Q/__cdn__/images/logos/SVG/black-web.svg",
+				"/Q/__cdn__/images/logos/SVG/blue-web.svg",
+				"/Q/__cdn__/images/logos/SVG/green-web.svg",
+				"/Q/__cdn__/images/logos/SVG/grey-web.svg",
+				"/Q/__cdn__/images/logos/SVG/orange-web.svg",
+				"/Q/__cdn__/images/logos/SVG/red-web.svg",
+				"/Q/__cdn__/images/logos/SVG/green-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/black-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/orange-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/yellow-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/red-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/blue-logo.svg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/logo-svg.xml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/production/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/compare_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/compare.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/in_array.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/ArrayFunction.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/alert_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_diff.php",
+				"/D/Server/www/2018-03-29.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/html/error_php.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/routes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_intersect.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/cli/error_404.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/html/error_404.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Memo.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/core/MY_Controller.php",
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/vhost/ci.conf",
+				"/Q/ultron/application/logs/log-2018-03-30.php",
+				"/Q/ultron/application/config/routes.php",
+				"/Q/ultron/application/config/production/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/config.php",
+				"/Q/ultron/application/controllers/ArrayFunction.php",
+				"/Q/ultron/application/controllers/Memo.php",
+				"/Q/ultron/application/logs/log-2018-03-29.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/resume.php",
+				"/L/Adobe PSD/Karlito-Web by Giancarlo PALUMBO/SVG/Horizontal-rouge.svg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_unshift.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_unique.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_pop.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_push.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_shift.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/production/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/core/MY_Lang.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/testing/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/testing/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/config.php",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/erp-link-skeleton_temp.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/.htaccess",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/logo-svg.html",
+				"/Q/ultron/application/config/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/nas.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/log-in.php",
+				"/Q/_memos_/firefox-capture.php",
+				"/Q/_memos_/sendmail.php",
+				"/Q/_memos_/www/composer.php",
+				"/Q/_memos_/www/git.php",
+				"/Q/_memos_/www/nas-memo.txt",
+				"/Q/_memos_/www/index.php",
+				"/Q/_memos_/www/secondary.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/scripts/jquery.min.js",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/logs/log-2018-03-29.php",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/assets_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/styles/404.css",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/licence.txt",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/homer-simpson-images.txt",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-01/styles/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-01/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/content/wamp/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/layout.php"
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 49.0
 			},
 			"find_in_files":
 			{
@@ -218,9 +335,9 @@
 				"where_history":
 				[
 					"<open files>",
-					"",
-					"<open files>",
-					""
+					"<open folders>",
+					"<open files>,<open folders>",
+					"<open files>"
 				]
 			},
 			"find_state":
@@ -228,159 +345,157 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"\t\t\t\t\t'class' => '',\n",
-					"                'attr' => [\n                    'class' => '',\n                ]\n",
-					"'link_index",
-					"            'pageTitle",
-					" 'link_index'",
-					"            'link_index'",
-					"            'pageTitle",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"'link_index",
-					"            'link_index",
-					"link_index",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"            'link_index'",
-					"            'pageTitle",
-					"            'pageTitle'",
-					"            'pageTitle'  => $this->get('translator')->trans('admin.text.size'),\n",
-					"            'link_index'   => 'football_admin_team_index',\n",
-					"            'pageTitle'  => $this->get('translator')->trans('admin.text.team'),\n",
-					"            'pageTitle'             => $this->get('translator')->trans('admin.text.app_club_organization'),\n            'link_index'            => 'football_admin_app_club_organization_index',\n",
-					"ITEM",
-					"'Y-m-d H:i:s'",
-					"ITEM",
-					"    {% block portlet_action %}\n        <div class=\"actions\">\n            <div class=\"btn-group\">\n                <a href=\"{{ path('football_admin_app_club_organization_index') }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.back.to.list'|trans }} </a>\n                <a href=\"{{ path('football_admin_app_club_organization_edit', {'id': app_club_Organization.id}) }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.edit.item'|trans }} </a>\n                <a href=\"{{ path('football_admin_app_club_organization_new') }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.new.item'|trans }} </a>\n            </div>\n        </div>\n    {% endblock %}\n\n",
-					"ITEM",
-					"{{ .id }}",
-					"person",
-					"ITEM",
-					"'football_admin_equipment_show'",
-					"ITEM",
-					"'football_admin_club_show'",
-					"    {% block portlet_action %}\n        <div class=\"actions\">\n            <div class=\"btn-group\">\n                <a href=\"{{ path(link_add) }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.new.item'|trans }} </a>\n            </div>\n        </div>\n\n    {% endblock %}\n\n",
-					"ITEM",
-					"'football_admin_app_team_show'",
-					"ITEM",
-					"    'itemId' : ITEM.id,\n",
-					"app_club_Organization.id",
-					"ITEM",
-					"AIzaSyDPIzIYVUnjkwYQDOhEiJNLkNYFjl7Lacs",
-					"/*  */",
-					"admin_",
-					"AppBundle",
-					"FootballBundle",
-					"Admin/",
-					"admin_",
-					"FootballBundle",
-					"'form-control'",
-					"FootballBundle",
-					"            'action'     => 'new',\n",
-					"'title'",
-					"'link'",
-					":Admin/",
-					"KW\\FootballBundle",
-					"\\Admin;",
-					"\\Front",
-					"/layout/",
-					"filter",
+					"100",
+					"view",
+					"viex",
+					"pres",
+					"1D1D1B",
+					"\t\t\t\t\t\t\t",
+					"\t\t\t\t\t\t\ts",
+					"\t\t\t\t\t\t\tC",
+					"\t\t\t\t\t\t\th",
+					"\t\t\t\t\t\t\t M",
+					"\t\t\t\t\t\t\tl",
+					"\t\t\t\t\t\t\tH",
+					"\t\t\t\t\t\t\tc",
+					"E7E7E7",
+					"1C1C1C",
+					"50%",
+					"1920",
+					"crosshair",
+					" ICON=\"(.*)\"",
+					" ADD_DATE=\"(.*)\"",
+					" ADD_DATE=\"1522090842\"",
+					"EA601C",
+					"FFD300",
+					"007CC0",
+					"FFD300",
+					"C8201B",
+					"\t\t\tv",
+					"_1_",
+					"1D1D1B",
+					"\t\t",
+					"_1_",
+					"#FFF",
+					"#1D1D1B",
+					"\t\t\t\t\th",
+					"\t\t\t\t\ts",
+					"\t\t\t\t\tC",
+					"\t\t\t\t\t ",
+					"\t\t\t\t\tl",
+					"\t\t\t\t\tH",
+					"\t\t\t\tc",
+					"#1D1D1B",
+					"1D1D1B",
+					"_1_",
+					"array ",
+					"]",
+					"end",
+					"span>",
+					", ",
+					"XX</a>",
+					"XX",
+					"54",
+					"</a>",
+					"43",
+					"] => ",
+					"    [208] => ",
+					"/annonce-12052713.html",
+					"-4",
+					"-4 m-4\">\n",
+					"p-4 m-4\">\n",
+					"h4",
+					" class=\"text-danger\"",
+					"diff",
+					"] => ",
+					"\"],",
+					"[\"url\" => ",
+					"<br />",
+					"\"\"],",
+					"[url",
 					"],",
-					"transformers-512x-512.png",
-					"$app['cdn'] . \"/img/avatars/",
-					"'user' => $manager->getRepository(Users::class)->findOneBy(['username'",
-					"png",
-					"starwars-13-512x-512.png",
-					"starwars-12-512x-512.png",
-					"SW-icons-4-512x512.png",
-					"SW-starwars-14-512x-512.png",
-					"'avatar' => \"/",
-					"application.cdn . ",
-					"\"/assets/img/",
-					"app.user.member",
-					" monthly stats",
-					">\n                    <img",
-					"             <img",
-					"<li>\n                    <strong",
-					" <li>\n                    <strong>",
-					"                    <strong",
-					"                    <img",
-					"<img",
-					"/assets/img/",
-					"Bolt UI",
-					"//assets.giancarlo-palumbo.ovh/metronic/",
-					"class=\"bold\"",
-					"<td>",
-					"WWWWW",
-					"@",
-					"cache_clear_nas",
-					"<pre>",
-					"Tools",
-					"fa fa-clipboard",
-					" fa fa-clipboard",
-					"fa-clipboard mt-clipboard",
-					"fa-clipboard ",
-					"include_once(",
-					"html",
-					"cache_warmup",
-					"cache_clear",
-					" border border-white",
-					"<hr>",
-					"<h4 class=\"display-4",
-					"<h2 class=\"display-4",
-					"<dt class=\"col-sm-2 text-light\">",
-					"<dt class=\"col-sm-3 text-light\">",
-					"<dt class=\"col-sm-3 text-light\"></dt>",
-					"border border-danger",
-					" text-center text-info bg-light",
-					"btn btn-dark",
-					"<dt class=\"col-sm-3\">",
-					"<dt class=\"col-sm-2\">",
-					"bg-secondary",
-					"home",
-					"</li>\n            <li class=\"nav-item\">",
-					"            <li class=\"nav-item\">",
-					"<li class=\"nav-item\">",
-					", '",
-					"/' %} {% menu",
-					"' %} {{",
-					"{{%menu['",
-					"{% menu",
-					"''"
+					"m],",
+					"array(\n        \"",
+					"\",\n    )",
+					"# SetEnv CI_ENV development",
+					"],,",
+					"array(\n        \"",
+					"\",\n    )",
+					"SetEnv CI_ENV development",
+					"')\">",
+					">memo/",
+					"\"#\"",
+					"    public function",
+					"array/",
+					"-brand",
+					"navbar",
+					"5%",
+					"stroke-width=\"0.85\" ",
+					"0.85",
+					"fill=\"#FFFFFF\" x1",
+					"stroke=\"#FFFFFF\"",
+					"FFFFFF",
+					"9C9B9B",
+					"#1D1D1B",
+					"stroke-width=\"0.8\"",
+					"stroke-width=\"0.25\"",
+					"0.25",
+					"fill=\"none\" stroke=\"#9D9C9C\"",
+					"none",
+					"\"#\"",
+					"_\"",
+					"site-header",
+					"$fruit",
+					"$print",
+					"stack",
+					"print",
+					"$queue",
+					"9C9B9B",
+					"<!-- ",
+					" -->",
+					"// ",
+					"<!--",
+					"// ",
+					"<!-- <td",
+					"</span>",
+					"array(",
+					"$before",
+					"$stack",
+					" : ",
+					"</h6>",
+					"h2",
+					"<h2>",
+					"\" b",
+					"6",
+					"     =>",
+					"resultValues",
+					"allValues",
+					"h1",
+					"countAfter",
+					"countBefore"
 				],
 				"highlight": true,
 				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
+				"preserve_case": true,
+				"regex": true,
 				"replace_history":
 				[
 					"",
-					"KW\\FootballAdminBundle",
-					"FootballAdminBundle",
+					"\",",
 					"",
-					"football_admin_",
-					"FootballAdminBundle",
-					"''",
-					"FootballAdminBundle",
-					"",
-					"'pageTitle'",
-					"'link_index'",
-					":",
-					"KW\\FootballAdminBundle",
-					";",
-					"",
-					"/img/",
-					"//assets.giancarlo-palumbo.ovh/templates/metronic/",
-					"\t"
+					"\"],",
+					"[\"url",
+					"\"],",
+					"[",
+					"]",
+					"],",
+					"[",
+					"\"],",
+					"40",
+					"72",
+					"$VirtualHost",
+					"$ErrorMessage",
+					"$Error"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -390,20 +505,28 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 27.0
 			},
 			"input":
 			{
-				"height": 41.0
+				"height": 43.0
 			},
 			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 118.0
+			},
 			"output.clipboard_manager":
 			{
 				"height": 800.0
 			},
 			"output.find_results":
 			{
-				"height": 51.0
+				"height": 29.0
 			},
 			"output.mdpopups":
 			{
@@ -412,7 +535,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 84.0
+				"height": 92.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -422,108 +545,8 @@
 				"selected_items":
 				[
 					[
-						"partials/header.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Admin\\Partials\\header.html.twig"
-					],
-					[
-						"portlet_solid.html",
-						"admin-4-material-design\\portlet_solid.html"
-					],
-					[
-						"workfor",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Team\\workforce-datas.html.twig"
-					],
-					[
-						"page_cookie_consent_1.html",
-						"admin-4-material-design\\page_cookie_consent_1.html"
-					],
-					[
-						"ui_buttons.html",
-						"admin-4-material-design\\ui_buttons.html"
-					],
-					[
-						"page_general_blog.html",
-						"admin-4-material-design\\page_general_blog.html"
-					],
-					[
-						"page_general_blog_post.html",
-						"admin-4-material-design\\page_general_blog_post.html"
-					],
-					[
-						"form_controls.html",
-						"admin-4-material-design\\form_controls.html"
-					],
-					[
-						"ui_page_progress_style_1.html",
-						"admin-4-material-design\\ui_page_progress_style_1.html"
-					],
-					[
-						"page_general_about.html",
-						"admin-4-material-design\\page_general_about.html"
-					],
-					[
-						"ayout_blank_page.html",
-						"admin-4-material-design\\layout_blank_page.html"
-					],
-					[
-						"app/config/services.yml",
-						"〈〈    SOCCER    〉〉\\app\\config\\services.yml"
-					],
-					[
-						"/resources/views/admin/layout-content.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Admin\\layout-content.html.twig"
-					],
-					[
-						"/footballbundle/resources/views/front/homepage/index.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Homepage\\index.html.twig"
-					],
-					[
-						"kw/footballbundle/resources/views/front/partials/sidebar.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Partials\\sidebar.html.twig"
-					],
-					[
-						"kw/footballbundle/resources/views/front/layout-content.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\layout-content.html.twig"
-					],
-					[
-						"/footballbundle/tests/controller/admin/competitioncontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\CompetitionControllerTest.php"
-					],
-					[
-						"footballbundle/tests/controller/admin/divisioncontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\DivisionControllerTest.php"
-					],
-					[
-						"bundle/tests/controller/admin/groundcontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\GroundControllerTest.php"
-					],
-					[
-						"lbundle/tests/controller/admin/personcontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\PersonControllerTest.php"
-					],
-					[
-						"/tests/controller/admin/rolecontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\RoleControllerTest.php"
-					],
-					[
-						"/controller/admin/seasoncontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\SeasonControllerTest.php"
-					],
-					[
-						"/tests/controller/admin/sizecontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\SizeControllerTest.php"
-					],
-					[
-						"e/tests/controller/admin/stadiumcontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\StadiumControllerTest.php"
-					],
-					[
-						"/tests/controller/admin/teamcontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\TeamControllerTest.php"
-					],
-					[
-						"layout-c",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\layout-content.html.twig"
+						"foot",
+						"application\\views\\_partials_\\footer.php"
 					]
 				],
 				"width": 0.0
@@ -531,40 +554,20 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "App",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"App",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-App.sublime-project"
-					],
-					[
 						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
-					],
-					[
-						"Api",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Api.sublime-project"
-					],
-					[
-						"t",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
-					],
-					[
-						"Blog",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
-					],
-					[
-						"Im",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					],
 					[
-						"time",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
+						"Immo",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					],
 					[
-						"T",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
+						"immo",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -582,14 +585,14 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 294.0,
+			"side_bar_width": 269.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			}
 		},
-		"new_window_width": 1008.0
+		"new_window_width": 1006.0
 	},
 	"windows":
 	[
@@ -599,29 +602,145 @@
 				"selected_items":
 				[
 					[
-						"url",
-						"urlShow"
+						"col",
+						"col-3 \tBootstrap 4 Class"
 					],
 					[
-						"col-lg",
-						"col-lg-5"
+						"di",
+						"div\tTag"
+					],
+					[
+						"script",
+						"script\tTag"
+					],
+					[
+						"scr",
+						"script"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"se",
+						"second"
+					],
+					[
+						"lorem",
+						"lorem\tlorem - Medium paragraph"
+					],
+					[
+						"dis",
+						"disabled"
+					],
+					[
+						"d",
+						"disabled \tBootstrap 4 Class"
+					],
+					[
+						"a",
+						"annonces"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"text-d",
+						"text-danger \tBootstrap 4 Class"
+					],
+					[
+						"s",
+						"second"
+					],
+					[
+						"f",
+						"first"
+					],
+					[
+						"bloc",
+						"d-block \tBootstrap 4 Class"
+					],
+					[
+						"link",
+						"btn-link \tBootstrap 4 Class"
+					],
+					[
+						"table-",
+						"table-bordered \tBootstrap 4 Class"
+					],
+					[
+						"mt-3",
+						"mt-lg-3 \tBootstrap 4 Class"
+					],
+					[
+						"ta",
+						"table-hover \tBootstrap 4 Class"
+					],
+					[
+						"bg-",
+						"bg-inverse \tBootstrap 4 Class"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"text-s",
+						"text-success \tBootstrap 4 Class"
+					],
+					[
+						"load",
+						"load_view\tCI - Load View"
+					],
+					[
+						"text-sm",
+						"text-sm-right \tBootstrap 4 Class"
+					],
+					[
+						"pull--",
+						"pull-lg-2 \tBootstrap 4 Class"
+					],
+					[
+						"text-w",
+						"text-white \tBootstrap 4 Class"
 					],
 					[
 						"text-",
-						"text-light"
+						"text-info \tBootstrap 4 Class"
 					],
 					[
-						"html",
-						"htmlboiler\thtmlboiler"
+						"form-",
+						"col-form-label \tBootstrap 4 Class"
 					],
 					[
-						"Res",
-						"Resume"
+						"form-c",
+						"form-control \tBootstrap 4 Class"
+					],
+					[
+						"c",
+						"class\tAttr"
+					],
+					[
+						"btn-ou",
+						"btn-outline-primary \tBootstrap 4 Class"
 					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Welcome.php",
+					"settings":
+					{
+						"buffer_size": 363,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -630,20 +749,12 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 279.0,
-				"last_filter": "install",
+				"height": 357.0,
+				"last_filter": "pretty",
 				"selected_items":
 				[
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"prett",
-						"HTMLPrettify"
-					],
-					[
-						"prettify",
+						"pretty",
 						"HTMLPrettify"
 					]
 				],
@@ -667,142 +778,136 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer"
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron"
 			],
 			"file_history":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/.editorconfig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/HomepageController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/BlogController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/ClubController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/InformationController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/MediaController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Controller/TeamController.php",
-				"/D/Program/CMDer/config/settings",
-				"/D/Program/CMDer/config/.history",
-				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/CMDer/.history",
-				"/C/Users/Giancarlo/Dropbox/# CONFIGS #/.gitconfig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Command/InstallCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Migrations/VersionSoccer.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Migrations/VersionUser.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/DataFixtures/ORM/LoadUsersLoginData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/DataFixtures/ORM/LoadUsersMemberData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/App_Club_OrganizationType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/App_TeamType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/CategoryType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/ClubType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/CompetitionType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/DivisionType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/EquipmentType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/GroundType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/PersonType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/RoleType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/SeasonType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/SizeType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/StadiumType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Form/Type/TeamType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Command/PurgeCommand.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/App_Club_OrganizationController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/App_TeamController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/CategoryController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/ClubController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/CompetitionController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/DashboardController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/DivisionController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/EquipmentController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/GroundController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/PersonController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/RoleController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/SeasonController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/SizeController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/StadiumController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Controller/TeamController.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Division/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Team/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Stadium/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Size/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Season/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Role/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Person/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Ground/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Equipment/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Division/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Competition/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Club/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Category/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-team/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-club-organization/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Team/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Stadium/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Size/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Season/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Role/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Person/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Ground/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Equipment/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Competition/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Club/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/Category/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-team/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/views/App-club-organization/index.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/views/Information/contact.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/translations/messages.en.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/translations/messages.fr.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/F1/web/app_dev.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Functional/app/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/translations/messages.fr.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/translations/messages.en.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/translations/messages.fr.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/translations/messages.en.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/public/js/football.js",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/public/css/custom.css",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/public/css/custom.css",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/serialization.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/services.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/validation.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/stadium.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/team.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/size.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/season.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/role.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/person.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/ground.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/division.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/equipment.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/competition.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/club.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/category.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/app-club-organization.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/app-team.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/routing/api.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballBundle/Resources/config/routing.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/App_Club_Organization.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/App_Team.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Club.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Category.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Division.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Competition.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Equipment.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Ground.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Person.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Season.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Role.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Stadium.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Size.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Resources/config/doctrine/Team.orm.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/App_Club_OrganizationRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/App_TeamRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/CategoryRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/ClubRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/CompetitionRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/DivisionRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/EquipmentRepository.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Soccer/src/KW/FootballAdminBundle/Repository/GroundRepository.php"
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.lock",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/README.md",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.editorconfig",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.gitignore",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.git/config",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Welcome.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/homepage.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/layout.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/application.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/error.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/loader.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/404.png",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/logo.png",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/logo.svg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/git.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/composer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/head.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/header.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/loader.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/footer.php",
+				"/D/Server/www/2018-03-30.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/scripts/application.js",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/plugins/pagemap/pagemap.min.js",
+				"/C/Users/Giancarlo/Downloads/Hip-Hop.html",
+				"/C/Users/Giancarlo/Downloads/Foot.html",
+				"/C/Users/Giancarlo/Downloads/F1.html",
+				"/C/Users/Giancarlo/Downloads/Mafia.html",
+				"/Q/__cdn__/images/logos/SVG/grey-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/grey-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/grey-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/black-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/yellow-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/blue-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/green-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/orange-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/red-horizontal.svg",
+				"/Q/__cdn__/images/logos/SVG/black-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/yellow-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/red-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/orange-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/green-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/blue-vertical.svg",
+				"/Q/__cdn__/images/logos/SVG/yellow-web.svg",
+				"/Q/__cdn__/images/logos/SVG/black-web.svg",
+				"/Q/__cdn__/images/logos/SVG/blue-web.svg",
+				"/Q/__cdn__/images/logos/SVG/green-web.svg",
+				"/Q/__cdn__/images/logos/SVG/grey-web.svg",
+				"/Q/__cdn__/images/logos/SVG/orange-web.svg",
+				"/Q/__cdn__/images/logos/SVG/red-web.svg",
+				"/Q/__cdn__/images/logos/SVG/green-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/black-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/orange-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/yellow-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/red-logo.svg",
+				"/Q/__cdn__/images/logos/SVG/blue-logo.svg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/logo-svg.xml",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/production/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/compare_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/compare.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/in_array.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/ArrayFunction.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/alert_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_diff.php",
+				"/D/Server/www/2018-03-29.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/html/error_php.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/routes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_intersect.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/cli/error_404.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/html/error_404.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Memo.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/core/MY_Controller.php",
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/vhost/ci.conf",
+				"/Q/ultron/application/logs/log-2018-03-30.php",
+				"/Q/ultron/application/config/routes.php",
+				"/Q/ultron/application/config/production/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/config.php",
+				"/Q/ultron/application/controllers/ArrayFunction.php",
+				"/Q/ultron/application/controllers/Memo.php",
+				"/Q/ultron/application/logs/log-2018-03-29.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/resume.php",
+				"/L/Adobe PSD/Karlito-Web by Giancarlo PALUMBO/SVG/Horizontal-rouge.svg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_unshift.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_unique.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_pop.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_push.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_shift.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/production/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/core/MY_Lang.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/testing/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/testing/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/config.php",
+				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/erp-link-skeleton_temp.sql",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/.htaccess",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/logo-svg.html",
+				"/Q/ultron/application/config/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/nas.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/log-in.php",
+				"/Q/_memos_/firefox-capture.php",
+				"/Q/_memos_/sendmail.php",
+				"/Q/_memos_/www/composer.php",
+				"/Q/_memos_/www/git.php",
+				"/Q/_memos_/www/nas-memo.txt",
+				"/Q/_memos_/www/index.php",
+				"/Q/_memos_/www/secondary.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/scripts/jquery.min.js",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/logs/log-2018-03-29.php",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/assets_helper.php",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/styles/404.css",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/licence.txt",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/homer-simpson-images.txt",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-01/styles/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-01/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/content/wamp/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/layout.php"
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 49.0
 			},
 			"find_in_files":
 			{
@@ -810,9 +915,9 @@
 				"where_history":
 				[
 					"<open files>",
-					"",
-					"<open files>",
-					""
+					"<open folders>",
+					"<open files>,<open folders>",
+					"<open files>"
 				]
 			},
 			"find_state":
@@ -820,159 +925,157 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"    \t$response = $this->cacheETag($request);\n\n        // Or render a template with the $response you've already started\n",
-					"\t\t// Cache\n\t\t$response = $this->cacheETag($request);\n\n",
-					"        $response = $this->cacheETag($request);\n        // Or render a template with the $response you've already started\n",
-					"\t\t\t\t\t'class' => '',\n",
-					"                'attr' => [\n                    'class' => '',\n                ]\n",
-					"'link_index",
-					"            'pageTitle",
-					" 'link_index'",
-					"            'link_index'",
-					"            'pageTitle",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"'link_index",
-					"            'link_index",
-					"link_index",
-					"            'link_index",
-					"            'pageTitle",
-					"            'link_index",
-					"            'link_index'",
-					"            'pageTitle",
-					"            'pageTitle'",
-					"            'pageTitle'  => $this->get('translator')->trans('admin.text.size'),\n",
-					"            'link_index'   => 'football_admin_team_index',\n",
-					"            'pageTitle'  => $this->get('translator')->trans('admin.text.team'),\n",
-					"            'pageTitle'             => $this->get('translator')->trans('admin.text.app_club_organization'),\n            'link_index'            => 'football_admin_app_club_organization_index',\n",
-					"ITEM",
-					"'Y-m-d H:i:s'",
-					"ITEM",
-					"    {% block portlet_action %}\n        <div class=\"actions\">\n            <div class=\"btn-group\">\n                <a href=\"{{ path('football_admin_app_club_organization_index') }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.back.to.list'|trans }} </a>\n                <a href=\"{{ path('football_admin_app_club_organization_edit', {'id': app_club_Organization.id}) }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.edit.item'|trans }} </a>\n                <a href=\"{{ path('football_admin_app_club_organization_new') }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.new.item'|trans }} </a>\n            </div>\n        </div>\n    {% endblock %}\n\n",
-					"ITEM",
-					"{{ .id }}",
-					"person",
-					"ITEM",
-					"'football_admin_equipment_show'",
-					"ITEM",
-					"'football_admin_club_show'",
-					"    {% block portlet_action %}\n        <div class=\"actions\">\n            <div class=\"btn-group\">\n                <a href=\"{{ path(link_add) }}\" class=\"btn btn-sm btn-primary\"> {{ 'admin.link.new.item'|trans }} </a>\n            </div>\n        </div>\n\n    {% endblock %}\n\n",
-					"ITEM",
-					"'football_admin_app_team_show'",
-					"ITEM",
-					"    'itemId' : ITEM.id,\n",
-					"app_club_Organization.id",
-					"ITEM",
-					"AIzaSyDPIzIYVUnjkwYQDOhEiJNLkNYFjl7Lacs",
-					"/*  */",
-					"admin_",
-					"AppBundle",
-					"FootballBundle",
-					"Admin/",
-					"admin_",
-					"FootballBundle",
-					"'form-control'",
-					"FootballBundle",
-					"            'action'     => 'new',\n",
-					"'title'",
-					"'link'",
-					":Admin/",
-					"KW\\FootballBundle",
-					"\\Admin;",
-					"\\Front",
-					"/layout/",
-					"filter",
+					"100",
+					"view",
+					"viex",
+					"pres",
+					"1D1D1B",
+					"\t\t\t\t\t\t\t",
+					"\t\t\t\t\t\t\ts",
+					"\t\t\t\t\t\t\tC",
+					"\t\t\t\t\t\t\th",
+					"\t\t\t\t\t\t\t M",
+					"\t\t\t\t\t\t\tl",
+					"\t\t\t\t\t\t\tH",
+					"\t\t\t\t\t\t\tc",
+					"E7E7E7",
+					"1C1C1C",
+					"50%",
+					"1920",
+					"crosshair",
+					" ICON=\"(.*)\"",
+					" ADD_DATE=\"(.*)\"",
+					" ADD_DATE=\"1522090842\"",
+					"EA601C",
+					"FFD300",
+					"007CC0",
+					"FFD300",
+					"C8201B",
+					"\t\t\tv",
+					"_1_",
+					"1D1D1B",
+					"\t\t",
+					"_1_",
+					"#FFF",
+					"#1D1D1B",
+					"\t\t\t\t\th",
+					"\t\t\t\t\ts",
+					"\t\t\t\t\tC",
+					"\t\t\t\t\t ",
+					"\t\t\t\t\tl",
+					"\t\t\t\t\tH",
+					"\t\t\t\tc",
+					"#1D1D1B",
+					"1D1D1B",
+					"_1_",
+					"array ",
+					"]",
+					"end",
+					"span>",
+					", ",
+					"XX</a>",
+					"XX",
+					"54",
+					"</a>",
+					"43",
+					"] => ",
+					"    [208] => ",
+					"/annonce-12052713.html",
+					"-4",
+					"-4 m-4\">\n",
+					"p-4 m-4\">\n",
+					"h4",
+					" class=\"text-danger\"",
+					"diff",
+					"] => ",
+					"\"],",
+					"[\"url\" => ",
+					"<br />",
+					"\"\"],",
+					"[url",
 					"],",
-					"transformers-512x-512.png",
-					"$app['cdn'] . \"/img/avatars/",
-					"'user' => $manager->getRepository(Users::class)->findOneBy(['username'",
-					"png",
-					"starwars-13-512x-512.png",
-					"starwars-12-512x-512.png",
-					"SW-icons-4-512x512.png",
-					"SW-starwars-14-512x-512.png",
-					"'avatar' => \"/",
-					"application.cdn . ",
-					"\"/assets/img/",
-					"app.user.member",
-					" monthly stats",
-					">\n                    <img",
-					"             <img",
-					"<li>\n                    <strong",
-					" <li>\n                    <strong>",
-					"                    <strong",
-					"                    <img",
-					"<img",
-					"/assets/img/",
-					"Bolt UI",
-					"//assets.giancarlo-palumbo.ovh/metronic/",
-					"class=\"bold\"",
-					"<td>",
-					"WWWWW",
-					"@",
-					"cache_clear_nas",
-					"<pre>",
-					"Tools",
-					"fa fa-clipboard",
-					" fa fa-clipboard",
-					"fa-clipboard mt-clipboard",
-					"fa-clipboard ",
-					"include_once(",
-					"html",
-					"cache_warmup",
-					"cache_clear",
-					" border border-white",
-					"<hr>",
-					"<h4 class=\"display-4",
-					"<h2 class=\"display-4",
-					"<dt class=\"col-sm-2 text-light\">",
-					"<dt class=\"col-sm-3 text-light\">",
-					"<dt class=\"col-sm-3 text-light\"></dt>",
-					"border border-danger",
-					" text-center text-info bg-light",
-					"btn btn-dark",
-					"<dt class=\"col-sm-3\">",
-					"<dt class=\"col-sm-2\">",
-					"bg-secondary",
-					"home",
-					"</li>\n            <li class=\"nav-item\">",
-					"            <li class=\"nav-item\">",
-					"<li class=\"nav-item\">",
-					", '",
-					"/' %} {% menu",
-					"' %} {{"
+					"m],",
+					"array(\n        \"",
+					"\",\n    )",
+					"# SetEnv CI_ENV development",
+					"],,",
+					"array(\n        \"",
+					"\",\n    )",
+					"SetEnv CI_ENV development",
+					"')\">",
+					">memo/",
+					"\"#\"",
+					"    public function",
+					"array/",
+					"-brand",
+					"navbar",
+					"5%",
+					"stroke-width=\"0.85\" ",
+					"0.85",
+					"fill=\"#FFFFFF\" x1",
+					"stroke=\"#FFFFFF\"",
+					"FFFFFF",
+					"9C9B9B",
+					"#1D1D1B",
+					"stroke-width=\"0.8\"",
+					"stroke-width=\"0.25\"",
+					"0.25",
+					"fill=\"none\" stroke=\"#9D9C9C\"",
+					"none",
+					"\"#\"",
+					"_\"",
+					"site-header",
+					"$fruit",
+					"$print",
+					"stack",
+					"print",
+					"$queue",
+					"9C9B9B",
+					"<!-- ",
+					" -->",
+					"// ",
+					"<!--",
+					"// ",
+					"<!-- <td",
+					"</span>",
+					"array(",
+					"$before",
+					"$stack",
+					" : ",
+					"</h6>",
+					"h2",
+					"<h2>",
+					"\" b",
+					"6",
+					"     =>",
+					"resultValues",
+					"allValues",
+					"h1",
+					"countAfter",
+					"countBefore"
 				],
 				"highlight": true,
 				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
+				"preserve_case": true,
+				"regex": true,
 				"replace_history":
 				[
 					"",
-					"KW\\FootballAdminBundle",
-					"FootballAdminBundle",
+					"\",",
 					"",
-					"football_admin_",
-					"FootballAdminBundle",
-					"''",
-					"FootballAdminBundle",
-					"",
-					"'pageTitle'",
-					"'link_index'",
-					":",
-					"KW\\FootballAdminBundle",
-					";",
-					"",
-					"/img/",
-					"//assets.giancarlo-palumbo.ovh/templates/metronic/",
-					"\t"
+					"\"],",
+					"[\"url",
+					"\"],",
+					"[",
+					"]",
+					"],",
+					"[",
+					"\"],",
+					"40",
+					"72",
+					"$VirtualHost",
+					"$ErrorMessage",
+					"$Error"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -983,18 +1086,209 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Welcome.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 363,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.109.region_keys":
+									[
+									],
+									"WordCount":
+									{
+										"changes": -1,
+										"modified": true,
+										"selection": true,
+										"status": -1,
+										"syntax": "php"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 109,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 27.0
 			},
 			"input":
 			{
-				"height": 41.0
+				"height": 43.0
 			},
 			"layout":
 			{
@@ -1019,24 +1313,32 @@
 				]
 			},
 			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 118.0
+			},
 			"output.clipboard_manager":
 			{
 				"height": 800.0
 			},
 			"output.find_results":
 			{
-				"height": 51.0
+				"height": 29.0
 			},
 			"output.mdpopups":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,848,-7,123,1017",
-			"project": "Hal-Soccer.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,872,2157,146,3179",
+			"project": "CodeIgniter-Ultron.sublime-project",
 			"replace":
 			{
-				"height": 84.0
+				"height": 92.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1046,108 +1348,8 @@
 				"selected_items":
 				[
 					[
-						"partials/header.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Admin\\Partials\\header.html.twig"
-					],
-					[
-						"portlet_solid.html",
-						"admin-4-material-design\\portlet_solid.html"
-					],
-					[
-						"workfor",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Team\\workforce-datas.html.twig"
-					],
-					[
-						"page_cookie_consent_1.html",
-						"admin-4-material-design\\page_cookie_consent_1.html"
-					],
-					[
-						"ui_buttons.html",
-						"admin-4-material-design\\ui_buttons.html"
-					],
-					[
-						"page_general_blog.html",
-						"admin-4-material-design\\page_general_blog.html"
-					],
-					[
-						"page_general_blog_post.html",
-						"admin-4-material-design\\page_general_blog_post.html"
-					],
-					[
-						"form_controls.html",
-						"admin-4-material-design\\form_controls.html"
-					],
-					[
-						"ui_page_progress_style_1.html",
-						"admin-4-material-design\\ui_page_progress_style_1.html"
-					],
-					[
-						"page_general_about.html",
-						"admin-4-material-design\\page_general_about.html"
-					],
-					[
-						"ayout_blank_page.html",
-						"admin-4-material-design\\layout_blank_page.html"
-					],
-					[
-						"app/config/services.yml",
-						"〈〈    SOCCER    〉〉\\app\\config\\services.yml"
-					],
-					[
-						"/resources/views/admin/layout-content.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Admin\\layout-content.html.twig"
-					],
-					[
-						"/footballbundle/resources/views/front/homepage/index.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Homepage\\index.html.twig"
-					],
-					[
-						"kw/footballbundle/resources/views/front/partials/sidebar.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\Partials\\sidebar.html.twig"
-					],
-					[
-						"kw/footballbundle/resources/views/front/layout-content.html.twig",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\layout-content.html.twig"
-					],
-					[
-						"/footballbundle/tests/controller/admin/competitioncontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\CompetitionControllerTest.php"
-					],
-					[
-						"footballbundle/tests/controller/admin/divisioncontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\DivisionControllerTest.php"
-					],
-					[
-						"bundle/tests/controller/admin/groundcontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\GroundControllerTest.php"
-					],
-					[
-						"lbundle/tests/controller/admin/personcontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\PersonControllerTest.php"
-					],
-					[
-						"/tests/controller/admin/rolecontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\RoleControllerTest.php"
-					],
-					[
-						"/controller/admin/seasoncontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\SeasonControllerTest.php"
-					],
-					[
-						"/tests/controller/admin/sizecontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\SizeControllerTest.php"
-					],
-					[
-						"e/tests/controller/admin/stadiumcontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\StadiumControllerTest.php"
-					],
-					[
-						"/tests/controller/admin/teamcontrollertest.php",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Tests\\Controller\\Admin\\TeamControllerTest.php"
-					],
-					[
-						"layout-c",
-						"〈〈    SOCCER    〉〉\\src\\KW\\FootballBundle\\Resources\\views\\Front\\layout-content.html.twig"
+						"foot",
+						"application\\views\\_partials_\\footer.php"
 					]
 				],
 				"width": 0.0
@@ -1155,40 +1357,20 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "App",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"App",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-App.sublime-project"
-					],
-					[
 						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
-					],
-					[
-						"Api",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Api.sublime-project"
-					],
-					[
-						"t",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
-					],
-					[
-						"Blog",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Blog.sublime-project"
-					],
-					[
-						"Im",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					],
 					[
-						"time",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
+						"Immo",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					],
 					[
-						"T",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Timeout.sublime-project"
+						"immo",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1205,34 +1387,47 @@
 			"selected_group": 0,
 			"settings":
 			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				]
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 294.0,
+			"side_bar_width": 269.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			},
-			"window_id": 749,
-			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Soccer.sublime-workspace"
+			"window_id": 817,
+			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Ultron.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Ultron.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Wamp.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Colossus.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Api.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Karlito-Web.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Soccer.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Blog.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Api.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Whore.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-F1.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Wamp.sublime-workspace"
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Blog.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Kelly-Kapowski.sublime-workspace"
 		]
 	}
 }
