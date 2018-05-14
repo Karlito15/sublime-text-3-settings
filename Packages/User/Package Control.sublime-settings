@@ -2,9 +2,7 @@
 	"auto_upgrade": true,
 	"auto_upgrade_frequency": 168,
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
+	"in_process_packages": [],
 	"install_missing": true,
 	"installed_packages":
 	[

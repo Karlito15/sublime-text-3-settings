@@ -1,10 +1,10 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Eros",
 		"/D/Server/www/Shipping",
 		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Wamp",
 		"/D/Server/www/immobiliare/src/KW/ImmoBundle",
-		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Eros",
 		"/Q/immobiliare/src",
 		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web",
 		"/D/Server/www/Training/PHP/Bookmarks",
@@ -26,8 +26,8 @@
 		"/D/Server/www/CodeIgniter/Wamp",
 		"/Q/hal"
 	],
-	"last_version": 3170,
-	"last_window_id": 826,
+	"last_version": 3176,
+	"last_window_id": 830,
 	"log_indexing": false,
 	"settings":
 	{
@@ -39,132 +39,68 @@
 				"selected_items":
 				[
 					[
-						"col",
-						"col-3 \tBootstrap 4 Class"
-					],
-					[
-						"di",
-						"div\tTag"
-					],
-					[
-						"script",
-						"script\tTag"
-					],
-					[
-						"scr",
-						"script"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"se",
-						"second"
-					],
-					[
 						"lorem",
-						"lorem\tlorem - Medium paragraph"
-					],
-					[
-						"dis",
-						"disabled"
-					],
-					[
-						"d",
-						"disabled \tBootstrap 4 Class"
-					],
-					[
-						"a",
-						"annonces"
+						"lorem\tlorem - One sentence"
 					],
 					[
 						"for",
 						"foreach\tforeach …"
 					],
 					[
-						"text-d",
-						"text-danger \tBootstrap 4 Class"
+						"con",
+						"contact"
 					],
 					[
-						"s",
-						"second"
+						"attr",
+						"attribute"
 					],
 					[
-						"f",
-						"first"
+						"r",
+						"rgba()"
 					],
 					[
-						"bloc",
-						"d-block \tBootstrap 4 Class"
+						"back",
+						"background-color"
 					],
 					[
-						"link",
-						"btn-link \tBootstrap 4 Class"
+						"sys",
+						"system_path"
 					],
 					[
-						"table-",
-						"table-bordered \tBootstrap 4 Class"
+						"var",
+						"var_dump"
 					],
 					[
-						"mt-3",
-						"mt-lg-3 \tBootstrap 4 Class"
+						"d",
+						"disabled \tBootstrap 4 Class"
 					],
 					[
-						"ta",
-						"table-hover \tBootstrap 4 Class"
+						"btn-da",
+						"btn-danger \tBootstrap 4 Class"
 					],
 					[
-						"bg-",
-						"bg-inverse \tBootstrap 4 Class"
+						"btn",
+						"btn-group-lg \tBootstrap 4 Class"
 					],
 					[
-						"prin",
-						"print_r"
+						"btn-dan",
+						"btn-danger"
 					],
 					[
-						"arra",
-						"array"
+						"btn-outline-s",
+						"btn-outline-success \tBootstrap 4 Class"
 					],
 					[
-						"text-s",
-						"text-success \tBootstrap 4 Class"
+						"btn-out",
+						"btn-outline-success"
 					],
 					[
-						"load",
-						"load_view\tCI - Load View"
+						"btn-o",
+						"btn-outline-success \tBootstrap 4 Class"
 					],
 					[
-						"text-sm",
-						"text-sm-right \tBootstrap 4 Class"
-					],
-					[
-						"pull--",
-						"pull-lg-2 \tBootstrap 4 Class"
-					],
-					[
-						"text-w",
-						"text-white \tBootstrap 4 Class"
-					],
-					[
-						"text-",
-						"text-info \tBootstrap 4 Class"
-					],
-					[
-						"form-",
-						"col-form-label \tBootstrap 4 Class"
-					],
-					[
-						"form-c",
-						"form-control \tBootstrap 4 Class"
-					],
-					[
-						"c",
-						"class\tAttr"
-					],
-					[
-						"btn-ou",
-						"btn-outline-primary \tBootstrap 4 Class"
+						"html",
+						"htmlboiler\thtmlboiler"
 					]
 				]
 			},
@@ -175,12 +111,28 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "pretty",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
 						"pretty",
 						"HTMLPrettify"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"trimmer",
+						"Trimmer: Trim trailing whitespace."
+					],
+					[
+						"package d",
+						"Package Control: Disable Package"
+					],
+					[
+						"package",
+						"Package Control: Enable Package"
 					]
 				],
 				"width": 558.0
@@ -203,141 +155,148 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.lock",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/README.md",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.editorconfig",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.gitignore",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.git/config",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Welcome.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/homepage.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/footer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/header.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/meta.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/preload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/scripts.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/about.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/banner.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/contact.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/model.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/portfolio.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/service.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/team.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/testimonial.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/price.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/counter.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/icons.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/modal.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/Homepage.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/layout.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/routes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/projects.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/slider.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/codes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/tax.php",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/codes.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/projects.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/icons.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/about.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/contact.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/About.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/Projects.php",
+				"/C/Users/Giancarlo/Downloads/IPTV France M3u Channels Update 13-05-2018.m3u",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/header.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/Contact.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/helpers/assets_helper.php",
+				"/Q/__cdn__/.htaccess",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/assets.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/bootstrap.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/newsletter.send.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/contact.send.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/core/MY_Controller.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/favicon/favicon.ico",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Eros/application/Isabelle/config/assets.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Eros/application/Isabelle/config/constants.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/constants.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/development/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/development/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/production/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/production/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/2018-04-02.html",
+				"/C/Users/Giancarlo/Desktop/new 1.txt",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/js/main.js",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/main.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/subfooter.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/slide_thumb_1.jpg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/slide1.jpg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/slide3.jpg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/slide4.jpg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/yellow-web.svg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/revolution.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/speakers.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/program.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/venue.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/download.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/gallery.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/sponsors.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/helper.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/font.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/salvattore.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/revolution-extralayers.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/pe-icon-7-stroke.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/owl.transitions.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/owl.theme.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/owl.carousel.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/jquery.countdown.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/jquery.mCustomScrollbar.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/magnific-popup.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/font-awesome.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/animate.min.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/highlight.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/info.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/register.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/footer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/funfacts.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/gmap_canvas.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/tp-banner-container.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/index (2).html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/info.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/speakers.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/program.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/download.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/venue.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/funfacts.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/register.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/gallery.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/testimonial.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/sponsors.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/gmap_canvas.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/subfooter.php",
 				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/layout.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/application.css",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/error.css",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/loader.css",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/404.png",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/logo.png",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/logo.svg",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/git.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/composer.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/head.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/header.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/loader.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/footer.php",
-				"/D/Server/www/2018-03-30.html",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/scripts/application.js",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/plugins/pagemap/pagemap.min.js",
-				"/C/Users/Giancarlo/Downloads/Hip-Hop.html",
-				"/C/Users/Giancarlo/Downloads/Foot.html",
-				"/C/Users/Giancarlo/Downloads/F1.html",
-				"/C/Users/Giancarlo/Downloads/Mafia.html",
-				"/Q/__cdn__/images/logos/SVG/grey-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/grey-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/grey-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/black-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/yellow-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/blue-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/green-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/orange-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/red-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/black-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/yellow-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/red-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/orange-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/green-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/blue-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/yellow-web.svg",
-				"/Q/__cdn__/images/logos/SVG/black-web.svg",
-				"/Q/__cdn__/images/logos/SVG/blue-web.svg",
-				"/Q/__cdn__/images/logos/SVG/green-web.svg",
-				"/Q/__cdn__/images/logos/SVG/grey-web.svg",
-				"/Q/__cdn__/images/logos/SVG/orange-web.svg",
-				"/Q/__cdn__/images/logos/SVG/red-web.svg",
-				"/Q/__cdn__/images/logos/SVG/green-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/black-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/orange-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/yellow-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/red-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/blue-logo.svg",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/navigation.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/logo-svg.xml",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/production/config.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/meta.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/welcome_message.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.gitignore",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.editorconfig",
 				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/compare_helper.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/compare.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/in_array.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/ArrayFunction.php",
 				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/alert_helper.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_diff.php",
-				"/D/Server/www/2018-03-29.html",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/html/error_php.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/routes.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_intersect.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/cli/error_404.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/html/error_404.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Memo.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/core/MY_Controller.php",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/vhost/ci.conf",
-				"/Q/ultron/application/logs/log-2018-03-30.php",
-				"/Q/ultron/application/config/routes.php",
-				"/Q/ultron/application/config/production/config.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/config.php",
-				"/Q/ultron/application/controllers/ArrayFunction.php",
-				"/Q/ultron/application/controllers/Memo.php",
-				"/Q/ultron/application/logs/log-2018-03-29.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/resume.php",
-				"/L/Adobe PSD/Karlito-Web by Giancarlo PALUMBO/SVG/Horizontal-rouge.svg",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_unshift.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_unique.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_pop.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_push.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_shift.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/production/database.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/index.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/core/MY_Lang.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/database.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/testing/config.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/testing/database.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/config.php",
-				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/erp-link-skeleton_temp.sql",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/.htaccess",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/logo-svg.html",
-				"/Q/ultron/application/config/config.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/nas.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/log-in.php",
-				"/Q/_memos_/firefox-capture.php",
-				"/Q/_memos_/sendmail.php",
-				"/Q/_memos_/www/composer.php",
-				"/Q/_memos_/www/git.php",
-				"/Q/_memos_/www/nas-memo.txt",
-				"/Q/_memos_/www/index.php",
-				"/Q/_memos_/www/secondary.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/scripts/jquery.min.js",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/logs/log-2018-03-29.php",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/index.html",
 				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/assets_helper.php",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/styles/404.css",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/licence.txt",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/homer-simpson-images.txt",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-01/styles/index.html",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-01/index.html",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/content/wamp/index.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/layout.php"
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/migration.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/mimes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/profiler.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/routes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/smileys.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/user_agents.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/constants.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/__cdn__/vhost/karlito-web.conf"
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 205.0
 			},
 			"find_in_files":
 			{
-				"height": 158.0,
+				"height": 135.0,
 				"where_history":
 				[
 					"<open files>",
-					"<open folders>",
-					"<open files>,<open folders>",
-					"<open files>"
+					"",
+					"<open files>",
+					""
 				]
 			},
 			"find_state":
@@ -345,157 +304,192 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"100",
-					"view",
-					"viex",
-					"pres",
-					"1D1D1B",
-					"\t\t\t\t\t\t\t",
-					"\t\t\t\t\t\t\ts",
-					"\t\t\t\t\t\t\tC",
-					"\t\t\t\t\t\t\th",
-					"\t\t\t\t\t\t\t M",
-					"\t\t\t\t\t\t\tl",
-					"\t\t\t\t\t\t\tH",
-					"\t\t\t\t\t\t\tc",
-					"E7E7E7",
-					"1C1C1C",
-					"50%",
-					"1920",
-					"crosshair",
-					" ICON=\"(.*)\"",
-					" ADD_DATE=\"(.*)\"",
-					" ADD_DATE=\"1522090842\"",
-					"EA601C",
-					"FFD300",
-					"007CC0",
-					"FFD300",
-					"C8201B",
-					"\t\t\tv",
-					"_1_",
-					"1D1D1B",
-					"\t\t",
-					"_1_",
-					"#FFF",
-					"#1D1D1B",
-					"\t\t\t\t\th",
-					"\t\t\t\t\ts",
-					"\t\t\t\t\tC",
-					"\t\t\t\t\t ",
-					"\t\t\t\t\tl",
-					"\t\t\t\t\tH",
-					"\t\t\t\tc",
-					"#1D1D1B",
-					"1D1D1B",
-					"_1_",
-					"array ",
-					"]",
-					"end",
-					"span>",
-					", ",
-					"XX</a>",
-					"XX",
-					"54",
-					"</a>",
-					"43",
-					"] => ",
-					"    [208] => ",
-					"/annonce-12052713.html",
-					"-4",
-					"-4 m-4\">\n",
-					"p-4 m-4\">\n",
-					"h4",
-					" class=\"text-danger\"",
-					"diff",
-					"] => ",
-					"\"],",
-					"[\"url\" => ",
-					"<br />",
-					"\"\"],",
-					"[url",
-					"],",
-					"m],",
-					"array(\n        \"",
-					"\",\n    )",
-					"# SetEnv CI_ENV development",
-					"],,",
-					"array(\n        \"",
-					"\",\n    )",
-					"SetEnv CI_ENV development",
-					"')\">",
-					">memo/",
-					"\"#\"",
-					"    public function",
-					"array/",
-					"-brand",
-					"navbar",
-					"5%",
-					"stroke-width=\"0.85\" ",
-					"0.85",
-					"fill=\"#FFFFFF\" x1",
-					"stroke=\"#FFFFFF\"",
-					"FFFFFF",
-					"9C9B9B",
-					"#1D1D1B",
-					"stroke-width=\"0.8\"",
-					"stroke-width=\"0.25\"",
-					"0.25",
-					"fill=\"none\" stroke=\"#9D9C9C\"",
-					"none",
-					"\"#\"",
-					"_\"",
-					"site-header",
-					"$fruit",
-					"$print",
-					"stack",
-					"print",
-					"$queue",
-					"9C9B9B",
-					"<!-- ",
-					" -->",
-					"// ",
+					"\t\t\t<div class=\"subscribe-grid \">\n\t\t\t\t<p>subscribe To receive helpful articles, customer alerts,services &amp; more.</p>\n\t\t\t\t<form action=\"#\" method=\"post\">\n\t\t\t\t\t<input type=\"email\" placeholder=\"Your Email\" name=\"Subscribe\" required>\n\t\t\t\t\t<button class=\"btn1\">\n\t\t\t\t\t\t<i class=\"fa fa-paper-plane-o\" aria-hidden=\"true\"></i>\n\t\t\t\t\t</button>\n\t\t\t\t</form>\n\t\t\t</div>\n",
+					"img",
+					"about.html",
+					"<?php echo site_url(); ?>contact.html",
+					"contact.html",
+					"portfolio.html",
+					"index.html",
+					"images/1.jpg",
+					"jquery.flexslider.js",
+					"<h1>",
+					"index.html",
+					"\t\t\t\t\t\t\t<i",
+					" placeholder=\"\"",
+					"required=\"\"",
+					"=\"\"",
+					"=\" \"",
+					"  ",
+					"\t\t\t\t\t\t\t<img",
+					"<img src=\"images/\" class=\"\" alt=\"\" />",
+					"<img src=\"images/",
+					"<img src=\"",
+					"images/t1.jpg",
+					"\">\n",
+					"XXXXXXXXXXXXXXXXXXXXXX",
+					"screen",
+					"[]",
+					" rel=\"stylesheet\"",
+					"\t\t<title>Invest corporate category Bootstrap Responsive website Template | About :: w3layouts</title>\n",
+					"\t\t<link href=\"css/bootstrap.css\" type=\"text/css\" rel=\"stylesheet\" media=\"all\">\n\t\t<link href=\"css/style.css\" type=\"text/css\" rel=\"stylesheet\" media=\"all\">\n\t\t<link href=\"css/font-awesome.css\" rel=\"stylesheet\">\n",
+					"\t\t<script>\n\t\taddEventListener(\"load\", function() {\n\t\t\tsetTimeout(hideURLbar, 0);\n\t\t}, false);\n\t\tfunction hideURLbar() {\n\t\t\twindow.scrollTo(0, 1);\n\t\t}\n\t\t</script>\n",
+					"\t\t<script>\n\t\taddEventListener(\"load\", function() {\n\t\t\tsetTimeout(hideURLbar, 0);\n\t\t}, false);\n\n\t\tfunction hideURLbar() {\n\t\t\twindow.scrollTo(0, 1);\n\t\t}\n\n\t\t</script>\n",
+					"\t\t<meta charset=\"UTF-8\" />\n",
+					"\t\t<meta name=\"keywords\" content=\"Invest Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design\" />\n",
+					"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n",
+					"<!-- smooth-scrolling-of-move-up -->\n<script src=\"js/SmoothScroll.min.js\"></script>\n",
+					"<!-- Bootstrap core JavaScript\n================================================== -->\n<!-- Placed at the end of the document so the pages load faster -->\n<script src=\"js/bootstrap.js\"></script>\n",
+					"<script>\n$(document).ready(function() {\n\t// var defaults = {\n\t// \tcontainerID: 'toTop', // fading element id\n\t// \tcontainerHoverID: 'toTopHover', // fading element hover id\n\t// \tscrollSpeed: 1200,\n\t// \teasingType: 'linear'\n\t// };\n\t$().UItoTop({\n\t\teasingType: 'easeOutQuart'\n\t});\n});\n</script>\n",
+					"<!-- start-smooth-scrolling -->\n<script src=\"js/move-top.js\"></script>\n<script src=\"js/easing.js\"></script>\n<script>\njQuery(document).ready(function($) {\n});\n</script>\n<!-- //end-smooth-scrolling -->\n",
+					"\t$(\".scroll\").click(function(event) {\n\t\tevent.preventDefault();\n\t\t$('html,body').animate({\n\t\t\tscrollTop: $(this.hash).offset().top\n\t\t}, 1000);\n\t});\n",
+					"<!-- start-smooth-scrolling -->\n<script src=\"js/move-top.js\"></script>\n<script src=\"js/easing.js\"></script>\n<script>\njQuery(document).ready(function($) {\n\t$(\".scroll\").click(function(event) {\n\t\tevent.preventDefault();\n\t\t$('html,body').animate({\n\t\t\tscrollTop: $(this.hash).offset().top\n\t\t}, 1000);\n\t});\n});\n</script>\n<!-- //end-smooth-scrolling -->",
+					"<script>\njQuery(document).ready(function($) {\n\t$(\".scroll\").click(function(event) {\n\t\tevent.preventDefault();\n\t\t$('html,body').animate({\n\t\t\tscrollTop: $(this.hash).offset().top\n\t\t}, 1000);\n\t});\n});\n</script>",
+					"\t/*\n\t   var defaults = {\n\t\t   containerID: 'toTop', // fading element id\n\t\t   containerHoverID: 'toTopHover', // fading element hover id\n\t\t   scrollSpeed: 1200,\n\t\t   easingType: 'linear'\n\t   };\n\t   */\n",
+					"\t\t<div class=\"footer-nav w3ls-section text-center\" id=\"footer\">\n\t\t\t<div class=\"subscribe-grid \">\n\t\t\t\t<p>subscribe To receive helpful articles, customer alerts,services &amp; more.</p>\n\t\t\t\t<form action=\"#\" method=\"post\">\n\t\t\t\t\t<input type=\"email\" placeholder=\"Your Email\" name=\"Subscribe\" required>\n\t\t\t\t\t<button class=\"btn1\">\n\t\t\t\t\t\t<i class=\"fa fa-paper-plane-o\" aria-hidden=\"true\"></i>\n\t\t\t\t\t</button>\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t\t<div class=\"container\">\n\t\t\t\t<div class=\"logo-footer text-center\">\n\t\t\t\t\t<h2><i class=\"fa fa-free-code-camp\" aria-hidden=\"true\"></i><span>i</span>nvest</h2>\n\t\t\t\t</div>\n\t\t\t\t<ul class=\"footer-top\">\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"about.html\">what we do</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"portfolio.html\">our work</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"index.html\">company</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"contact.html\">contact</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t\t<div class=\"social-icons agileits\">\n\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"address\">\n\t\t\t\t\t<p>71 Pilgrim Avenue ,44 Shirley Ave. Goldfield Rd. Broome St, California.</p>\n\t\t\t\t\t<a href=\"mailto:info@example.com\">corporate@mail.com</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n",
+					"\t\t<div class=\"footer-nav w3ls-section text-center\">\n\t\t\t<div class=\"subscribe-grid \">\n\t\t\t\t<p>subscribe To receive helpful articles, customer alerts,services &amp; more.</p>\n\t\t\t\t<form action=\"#\" method=\"post\">\n\t\t\t\t\t<input type=\"email\" placeholder=\"Your Email\" name=\"Subscribe\" required>\n\t\t\t\t\t<button class=\"btn1\">\n\t\t\t\t\t\t<i class=\"fa fa-paper-plane-o\" aria-hidden=\"true\"></i>\n\t\t\t\t\t</button>\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t\t<div class=\"container\">\n\t\t\t\t<div class=\"logo-footer text-center\">\n\t\t\t\t\t<h2><i class=\"fa fa-free-code-camp\" aria-hidden=\"true\"></i><span>i</span>nvest</h2>\n\t\t\t\t</div>\n\t\t\t\t<ul class=\"footer-top\">\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"about.html\">what we do</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"portfolio.html\">our work</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"index.html\">company</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"contact.html\">contact</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t\t<div class=\"social-icons agileits\">\n\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"address\">\n\t\t\t\t\t<p>71 Pilgrim Avenue ,44 Shirley Ave. Goldfield Rd. Broome St, California.</p>\n\t\t\t\t\t<a href=\"mailto:info@example.com\">corporate@mail.com</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n",
+					"\t\t<div class=\"tooltip-content\">\n\t\t\t<div class=\"modal fade features-modal\" id=\"myModal\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n\t\t\t\t<div class=\"modal-dialog modal-md\">\n\t\t\t\t\t<div class=\"modal-content\">\n\t\t\t\t\t\t<div class=\"modal-header\">\n\t\t\t\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n\t\t\t\t\t\t\t<h4 class=\"modal-title\">Invest</h4>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"modal-body\">\n\t\t\t\t\t\t\t<img src=\"images/1.jpg\" class=\"img-responsive\" alt=\"image\">\n\t\t\t\t\t\t\t<p>Fusce et congue nibh, ut ullamcorper magna. Donec ac massa tincidunt, fringilla sapien vel, tempus massa. Vestibulum felis leo, tincidunt sit amet tristique accumsan. In vitae dapibus metus. Donec nec massa non nulla mattis aliquam egestas et mi.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n",
+					"\t\t<div class=\"w3_agile-copyright text-center\">\n\t\t\t<p>© 2018 Invest. All rights reserved | Design by\n\t\t\t\t<a href=\"//w3layouts.com/\">W3layouts</a>\n\t\t\t</p>\n\t\t</div>\n",
+					"=\"\"",
+					"\t\t\t\t\t\t\t<span",
+					"\t<div class=\"container\">\n\t\t<h3 class=\"agileits-title\">02\n\t\t\t\t\t<span>what we offer</span>\n\t\t\t\t</h3>\n\t\t<div class=\"service-head\">\n\t\t\t<div class=\"service  w3_agileits\">\n\t\t\t\t<h4>Future Investment Initiative</h4>\n\t\t\t\t<p>aece placerat eget mi vitae euismod. Du aliquam efficitur.\n\t\t\t\t\t<br>Pellentesque accumsan cursus dui, sodales blandit. </p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n",
+					"<div class=\"about-w3slid\">\n\t<div class=\"container\">\n\t\t<h4>Quality Is An Investment In The Future</h4>\n\t\t<p>Pellentesque accumsan cursus dui, sodales blandit urna sodal vitaepel entesque accumsan cursus dui,sod les</p>\n\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal\" class=\"agile-more\">Read More</a>\n\t</div>\n</div>\n",
+					"<div class=\" w3ls-section w3-about\" id=\"about\">\n\t<div class=\"container\">\n\t\t<div class=\"about-main\">\n\t\t\t<div class=\"w3ls-about-right col-md-6\">\n\t\t\t</div>\n\t\t\t<div class=\"col-md-6 w3_agileits-ab-main\">\n\t\t\t\t<div class=\"about-inner\">\n\t\t\t\t\t<h3 class=\"agileits-title\">01\n\t\t\t\t\t\t\t<span>about us</span>\n\t\t\t\t\t\t</h3>\n\t\t\t\t\t<p class=\"about-text-w3l\">Pellentesque accumsan cursus dui, sodales blandit urna sodal vitaepel entesque accumsan cursus dui,sod les blandit urna urna sodales vitae pellentesque accumsan cursus dui, sodales blan urna sodales vitae pellentesque accumsan cursus dui, sodales blan sodales vitae. Maece placerat eget mi vitae euismod. Du aliquam efficitur mi, et eleifend ye</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"></div>\n\t\t</div>\n\t</div>\n</div>",
+					"<div class=\"team  w3ls-section\">\n\t<div class=\"container\">\n\t\t<h3 class=\"agileits-title\">03 <span>Team</span></h3>\n\t\t<div class=\"w3_services_grids\">\n\t\t\t<div class=\"col-md-3 col-sm-3 col-xs-6 w3ls_team_grid\">\n\t\t\t\t<div class=\"w3ls_team_grid1 hover15\">\n\t\t\t\t\t<figure>\n\t\t\t\t\t\t<img src=\"images/t1.jpg\" alt=\" \" class=\"img-responsive\" />\n\t\t\t\t\t</figure>\n\t\t\t\t\t<div class=\"w3ls_team_grid1_pos\">\n\t\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<h4>Ann J. Conti</h4>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-3 col-sm-3  col-xs-6  w3ls_team_grid\">\n\t\t\t\t<div class=\"w3ls_team_grid1 hover15\">\n\t\t\t\t\t<figure>\n\t\t\t\t\t\t<img src=\"images/t2.jpg\" alt=\" \" class=\"img-responsive\" />\n\t\t\t\t\t</figure>\n\t\t\t\t\t<div class=\"w3ls_team_grid1_pos\">\n\t\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<h4>Kirk S. Quinn</h4>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-3 col-sm-3  col-xs-6  w3ls_team_grid\">\n\t\t\t\t<div class=\"w3ls_team_grid1 hover15\">\n\t\t\t\t\t<figure>\n\t\t\t\t\t\t<img src=\"images/t3.jpg\" alt=\" \" class=\"img-responsive\" />\n\t\t\t\t\t</figure>\n\t\t\t\t\t<div class=\"w3ls_team_grid1_pos\">\n\t\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<h4>Annie L. Moody</h4>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-3 col-sm-3  col-xs-6  w3ls_team_grid\">\n\t\t\t\t<div class=\"w3ls_team_grid1 hover15\">\n\t\t\t\t\t<figure>\n\t\t\t\t\t\t<img src=\"images/t4.jpg\" alt=\" \" class=\"img-responsive\" />\n\t\t\t\t\t</figure>\n\t\t\t\t\t<div class=\"w3ls_team_grid1_pos\">\n\t\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<h4>Herbert C. Cox</h4>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n</div>\n<!-- //team -->\n",
+					"team",
+					"service",
+					"about",
+					"\t\t$this->load->view('layout', $datas, FALSE);\n",
+					"\t\t// Views\n",
+					"\t\t];\n\t\t// Views\n",
+					"><",
+					"title",
+					"<h3>",
+					"\t\t$datas = ['content' => 'about'];\n",
+					"\n<!--// slider //-->\n",
+					"<?php $this->load->view('content/modal', NULL, FALSE); ?>",
+					"\t<?php $this->load->view('content/header', NULL, FALSE); ?>\n",
+					"\t\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n",
+					"\t\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->",
+					"\t\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t</button>\n",
+					"\t\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>K</span>arlito&nbsp;<span>W</span>eb</a></h1>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t</button>\n",
+					"\t\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t\t<!-- brand and toggle get grouped for better mobile display -->\n\t\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t</button>\n\t\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>K</span>arlito&nbsp;<span>W</span>eb</a></h1>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!-- collect the nav links, forms, and other content for toggling -->\n\t\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t\t</nav>\n",
+					"\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>K</span>arlito&nbsp;<span>W</span>eb</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n",
+					"<h1><a class=\"navbar-brand\" href=\"#\"><span>A</span>ccounts</a></h1>",
+					"\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n",
+					"\t\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t\t<!-- brand and toggle get grouped for better mobile display -->\n\t\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t</button>\n\t\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>K</span>arlito&nbsp;<span>W</span>eb</a></h1>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!-- collect the nav links, forms, and other content for toggling -->\n\t\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t\t</nav>\n",
+					"\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n",
+					"<?php echo site_url(); ?>",
+					"te_url('",
+					"href=\"#\"",
+					"<a href=\"#\" data-hover=\"About\">About</a>",
+					"<a href=\"#\" data-hover=\"Home\">Home</a>",
+					"<nav",
+					"<nav class=\"cl-effect-1\" id=\"cl-effect-1\">",
+					"\t\t\t\t<ul class=\"rslides\"",
+					"<ul class=\"rslides\" id=\"slider3\">",
+					"\t\t<div class=\"container\">\n\t\t\t<div class=\"callbacks_container\">\n\t\t\t\t<ul class=\"rslides\" id=\"slider3\">\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<div class=\"slider-info\">\n\t\t\t\t\t\t\t<h3>We Provide Proper Tax Solutions</h3>\n\t\t\t\t\t\t\t<p>Affordable tax advisory services for your benefit</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<div class=\"slider-info\">\n\t\t\t\t\t\t\t<h3>Tax Strategy Management</h3>\n\t\t\t\t\t\t\t<p>Improving the effectiveness of your tax strategy</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<div class=\"slider-info\">\n\t\t\t\t\t\t\t<h3>Tax Compliance & Reporting</h3>\n\t\t\t\t\t\t\t<p>Ensuring that tax and process risks are minimized</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n",
+					".html",
+					"<?php echo $this->load->view",
+					"tax",
+					"\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.\n\t\t\t\t\t\t<span>1 day ago</span>\n\t\t\t\t\t</li>\n",
+					"\t\t\t<div class=\"col-md-4 w3_agile_footer_grid\">\n\t\t\t\t<h3>Latest Tweets</h3>\n\t\t\t\t<ul class=\"agile_footer_grid_list\">\n\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.\n\t\t\t\t\t\t<span>1 day ago</span>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Itaque earum rerum hic tenetur a sapiente delectus\n\t\t\t\t\t\t<a href=\"mailto:info@mail.com\">info@mail.com</a>\n\t\t\t\t\t\tcumque nihil impedit.\n\t\t\t\t\t\t<span>2 days ago</span>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n",
+					"<div class=\"footer\">\n\t<div class=\"container\">\n\t\t<div class=\"w3_agile_footer_grids\">\n\t\t\t<div class=\"col-md-4 w3_agile_footer_grid\">\n\t\t\t\t<h3>Latest Tweets</h3>\n\t\t\t\t<ul class=\"agile_footer_grid_list\">\n\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.\n\t\t\t\t\t\t<span>1 day ago</span>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Itaque earum rerum hic tenetur a sapiente delectus\n\t\t\t\t\t\t<a href=\"mailto:info@mail.com\">info@mail.com</a>\n\t\t\t\t\t\tcumque nihil impedit.\n\t\t\t\t\t\t<span>2 days ago</span>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-4 w3_agile_footer_grid\">\n\t\t\t\t<h3>Navigation</h3>\n\t\t\t\t<ul class=\"agileits_w3layouts_footer_grid_list\">\n\t\t\t\t\t<li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t<a href=\"index.html\">Home</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t<a href=\"about.html\">About</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t<a href=\"projects.html\">Projects</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t<a href=\"contact.html\">Contact</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-4 w3_agile_footer_grid\">\n\t\t\t\t<h2>Latest Works</h2>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g1.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g2.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g3.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g4.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g5.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g6.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"clearfix\"> </div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t\t<div class=\"w3_newsletter_footer_grids\">\n\t\t\t<div class=\"w3_newsletter_footer_grid_left\">\n\t\t\t\t<form action=\"#\" method=\"post\">\n\t\t\t\t\t<input type=\"email\" name=\"Email\" placeholder=\"Email\" required=\"\">\n\t\t\t\t\t<input type=\"submit\" value=\"Send\">\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"agileinfo_copyright\">\n\t\t\t<p>© 2018 Accounts. All Rights Reserved | Design by\n\t\t\t\t<a href=\"https://w3layouts.com/\">W3layouts</a>\n\t\t\t</p>\n\t\t</div>\n\t</div>\n</div>\n",
+					"<div class=\"footer\">\n    <div class=\"container\">\n        <div class=\"w3_agile_footer_grids\">\n            <div class=\"col-md-4 w3_agile_footer_grid\">\n                <h3>Latest Tweets</h3>\n                <ul class=\"agile_footer_grid_list\">\n                    <li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.\n                        <span>1 day ago</span>\n                    </li>\n                    <li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Itaque earum rerum hic tenetur a sapiente delectus\n                        <a href=\"mailto:info@mail.com\">info@mail.com</a>\n                        cumque nihil impedit.\n                        <span>2 days ago</span>\n                    </li>\n                </ul>\n            </div>\n            <div class=\"col-md-4 w3_agile_footer_grid\">\n                <h3>Navigation</h3>\n                <ul class=\"agileits_w3layouts_footer_grid_list\">\n                    <li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n                        <a href=\"index.html\">Home</a>\n                    </li>\n                    <li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n                        <a href=\"about.html\">About</a>\n                    </li>\n                    <li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n                        <a href=\"projects.html\">Projects</a>\n                    </li>\n                    <li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n                        <a href=\"contact.html\">Contact</a>\n                    </li>\n                </ul>\n            </div>\n            <div class=\"col-md-4 w3_agile_footer_grid\">\n                <h2>Latest Works</h2>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g1.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g2.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g3.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g4.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g5.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g6.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"clearfix\"> </div>\n            </div>\n            <div class=\"clearfix\"> </div>\n        </div>\n        <div class=\"w3_newsletter_footer_grids\">\n            <div class=\"w3_newsletter_footer_grid_left\">\n                <form action=\"#\" method=\"post\">\n                    <input type=\"email\" name=\"Email\" placeholder=\"Email\" required=\"\">\n                    <input type=\"submit\" value=\"Send\">\n                </form>\n            </div>\n        </div>\n        <div class=\"agileinfo_copyright\">\n            <p>© 2018 Accounts. All Rights Reserved | Design by\n                <a href=\"https://w3layouts.com/\">W3layouts</a>\n            </p>\n        </div>\n    </div>\n</div>\n",
+					"<div class=\"modal fade\" id=\"myModal1\" tabindex=\"-1\" role=\"dialog\">\n\t<!-- Modal1 -->\n\t<div class=\"modal-dialog\">\n\t\t<!-- Modal content-->\n\t\t<div class=\"modal-content\">\n\t\t\t<div class=\"modal-header\">\n\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\">&times;</button>\n\t\t\t\t<h4>Accounts</h4>\n\t\t\t\t<?php echo assets_images('g10.jpg', ['class' => 'img-responsive']); ?>\n\t\t\t\t<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n<!-- //Modal1 -->\n",
+					"<?php $this->load->view('content/header', NULL, FALSE); ?>",
+					"\t<!-- header -->\n\t<div class=\"header\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"w3l_header_left\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<span class=\"fa fa-envelope\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t<a href=\"mailto:info@example.com\">info@example.com</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"w3l_header_right\">\n\t\t\t\t<div class=\"w3ls-social-icons\">\n\t\t\t\t\t<a class=\"facebook\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-facebook\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"twitter\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-twitter\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"pinterest\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-pinterest-p\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"linkedin\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-linkedin\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n\t<!-- //header -->\n",
+					"<!--//Header-->",
+					"<div class=\"inner-bnr\">\n\t<!-- header -->\n\t<div class=\"header\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"w3l_header_left\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<span class=\"fa fa-envelope\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t<a href=\"mailto:info@example.com\">info@example.com</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"w3l_header_right\">\n\t\t\t\t<div class=\"w3ls-social-icons\">\n\t\t\t\t\t<a class=\"facebook\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-facebook\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"twitter\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-twitter\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"pinterest\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-pinterest-p\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"linkedin\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-linkedin\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n\t<!-- //header -->\n\t<div class=\"header-bottom\">\n\t\t<div class=\"container\">\n\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<nav class=\"cl-effect-1\" id=\"cl-effect-1\">\n\t\t\t\t\t\t<ul class=\"nav navbar-nav\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" data-hover=\"Home\">Home</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" data-hover=\"About\">About</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"dropdown menu__item\">\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle menu__link active\" data-toggle=\"dropdown\" data-hover=\"Pages\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Pages\n\t\t\t\t\t\t\t\t\t<span class=\"caret\"></span>\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Short Codes</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Web Icons</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" data-hover=\"Categories\">Projects</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"active\">\n\t\t\t\t\t\t\t\t<a href=\"#\" data-hover=\"Contact\">Contact</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<div class=\"modal fade\" id=\"myModal1\" tabindex=\"-1\" role=\"dialog\">\n\t<!-- Modal1 -->\n\t<div class=\"modal-dialog\">\n\t\t<!-- Modal content-->\n\t\t<div class=\"modal-content\">\n\t\t\t<div class=\"modal-header\">\n\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\">&times;</button>\n\t\t\t\t<h4>Accounts</h4>\n\t\t\t\t<?php echo assets_images('g10.jpg', ['class' => 'img-responsive']); ?>\n\t\t\t\t<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n",
+					"Modal1",
+					"<!-- Modal1 -->",
+					"<img src=\"images/\" alt=\" \" class=\"\">",
+					"<img src=\"",
+					".html",
+					"codes.html",
+					"<!-- slider -->\n<div class=\"inner-bnr\">\n\t<!-- header -->\n\t<div class=\"header\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"w3l_header_left\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<span class=\"fa fa-envelope\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t<a href=\"mailto:info@example.com\">info@example.com</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"w3l_header_right\">\n\t\t\t\t<div class=\"w3ls-social-icons\">\n\t\t\t\t\t<a class=\"facebook\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-facebook\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"twitter\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-twitter\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"pinterest\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-pinterest-p\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"linkedin\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-linkedin\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n\t<!-- //header -->\n\t<div class=\"header-bottom\">\n\t\t<div class=\"container\">\n\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"index.html\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<nav class=\"cl-effect-1\" id=\"cl-effect-1\">\n\t\t\t\t\t\t<ul class=\"nav navbar-nav\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"index.html\" data-hover=\"Home\">Home</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"about.html\" data-hover=\"About\">About</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"dropdown menu__item active\">\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle menu__link active\" data-toggle=\"dropdown\" data-hover=\"Pages\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Pages\n\t\t\t\t\t\t\t\t\t<span class=\"caret\"></span>\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"codes.html\">Short Codes</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"icons.html\">Web Icons</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"projects.html\" data-hover=\"Categories\">Projects</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"contact.html\" data-hover=\"Contact\">Contact</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<div class=\"modal fade\" id=\"myModal1\" tabindex=\"-1\" role=\"dialog\">\n\t<!-- Modal1 -->\n\t<div class=\"modal-dialog\">\n\t\t<!-- Modal content-->\n\t\t<div class=\"modal-content\">\n\t\t\t<div class=\"modal-header\">\n\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\">&times;</button>\n\t\t\t\t<h4>Accounts</h4>\n\t\t\t\t<img src=\"images/g10.jpg\" alt=\" \" class=\"img-responsive\">\n\t\t\t\t<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n<!-- //Modal1 -->\n<!--//Header-->",
+					"<!-- slider -->\n<div class=\"inner-bnr\">\n\t<!-- header -->\n\t<div class=\"header\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"w3l_header_left\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<span class=\"fa fa-envelope\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t<a href=\"mailto:info@example.com\">info@example.com</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"w3l_header_right\">\n\t\t\t\t<div class=\"w3ls-social-icons\">\n\t\t\t\t\t<a class=\"facebook\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-facebook\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"twitter\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-twitter\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"pinterest\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-pinterest-p\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"linkedin\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-linkedin\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n\t<!-- //header -->\n\t<div class=\"header-bottom\">\n\t\t<div class=\"container\">\n\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"index.html\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<nav class=\"cl-effect-1\" id=\"cl-effect-1\">\n\t\t\t\t\t\t<ul class=\"nav navbar-nav\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"index.html\" data-hover=\"Home\">Home</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"about.html\" data-hover=\"About\">About</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"dropdown menu__item active\">\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle menu__link active\" data-toggle=\"dropdown\" data-hover=\"Pages\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Pages\n\t\t\t\t\t\t\t\t\t<span class=\"caret\"></span>\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"codes.html\">Short Codes</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"icons.html\">Web Icons</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"projects.html\" data-hover=\"Categories\">Projects</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"contact.html\" data-hover=\"Contact\">Contact</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<div class=\"modal fade\" id=\"myModal1\" tabindex=\"-1\" role=\"dialog\">\n\t<!-- Modal1 -->\n\t<div class=\"modal-dialog\">\n\t\t<!-- Modal content-->\n\t\t<div class=\"modal-content\">\n\t\t\t<div class=\"modal-header\">\n\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\">&times;</button>\n\t\t\t\t<h4>Accounts</h4>\n\t\t\t\t<img src=\"images/g10.jpg\" alt=\" \" class=\"img-responsive\">\n\t\t\t\t<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n<!-- //Modal1 -->\n<!--//Header-->\n",
+					"<!--Slider-->",
+					"<script type=\"text/javascript\">\n$(document).ready(function() {\n\t/*\n\t\tvar defaults = {\n\t\tcontainerID: 'toTop', // fading element id\n\t\tcontainerHoverID: 'toTopHover', // fading element hover id\n\t\tscrollSpeed: 1200,\n\t\teasingType: 'linear'\n\t\t};\n\t*/\n\t$().UItoTop({\n\t\teasingType: 'easeOutQuart'\n\t});\n});\n</script>",
+					"<script type=\"text/javascript\">\n$(document).ready(function() {\n    /*\n        var defaults = {\n        containerID: 'toTop', // fading element id\n        containerHoverID: 'toTopHover', // fading element hover id\n        scrollSpeed: 1200,\n        easingType: 'linear'\n        };\n    */\n    $().UItoTop({\n        easingType: 'easeOutQuart'\n    });\n});\n</script>\n",
+					"<!-- smooth scrolling -->\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    /*\n        var defaults = {\n        containerID: 'toTop', // fading element id\n        containerHoverID: 'toTopHover', // fading element hover id\n        scrollSpeed: 1200,\n        easingType: 'linear'\n        };\n    */\n    $().UItoTop({\n        easingType: 'easeOutQuart'\n    });\n});\n</script>\n<!-- //smooth scrolling -->\n",
+					"<!-- start-smoth-scrolling -->\n<!-- smooth scrolling -->\n<script type=\"text/javascript\">\n$(document).ready(function() {\n\t/*\n\t\tvar defaults = {\n\t\tcontainerID: 'toTop', // fading element id\n\t\tcontainerHoverID: 'toTopHover', // fading element hover id\n\t\tscrollSpeed: 1200,\n\t\teasingType: 'linear'\n\t\t};\n\t*/\n\t$().UItoTop({\n\t\teasingType: 'easeOutQuart'\n\t});\n});\n</script>\n<!-- //smooth scrolling -->\n",
+					"<script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n",
+					"<a href=\"#home\" id=\"toTop\" style=\"display: block;\">\n\t<span id=\"toTopHover\" style=\"opacity: 1;\"> </span>\n</a>\n",
+					"<script type=\"text/javascript\">\njQuery(document).ready(function($) {\n\t$(\".scroll\").click(function(event) {\n\t\tevent.preventDefault();\n\t\t$('html,body').animate({\n\t\t\tscrollTop: $(this.hash).offset().top\n\t\t}, 1000);\n\t});\n});\n</script>\n",
+					"<!-- start-smoth-scrolling -->\n<script type=\"text/javascript\" src=\"js/move-top.js\"></script>\n<script type=\"text/javascript\" src=\"js/easing.js\"></script>\n",
+					"<!-- js -->\n<script type=\"text/javascript\" src=\"js/jquery-2.2.3.min.js\"></script>\n",
 					"<!--",
-					"// ",
-					"<!-- <td",
-					"</span>",
-					"array(",
-					"$before",
-					"$stack",
-					" : ",
-					"</h6>",
-					"h2",
-					"<h2>",
-					"\" b",
-					"6",
-					"     =>",
-					"resultValues",
-					"allValues",
-					"h1",
-					"countAfter",
-					"countBefore"
+					"<!-- ",
+					"<!-- //",
+					"<!--//",
+					"Header",
+					"assets_img",
+					"<img src",
+					" // echo",
+					".html",
+					"index.html",
+					"https://w3layouts.com/"
 				],
 				"highlight": true,
 				"in_selection": false,
-				"preserve_case": true,
-				"regex": true,
+				"preserve_case": false,
+				"regex": false,
 				"replace_history":
 				[
+					"\"",
+					"UPDATE",
+					"btn-warning",
+					"|",
 					"",
-					"\",",
+					"|",
 					"",
-					"\"],",
-					"[\"url",
-					"\"],",
-					"[",
-					"]",
-					"],",
-					"[",
-					"\"],",
-					"40",
-					"72",
-					"$VirtualHost",
-					"$ErrorMessage",
-					"$Error"
+					"|",
+					"description(Crawler $crawler) :string",
+					"title(Crawler $crawler) :string",
+					"price(Crawler $crawler) :int",
+					"surface(Crawler $crawler) :int",
+					"FormatDataUtil::cleanText",
+					"FormatDataUtil::cleanString",
+					"use KW\\ImmoBundle\\Crawler\\AgenceCrawler;\nuse KW\\ImmoBundle\\Crawler\\AgenceInterface;\n",
+					"",
+					"= ",
+					";",
+					"',\\t'created'",
+					":$1'],",
+					"', 'created'",
+					", 'created' => '2018",
+					", 'created' => '2017",
+					", 'url' => 'http",
+					"['source' => ",
+					"NULL, 'http",
+					"`annonce`",
+					"",
+					"\\tURL",
+					"\\tCode",
+					":\\t",
+					"class=\"btn btn-danger\"",
+					"https://www.guy-hoquet.com",
+					"https://www.explorimmo",
+					"col-md-5",
+					"col-md-4",
+					"",
+					"col-md-6",
+					"col-md-4",
+					"\" style=\"margin-right:10px;\"",
+					"col-xs-6 margin-right-10",
+					"\t\t\t\t\t</p>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"col-xs-6\">\n\t\t\t\t\t<p>\n",
+					" target=\"_blank\" class=\"btn btn-primary\">",
+					"</a></p>",
+					"<p><a",
+					";",
+					"DELETE FROM `hal-immo`.`annonce_deleted` WHERE  `id`=",
+					"",
+					";",
+					"UPDATE annonce SET deleted_at = '2018-03-21 18:55:15' WHERE id = ",
+					"erp"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -505,7 +499,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 48.0
 			},
 			"input":
 			{
@@ -526,7 +520,7 @@
 			},
 			"output.find_results":
 			{
-				"height": 29.0
+				"height": 276.0
 			},
 			"output.mdpopups":
 			{
@@ -545,8 +539,28 @@
 				"selected_items":
 				[
 					[
-						"foot",
-						"application\\views\\_partials_\\footer.php"
+						"route",
+						"application\\config\\routes.php"
+					],
+					[
+						"main",
+						"www\\assets\\css\\main.css"
+					],
+					[
+						"_partials_/quick-nav.html.twig",
+						"src\\KW\\ImmoBundle\\Resources\\views\\_Partials_\\quick-nav.html.twig"
+					],
+					[
+						"parser-2018-04",
+						"database\\rapport\\parser-2018-04-04.txt"
+					],
+					[
+						"parser-",
+						"database\\rapport\\parser-2018-04-04.txt"
+					],
+					[
+						"resources/views/security/login-5.html.twig",
+						"vendor\\karlito-web\\userbundle\\Resources\\views\\Security\\login-5.html.twig"
 					]
 				],
 				"width": 0.0
@@ -554,20 +568,24 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "Immo",
 				"selected_items":
 				[
-					[
-						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
-					],
 					[
 						"Immo",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					],
 					[
-						"immo",
+						"",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
+					],
+					[
+						"Ultr",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\CodeIgniter-Ultron.sublime-project"
+					],
+					[
+						"Socc",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Soccer.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -585,14 +603,14 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 269.0,
+			"side_bar_width": 256.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			}
 		},
-		"new_window_width": 1006.0
+		"new_window_width": 1004.0
 	},
 	"windows":
 	[
@@ -602,142 +620,79 @@
 				"selected_items":
 				[
 					[
-						"col",
-						"col-3 \tBootstrap 4 Class"
-					],
-					[
-						"di",
-						"div\tTag"
-					],
-					[
-						"script",
-						"script\tTag"
-					],
-					[
-						"scr",
-						"script"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"se",
-						"second"
-					],
-					[
 						"lorem",
-						"lorem\tlorem - Medium paragraph"
-					],
-					[
-						"dis",
-						"disabled"
-					],
-					[
-						"d",
-						"disabled \tBootstrap 4 Class"
-					],
-					[
-						"a",
-						"annonces"
+						"lorem\tlorem - One sentence"
 					],
 					[
 						"for",
 						"foreach\tforeach …"
 					],
 					[
-						"text-d",
-						"text-danger \tBootstrap 4 Class"
+						"con",
+						"contact"
 					],
 					[
-						"s",
-						"second"
+						"attr",
+						"attribute"
 					],
 					[
-						"f",
-						"first"
+						"r",
+						"rgba()"
 					],
 					[
-						"bloc",
-						"d-block \tBootstrap 4 Class"
+						"back",
+						"background-color"
 					],
 					[
-						"link",
-						"btn-link \tBootstrap 4 Class"
+						"sys",
+						"system_path"
 					],
 					[
-						"table-",
-						"table-bordered \tBootstrap 4 Class"
+						"var",
+						"var_dump"
 					],
 					[
-						"mt-3",
-						"mt-lg-3 \tBootstrap 4 Class"
+						"d",
+						"disabled \tBootstrap 4 Class"
 					],
 					[
-						"ta",
-						"table-hover \tBootstrap 4 Class"
+						"btn-da",
+						"btn-danger \tBootstrap 4 Class"
 					],
 					[
-						"bg-",
-						"bg-inverse \tBootstrap 4 Class"
+						"btn",
+						"btn-group-lg \tBootstrap 4 Class"
 					],
 					[
-						"prin",
-						"print_r"
+						"btn-dan",
+						"btn-danger"
 					],
 					[
-						"arra",
-						"array"
+						"btn-outline-s",
+						"btn-outline-success \tBootstrap 4 Class"
 					],
 					[
-						"text-s",
-						"text-success \tBootstrap 4 Class"
+						"btn-out",
+						"btn-outline-success"
 					],
 					[
-						"load",
-						"load_view\tCI - Load View"
+						"btn-o",
+						"btn-outline-success \tBootstrap 4 Class"
 					],
 					[
-						"text-sm",
-						"text-sm-right \tBootstrap 4 Class"
-					],
-					[
-						"pull--",
-						"pull-lg-2 \tBootstrap 4 Class"
-					],
-					[
-						"text-w",
-						"text-white \tBootstrap 4 Class"
-					],
-					[
-						"text-",
-						"text-info \tBootstrap 4 Class"
-					],
-					[
-						"form-",
-						"col-form-label \tBootstrap 4 Class"
-					],
-					[
-						"form-c",
-						"form-control \tBootstrap 4 Class"
-					],
-					[
-						"c",
-						"class\tAttr"
-					],
-					[
-						"btn-ou",
-						"btn-outline-primary \tBootstrap 4 Class"
+						"html",
+						"htmlboiler\thtmlboiler"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Welcome.php",
+					"file": "/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/footer.php",
 					"settings":
 					{
-						"buffer_size": 363,
+						"buffer_size": 8181,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -750,12 +705,28 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "pretty",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
 						"pretty",
 						"HTMLPrettify"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"trimmer",
+						"Trimmer: Trim trailing whitespace."
+					],
+					[
+						"package d",
+						"Package Control: Disable Package"
+					],
+					[
+						"package",
+						"Package Control: Enable Package"
 					]
 				],
 				"width": 558.0
@@ -778,146 +749,156 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron"
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content"
 			],
 			"file_history":
 			[
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.lock",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/README.md",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.editorconfig",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.gitignore",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.git/config",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Welcome.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/homepage.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/footer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/header.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/meta.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/preload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/scripts.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/about.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/banner.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/contact.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/model.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/portfolio.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/service.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/team.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/testimonial.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/price.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/counter.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/icons.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/modal.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/Homepage.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/layout.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/routes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/projects.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/slider.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/codes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/tax.php",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/codes.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/projects.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/icons.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/about.html",
+				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2018/accounts/contact.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/navigation.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/About.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/Projects.php",
+				"/C/Users/Giancarlo/Downloads/IPTV France M3u Channels Update 13-05-2018.m3u",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/header.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/Contact.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/controllers/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/helpers/assets_helper.php",
+				"/Q/__cdn__/.htaccess",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/assets.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/bootstrap.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/newsletter.send.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/contact.send.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/composer.json",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/core/MY_Controller.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/index.html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/favicon/favicon.ico",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/index.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Eros/application/Isabelle/config/assets.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Eros/application/Isabelle/config/constants.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/constants.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/development/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/development/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/production/database.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/production/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/2018-04-02.html",
+				"/C/Users/Giancarlo/Desktop/new 1.txt",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/js/main.js",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/main.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/subfooter.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/slide_thumb_1.jpg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/slide1.jpg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/slide3.jpg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/slide4.jpg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/images/yellow-web.svg",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/revolution.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/speakers.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/program.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/venue.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/download.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/gallery.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/sponsors.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/helper.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/font.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/salvattore.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/revolution-extralayers.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/pe-icon-7-stroke.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/owl.transitions.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/owl.theme.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/owl.carousel.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/jquery.countdown.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/jquery.mCustomScrollbar.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/magnific-popup.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/font-awesome.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/www/assets/css/animate.min.css",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/highlight.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/info.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/register.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/footer.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/funfacts.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/gmap_canvas.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/content/tp-banner-container.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/index (2).html",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/info.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/speakers.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/program.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/download.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/venue.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/funfacts.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/register.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/gallery.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/testimonial.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/sponsors.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/gmap_canvas.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/subfooter.php",
 				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/layout.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/application.css",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/error.css",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/css/loader.css",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/404.png",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/logo.png",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/medias/logo.svg",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/git.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/composer.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/head.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/header.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/loader.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/footer.php",
-				"/D/Server/www/2018-03-30.html",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/scripts/application.js",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/plugins/pagemap/pagemap.min.js",
-				"/C/Users/Giancarlo/Downloads/Hip-Hop.html",
-				"/C/Users/Giancarlo/Downloads/Foot.html",
-				"/C/Users/Giancarlo/Downloads/F1.html",
-				"/C/Users/Giancarlo/Downloads/Mafia.html",
-				"/Q/__cdn__/images/logos/SVG/grey-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/grey-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/grey-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/black-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/yellow-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/blue-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/green-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/orange-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/red-horizontal.svg",
-				"/Q/__cdn__/images/logos/SVG/black-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/yellow-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/red-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/orange-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/green-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/blue-vertical.svg",
-				"/Q/__cdn__/images/logos/SVG/yellow-web.svg",
-				"/Q/__cdn__/images/logos/SVG/black-web.svg",
-				"/Q/__cdn__/images/logos/SVG/blue-web.svg",
-				"/Q/__cdn__/images/logos/SVG/green-web.svg",
-				"/Q/__cdn__/images/logos/SVG/grey-web.svg",
-				"/Q/__cdn__/images/logos/SVG/orange-web.svg",
-				"/Q/__cdn__/images/logos/SVG/red-web.svg",
-				"/Q/__cdn__/images/logos/SVG/green-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/black-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/orange-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/yellow-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/red-logo.svg",
-				"/Q/__cdn__/images/logos/SVG/blue-logo.svg",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/navigation.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/logo-svg.xml",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/production/config.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/meta.html.twig",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/welcome_message.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.gitignore",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/.editorconfig",
 				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/compare_helper.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/compare.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/in_array.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/ArrayFunction.php",
 				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/alert_helper.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_diff.php",
-				"/D/Server/www/2018-03-29.html",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/html/error_php.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/routes.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_intersect.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/cli/error_404.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/errors/html/error_404.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Memo.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/core/MY_Controller.php",
-				"/C/Users/Giancarlo/Dropbox/www/__cdn__/vhost/ci.conf",
-				"/Q/ultron/application/logs/log-2018-03-30.php",
-				"/Q/ultron/application/config/routes.php",
-				"/Q/ultron/application/config/production/config.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/config.php",
-				"/Q/ultron/application/controllers/ArrayFunction.php",
-				"/Q/ultron/application/controllers/Memo.php",
-				"/Q/ultron/application/logs/log-2018-03-29.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/resume.php",
-				"/L/Adobe PSD/Karlito-Web by Giancarlo PALUMBO/SVG/Horizontal-rouge.svg",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_unshift.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_unique.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_pop.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_push.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/array/array_shift.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/production/database.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/index.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/core/MY_Lang.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/database.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/testing/config.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/testing/database.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/config.php",
-				"/C/Users/Giancarlo/Dropbox/= Karlito-Web =/Projects/- SQL -/erp-link-skeleton_temp.sql",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/.htaccess",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/_partials_/logo-svg.html",
-				"/Q/ultron/application/config/config.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/nas.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/views/content/memo/log-in.php",
-				"/Q/_memos_/firefox-capture.php",
-				"/Q/_memos_/sendmail.php",
-				"/Q/_memos_/www/composer.php",
-				"/Q/_memos_/www/git.php",
-				"/Q/_memos_/www/nas-memo.txt",
-				"/Q/_memos_/www/index.php",
-				"/Q/_memos_/www/secondary.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/www/assets/scripts/jquery.min.js",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/logs/log-2018-03-29.php",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/index.html",
 				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/helpers/assets_helper.php",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/styles/404.css",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/licence.txt",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-02/homer-simpson-images.txt",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-01/styles/index.html",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/Error-404-Pages/404-error-page-01/index.html",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/content/wamp/index.php",
-				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Colossus/application/views/layout.php"
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/development/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/migration.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/mimes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/profiler.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/routes.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/smileys.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/user_agents.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/constants.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/config/autoload.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/config/config.php",
+				"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/composer.json"
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 205.0
 			},
 			"find_in_files":
 			{
-				"height": 158.0,
+				"height": 135.0,
 				"where_history":
 				[
 					"<open files>",
-					"<open folders>",
-					"<open files>,<open folders>",
-					"<open files>"
+					"",
+					"<open files>",
+					""
 				]
 			},
 			"find_state":
@@ -925,157 +906,192 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"100",
-					"view",
-					"viex",
-					"pres",
-					"1D1D1B",
-					"\t\t\t\t\t\t\t",
-					"\t\t\t\t\t\t\ts",
-					"\t\t\t\t\t\t\tC",
-					"\t\t\t\t\t\t\th",
-					"\t\t\t\t\t\t\t M",
-					"\t\t\t\t\t\t\tl",
-					"\t\t\t\t\t\t\tH",
-					"\t\t\t\t\t\t\tc",
-					"E7E7E7",
-					"1C1C1C",
-					"50%",
-					"1920",
-					"crosshair",
-					" ICON=\"(.*)\"",
-					" ADD_DATE=\"(.*)\"",
-					" ADD_DATE=\"1522090842\"",
-					"EA601C",
-					"FFD300",
-					"007CC0",
-					"FFD300",
-					"C8201B",
-					"\t\t\tv",
-					"_1_",
-					"1D1D1B",
-					"\t\t",
-					"_1_",
-					"#FFF",
-					"#1D1D1B",
-					"\t\t\t\t\th",
-					"\t\t\t\t\ts",
-					"\t\t\t\t\tC",
-					"\t\t\t\t\t ",
-					"\t\t\t\t\tl",
-					"\t\t\t\t\tH",
-					"\t\t\t\tc",
-					"#1D1D1B",
-					"1D1D1B",
-					"_1_",
-					"array ",
-					"]",
-					"end",
-					"span>",
-					", ",
-					"XX</a>",
-					"XX",
-					"54",
-					"</a>",
-					"43",
-					"] => ",
-					"    [208] => ",
-					"/annonce-12052713.html",
-					"-4",
-					"-4 m-4\">\n",
-					"p-4 m-4\">\n",
-					"h4",
-					" class=\"text-danger\"",
-					"diff",
-					"] => ",
-					"\"],",
-					"[\"url\" => ",
-					"<br />",
-					"\"\"],",
-					"[url",
-					"],",
-					"m],",
-					"array(\n        \"",
-					"\",\n    )",
-					"# SetEnv CI_ENV development",
-					"],,",
-					"array(\n        \"",
-					"\",\n    )",
-					"SetEnv CI_ENV development",
-					"')\">",
-					">memo/",
-					"\"#\"",
-					"    public function",
-					"array/",
-					"-brand",
-					"navbar",
-					"5%",
-					"stroke-width=\"0.85\" ",
-					"0.85",
-					"fill=\"#FFFFFF\" x1",
-					"stroke=\"#FFFFFF\"",
-					"FFFFFF",
-					"9C9B9B",
-					"#1D1D1B",
-					"stroke-width=\"0.8\"",
-					"stroke-width=\"0.25\"",
-					"0.25",
-					"fill=\"none\" stroke=\"#9D9C9C\"",
-					"none",
-					"\"#\"",
-					"_\"",
-					"site-header",
-					"$fruit",
-					"$print",
-					"stack",
-					"print",
-					"$queue",
-					"9C9B9B",
-					"<!-- ",
-					" -->",
-					"// ",
+					"\t\t\t<div class=\"subscribe-grid \">\n\t\t\t\t<p>subscribe To receive helpful articles, customer alerts,services &amp; more.</p>\n\t\t\t\t<form action=\"#\" method=\"post\">\n\t\t\t\t\t<input type=\"email\" placeholder=\"Your Email\" name=\"Subscribe\" required>\n\t\t\t\t\t<button class=\"btn1\">\n\t\t\t\t\t\t<i class=\"fa fa-paper-plane-o\" aria-hidden=\"true\"></i>\n\t\t\t\t\t</button>\n\t\t\t\t</form>\n\t\t\t</div>\n",
+					"img",
+					"about.html",
+					"<?php echo site_url(); ?>contact.html",
+					"contact.html",
+					"portfolio.html",
+					"index.html",
+					"images/1.jpg",
+					"jquery.flexslider.js",
+					"<h1>",
+					"index.html",
+					"\t\t\t\t\t\t\t<i",
+					" placeholder=\"\"",
+					"required=\"\"",
+					"=\"\"",
+					"=\" \"",
+					"  ",
+					"\t\t\t\t\t\t\t<img",
+					"<img src=\"images/\" class=\"\" alt=\"\" />",
+					"<img src=\"images/",
+					"<img src=\"",
+					"images/t1.jpg",
+					"\">\n",
+					"XXXXXXXXXXXXXXXXXXXXXX",
+					"screen",
+					"[]",
+					" rel=\"stylesheet\"",
+					"\t\t<title>Invest corporate category Bootstrap Responsive website Template | About :: w3layouts</title>\n",
+					"\t\t<link href=\"css/bootstrap.css\" type=\"text/css\" rel=\"stylesheet\" media=\"all\">\n\t\t<link href=\"css/style.css\" type=\"text/css\" rel=\"stylesheet\" media=\"all\">\n\t\t<link href=\"css/font-awesome.css\" rel=\"stylesheet\">\n",
+					"\t\t<script>\n\t\taddEventListener(\"load\", function() {\n\t\t\tsetTimeout(hideURLbar, 0);\n\t\t}, false);\n\t\tfunction hideURLbar() {\n\t\t\twindow.scrollTo(0, 1);\n\t\t}\n\t\t</script>\n",
+					"\t\t<script>\n\t\taddEventListener(\"load\", function() {\n\t\t\tsetTimeout(hideURLbar, 0);\n\t\t}, false);\n\n\t\tfunction hideURLbar() {\n\t\t\twindow.scrollTo(0, 1);\n\t\t}\n\n\t\t</script>\n",
+					"\t\t<meta charset=\"UTF-8\" />\n",
+					"\t\t<meta name=\"keywords\" content=\"Invest Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design\" />\n",
+					"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n",
+					"<!-- smooth-scrolling-of-move-up -->\n<script src=\"js/SmoothScroll.min.js\"></script>\n",
+					"<!-- Bootstrap core JavaScript\n================================================== -->\n<!-- Placed at the end of the document so the pages load faster -->\n<script src=\"js/bootstrap.js\"></script>\n",
+					"<script>\n$(document).ready(function() {\n\t// var defaults = {\n\t// \tcontainerID: 'toTop', // fading element id\n\t// \tcontainerHoverID: 'toTopHover', // fading element hover id\n\t// \tscrollSpeed: 1200,\n\t// \teasingType: 'linear'\n\t// };\n\t$().UItoTop({\n\t\teasingType: 'easeOutQuart'\n\t});\n});\n</script>\n",
+					"<!-- start-smooth-scrolling -->\n<script src=\"js/move-top.js\"></script>\n<script src=\"js/easing.js\"></script>\n<script>\njQuery(document).ready(function($) {\n});\n</script>\n<!-- //end-smooth-scrolling -->\n",
+					"\t$(\".scroll\").click(function(event) {\n\t\tevent.preventDefault();\n\t\t$('html,body').animate({\n\t\t\tscrollTop: $(this.hash).offset().top\n\t\t}, 1000);\n\t});\n",
+					"<!-- start-smooth-scrolling -->\n<script src=\"js/move-top.js\"></script>\n<script src=\"js/easing.js\"></script>\n<script>\njQuery(document).ready(function($) {\n\t$(\".scroll\").click(function(event) {\n\t\tevent.preventDefault();\n\t\t$('html,body').animate({\n\t\t\tscrollTop: $(this.hash).offset().top\n\t\t}, 1000);\n\t});\n});\n</script>\n<!-- //end-smooth-scrolling -->",
+					"<script>\njQuery(document).ready(function($) {\n\t$(\".scroll\").click(function(event) {\n\t\tevent.preventDefault();\n\t\t$('html,body').animate({\n\t\t\tscrollTop: $(this.hash).offset().top\n\t\t}, 1000);\n\t});\n});\n</script>",
+					"\t/*\n\t   var defaults = {\n\t\t   containerID: 'toTop', // fading element id\n\t\t   containerHoverID: 'toTopHover', // fading element hover id\n\t\t   scrollSpeed: 1200,\n\t\t   easingType: 'linear'\n\t   };\n\t   */\n",
+					"\t\t<div class=\"footer-nav w3ls-section text-center\" id=\"footer\">\n\t\t\t<div class=\"subscribe-grid \">\n\t\t\t\t<p>subscribe To receive helpful articles, customer alerts,services &amp; more.</p>\n\t\t\t\t<form action=\"#\" method=\"post\">\n\t\t\t\t\t<input type=\"email\" placeholder=\"Your Email\" name=\"Subscribe\" required>\n\t\t\t\t\t<button class=\"btn1\">\n\t\t\t\t\t\t<i class=\"fa fa-paper-plane-o\" aria-hidden=\"true\"></i>\n\t\t\t\t\t</button>\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t\t<div class=\"container\">\n\t\t\t\t<div class=\"logo-footer text-center\">\n\t\t\t\t\t<h2><i class=\"fa fa-free-code-camp\" aria-hidden=\"true\"></i><span>i</span>nvest</h2>\n\t\t\t\t</div>\n\t\t\t\t<ul class=\"footer-top\">\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"about.html\">what we do</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"portfolio.html\">our work</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"index.html\">company</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"contact.html\">contact</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t\t<div class=\"social-icons agileits\">\n\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"address\">\n\t\t\t\t\t<p>71 Pilgrim Avenue ,44 Shirley Ave. Goldfield Rd. Broome St, California.</p>\n\t\t\t\t\t<a href=\"mailto:info@example.com\">corporate@mail.com</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n",
+					"\t\t<div class=\"footer-nav w3ls-section text-center\">\n\t\t\t<div class=\"subscribe-grid \">\n\t\t\t\t<p>subscribe To receive helpful articles, customer alerts,services &amp; more.</p>\n\t\t\t\t<form action=\"#\" method=\"post\">\n\t\t\t\t\t<input type=\"email\" placeholder=\"Your Email\" name=\"Subscribe\" required>\n\t\t\t\t\t<button class=\"btn1\">\n\t\t\t\t\t\t<i class=\"fa fa-paper-plane-o\" aria-hidden=\"true\"></i>\n\t\t\t\t\t</button>\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t\t<div class=\"container\">\n\t\t\t\t<div class=\"logo-footer text-center\">\n\t\t\t\t\t<h2><i class=\"fa fa-free-code-camp\" aria-hidden=\"true\"></i><span>i</span>nvest</h2>\n\t\t\t\t</div>\n\t\t\t\t<ul class=\"footer-top\">\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"about.html\">what we do</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"portfolio.html\">our work</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"index.html\">company</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"contact.html\">contact</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t\t<div class=\"social-icons agileits\">\n\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"address\">\n\t\t\t\t\t<p>71 Pilgrim Avenue ,44 Shirley Ave. Goldfield Rd. Broome St, California.</p>\n\t\t\t\t\t<a href=\"mailto:info@example.com\">corporate@mail.com</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n",
+					"\t\t<div class=\"tooltip-content\">\n\t\t\t<div class=\"modal fade features-modal\" id=\"myModal\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n\t\t\t\t<div class=\"modal-dialog modal-md\">\n\t\t\t\t\t<div class=\"modal-content\">\n\t\t\t\t\t\t<div class=\"modal-header\">\n\t\t\t\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n\t\t\t\t\t\t\t<h4 class=\"modal-title\">Invest</h4>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"modal-body\">\n\t\t\t\t\t\t\t<img src=\"images/1.jpg\" class=\"img-responsive\" alt=\"image\">\n\t\t\t\t\t\t\t<p>Fusce et congue nibh, ut ullamcorper magna. Donec ac massa tincidunt, fringilla sapien vel, tempus massa. Vestibulum felis leo, tincidunt sit amet tristique accumsan. In vitae dapibus metus. Donec nec massa non nulla mattis aliquam egestas et mi.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n",
+					"\t\t<div class=\"w3_agile-copyright text-center\">\n\t\t\t<p>© 2018 Invest. All rights reserved | Design by\n\t\t\t\t<a href=\"//w3layouts.com/\">W3layouts</a>\n\t\t\t</p>\n\t\t</div>\n",
+					"=\"\"",
+					"\t\t\t\t\t\t\t<span",
+					"\t<div class=\"container\">\n\t\t<h3 class=\"agileits-title\">02\n\t\t\t\t\t<span>what we offer</span>\n\t\t\t\t</h3>\n\t\t<div class=\"service-head\">\n\t\t\t<div class=\"service  w3_agileits\">\n\t\t\t\t<h4>Future Investment Initiative</h4>\n\t\t\t\t<p>aece placerat eget mi vitae euismod. Du aliquam efficitur.\n\t\t\t\t\t<br>Pellentesque accumsan cursus dui, sodales blandit. </p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n",
+					"<div class=\"about-w3slid\">\n\t<div class=\"container\">\n\t\t<h4>Quality Is An Investment In The Future</h4>\n\t\t<p>Pellentesque accumsan cursus dui, sodales blandit urna sodal vitaepel entesque accumsan cursus dui,sod les</p>\n\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal\" class=\"agile-more\">Read More</a>\n\t</div>\n</div>\n",
+					"<div class=\" w3ls-section w3-about\" id=\"about\">\n\t<div class=\"container\">\n\t\t<div class=\"about-main\">\n\t\t\t<div class=\"w3ls-about-right col-md-6\">\n\t\t\t</div>\n\t\t\t<div class=\"col-md-6 w3_agileits-ab-main\">\n\t\t\t\t<div class=\"about-inner\">\n\t\t\t\t\t<h3 class=\"agileits-title\">01\n\t\t\t\t\t\t\t<span>about us</span>\n\t\t\t\t\t\t</h3>\n\t\t\t\t\t<p class=\"about-text-w3l\">Pellentesque accumsan cursus dui, sodales blandit urna sodal vitaepel entesque accumsan cursus dui,sod les blandit urna urna sodales vitae pellentesque accumsan cursus dui, sodales blan urna sodales vitae pellentesque accumsan cursus dui, sodales blan sodales vitae. Maece placerat eget mi vitae euismod. Du aliquam efficitur mi, et eleifend ye</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"></div>\n\t\t</div>\n\t</div>\n</div>",
+					"<div class=\"team  w3ls-section\">\n\t<div class=\"container\">\n\t\t<h3 class=\"agileits-title\">03 <span>Team</span></h3>\n\t\t<div class=\"w3_services_grids\">\n\t\t\t<div class=\"col-md-3 col-sm-3 col-xs-6 w3ls_team_grid\">\n\t\t\t\t<div class=\"w3ls_team_grid1 hover15\">\n\t\t\t\t\t<figure>\n\t\t\t\t\t\t<img src=\"images/t1.jpg\" alt=\" \" class=\"img-responsive\" />\n\t\t\t\t\t</figure>\n\t\t\t\t\t<div class=\"w3ls_team_grid1_pos\">\n\t\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<h4>Ann J. Conti</h4>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-3 col-sm-3  col-xs-6  w3ls_team_grid\">\n\t\t\t\t<div class=\"w3ls_team_grid1 hover15\">\n\t\t\t\t\t<figure>\n\t\t\t\t\t\t<img src=\"images/t2.jpg\" alt=\" \" class=\"img-responsive\" />\n\t\t\t\t\t</figure>\n\t\t\t\t\t<div class=\"w3ls_team_grid1_pos\">\n\t\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<h4>Kirk S. Quinn</h4>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-3 col-sm-3  col-xs-6  w3ls_team_grid\">\n\t\t\t\t<div class=\"w3ls_team_grid1 hover15\">\n\t\t\t\t\t<figure>\n\t\t\t\t\t\t<img src=\"images/t3.jpg\" alt=\" \" class=\"img-responsive\" />\n\t\t\t\t\t</figure>\n\t\t\t\t\t<div class=\"w3ls_team_grid1_pos\">\n\t\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<h4>Annie L. Moody</h4>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-3 col-sm-3  col-xs-6  w3ls_team_grid\">\n\t\t\t\t<div class=\"w3ls_team_grid1 hover15\">\n\t\t\t\t\t<figure>\n\t\t\t\t\t\t<img src=\"images/t4.jpg\" alt=\" \" class=\"img-responsive\" />\n\t\t\t\t\t</figure>\n\t\t\t\t\t<div class=\"w3ls_team_grid1_pos\">\n\t\t\t\t\t\t<ul class=\"social-icons\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border facebook\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border twitter\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"team-icon icon-border instagram\"></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<h4>Herbert C. Cox</h4>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n</div>\n<!-- //team -->\n",
+					"team",
+					"service",
+					"about",
+					"\t\t$this->load->view('layout', $datas, FALSE);\n",
+					"\t\t// Views\n",
+					"\t\t];\n\t\t// Views\n",
+					"><",
+					"title",
+					"<h3>",
+					"\t\t$datas = ['content' => 'about'];\n",
+					"\n<!--// slider //-->\n",
+					"<?php $this->load->view('content/modal', NULL, FALSE); ?>",
+					"\t<?php $this->load->view('content/header', NULL, FALSE); ?>\n",
+					"\t\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n",
+					"\t\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->",
+					"\t\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t</button>\n",
+					"\t\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>K</span>arlito&nbsp;<span>W</span>eb</a></h1>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t</button>\n",
+					"\t\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t\t<!-- brand and toggle get grouped for better mobile display -->\n\t\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t</button>\n\t\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>K</span>arlito&nbsp;<span>W</span>eb</a></h1>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!-- collect the nav links, forms, and other content for toggling -->\n\t\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t\t</nav>\n",
+					"\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>K</span>arlito&nbsp;<span>W</span>eb</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n",
+					"<h1><a class=\"navbar-brand\" href=\"#\"><span>A</span>ccounts</a></h1>",
+					"\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n",
+					"\t\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t\t<!-- brand and toggle get grouped for better mobile display -->\n\t\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t</button>\n\t\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>K</span>arlito&nbsp;<span>W</span>eb</a></h1>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!-- collect the nav links, forms, and other content for toggling -->\n\t\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t\t</nav>\n",
+					"\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<?php $this->load->view('content/navigation', NULL, FALSE); ?>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n",
+					"<?php echo site_url(); ?>",
+					"te_url('",
+					"href=\"#\"",
+					"<a href=\"#\" data-hover=\"About\">About</a>",
+					"<a href=\"#\" data-hover=\"Home\">Home</a>",
+					"<nav",
+					"<nav class=\"cl-effect-1\" id=\"cl-effect-1\">",
+					"\t\t\t\t<ul class=\"rslides\"",
+					"<ul class=\"rslides\" id=\"slider3\">",
+					"\t\t<div class=\"container\">\n\t\t\t<div class=\"callbacks_container\">\n\t\t\t\t<ul class=\"rslides\" id=\"slider3\">\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<div class=\"slider-info\">\n\t\t\t\t\t\t\t<h3>We Provide Proper Tax Solutions</h3>\n\t\t\t\t\t\t\t<p>Affordable tax advisory services for your benefit</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<div class=\"slider-info\">\n\t\t\t\t\t\t\t<h3>Tax Strategy Management</h3>\n\t\t\t\t\t\t\t<p>Improving the effectiveness of your tax strategy</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<div class=\"slider-info\">\n\t\t\t\t\t\t\t<h3>Tax Compliance & Reporting</h3>\n\t\t\t\t\t\t\t<p>Ensuring that tax and process risks are minimized</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n",
+					".html",
+					"<?php echo $this->load->view",
+					"tax",
+					"\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.\n\t\t\t\t\t\t<span>1 day ago</span>\n\t\t\t\t\t</li>\n",
+					"\t\t\t<div class=\"col-md-4 w3_agile_footer_grid\">\n\t\t\t\t<h3>Latest Tweets</h3>\n\t\t\t\t<ul class=\"agile_footer_grid_list\">\n\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.\n\t\t\t\t\t\t<span>1 day ago</span>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Itaque earum rerum hic tenetur a sapiente delectus\n\t\t\t\t\t\t<a href=\"mailto:info@mail.com\">info@mail.com</a>\n\t\t\t\t\t\tcumque nihil impedit.\n\t\t\t\t\t\t<span>2 days ago</span>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n",
+					"<div class=\"footer\">\n\t<div class=\"container\">\n\t\t<div class=\"w3_agile_footer_grids\">\n\t\t\t<div class=\"col-md-4 w3_agile_footer_grid\">\n\t\t\t\t<h3>Latest Tweets</h3>\n\t\t\t\t<ul class=\"agile_footer_grid_list\">\n\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.\n\t\t\t\t\t\t<span>1 day ago</span>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Itaque earum rerum hic tenetur a sapiente delectus\n\t\t\t\t\t\t<a href=\"mailto:info@mail.com\">info@mail.com</a>\n\t\t\t\t\t\tcumque nihil impedit.\n\t\t\t\t\t\t<span>2 days ago</span>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-4 w3_agile_footer_grid\">\n\t\t\t\t<h3>Navigation</h3>\n\t\t\t\t<ul class=\"agileits_w3layouts_footer_grid_list\">\n\t\t\t\t\t<li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t<a href=\"index.html\">Home</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t<a href=\"about.html\">About</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t<a href=\"projects.html\">Projects</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t<a href=\"contact.html\">Contact</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"col-md-4 w3_agile_footer_grid\">\n\t\t\t\t<h2>Latest Works</h2>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g1.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g2.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g3.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g4.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g5.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"w3_agileits_footer_grid_left\">\n\t\t\t\t\t<a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g6.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"clearfix\"> </div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t\t<div class=\"w3_newsletter_footer_grids\">\n\t\t\t<div class=\"w3_newsletter_footer_grid_left\">\n\t\t\t\t<form action=\"#\" method=\"post\">\n\t\t\t\t\t<input type=\"email\" name=\"Email\" placeholder=\"Email\" required=\"\">\n\t\t\t\t\t<input type=\"submit\" value=\"Send\">\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"agileinfo_copyright\">\n\t\t\t<p>© 2018 Accounts. All Rights Reserved | Design by\n\t\t\t\t<a href=\"https://w3layouts.com/\">W3layouts</a>\n\t\t\t</p>\n\t\t</div>\n\t</div>\n</div>\n",
+					"<div class=\"footer\">\n    <div class=\"container\">\n        <div class=\"w3_agile_footer_grids\">\n            <div class=\"col-md-4 w3_agile_footer_grid\">\n                <h3>Latest Tweets</h3>\n                <ul class=\"agile_footer_grid_list\">\n                    <li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.\n                        <span>1 day ago</span>\n                    </li>\n                    <li><i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>Itaque earum rerum hic tenetur a sapiente delectus\n                        <a href=\"mailto:info@mail.com\">info@mail.com</a>\n                        cumque nihil impedit.\n                        <span>2 days ago</span>\n                    </li>\n                </ul>\n            </div>\n            <div class=\"col-md-4 w3_agile_footer_grid\">\n                <h3>Navigation</h3>\n                <ul class=\"agileits_w3layouts_footer_grid_list\">\n                    <li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n                        <a href=\"index.html\">Home</a>\n                    </li>\n                    <li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n                        <a href=\"about.html\">About</a>\n                    </li>\n                    <li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n                        <a href=\"projects.html\">Projects</a>\n                    </li>\n                    <li><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i>\n                        <a href=\"contact.html\">Contact</a>\n                    </li>\n                </ul>\n            </div>\n            <div class=\"col-md-4 w3_agile_footer_grid\">\n                <h2>Latest Works</h2>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g1.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g2.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g3.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g4.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g5.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"w3_agileits_footer_grid_left\">\n                    <a href=\"#\" data-toggle=\"modal\" data-target=\"#myModal1\"><img src=\"images/g6.jpg\" alt=\" \" class=\"img-responsive\" /></a>\n                </div>\n                <div class=\"clearfix\"> </div>\n            </div>\n            <div class=\"clearfix\"> </div>\n        </div>\n        <div class=\"w3_newsletter_footer_grids\">\n            <div class=\"w3_newsletter_footer_grid_left\">\n                <form action=\"#\" method=\"post\">\n                    <input type=\"email\" name=\"Email\" placeholder=\"Email\" required=\"\">\n                    <input type=\"submit\" value=\"Send\">\n                </form>\n            </div>\n        </div>\n        <div class=\"agileinfo_copyright\">\n            <p>© 2018 Accounts. All Rights Reserved | Design by\n                <a href=\"https://w3layouts.com/\">W3layouts</a>\n            </p>\n        </div>\n    </div>\n</div>\n",
+					"<div class=\"modal fade\" id=\"myModal1\" tabindex=\"-1\" role=\"dialog\">\n\t<!-- Modal1 -->\n\t<div class=\"modal-dialog\">\n\t\t<!-- Modal content-->\n\t\t<div class=\"modal-content\">\n\t\t\t<div class=\"modal-header\">\n\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\">&times;</button>\n\t\t\t\t<h4>Accounts</h4>\n\t\t\t\t<?php echo assets_images('g10.jpg', ['class' => 'img-responsive']); ?>\n\t\t\t\t<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n<!-- //Modal1 -->\n",
+					"<?php $this->load->view('content/header', NULL, FALSE); ?>",
+					"\t<!-- header -->\n\t<div class=\"header\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"w3l_header_left\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<span class=\"fa fa-envelope\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t<a href=\"mailto:info@example.com\">info@example.com</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"w3l_header_right\">\n\t\t\t\t<div class=\"w3ls-social-icons\">\n\t\t\t\t\t<a class=\"facebook\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-facebook\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"twitter\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-twitter\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"pinterest\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-pinterest-p\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"linkedin\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-linkedin\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n\t<!-- //header -->\n",
+					"<!--//Header-->",
+					"<div class=\"inner-bnr\">\n\t<!-- header -->\n\t<div class=\"header\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"w3l_header_left\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<span class=\"fa fa-envelope\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t<a href=\"mailto:info@example.com\">info@example.com</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"w3l_header_right\">\n\t\t\t\t<div class=\"w3ls-social-icons\">\n\t\t\t\t\t<a class=\"facebook\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-facebook\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"twitter\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-twitter\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"pinterest\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-pinterest-p\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"linkedin\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-linkedin\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n\t<!-- //header -->\n\t<div class=\"header-bottom\">\n\t\t<div class=\"container\">\n\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"#\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<nav class=\"cl-effect-1\" id=\"cl-effect-1\">\n\t\t\t\t\t\t<ul class=\"nav navbar-nav\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" data-hover=\"Home\">Home</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" data-hover=\"About\">About</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"dropdown menu__item\">\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle menu__link active\" data-toggle=\"dropdown\" data-hover=\"Pages\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Pages\n\t\t\t\t\t\t\t\t\t<span class=\"caret\"></span>\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Short Codes</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Web Icons</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" data-hover=\"Categories\">Projects</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"active\">\n\t\t\t\t\t\t\t\t<a href=\"#\" data-hover=\"Contact\">Contact</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<div class=\"modal fade\" id=\"myModal1\" tabindex=\"-1\" role=\"dialog\">\n\t<!-- Modal1 -->\n\t<div class=\"modal-dialog\">\n\t\t<!-- Modal content-->\n\t\t<div class=\"modal-content\">\n\t\t\t<div class=\"modal-header\">\n\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\">&times;</button>\n\t\t\t\t<h4>Accounts</h4>\n\t\t\t\t<?php echo assets_images('g10.jpg', ['class' => 'img-responsive']); ?>\n\t\t\t\t<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n",
+					"Modal1",
+					"<!-- Modal1 -->",
+					"<img src=\"images/\" alt=\" \" class=\"\">",
+					"<img src=\"",
+					".html",
+					"codes.html",
+					"<!-- slider -->\n<div class=\"inner-bnr\">\n\t<!-- header -->\n\t<div class=\"header\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"w3l_header_left\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<span class=\"fa fa-envelope\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t<a href=\"mailto:info@example.com\">info@example.com</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"w3l_header_right\">\n\t\t\t\t<div class=\"w3ls-social-icons\">\n\t\t\t\t\t<a class=\"facebook\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-facebook\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"twitter\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-twitter\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"pinterest\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-pinterest-p\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"linkedin\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-linkedin\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n\t<!-- //header -->\n\t<div class=\"header-bottom\">\n\t\t<div class=\"container\">\n\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"index.html\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<nav class=\"cl-effect-1\" id=\"cl-effect-1\">\n\t\t\t\t\t\t<ul class=\"nav navbar-nav\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"index.html\" data-hover=\"Home\">Home</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"about.html\" data-hover=\"About\">About</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"dropdown menu__item active\">\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle menu__link active\" data-toggle=\"dropdown\" data-hover=\"Pages\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Pages\n\t\t\t\t\t\t\t\t\t<span class=\"caret\"></span>\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"codes.html\">Short Codes</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"icons.html\">Web Icons</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"projects.html\" data-hover=\"Categories\">Projects</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"contact.html\" data-hover=\"Contact\">Contact</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<div class=\"modal fade\" id=\"myModal1\" tabindex=\"-1\" role=\"dialog\">\n\t<!-- Modal1 -->\n\t<div class=\"modal-dialog\">\n\t\t<!-- Modal content-->\n\t\t<div class=\"modal-content\">\n\t\t\t<div class=\"modal-header\">\n\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\">&times;</button>\n\t\t\t\t<h4>Accounts</h4>\n\t\t\t\t<img src=\"images/g10.jpg\" alt=\" \" class=\"img-responsive\">\n\t\t\t\t<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n<!-- //Modal1 -->\n<!--//Header-->",
+					"<!-- slider -->\n<div class=\"inner-bnr\">\n\t<!-- header -->\n\t<div class=\"header\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"w3l_header_left\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<span class=\"fa fa-envelope\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t<a href=\"mailto:info@example.com\">info@example.com</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"w3l_header_right\">\n\t\t\t\t<div class=\"w3ls-social-icons\">\n\t\t\t\t\t<a class=\"facebook\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-facebook\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"twitter\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-twitter\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"pinterest\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-pinterest-p\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t\t<a class=\"linkedin\" href=\"#\">\n\t\t\t\t\t\t<span class=\"fa fa-linkedin\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"clearfix\"> </div>\n\t\t</div>\n\t</div>\n\t<!-- //header -->\n\t<div class=\"header-bottom\">\n\t\t<div class=\"container\">\n\t\t\t<nav class=\"navbar navbar-default\">\n\t\t\t\t<!-- Brand and toggle get grouped for better mobile display -->\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t</button>\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<h1><a class=\"navbar-brand\" href=\"index.html\"><span>A</span>ccounts</a></h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Collect the nav links, forms, and other content for toggling -->\n\t\t\t\t<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n\t\t\t\t\t<nav class=\"cl-effect-1\" id=\"cl-effect-1\">\n\t\t\t\t\t\t<ul class=\"nav navbar-nav\">\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"index.html\" data-hover=\"Home\">Home</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"about.html\" data-hover=\"About\">About</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"dropdown menu__item active\">\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle menu__link active\" data-toggle=\"dropdown\" data-hover=\"Pages\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Pages\n\t\t\t\t\t\t\t\t\t<span class=\"caret\"></span>\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"codes.html\">Short Codes</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"icons.html\">Web Icons</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"projects.html\" data-hover=\"Categories\">Projects</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"contact.html\" data-hover=\"Contact\">Contact</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</div>\n\t\t\t\t<!-- /.navbar-collapse -->\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<div class=\"modal fade\" id=\"myModal1\" tabindex=\"-1\" role=\"dialog\">\n\t<!-- Modal1 -->\n\t<div class=\"modal-dialog\">\n\t\t<!-- Modal content-->\n\t\t<div class=\"modal-content\">\n\t\t\t<div class=\"modal-header\">\n\t\t\t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\">&times;</button>\n\t\t\t\t<h4>Accounts</h4>\n\t\t\t\t<img src=\"images/g10.jpg\" alt=\" \" class=\"img-responsive\">\n\t\t\t\t<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n<!-- //Modal1 -->\n<!--//Header-->\n",
+					"<!--Slider-->",
+					"<script type=\"text/javascript\">\n$(document).ready(function() {\n\t/*\n\t\tvar defaults = {\n\t\tcontainerID: 'toTop', // fading element id\n\t\tcontainerHoverID: 'toTopHover', // fading element hover id\n\t\tscrollSpeed: 1200,\n\t\teasingType: 'linear'\n\t\t};\n\t*/\n\t$().UItoTop({\n\t\teasingType: 'easeOutQuart'\n\t});\n});\n</script>",
+					"<script type=\"text/javascript\">\n$(document).ready(function() {\n    /*\n        var defaults = {\n        containerID: 'toTop', // fading element id\n        containerHoverID: 'toTopHover', // fading element hover id\n        scrollSpeed: 1200,\n        easingType: 'linear'\n        };\n    */\n    $().UItoTop({\n        easingType: 'easeOutQuart'\n    });\n});\n</script>\n",
+					"<!-- smooth scrolling -->\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    /*\n        var defaults = {\n        containerID: 'toTop', // fading element id\n        containerHoverID: 'toTopHover', // fading element hover id\n        scrollSpeed: 1200,\n        easingType: 'linear'\n        };\n    */\n    $().UItoTop({\n        easingType: 'easeOutQuart'\n    });\n});\n</script>\n<!-- //smooth scrolling -->\n",
+					"<!-- start-smoth-scrolling -->\n<!-- smooth scrolling -->\n<script type=\"text/javascript\">\n$(document).ready(function() {\n\t/*\n\t\tvar defaults = {\n\t\tcontainerID: 'toTop', // fading element id\n\t\tcontainerHoverID: 'toTopHover', // fading element hover id\n\t\tscrollSpeed: 1200,\n\t\teasingType: 'linear'\n\t\t};\n\t*/\n\t$().UItoTop({\n\t\teasingType: 'easeOutQuart'\n\t});\n});\n</script>\n<!-- //smooth scrolling -->\n",
+					"<script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n",
+					"<a href=\"#home\" id=\"toTop\" style=\"display: block;\">\n\t<span id=\"toTopHover\" style=\"opacity: 1;\"> </span>\n</a>\n",
+					"<script type=\"text/javascript\">\njQuery(document).ready(function($) {\n\t$(\".scroll\").click(function(event) {\n\t\tevent.preventDefault();\n\t\t$('html,body').animate({\n\t\t\tscrollTop: $(this.hash).offset().top\n\t\t}, 1000);\n\t});\n});\n</script>\n",
+					"<!-- start-smoth-scrolling -->\n<script type=\"text/javascript\" src=\"js/move-top.js\"></script>\n<script type=\"text/javascript\" src=\"js/easing.js\"></script>\n",
+					"<!-- js -->\n<script type=\"text/javascript\" src=\"js/jquery-2.2.3.min.js\"></script>\n",
 					"<!--",
-					"// ",
-					"<!-- <td",
-					"</span>",
-					"array(",
-					"$before",
-					"$stack",
-					" : ",
-					"</h6>",
-					"h2",
-					"<h2>",
-					"\" b",
-					"6",
-					"     =>",
-					"resultValues",
-					"allValues",
-					"h1",
-					"countAfter",
-					"countBefore"
+					"<!-- ",
+					"<!-- //",
+					"<!--//",
+					"Header",
+					"assets_img",
+					"<img src",
+					" // echo",
+					".html",
+					"index.html",
+					"https://w3layouts.com/"
 				],
 				"highlight": true,
 				"in_selection": false,
-				"preserve_case": true,
-				"regex": true,
+				"preserve_case": false,
+				"regex": false,
 				"replace_history":
 				[
+					"\"",
+					"UPDATE",
+					"btn-warning",
+					"|",
 					"",
-					"\",",
+					"|",
 					"",
-					"\"],",
-					"[\"url",
-					"\"],",
-					"[",
-					"]",
-					"],",
-					"[",
-					"\"],",
-					"40",
-					"72",
-					"$VirtualHost",
-					"$ErrorMessage",
-					"$Error"
+					"|",
+					"description(Crawler $crawler) :string",
+					"title(Crawler $crawler) :string",
+					"price(Crawler $crawler) :int",
+					"surface(Crawler $crawler) :int",
+					"FormatDataUtil::cleanText",
+					"FormatDataUtil::cleanString",
+					"use KW\\ImmoBundle\\Crawler\\AgenceCrawler;\nuse KW\\ImmoBundle\\Crawler\\AgenceInterface;\n",
+					"",
+					"= ",
+					";",
+					"',\\t'created'",
+					":$1'],",
+					"', 'created'",
+					", 'created' => '2018",
+					", 'created' => '2017",
+					", 'url' => 'http",
+					"['source' => ",
+					"NULL, 'http",
+					"`annonce`",
+					"",
+					"\\tURL",
+					"\\tCode",
+					":\\t",
+					"class=\"btn btn-danger\"",
+					"https://www.guy-hoquet.com",
+					"https://www.explorimmo",
+					"col-md-5",
+					"col-md-4",
+					"",
+					"col-md-6",
+					"col-md-4",
+					"\" style=\"margin-right:10px;\"",
+					"col-xs-6 margin-right-10",
+					"\t\t\t\t\t</p>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"col-xs-6\">\n\t\t\t\t\t<p>\n",
+					" target=\"_blank\" class=\"btn btn-primary\">",
+					"</a></p>",
+					"<p><a",
+					";",
+					"DELETE FROM `hal-immo`.`annonce_deleted` WHERE  `id`=",
+					"",
+					";",
+					"UPDATE annonce SET deleted_at = '2018-03-21 18:55:15' WHERE id = ",
+					"erp"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1091,11 +1107,11 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Ultron/application/controllers/Welcome.php",
+							"file": "/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web/application/views/_partials_/footer.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 363,
+								"buffer_size": 8181,
 								"regions":
 								{
 								},
@@ -1108,19 +1124,24 @@
 								],
 								"settings":
 								{
-									"SL.109.region_keys":
+									"SL.13.region_keys":
+									[
+									],
+									"SL.199.region_keys":
 									[
 									],
 									"WordCount":
 									{
-										"changes": -1,
-										"modified": true,
-										"selection": true,
+										"changes": 0,
+										"count": 161,
+										"modified": false,
+										"selection": false,
 										"status": -1,
-										"syntax": "php"
+										"syntax": "plain text"
 									},
+									"auto_complete": false,
 									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": 109,
+									"bracket_highlighter.clone": -1,
 									"bracket_highlighter.clone_locations":
 									{
 										"close":
@@ -1138,6 +1159,31 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -1148,51 +1194,26 @@
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
 									],
 									"bracket_highlighter.locations":
 									{
@@ -1211,6 +1232,31 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -1221,55 +1267,30 @@
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
 									],
 									"editorconfig": true,
 									"ensure_newline_at_eof_on_save": true,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
@@ -1284,7 +1305,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 48.0
 			},
 			"input":
 			{
@@ -1327,15 +1348,15 @@
 			},
 			"output.find_results":
 			{
-				"height": 29.0
+				"height": 276.0
 			},
 			"output.mdpopups":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,872,2157,146,3179",
-			"project": "CodeIgniter-Ultron.sublime-project",
+			"position": "0,2,3,-1,-1,-1,-1,788,1924,62,2944",
+			"project": "Karlito-Web.sublime-project",
 			"replace":
 			{
 				"height": 92.0
@@ -1348,8 +1369,28 @@
 				"selected_items":
 				[
 					[
-						"foot",
-						"application\\views\\_partials_\\footer.php"
+						"route",
+						"application\\config\\routes.php"
+					],
+					[
+						"main",
+						"www\\assets\\css\\main.css"
+					],
+					[
+						"_partials_/quick-nav.html.twig",
+						"src\\KW\\ImmoBundle\\Resources\\views\\_Partials_\\quick-nav.html.twig"
+					],
+					[
+						"parser-2018-04",
+						"database\\rapport\\parser-2018-04-04.txt"
+					],
+					[
+						"parser-",
+						"database\\rapport\\parser-2018-04-04.txt"
+					],
+					[
+						"resources/views/security/login-5.html.twig",
+						"vendor\\karlito-web\\userbundle\\Resources\\views\\Security\\login-5.html.twig"
 					]
 				],
 				"width": 0.0
@@ -1357,20 +1398,24 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "Immo",
 				"selected_items":
 				[
-					[
-						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
-					],
 					[
 						"Immo",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
 					],
 					[
-						"immo",
+						"",
 						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Immo.sublime-project"
+					],
+					[
+						"Ultr",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\CodeIgniter-Ultron.sublime-project"
+					],
+					[
+						"Socc",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-Soccer.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1387,42 +1432,35 @@
 			"selected_group": 0,
 			"settings":
 			{
-				"last_automatic_layout":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				]
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 269.0,
+			"side_bar_width": 256.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 4
 			},
 			"window_id": 817,
-			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Ultron.sublime-workspace"
+			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Karlito-Web.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Ultron.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Karlito-Web.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Eros.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Ultron.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/ERP-App.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Api.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Wamp.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Colossus.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Api.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Karlito-Web.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Soccer.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Whore.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-F1.sublime-workspace",
