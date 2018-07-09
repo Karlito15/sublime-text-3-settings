@@ -64,7 +64,7 @@
 		".git",
 		".idea"
 	],
-	"font_face": "Fira Code", // Fira Code | Titilium
+	"font_face": "Fira Code",
 	"font_options":
 	[
 		"no_bold",
@@ -76,11 +76,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Bootstrap 3 Autocomplete",
-		"October Twig Highlighter",
 		"ActionScript",
 		"AppleScript",
 		"ASP",
+		"Bootstrap 3 Autocomplete",
 		"C#",
 		"C++",
 		"Clojure",
@@ -98,6 +97,7 @@
 		"Matlab",
 		"Objective-C",
 		"OCaml",
+		"October Twig Highlighter",
 		"Pascal",
 		"Perl",
 		"Python",
