@@ -1,44 +1,189 @@
 {
 	"folder_history":
 	[
-		"/D/Server/www/Demo/ERPLink",
-		"/D/Server/www/Shipping",
-		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Eros",
-		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Wamp",
-		"/D/Server/www/immobiliare/src/KW/ImmoBundle",
-		"/Q/immobiliare/src",
-		"/C/Users/Giancarlo/Dropbox/www/CodeIgniter/Karlito-Web",
-		"/D/Server/www/Training/PHP/Bookmarks",
-		"/D/Server/www/Training/PHP/Array-Functions",
-		"/C/Users/Giancarlo/Dropbox/www/__cdn__/vhost",
-		"/D/Server/www/GitHub/Invoice-Ninja",
-		"/C/Users/Giancarlo/Dropbox/www/Projects/Kelly-Kapowski",
-		"/Q/Elsa",
-		"/D/Server/www/Elsa",
-		"/C/Users/Giancarlo/Dropbox/www/- Templates -/2017/Metronic-v4.7.5",
-		"/C/Users/Giancarlo/Dropbox/www/- Templates -/2017/Metronic-v4.7.5/admin-2",
-		"/D/Server/www/Training/PHP/Replace",
-		"/C/Users/Giancarlo/Downloads/Metronic-v4.7.5/admin-1-rounded",
-		"/C/Users/Giancarlo/Downloads/Metronic-v4.7.5/admin-1-material-design",
-		"/D/Server/www/Demo/Potential",
-		"/D/Server/www/Demo/Finance",
-		"/C/Users/Giancarlo/Dropbox/www/- Templates -/Admin/backend-dashboard-admin-template/admin-top-menu/material-default",
-		"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link",
-		"/D/Server/www/CodeIgniter/Wamp",
-		"/Q/hal"
+		"/D/Server/www/Karlito-Web/User",
+		"/D/Server/www/Karlito-Web/Layout"
 	],
-	"last_version": 3176,
-	"last_window_id": 869,
+	"last_version": 3207,
+	"last_window_id": 1309,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 667.0,
+		"new_window_height": 676.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"ver",
+						"vertical"
+					],
+					[
+						"margin",
+						"margin-bottom\tproperty"
+					],
+					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"bg-",
+						"bg-light \tBootstrap 4 Class"
+					],
+					[
+						"btn-outline-d",
+						"btn-outline-secondary \tBootstrap 4 Class"
+					],
+					[
+						"background-c",
+						"background-color\tproperty"
+					],
+					[
+						"bac",
+						"background\tproperty"
+					],
+					[
+						"btn",
+						"btns"
+					],
+					[
+						"C",
+						"Composer"
+					],
+					[
+						"par",
+						"parameters"
+					],
+					[
+						"html",
+						"htmlspecialchars"
+					],
+					[
+						"txt-w",
+						"text-white \tBootstrap 4 Class"
+					],
+					[
+						"ca",
+						"cache"
+					],
+					[
+						"jso",
+						"json_encode"
+					],
+					[
+						"S",
+						"Symfony"
+					],
+					[
+						"border",
+						"border-0 \tBootstrap 4 Class"
+					],
+					[
+						"border-w",
+						"border-white \tBootstrap 4 Class"
+					],
+					[
+						"border-",
+						"border-dark \tBootstrap 4 Class"
+					],
+					[
+						"font-",
+						"font-weight-normal \tBootstrap 4 Class"
+					],
+					[
+						"text-",
+						"text-light \tBootstrap 4 Class"
+					],
+					[
+						"text-d",
+						"text-dark \tBootstrap 4 Class"
+					],
+					[
+						"card-t",
+						"card-text"
+					],
+					[
+						"text-w",
+						"text-white \tBootstrap 4 Class"
+					],
+					[
+						"lo",
+						"lorem\tlorem - One sentence"
+					],
+					[
+						"bg-da",
+						"bg-dark \tBootstrap 4 Class"
+					],
+					[
+						"c",
+						"class\tAttr"
+					],
+					[
+						"align-",
+						"align-middle \tBootstrap 4 Class"
+					],
+					[
+						"font-w",
+						"font-weight-bold \tBootstrap 4 Class"
+					],
+					[
+						"text",
+						"text-center \tBootstrap 4 Class"
+					],
+					[
+						"bg-se",
+						"bg-secondary"
+					],
+					[
+						"displ",
+						"display-3 \tBootstrap 4 Class"
+					],
+					[
+						"cont",
+						"content"
+					],
+					[
+						"co",
+						"column"
+					],
+					[
+						"code",
+						"code_end"
+					],
+					[
+						"cod",
+						"code_end"
+					],
+					[
+						"dl",
+						"dl_end"
+					],
+					[
+						"getIte",
+						"getItemHorizontal"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"load",
+						"load_view\tCI - Load View"
+					],
+					[
+						"parse",
+						"parser"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"fun",
+						"fun\tfunction …"
+					]
 				]
 			},
 			"build_system_choices":
@@ -47,10 +192,30 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 337.0,
+				"height": 357.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"yaml",
+						"Pretty YAML: Reformat (Pretty Print) YAML"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"prettify",
+						"HTMLPrettify"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
 				],
 				"width": 558.0
 			},
@@ -72,29 +237,138 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/app/config/services.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/UserBundle/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/LayoutBundle/Resources/views/_Layouts_/top-icon-menu/content.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/LayoutBundle/Resources/views/_Layouts_/top-menu/content.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/LayoutBundle/Resources/views/_Layouts_/top-menu/_Partials_/navigation.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/LayoutBundle/Resources/views/_Commons_/alert.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/LayoutBundle/Resources/views/_Commons_/meta.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/LayoutBundle/Resources/views/_Commons_/search-overlay.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/LayoutBundle/Resources/views/_Commons_/settings.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/LayoutBundle/Resources/views/_Commons_/user.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/UserBundle/Resources/config/routing.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/app/config/bundles/app.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/app/config/config.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/app/config/dev/parameters.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/app/AppKernel.php",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/UserBundle/Resources/views/Group/list.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/UserBundle/Resources/config/services.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/src/ERPLink/UserBundle/Form/Type/UserType.php"
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/CodeIgniter.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Composer.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Git.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Google.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Grav.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Linux.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Login.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Nas.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/doctrine.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/routes.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/navigation.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Symfony.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Doctrine.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/FORM EMBED COLLECTION.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/installation.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/symfony.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/memo.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/clamart.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/command.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/DSM.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/memo.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/mysql.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/cache.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Symfony.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/fos-user",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/translation.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/swiftmailer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/server.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/security.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/router.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/maker.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/doctrine.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/debug.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/config.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list.php",
+				"/D/Server/bin/php/php7.1.18/phpForApache.ini",
+				"/D/Server/bin/php/php7.2.14/phpForApache.ini",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/autoload.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Twig.php",
+				"/Y/CodeIgniter/ultron/application/logs/log-2019-08-25.php",
+				"/Y/CodeIgniter/ultron/www/assets/index.html",
+				"/D/Server/www/CodeIgniter/Ultron/.gitignore",
+				"/D/Server/www/CodeIgniter/Ultron/application/core/MY_Controller.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Login.php",
+				"/Y/CodeIgniter/ultron/application/core/MY_Controller.php",
+				"/D/Server/www/CodeIgniter/Ultron/composer.json",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/production/config.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/development/config.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/development/database.php",
+				"/D/Server/www/CodeIgniter/Ultron/_config.yml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/Template.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Command.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Core/YamlParser.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Frequently.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Faker/Address.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Faker/Bootstrap.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Apps/Faker.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/CodeIgniter",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/NAS.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/NodeJS.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/OVH.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Raspberry.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Twig",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Webpack",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/WordPress",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/CodeIgniter.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Composer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Git.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Google.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Grav",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Linux.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Clamart.php",
+				"/D/Server/www/CodeIgniter/Ultron/www/assets/css/application.css",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Twig.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Raspberry.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Grav.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/logs/log-2019-08-25.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/layout.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/meta-favicons.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/logo-header.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/logo-footer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/loader.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/footer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/header.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/helpers/assets_helper.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/helpers/compare_helper.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/Twig.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/Webpack.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/NodeJS.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/test.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/google.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/login.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Frequently.old.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Login.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/libraries/Alert.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/= TO DO =/codeIgniter.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/CodeIgniter.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/navigation.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/NPM.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/NPM.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Login.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Google.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Google.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Faker.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/Grav.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/Wordpress.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Twig.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Raspberry.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Raspberry.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Nas.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Nas.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Linux.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Linux.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Git.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Git.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Composer.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Composer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Webpack.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/Symfony.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/Symfony.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/homepage.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Server/OVH.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/ovh-manager.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/wamp.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/OVH.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/NPM.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Webpack - Copie (4).yaml"
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 48.0
 			},
 			"find_in_files":
 			{
@@ -102,9 +376,10 @@
 				"where_history":
 				[
 					"<open files>",
-					"",
+					"<open folders>",
+					"<open files>,<open folders>",
 					"<open files>",
-					""
+					"<project>"
 				]
 			},
 			"find_state":
@@ -112,13 +387,148 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"<i class=\"btn btn-sm btn-outline-danger fa fa-clipboard mt-clipboard\" data-clipboard-action=\"",
+					"</code>",
+					"<code id=\"",
+					"<code id=\"composer_init\">",
+					" class=\"text-light\"",
+					"</p>",
+					"<p>",
+					"<h4 class=\"p-2 text-danger bg-dark\">",
+					"<h2 class=\"p-2 text-danger\">",
+					"</h1>",
+					"<h1 class=\"m-3 text-center text-secondary\">",
+					"\t</code>",
+					"<code>",
+					"<code><pre>",
+					"</pre></code>",
+					"</pre>",
+					"<pre>",
+					"pre",
+					"memos",
+					"dl",
+					"<h5 class=\"card-title\">",
+					"text-white-50",
+					"text-info",
+					"text-success",
+					"mcr",
+					"extension=mcrypt",
+					"\\",
+					"nav-link",
+					"\t\t\t<li class=\"nav",
+					"\tcomposer prohibits symfony/symfony ",
+					"\tphp bin/console whore:check:status --active",
+					" mb-5\">",
+					"<h2 class=\"my-3",
+					"3 h2 bg",
+					"h2",
+					"h2 ",
+					"<h3 class=\"my-3 bg-dark",
+					"bg-dark",
+					"{",
+					"%s",
+					"outline-warning",
+					"warning",
+					"btn-outline-light",
+					"text-gray-dark",
+					"secondary",
+					"primary",
+					"class=\"text-light\"",
+					"text-white-50",
+					"('",
+					"$tple",
+					"$html",
+					".yaml.yaml",
+					"Composer.yaml",
+					"Symfony",
+					"// me",
+					"']  ",
+					"$route['",
+					"2",
+					"Raspberry",
+					"Nas",
+					"login",
+					"icon:",
+					" <i class=\"fab fa-rebel\">",
+					"icon:",
+					"login",
+					"    icon:",
+					"    title:",
+					"/index",
+					"Assets/plugins",
+					"/index';",
+					">\n",
+					"$login",
+					"config/app/",
+					"  icon:",
+					"s)",
+					"$value",
+					"{%1$s}",
+					"{%3$s}",
+					"{%2$s}",
+					"  title:",
+					"template",
+					"public",
+					"    ",
+					"                ",
+					"               ",
+					"              ",
+					"             ",
+					"            ",
+					"           ",
+					"          ",
+					"         ",
+					"        ",
+					"       ",
+					"      ",
+					"     ",
+					"    ",
+					"' \t",
+					"\t//",
+					"\t\t$template = new Template();\n\t\t$items = $template->itemVertical($login['login']['items']);\n",
+					"%2$s",
+					"email",
+					"Login",
+					"  ---",
+					"title: ",
+					"{",
+					"lic static function ",
+					"Google",
+					"config",
+					"Raspberry",
+					"  icon: ''",
+					"  title: ",
+					"Nas",
+					"\t{",
+					"\tpublic static function ",
+					"  title: ",
+					"icon: \"</i>\"",
+					"' . ' -p ' . '",
+					"@'. '92",
+					"self::$port",
+					"self::$ip",
+					"\t{",
+					"\tpublic static function ",
+					"Linux",
+					" <i class=\"fab fa-linux\"></i>",
+					"  ---",
+					"title: ",
+					"icon: <i class=\"fab fa-raspberry-pi\">",
+					"<p class=\"mt-5 text-white\">\n"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
+					"text-white-50",
+					"text-info",
+					"\\t",
+					"<h3 class=\"bg-secondary text-success\">",
+					"",
+					"<h3 class=\"bg-secondary text-info\"><i class=\"fas fa-terminal px-3\"></i>php bin/console list cache</h3>",
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -128,7 +538,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -139,22 +549,14 @@
 			{
 				"height": 0.0
 			},
-			"output.clipboard_manager":
-			{
-				"height": 800.0
-			},
 			"output.find_results":
 			{
 				"height": 51.0
 			},
-			"output.mdpopups":
-			{
-				"height": 0.0
-			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 92.0
+				"height": 90.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -163,6 +565,70 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"nav",
+						"application\\views\\partials\\navigation.php"
+					],
+					[
+						"list.php",
+						"application\\views\\content\\memos\\symfony\\list.php"
+					],
+					[
+						"na",
+						"application\\views\\partials\\navigation.php"
+					],
+					[
+						"navi",
+						"application\\views\\partials\\navigation.php"
+					],
+					[
+						"Template.php",
+						"application\\third_party\\Memos\\Template.php"
+					],
+					[
+						"r",
+						"application\\config\\routes.php"
+					],
+					[
+						"ro",
+						"application\\config\\routes.php"
+					],
+					[
+						"route",
+						"application\\config\\routes.php"
+					],
+					[
+						"YamlParser",
+						"application\\third_party\\Core\\YamlParser.php"
+					],
+					[
+						"test.",
+						"application\\views\\content\\memos\\test.php"
+					],
+					[
+						"Symfony.yaml",
+						"application\\config\\app\\Frameworks\\Symfony.yaml"
+					],
+					[
+						"footer",
+						"application\\views\\partials\\footer.php"
+					],
+					[
+						"list/cache",
+						"application\\views\\content\\memos\\symfony\\list\\cache.php"
+					],
+					[
+						"Memos/Raspberry",
+						"application\\controllers\\Memos\\Raspberry.php"
+					],
+					[
+						"Memos/Webpack",
+						"application\\controllers\\Memos\\Webpack.php"
+					],
+					[
+						"Temp",
+						"application\\third_party\\Memos\\Template.php"
+					]
 				],
 				"width": 0.0
 			},
@@ -174,11 +640,7 @@
 				[
 					[
 						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\Hal-App.sublime-project"
-					],
-					[
-						"Shi",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\ERP-Shipping.sublime-project"
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\KW-Soccer.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -190,20 +652,19 @@
 				"selected_items":
 				[
 				],
-				"width": 894.0
+				"width": 758.0
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 283.0,
+			"side_bar_width": 255.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
-				"max_columns": 4
 			}
 		},
-		"new_window_width": 1006.0
+		"new_window_width": 1002.0
 	},
 	"windows":
 	[
@@ -213,8 +674,172 @@
 				"selected_items":
 				[
 					[
-						"b",
-						"builder"
+						"ver",
+						"vertical"
+					],
+					[
+						"margin",
+						"margin-bottom\tproperty"
+					],
+					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"bg-",
+						"bg-light \tBootstrap 4 Class"
+					],
+					[
+						"btn-outline-d",
+						"btn-outline-secondary \tBootstrap 4 Class"
+					],
+					[
+						"background-c",
+						"background-color\tproperty"
+					],
+					[
+						"bac",
+						"background\tproperty"
+					],
+					[
+						"btn",
+						"btns"
+					],
+					[
+						"C",
+						"Composer"
+					],
+					[
+						"par",
+						"parameters"
+					],
+					[
+						"html",
+						"htmlspecialchars"
+					],
+					[
+						"txt-w",
+						"text-white \tBootstrap 4 Class"
+					],
+					[
+						"ca",
+						"cache"
+					],
+					[
+						"jso",
+						"json_encode"
+					],
+					[
+						"S",
+						"Symfony"
+					],
+					[
+						"border",
+						"border-0 \tBootstrap 4 Class"
+					],
+					[
+						"border-w",
+						"border-white \tBootstrap 4 Class"
+					],
+					[
+						"border-",
+						"border-dark \tBootstrap 4 Class"
+					],
+					[
+						"font-",
+						"font-weight-normal \tBootstrap 4 Class"
+					],
+					[
+						"text-",
+						"text-light \tBootstrap 4 Class"
+					],
+					[
+						"text-d",
+						"text-dark \tBootstrap 4 Class"
+					],
+					[
+						"card-t",
+						"card-text"
+					],
+					[
+						"text-w",
+						"text-white \tBootstrap 4 Class"
+					],
+					[
+						"lo",
+						"lorem\tlorem - One sentence"
+					],
+					[
+						"bg-da",
+						"bg-dark \tBootstrap 4 Class"
+					],
+					[
+						"c",
+						"class\tAttr"
+					],
+					[
+						"align-",
+						"align-middle \tBootstrap 4 Class"
+					],
+					[
+						"font-w",
+						"font-weight-bold \tBootstrap 4 Class"
+					],
+					[
+						"text",
+						"text-center \tBootstrap 4 Class"
+					],
+					[
+						"bg-se",
+						"bg-secondary"
+					],
+					[
+						"displ",
+						"display-3 \tBootstrap 4 Class"
+					],
+					[
+						"cont",
+						"content"
+					],
+					[
+						"co",
+						"column"
+					],
+					[
+						"code",
+						"code_end"
+					],
+					[
+						"cod",
+						"code_end"
+					],
+					[
+						"dl",
+						"dl_end"
+					],
+					[
+						"getIte",
+						"getItemHorizontal"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"load",
+						"load_view\tCI - Load View"
+					],
+					[
+						"parse",
+						"parser"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"fun",
+						"fun\tfunction …"
 					]
 				]
 			},
@@ -228,13 +853,29 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 310.0,
+				"height": 357.0,
 				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"prett",
+						"yaml",
+						"Pretty YAML: Reformat (Pretty Print) YAML"
+					],
+					[
+						"html",
 						"HTMLPrettify"
+					],
+					[
+						"prettify",
+						"HTMLPrettify"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
 					]
 				],
 				"width": 558.0
@@ -257,53 +898,153 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src"
+				"/D/Server/www/CodeIgniter/Ultron"
 			],
 			"file_history":
 			[
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/LayoutBundle/Resources/views/Layouts/layout-1-content.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/LayoutBundle/Resources/views/content.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2014/sportimo/index.html",
-				"/C/Users/Giancarlo/Dropbox/www/- Templates -/2014/sportimo/css/main-stylesheet.css",
-				"/C/Users/GIANCA~1/AppData/Local/Temp/Rar$DRa0.252/How_to_use_webfonts.html",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/LayoutBundle/Resources/views/Partials/favicons.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/LayoutBundle/Resources/views/Layouts/layout-6-content.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/app/config/security.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/app/config/services.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/composer.json",
-				"/D/Server/www/Shipping/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/Immobiliare/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Form/Type/ProfileType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Projects/ERP-Link/composer.json",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Resources/config/routing.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Form/Type/UsersType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Resources/views/Group/new.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/app/config/routing.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/edit-personal.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Resources/views/Profile/edit.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Resources/views/Group/edit.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Resources/views/Group/show.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Resources/views/Group/list.html.twig",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Form/Type/GroupType.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/Resources/config/services.yml",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadUsersLoginData.php",
-				"/C/Users/Giancarlo/Dropbox/www/Hal/App/src/KW/UserBundle/DataFixtures/ORM/LoadUsersGroupsData.php"
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Git.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Symfony.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Composer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/git.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Twig.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Webpack.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Wordpress.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/serveur-VM",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/sendmail",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/raspberry-conf-php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/raspberry-bordel",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/others",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/NGROK",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/local-storage",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Linux",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/php/array/array_diff.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/codeigniter",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/codeIgniter.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/commandes-de-bases",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/editeur-VI",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/git-config",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Grav.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/php/cli.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/php/functions.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/php/PHPUnit.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/composer/install",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/Template.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Composer.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/mysql.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/command.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/composer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/core/MY_Controller.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/CodeIgniter",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/memo.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/doctrine.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/CodeIgniter.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Git.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Google.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Grav.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Linux.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Login.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Nas.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/routes.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/navigation.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Doctrine.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/FORM EMBED COLLECTION.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/installation.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/symfony.txt",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/memo.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/clamart.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/DSM.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/cache.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Symfony.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/fos-user",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/translation.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/swiftmailer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/server.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/security.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/router.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/maker.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/doctrine.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/debug.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/config.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list.php",
+				"/D/Server/bin/php/php7.1.18/phpForApache.ini",
+				"/D/Server/bin/php/php7.2.14/phpForApache.ini",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/autoload.php",
+				"/Y/CodeIgniter/ultron/application/logs/log-2019-08-25.php",
+				"/Y/CodeIgniter/ultron/www/assets/index.html",
+				"/D/Server/www/CodeIgniter/Ultron/.gitignore",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Login.php",
+				"/Y/CodeIgniter/ultron/application/core/MY_Controller.php",
+				"/D/Server/www/CodeIgniter/Ultron/composer.json",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/production/config.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/development/config.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/development/database.php",
+				"/D/Server/www/CodeIgniter/Ultron/_config.yml",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Command.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Core/YamlParser.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Frequently.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Faker/Address.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Faker/Bootstrap.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Apps/Faker.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/NAS.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/NodeJS.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/OVH.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Raspberry.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Twig",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Webpack",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/WordPress",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/CodeIgniter.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Google.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Grav",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Linux.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Clamart.php",
+				"/D/Server/www/CodeIgniter/Ultron/www/assets/css/application.css",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Twig.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Raspberry.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Grav.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/logs/log-2019-08-25.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/layout.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/meta-favicons.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/logo-header.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/logo-footer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/loader.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/footer.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/header.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/helpers/assets_helper.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/helpers/compare_helper.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/Twig.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/Webpack.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/NodeJS.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/test.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/google.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/login.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Frequently.old.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Login.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/libraries/Alert.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/= TO DO =/codeIgniter.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/CodeIgniter.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/navigation.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/NPM.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/NPM.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Login.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Google.php",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Google.yaml",
+				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Faker.php"
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 48.0
 			},
 			"find_in_files":
 			{
-				"height": 158.0,
+				"height": 135.0,
 				"where_history":
 				[
 					"<open files>",
 					"<open folders>",
 					"<open files>,<open folders>",
-					"<open files>"
+					"<open files>",
+					"<project>"
 				]
 			},
 			"find_state":
@@ -311,18 +1052,148 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"\" />",
-					"karlito-web",
-					"ERPLink",
-					"ROLE_ADMIN",
-					"ROLE_USER"
+					"<span class=\"text-white\">",
+					"<span class=\"text-white h4\">",
+					"<h1 class=\"m-3 text-center text-secondary\">",
+					"cmd: ",
+					"XXX",
+					"      cmd:",
+					"cmd:",
+					"itemHelp",
+					"white-50",
+					"composer update --",
+					"composer install --",
+					"<i class=\"btn btn-sm btn-outline-danger fa fa-clipboard mt-clipboard\" data-clipboard-action=\"",
+					"</code>",
+					"<code id=\"",
+					"<code id=\"composer_init\">",
+					" class=\"text-light\"",
+					"</p>",
+					"<p>",
+					"<h4 class=\"p-2 text-danger bg-dark\">",
+					"<h2 class=\"p-2 text-danger\">",
+					"</h1>",
+					"<h1 class=\"m-3 text-center text-secondary\">",
+					"\t</code>",
+					"<code>",
+					"<code><pre>",
+					"</pre></code>",
+					"</pre>",
+					"<pre>",
+					"pre",
+					"memos",
+					"dl",
+					"<h5 class=\"card-title\">",
+					"text-white-50",
+					"text-info",
+					"text-success",
+					"mcr",
+					"extension=mcrypt",
+					"\\",
+					"nav-link",
+					"\t\t\t<li class=\"nav",
+					"\tcomposer prohibits symfony/symfony ",
+					"\tphp bin/console whore:check:status --active",
+					" mb-5\">",
+					"<h2 class=\"my-3",
+					"3 h2 bg",
+					"h2",
+					"h2 ",
+					"<h3 class=\"my-3 bg-dark",
+					"bg-dark",
+					"{",
+					"%s",
+					"outline-warning",
+					"warning",
+					"btn-outline-light",
+					"text-gray-dark",
+					"secondary",
+					"primary",
+					"class=\"text-light\"",
+					"text-white-50",
+					"('",
+					"$tple",
+					"$html",
+					".yaml.yaml",
+					"Composer.yaml",
+					"Symfony",
+					"// me",
+					"']  ",
+					"$route['",
+					"2",
+					"Raspberry",
+					"Nas",
+					"login",
+					"icon:",
+					" <i class=\"fab fa-rebel\">",
+					"icon:",
+					"login",
+					"    icon:",
+					"    title:",
+					"/index",
+					"Assets/plugins",
+					"/index';",
+					">\n",
+					"$login",
+					"config/app/",
+					"  icon:",
+					"s)",
+					"$value",
+					"{%1$s}",
+					"{%3$s}",
+					"{%2$s}",
+					"  title:",
+					"template",
+					"public",
+					"    ",
+					"                ",
+					"               ",
+					"              ",
+					"             ",
+					"            ",
+					"           ",
+					"          ",
+					"         ",
+					"        ",
+					"       ",
+					"      ",
+					"     ",
+					"    ",
+					"' \t",
+					"\t//",
+					"\t\t$template = new Template();\n\t\t$items = $template->itemVertical($login['login']['items']);\n",
+					"%2$s",
+					"email",
+					"Login",
+					"  ---",
+					"title: ",
+					"{",
+					"lic static function ",
+					"Google",
+					"config",
+					"Raspberry",
+					"  icon: ''",
+					"  title: ",
+					"Nas",
+					"\t{",
+					"\tpublic static function ",
+					"  title: ",
+					"icon: \"</i>\"",
+					"' . ' -p ' . '"
 				],
 				"highlight": true,
 				"in_selection": false,
-				"preserve_case": true,
+				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
+					"text-white-50",
+					"text-info",
+					"\\t",
+					"<h3 class=\"bg-secondary text-success\">",
+					"",
+					"<h3 class=\"bg-secondary text-info\"><i class=\"fas fa-terminal px-3\"></i>php bin/console list cache</h3>",
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -340,7 +1211,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -373,28 +1244,16 @@
 			{
 				"height": 0.0
 			},
-			"output.SublimeLinter Messages":
-			{
-				"height": 118.0
-			},
-			"output.clipboard_manager":
-			{
-				"height": 800.0
-			},
 			"output.find_results":
 			{
-				"height": 29.0
-			},
-			"output.mdpopups":
-			{
-				"height": 0.0
+				"height": 51.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,728,2,2,1024",
-			"project": "Hal-App.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,736,1934,1,2952",
+			"project": "CI-Ultron.sublime-project",
 			"replace":
 			{
-				"height": 92.0
+				"height": 90.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -403,18 +1262,82 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"nav",
+						"application\\views\\partials\\navigation.php"
+					],
+					[
+						"list.php",
+						"application\\views\\content\\memos\\symfony\\list.php"
+					],
+					[
+						"na",
+						"application\\views\\partials\\navigation.php"
+					],
+					[
+						"navi",
+						"application\\views\\partials\\navigation.php"
+					],
+					[
+						"Template.php",
+						"application\\third_party\\Memos\\Template.php"
+					],
+					[
+						"r",
+						"application\\config\\routes.php"
+					],
+					[
+						"ro",
+						"application\\config\\routes.php"
+					],
+					[
+						"route",
+						"application\\config\\routes.php"
+					],
+					[
+						"YamlParser",
+						"application\\third_party\\Core\\YamlParser.php"
+					],
+					[
+						"test.",
+						"application\\views\\content\\memos\\test.php"
+					],
+					[
+						"Symfony.yaml",
+						"application\\config\\app\\Frameworks\\Symfony.yaml"
+					],
+					[
+						"footer",
+						"application\\views\\partials\\footer.php"
+					],
+					[
+						"list/cache",
+						"application\\views\\content\\memos\\symfony\\list\\cache.php"
+					],
+					[
+						"Memos/Raspberry",
+						"application\\controllers\\Memos\\Raspberry.php"
+					],
+					[
+						"Memos/Webpack",
+						"application\\controllers\\Memos\\Webpack.php"
+					],
+					[
+						"Temp",
+						"application\\third_party\\Memos\\Template.php"
+					]
 				],
 				"width": 0.0
 			},
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "s",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"s",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\ERP-Shipping.sublime-project"
+						"",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\KW-Soccer.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -426,56 +1349,39 @@
 				"selected_items":
 				[
 				],
-				"width": 894.0
+				"width": 758.0
 			},
 			"selected_group": 0,
 			"settings":
 			{
-				"last_automatic_layout":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				]
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 313.0,
+			"side_bar_width": 255.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
-				"max_columns": 4
 			},
-			"window_id": 864,
-			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace"
+			"window_id": 1278,
+			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CI-Ultron.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-App.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/ERP-Shipping.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/ERP-App.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Immo.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Soccer.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Timeout.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Api.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-F1.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Templates-Metronic-4.7.5.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Ultron.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Blog.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Hal-Whore.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Karlito-Web.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Eros.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Wamp.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CodeIgniter-Colossus.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/Kelly-Kapowski.sublime-workspace"
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CI-Ultron.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Whore.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Soccer.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-User.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Blog.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Layout.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Common.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Api.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-F1.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Timeout.sublime-workspace"
 		]
 	}
 }

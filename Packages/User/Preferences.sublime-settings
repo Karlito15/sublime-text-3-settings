@@ -21,6 +21,7 @@
 		"*.zip",
 		".idea/*",
 		"composer.lock",
+		"node_modules/**",
 		"wamplangues/**",
 		"wampthemes/**"
 	],
@@ -64,14 +65,15 @@
 		".git",
 		".idea"
 	],
-	"font_face": "Fira Code",
+	"font_face": "Fira Code Light",
 	"font_options":
 	[
 		"no_bold",
 		"no_italic",
-		"directwrite"
+		"directwrite",
+		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -137,5 +139,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": false,
-	"wrap_width": 150
+	"wrap_width": 130
 }
