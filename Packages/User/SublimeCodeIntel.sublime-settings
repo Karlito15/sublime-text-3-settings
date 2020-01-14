@@ -9,11 +9,11 @@
             "codeintel_selected_catalogs": ["jQuery"]
         },
         "PHP": {
-            "php": "D:\\Server\\bin\\php\\php7.1.18\\",
+            "php": "D:\\Wamp\\bin\\php\\php7.3.12\\",
             "codeintel_scan_extra_dir": [],
             "codeintel_scan_files_in_project": true,
             "codeintel_max_recursive_dir_depth": 15,
-            "codeintel_scan_exclude_dir":["D:\\Server\\bin\\php\\php7.1.18\\"]
+            "codeintel_scan_exclude_dir":["D:\\Server\\bin\\php\\php7.3.12\\"]
         }
     }
 }

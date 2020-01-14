@@ -4,11 +4,11 @@
 		"/D/WWW/Prestashop"
 	],
 	"last_version": 3211,
-	"last_window_id": 7,
+	"last_window_id": 8,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 654.0,
+		"new_window_height": 650.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -60,6 +60,14 @@
 				"selected_items":
 				[
 					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
 						"Package Control: e",
 						"Package Control: Enable Package"
 					],
@@ -92,14 +100,27 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Sublimerge.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/SQL Beautifier.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SqlBeautifier/SQL Beautifier.sublime-settings",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/404.html.twig",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Pretty YAML.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/sidebar_separator.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Zeal.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/WordCount.sublime-settings",
 				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/alt_footer.html.twig",
-				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/sidebar_separator.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SidebarSeparator/SidebarSeparator.sublime-settings",
-				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/404.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/about.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_post.html.twig",
@@ -206,20 +227,7 @@
 				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/search.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/contact-success.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/contact.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/error-404.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery-single-lightbox.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery-single.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-comment-form.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-comment.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/pagination.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-advertise.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-countdown.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-last-event.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-popular-news.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-tag.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/favicon.html.twig"
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/error-404.html.twig"
 			],
 			"find":
 			{
@@ -241,6 +249,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"7.1.18",
 					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:300\">",
 					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:700\">",
 					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:400\">",
@@ -367,8 +376,7 @@
 					"href=\"post.html\"",
 					"src=\"images/",
 					"layout_category",
-					"category.html",
-					"src=\"images/photos/image-"
+					"category.html"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -495,7 +503,7 @@
 			{
 			}
 		},
-		"new_window_width": 1022.0
+		"new_window_width": 1018.0
 	},
 	"windows":
 	[
@@ -553,6 +561,10 @@
 				"selected_items":
 				[
 					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
 						"Package Control: re",
 						"Package Control: Remove Package"
 					],
@@ -598,26 +610,40 @@
 			],
 			"file_history":
 			[
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/404.html.twig",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/README.md",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/package.json",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/about.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/alt_footer.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_post.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_post2.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_two.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/contact.html.twig",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Sublimerge.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/SQL Beautifier.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SqlBeautifier/SQL Beautifier.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Pretty YAML.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/sidebar_separator.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Zeal.sublime-settings",
-				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/404.html.twig",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/WordCount.sublime-settings",
-				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/alt_footer.html.twig",
 				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SidebarSeparator/SidebarSeparator.sublime-settings",
-				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/about.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_post.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_post2.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_two.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/contact.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/dribbble_stream.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/full.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/full_slider.html.twig",
@@ -711,21 +737,7 @@
 				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-share.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-no-comment.html.twig",
 				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-small-photo.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-no-photo.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-no-comments.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-big-photo.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/results.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/search.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/contact-success.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/contact.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/error-404.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery-single-lightbox.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery-single.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-comment-form.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-comment.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/pagination.html.twig",
-				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-advertise.html.twig"
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-no-photo.html.twig"
 			],
 			"find":
 			{
@@ -747,6 +759,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"7.1.18",
 					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:300\">",
 					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:700\">",
 					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:400\">",
@@ -873,8 +886,7 @@
 					"href=\"post.html\"",
 					"src=\"images/",
 					"layout_category",
-					"category.html",
-					"src=\"images/photos/image-"
+					"category.html"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -949,7 +961,7 @@
 				"height": 480.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,705,-5,-5,1030",
+			"position": "0,2,3,-32000,-32000,-1,-1,705,0,0,1030",
 			"project": "SYM-Layout.sublime-project",
 			"replace":
 			{
