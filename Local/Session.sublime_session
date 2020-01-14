@@ -1,15 +1,14 @@
 {
 	"folder_history":
 	[
-		"/D/Server/www/Karlito-Web/User",
-		"/D/Server/www/Karlito-Web/Layout"
+		"/D/WWW/Prestashop"
 	],
-	"last_version": 3207,
-	"last_window_id": 1309,
+	"last_version": 3211,
+	"last_window_id": 7,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 676.0,
+		"new_window_height": 654.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -17,172 +16,36 @@
 				"selected_items":
 				[
 					[
-						"ver",
-						"vertical"
+						"lorem",
+						"lorem\tLorem ipsum"
 					],
 					[
-						"margin",
-						"margin-bottom\tproperty"
-					],
-					[
-						"s",
-						"style\tAttr"
-					],
-					[
-						"bg-",
-						"bg-light \tBootstrap 4 Class"
-					],
-					[
-						"btn-outline-d",
-						"btn-outline-secondary \tBootstrap 4 Class"
-					],
-					[
-						"background-c",
-						"background-color\tproperty"
+						"tite",
+						"title"
 					],
 					[
 						"bac",
-						"background\tproperty"
+						"background-color\tproperty"
 					],
 					[
-						"btn",
-						"btns"
+						"mar",
+						"margin-top\tproperty"
 					],
 					[
-						"C",
-						"Composer"
-					],
-					[
-						"par",
-						"parameters"
-					],
-					[
-						"html",
-						"htmlspecialchars"
-					],
-					[
-						"txt-w",
-						"text-white \tBootstrap 4 Class"
-					],
-					[
-						"ca",
-						"cache"
-					],
-					[
-						"jso",
-						"json_encode"
-					],
-					[
-						"S",
-						"Symfony"
-					],
-					[
-						"border",
-						"border-0 \tBootstrap 4 Class"
-					],
-					[
-						"border-w",
-						"border-white \tBootstrap 4 Class"
-					],
-					[
-						"border-",
-						"border-dark \tBootstrap 4 Class"
-					],
-					[
-						"font-",
-						"font-weight-normal \tBootstrap 4 Class"
-					],
-					[
-						"text-",
-						"text-light \tBootstrap 4 Class"
-					],
-					[
-						"text-d",
-						"text-dark \tBootstrap 4 Class"
-					],
-					[
-						"card-t",
-						"card-text"
-					],
-					[
-						"text-w",
-						"text-white \tBootstrap 4 Class"
-					],
-					[
-						"lo",
-						"lorem\tlorem - One sentence"
-					],
-					[
-						"bg-da",
-						"bg-dark \tBootstrap 4 Class"
-					],
-					[
-						"c",
-						"class\tAttr"
-					],
-					[
-						"align-",
-						"align-middle \tBootstrap 4 Class"
-					],
-					[
-						"font-w",
-						"font-weight-bold \tBootstrap 4 Class"
+						"pad",
+						"padding-right\tproperty"
 					],
 					[
 						"text",
-						"text-center \tBootstrap 4 Class"
+						"text-align\tproperty"
 					],
 					[
-						"bg-se",
-						"bg-secondary"
+						"min",
+						"min-height\tproperty"
 					],
 					[
-						"displ",
-						"display-3 \tBootstrap 4 Class"
-					],
-					[
-						"cont",
-						"content"
-					],
-					[
-						"co",
-						"column"
-					],
-					[
-						"code",
-						"code_end"
-					],
-					[
-						"cod",
-						"code_end"
-					],
-					[
-						"dl",
-						"dl_end"
-					],
-					[
-						"getIte",
-						"getItemHorizontal"
-					],
-					[
-						"for",
-						"foreach\tforeach …"
-					],
-					[
-						"load",
-						"load_view\tCI - Load View"
-					],
-					[
-						"parse",
-						"parser"
-					],
-					[
-						"arra",
-						"array"
-					],
-					[
-						"fun",
-						"fun\tfunction …"
+						"wi",
+						"width\tproperty"
 					]
 				]
 			},
@@ -197,24 +60,16 @@
 				"selected_items":
 				[
 					[
-						"yaml",
-						"Pretty YAML: Reformat (Pretty Print) YAML"
+						"Package Control: e",
+						"Package Control: Enable Package"
 					],
 					[
-						"html",
-						"HTMLPrettify"
+						"Package Control: d",
+						"Package Control: Disable Package"
 					],
 					[
-						"prettify",
-						"HTMLPrettify"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Remove Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
+						"enable",
+						"Package Control: Enable Package"
 					]
 				],
 				"width": 558.0
@@ -237,138 +92,138 @@
 			},
 			"file_history":
 			[
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/CodeIgniter.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Composer.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Git.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Google.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Grav.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Linux.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Login.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Nas.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/doctrine.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/routes.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/navigation.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Symfony.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Doctrine.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/FORM EMBED COLLECTION.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/installation.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/symfony.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/memo.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/clamart.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/command.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/DSM.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/memo.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/mysql.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/cache.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Symfony.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/fos-user",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/translation.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/swiftmailer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/server.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/security.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/router.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/maker.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/doctrine.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/debug.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/config.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list.php",
-				"/D/Server/bin/php/php7.1.18/phpForApache.ini",
-				"/D/Server/bin/php/php7.2.14/phpForApache.ini",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/autoload.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Twig.php",
-				"/Y/CodeIgniter/ultron/application/logs/log-2019-08-25.php",
-				"/Y/CodeIgniter/ultron/www/assets/index.html",
-				"/D/Server/www/CodeIgniter/Ultron/.gitignore",
-				"/D/Server/www/CodeIgniter/Ultron/application/core/MY_Controller.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Login.php",
-				"/Y/CodeIgniter/ultron/application/core/MY_Controller.php",
-				"/D/Server/www/CodeIgniter/Ultron/composer.json",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/production/config.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/development/config.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/development/database.php",
-				"/D/Server/www/CodeIgniter/Ultron/_config.yml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/Template.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Command.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Core/YamlParser.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Frequently.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Faker/Address.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Faker/Bootstrap.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Apps/Faker.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/CodeIgniter",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/NAS.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/NodeJS.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/OVH.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Raspberry.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Twig",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Webpack",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/WordPress",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/CodeIgniter.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Composer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Git.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Google.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Grav",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Linux.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Clamart.php",
-				"/D/Server/www/CodeIgniter/Ultron/www/assets/css/application.css",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Twig.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Raspberry.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Grav.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/logs/log-2019-08-25.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/layout.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/meta-favicons.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/logo-header.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/logo-footer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/loader.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/footer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/header.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/helpers/assets_helper.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/helpers/compare_helper.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/Twig.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/Webpack.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/NodeJS.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/test.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/google.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/login.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Frequently.old.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Login.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/libraries/Alert.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/= TO DO =/codeIgniter.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/CodeIgniter.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/navigation.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/NPM.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/NPM.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Login.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Google.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Google.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Faker.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/Grav.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/Wordpress.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Twig.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Raspberry.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Raspberry.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Nas.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Nas.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Linux.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Server/Linux.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Git.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Git.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Composer.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Composer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Webpack.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/Symfony.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/Symfony.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/homepage.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Server/OVH.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/ovh-manager.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/wamp.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/OVH.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/NPM.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Tools/Webpack - Copie (4).yaml"
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/WordCount.sublime-settings",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/alt_footer.html.twig",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/sidebar_separator.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SidebarSeparator/SidebarSeparator.sublime-settings",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/404.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/about.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_post.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_post2.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_two.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/contact.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/dribbble_stream.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/full_slider.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/full_video.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/gallery.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/icons.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index2.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index3.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index4.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index5.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/left_sidebar.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/mail.php.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/portfolio_2columns.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/portfolio_3columns.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/portfolio_4columns.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/portfolio_masonry.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/pricing_table.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/right_sidebar.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/scaffolding.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/script_examples.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/services.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/shortcodes.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/single_image.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/single_portfolio.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/single_video.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/team.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/testimonials.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/timeline.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/video_gallery.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/bootstrap/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/bootstrap/empty.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/aero/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/aero/empty.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/index.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v6/base.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v6/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v4/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v5/base.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v5/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v4/base.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/full-width-page.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-spacer.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/shortcodes.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-quote.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-text-marker.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-countdown.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-icon.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-tab.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-button.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-table.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-image.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-gallery.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-video.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/gallery-item.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/navigation.html.twig",
+				"/C/Users/Giancarlo/OneDrive/Bureau/PSG.txt",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/event-single.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/events.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/event.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/blog.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/category.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/category-post-big.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/category-post-no-picture.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/category-post-small.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/index.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/flash-message.html.twig",
+				"/D/WWW/Symfony/- OLD -/Layout/Resources/views/metronic-4.7.5/partials/flash-message.html.twig",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/AppsController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/ChartController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/EcommerceController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/FeatureController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/DashboardController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/ElementController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/ComponentController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/FormController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/GeneralController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/MapController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/PageController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/TableController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/UserController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/PortletController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/SystemController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V6/DashboardController.old",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-content.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-picture.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-sidebar-left.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-tags.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-similar.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-share.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-no-comment.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-small-photo.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-no-photo.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-no-comments.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-big-photo.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/results.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/search.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/contact-success.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/contact.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/error-404.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery-single-lightbox.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery-single.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-comment-form.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-comment.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/pagination.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-advertise.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-countdown.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-last-event.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-popular-news.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-tag.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/favicon.html.twig"
 			],
 			"find":
 			{
-				"height": 48.0
+				"height": 277.0
 			},
 			"find_in_files":
 			{
@@ -377,7 +232,6 @@
 				[
 					"<open files>",
 					"<open folders>",
-					"<open files>,<open folders>",
 					"<open files>",
 					"<project>"
 				]
@@ -387,134 +241,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"<i class=\"btn btn-sm btn-outline-danger fa fa-clipboard mt-clipboard\" data-clipboard-action=\"",
-					"</code>",
-					"<code id=\"",
-					"<code id=\"composer_init\">",
-					" class=\"text-light\"",
-					"</p>",
-					"<p>",
-					"<h4 class=\"p-2 text-danger bg-dark\">",
-					"<h2 class=\"p-2 text-danger\">",
-					"</h1>",
-					"<h1 class=\"m-3 text-center text-secondary\">",
-					"\t</code>",
-					"<code>",
-					"<code><pre>",
-					"</pre></code>",
-					"</pre>",
-					"<pre>",
-					"pre",
-					"memos",
-					"dl",
-					"<h5 class=\"card-title\">",
-					"text-white-50",
-					"text-info",
-					"text-success",
-					"mcr",
-					"extension=mcrypt",
-					"\\",
-					"nav-link",
-					"\t\t\t<li class=\"nav",
-					"\tcomposer prohibits symfony/symfony ",
-					"\tphp bin/console whore:check:status --active",
-					" mb-5\">",
-					"<h2 class=\"my-3",
-					"3 h2 bg",
-					"h2",
-					"h2 ",
-					"<h3 class=\"my-3 bg-dark",
-					"bg-dark",
-					"{",
-					"%s",
-					"outline-warning",
-					"warning",
-					"btn-outline-light",
-					"text-gray-dark",
-					"secondary",
-					"primary",
-					"class=\"text-light\"",
-					"text-white-50",
-					"('",
-					"$tple",
-					"$html",
-					".yaml.yaml",
-					"Composer.yaml",
-					"Symfony",
-					"// me",
-					"']  ",
-					"$route['",
-					"2",
-					"Raspberry",
-					"Nas",
-					"login",
-					"icon:",
-					" <i class=\"fab fa-rebel\">",
-					"icon:",
-					"login",
-					"    icon:",
-					"    title:",
-					"/index",
-					"Assets/plugins",
-					"/index';",
-					">\n",
-					"$login",
-					"config/app/",
-					"  icon:",
-					"s)",
-					"$value",
-					"{%1$s}",
-					"{%3$s}",
-					"{%2$s}",
-					"  title:",
-					"template",
-					"public",
-					"    ",
-					"                ",
-					"               ",
-					"              ",
-					"             ",
-					"            ",
-					"           ",
-					"          ",
-					"         ",
-					"        ",
-					"       ",
-					"      ",
-					"     ",
-					"    ",
-					"' \t",
-					"\t//",
-					"\t\t$template = new Template();\n\t\t$items = $template->itemVertical($login['login']['items']);\n",
-					"%2$s",
-					"email",
-					"Login",
-					"  ---",
-					"title: ",
-					"{",
-					"lic static function ",
-					"Google",
-					"config",
-					"Raspberry",
-					"  icon: ''",
-					"  title: ",
-					"Nas",
-					"\t{",
-					"\tpublic static function ",
-					"  title: ",
-					"icon: \"</i>\"",
-					"' . ' -p ' . '",
-					"@'. '92",
-					"self::$port",
-					"self::$ip",
-					"\t{",
-					"\tpublic static function ",
-					"Linux",
-					" <i class=\"fab fa-linux\"></i>",
-					"  ---",
-					"title: ",
-					"icon: <i class=\"fab fa-raspberry-pi\">",
-					"<p class=\"mt-5 text-white\">\n"
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:300\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:700\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:400\">",
+					"<!--[if lt IE 9]>",
+					"<script type=\"text/javascript\" src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\"></script>",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/zocial.css\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/colour.css\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/theme.css\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/font-awesome.min.css\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap.css\">",
+					"    <link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:400\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:700\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:300\">\n",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href='http://fonts.googleapis.com/css?family=Lato:400,700,300' rel=\"stylesheet\" type=\"text/css\">",
+					"<!-- Google Fonts -->",
+					"\t<!--header-->\n\t<div class=\"header\">\n\t\t<!--menu-->\n\t\t<nav id=\"main_menu\" class=\"navbar\" role=\"navigation\">\n\t\t\t<div class=\"container\">\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<!--toggle-->\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#menu\">\n\t\t\t\t\t\t<i class=\"fa fa-bars\"></i>\n\t\t\t\t\t</button>\n\t\t\t\t\t<!--logo-->\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<a href=\"index.html\"><img src=\"img/logo.png\" alt=\"\" class=\"animated bounceInDown\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"collapse navbar-collapse\" id=\"menu\">\n\t\t\t\t\t<ul class=\"nav navbar-nav pull-right\">\n\t\t\t\t\t\t<li class=\"dropdown active\"><a href=\"javascript:{}\">Home</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"index.html\">Slider Revolution</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"index2.html\">Nerve Slider</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"index3.html\">NivoSlider</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"index4.html\">Slides</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"index5.html\">Html5 Video</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Pages</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"team.html\">The Team</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"about.html\">About</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"services.html\">Services</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"testimonials.html\">Testimonials</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"timeline.html\">Timeline</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"full.html\">Full Width</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"left_sidebar.html\">Left Sidebar</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"right_sidebar.html\">Right Sidebar</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Work</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"portfolio_2columns.html\">2 Columns</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"portfolio_3columns.html\">3 Columns</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"portfolio_4columns.html\">4 Columns</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"portfolio_masonry.html\">Masonry</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"gallery.html\">Paginated Gallery</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"video_gallery.html\">Video Gallery</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"single_portfolio.html\">Single Slider</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"single_video.html\">Single Video</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"single_image.html\">Single Image</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"full_slider.html\">Full Slider</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"full_video.html\">Full Video</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Style</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"scaffolding.html\">Scaffolding</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"shortcodes.html\">Shortcodes</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"icons.html\">Icons</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"script_examples.html\">JS Examples</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"javascript:{}\">Sub Menu</a>\n\t\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu sub-menu\">\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"javascript:void(0);\">Sub One</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"javascript:void(0);\">Sub Two</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"javascript:void(0);\">Sub Three</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"javascript:void(0);\">Sub Four</a></li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Extras</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"dribbble_stream.html\">Dribbble Stream</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"alt_footer.html\">Alt. Footer & Boxes</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"pricing_table.html\">Pricing Table</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"404.html\">404 Page</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Blog</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"blog.html\">Blog</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"blog_two.html\">Blog II</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"blog_post.html\">Blog Post</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"blog_post2.html\">Blog Post II</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li><a href=\"contact.html\">Contact</a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</nav>\n\t</div>\n\t<!--//header-->\n",
+					"type='text/css'",
+					"rel='stylesheet'",
+					"\t<!-- up to top -->\n\t<a href=\"javascript:void(0);\"><i class=\"go-top fa fa-angle-double-up\"></i></a>\n\t<!--//end-->\n\t<!-- scripts -->\n\t<script type=\"text/javascript\" src=\"js/jquery.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/retina.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/scripts.js\"></script>\n",
+					"\" />",
+					"<meta name=\"author\" content=\"\">",
+					"<meta name=\"description\" content=\"\">",
+					"<meta charset=\"utf-8\">",
+					"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+					"<title></title>",
+					"flati | responsive html5 template | themeforest | josweb",
+					"</body>",
+					"</html>",
+					"<body>",
+					"</head>",
+					"<head>",
+					"<html lang=\"en\">",
+					"<!DOCTYPE html>",
+					" />",
+					"><",
+					"Paris SG",
+					"Paris SG ",
+					" Nantes",
+					" \t",
+					"Paris SG",
+					"C1\t\t",
+					"Ligue 1\t\t\t\t\t",
+					"\t\t\t\t",
+					"\t\t\t",
+					"oupe ",
+					"Champions League ",
+					"Ligue 1",
+					"   \tParis SG \tParis SG",
+					"Paris SG",
+					" CDF",
+					"Ligue 1",
+					" L1",
+					"Places",
+					"Parier",
+					"Fiche",
+					"                        <div class=\"event-block\">\n                            <h3><a href=\"{{ path('layout_sportimo_event') }}\">Est magna idque te ius fugit democritum invenire postulat</a></h3>\n                            <a href=\"{{ path('layout_sportimo_event') }}\" class=\"event-photo dohover withicon\">\n                                <span class=\"event-calendar\">\n                                    <font class=\"event-date\">29</font>\n                                    <font class=\"event-month\">December</font>\n                                    <font class=\"event-year\">2013</font>\n                                </span>\n                                <span class=\"event-more\">More Information<span class=\"icon-text\">&#10150;</span></span>\n                                <img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-40.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\">\n                            </a>\n                        </div>\n\n",
+					"                        <div class=\"event-block\">\n                            <h3><a href=\"{{ path('layout_sportimo_event') }}\">Est magna idque te ius fugit democritum invenire postulat</a></h3>\n                            <a href=\"{{ path('layout_sportimo_event') }}\" class=\"event-photo dohover withicon\">\n                                <span class=\"event-calendar\">\n                                    <font class=\"event-date\">29</font>\n                                    <font class=\"event-month\">December</font>\n                                    <font class=\"event-year\">2013</font>\n                                </span>\n                                <span class=\"event-more\">More Information<span class=\"icon-text\">&#10150;</span></span>\n                                <img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-40.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\">\n                            </a>\n                        </div>\n",
+					"/image-4",
+					"<img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-4",
+					"Est magna idque te ius fugit democritum invenire postulat",
+					"                        <div class=\"event-block\">\n                            <h3><a href=\"{{ path('layout_sportimo_event') }}\">Est magna idque te ius fugit democritum invenire postulat</a></h3>\n                            <a href=\"{{ path('layout_sportimo_event') }}\" class=\"event-photo dohover withicon\">\n                                <span class=\"event-calendar\">\n                                    <font class=\"event-date\">29</font>\n                                    <font class=\"event-month\">December</font>\n                                    <font class=\"event-year\">2013</font>\n                                </span>\n                                <span class=\"event-more\">More Information<span class=\"icon-text\">&#10150;</span></span>\n                                <img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-40.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\">\n                            </a>\n                        </div>\n                        <div class=\"panel-breaking-line\"></div>\n",
+					"                                <span class=\"event-calendar\">\n                                    <font class=\"event-date\">29</font>\n                                    <font class=\"event-month\">December</font>\n                                    <font class=\"event-year\">2013</font>\n                                </span>\n",
+					"\t\t\t\t\t\t<div class=\"event-block\">\n\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_event') }}\">Est magna idque te ius fugit democritum invenire postulat</a></h3>\n\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_event') }}\" class=\"event-photo dohover withicon\">\n\t\t\t\t\t\t\t\t<span class=\"event-calendar\">\n\t\t\t\t\t\t\t\t\t<font class=\"event-date\">29</font>\n\t\t\t\t\t\t\t\t\t<font class=\"event-month\">December</font>\n\t\t\t\t\t\t\t\t\t<font class=\"event-year\">2013</font>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t<span class=\"event-more\">More Information<span class=\"icon-text\">&#10150;</span></span>\n\t\t\t\t\t\t\t\t<img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-40.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\">\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-18.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ei enim aeterno honestatis pri est possit phaedrum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(9)</a></h3>\n\t\t\t\t\t\t\t\t<p>Eu dolor meliore consetetur sea, an dico everti persius sea, movet salutandi has et. No nemore accusata laboramus usu, cu graecis phaedrum consulatu eum. Quo at verear theophra status, ad novum putant menandri mea. Integre liberavisse...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-20.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ea nemore graecis quod tempor voluptaria te cum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(23)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctum sea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-17.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Est magna idque te ius no fugit democ ritum invenire postulat</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(2)</a></h3>\n\t\t\t\t\t\t\t\t<p>Putent antiopam te qui. Minimum vituperata sed ex. His posse nihil appellantur, quem singulis necessitatibus est at. Et invidunt reformidans duo, te tamquam cotidieque nec, eum te idque nobis. Ei enim aeterno honestatis pri, ut est possit...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"panel-breaking-line\"></div>\n",
+					"\t\t\t\t\t\t<div class=\"panel-breaking-line\"></div>\n",
+					"big-article",
+					"flash-message.html.twig",
+					"flash-message",
+					"                            <div class=\"big-article-image\">\n                                <a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-20.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n                            </div>\n                            <div class=\"big-article-content\">\n                                <h3><a href=\"{{ path('layout_sportimo_post') }}\">Ea nemore graecis quod tempor voluptaria te cum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(23)</a></h3>\n                                <p>Qui an mollis eirmod interpretaris, in alii nonumy indoctum sea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n                                <span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n                                </span>\n                            </div>\n                            <div class=\"clear-float\"></div>\n                        </div>\n",
+					"<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-20.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ea nemore graecis quod tempor voluptaria te cum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(23)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctum sea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>",
+					"<div class=\"big-article\">\n    <div class=\"big-article-image\">\n        <a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n    </div>\n    <div class=\"big-article-content\">\n        <h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n        <p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n        <span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n        </span>\n    </div>\n    <div class=\"clear-float\"></div>\n</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>",
+					"<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-18.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ei enim aeterno honestatis pri est possit phaedrum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(9)</a></h3>\n\t\t\t\t\t\t\t\t<p>Eu dolor meliore consetetur sea, an dico everti persius sea, movet salutandi has et. No nemore accusata laboramus usu, cu graecis phaedrum consulatu eum. Quo at verear theophra status, ad novum putant menandri mea. Integre liberavisse...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-17.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Est magna idque te ius no fugit democ ritum invenire postulat</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(2)</a></h3>\n\t\t\t\t\t\t\t\t<p>Putent antiopam te qui. Minimum vituperata sed ex. His posse nihil appellantur, quem singulis necessitatibus est at. Et invidunt reformidans duo, te tamquam cotidieque nec, eum te idque nobis. Ei enim aeterno honestatis pri, ut est possit...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"#}",
+					"= '",
+					"index.html",
+					"<br />",
+					"src=\"images/",
+					"category.html",
+					".html",
+					"photo-gallery.html",
+					"photo-gallery-single.html",
+					"events.html",
+					"event-single.html",
+					"post.html",
+					"/px.gif",
+					".jpg",
+					".jpg\"",
+					".jpg",
+					".jpg\"",
+					"jpg\"",
+					".jpg\"",
+					"px.gif",
+					".jpg\" class",
+					"jpg\" class",
+					".jpg",
+					".png",
+					".jpg\"",
+					"px.gif",
+					".jpg\" class",
+					"src=\"images/",
+					"layout_sportimo_index",
+					"${INSTALL_DIR}/www",
+					"index-style",
+					"3",
+					"text-align: right;",
+					"9",
+					"indexcoldesc",
+					"indexcolname",
+					"<Directory",
+					"Index",
+					"IndexHeadInsert",
+					"cdn.",
+					"events.html",
+					"event-single.html",
+					"photo-gallery.html",
+					"photo-gallery-single.html",
+					"src=\"images/",
+					"href=\"post.html\"",
+					"src=\"images/",
+					"layout_category",
+					"category.html",
+					"src=\"images/photos/image-"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -522,13 +376,18 @@
 				"regex": false,
 				"replace_history":
 				[
-					"text-white-50",
-					"text-info",
-					"\\t",
-					"<h3 class=\"bg-secondary text-success\">",
 					"",
-					"<h3 class=\"bg-secondary text-info\"><i class=\"fas fa-terminal px-3\"></i>php bin/console list cache</h3>",
-					""
+					"type=\"text/css\"",
+					"rel=\"stylesheet\"",
+					"",
+					"\">",
+					"",
+					"{{ path('layout_sportimo_index') }}",
+					"{{ path('layout_sportimo_category') }}",
+					"{{ path('layout_sportimo_gallery') }}",
+					"{{ path('layout_sportimo_event') }}",
+					"{{ path('layout_sportimo_post') }}",
+					"src=\"{{ asset(cdns.sportimo ~ 'images/"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -551,7 +410,7 @@
 			},
 			"output.find_results":
 			{
-				"height": 51.0
+				"height": 480.0
 			},
 			"pinned_build_system": "",
 			"replace":
@@ -566,68 +425,36 @@
 				"selected_items":
 				[
 					[
-						"nav",
-						"application\\views\\partials\\navigation.php"
+						"parameters",
+						"src\\Resources\\config\\parameters.yaml"
 					],
 					[
-						"list.php",
-						"application\\views\\content\\memos\\symfony\\list.php"
-					],
-					[
-						"na",
-						"application\\views\\partials\\navigation.php"
+						"services.yaml",
+						"src\\Resources\\config\\services.yaml"
 					],
 					[
 						"navi",
 						"application\\views\\partials\\navigation.php"
 					],
 					[
-						"Template.php",
-						"application\\third_party\\Memos\\Template.php"
-					],
-					[
-						"r",
-						"application\\config\\routes.php"
-					],
-					[
-						"ro",
-						"application\\config\\routes.php"
-					],
-					[
 						"route",
 						"application\\config\\routes.php"
 					],
 					[
-						"YamlParser",
-						"application\\third_party\\Core\\YamlParser.php"
-					],
-					[
-						"test.",
-						"application\\views\\content\\memos\\test.php"
-					],
-					[
-						"Symfony.yaml",
-						"application\\config\\app\\Frameworks\\Symfony.yaml"
+						"ovh-manager.php",
+						"application\\views\\content\\memos\\ovh-manager.php"
 					],
 					[
 						"footer",
 						"application\\views\\partials\\footer.php"
 					],
 					[
-						"list/cache",
-						"application\\views\\content\\memos\\symfony\\list\\cache.php"
+						"ion/config/routes.php",
+						"application\\config\\routes.php"
 					],
 					[
-						"Memos/Raspberry",
-						"application\\controllers\\Memos\\Raspberry.php"
-					],
-					[
-						"Memos/Webpack",
-						"application\\controllers\\Memos\\Webpack.php"
-					],
-					[
-						"Temp",
-						"application\\third_party\\Memos\\Template.php"
+						"views/partials/navigation.php",
+						"application\\views\\partials\\navigation.php"
 					]
 				],
 				"width": 0.0
@@ -635,12 +462,16 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "whore",
 				"selected_items":
 				[
 					[
+						"whore",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\SYM-Whore.sublime-project"
+					],
+					[
 						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\KW-Soccer.sublime-project"
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\CI-Thanos.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -658,13 +489,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 255.0,
+			"side_bar_width": 276.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1002.0
+		"new_window_width": 1022.0
 	},
 	"windows":
 	[
@@ -674,172 +505,36 @@
 				"selected_items":
 				[
 					[
-						"ver",
-						"vertical"
+						"lorem",
+						"lorem\tLorem ipsum"
 					],
 					[
-						"margin",
-						"margin-bottom\tproperty"
-					],
-					[
-						"s",
-						"style\tAttr"
-					],
-					[
-						"bg-",
-						"bg-light \tBootstrap 4 Class"
-					],
-					[
-						"btn-outline-d",
-						"btn-outline-secondary \tBootstrap 4 Class"
-					],
-					[
-						"background-c",
-						"background-color\tproperty"
+						"tite",
+						"title"
 					],
 					[
 						"bac",
-						"background\tproperty"
+						"background-color\tproperty"
 					],
 					[
-						"btn",
-						"btns"
+						"mar",
+						"margin-top\tproperty"
 					],
 					[
-						"C",
-						"Composer"
-					],
-					[
-						"par",
-						"parameters"
-					],
-					[
-						"html",
-						"htmlspecialchars"
-					],
-					[
-						"txt-w",
-						"text-white \tBootstrap 4 Class"
-					],
-					[
-						"ca",
-						"cache"
-					],
-					[
-						"jso",
-						"json_encode"
-					],
-					[
-						"S",
-						"Symfony"
-					],
-					[
-						"border",
-						"border-0 \tBootstrap 4 Class"
-					],
-					[
-						"border-w",
-						"border-white \tBootstrap 4 Class"
-					],
-					[
-						"border-",
-						"border-dark \tBootstrap 4 Class"
-					],
-					[
-						"font-",
-						"font-weight-normal \tBootstrap 4 Class"
-					],
-					[
-						"text-",
-						"text-light \tBootstrap 4 Class"
-					],
-					[
-						"text-d",
-						"text-dark \tBootstrap 4 Class"
-					],
-					[
-						"card-t",
-						"card-text"
-					],
-					[
-						"text-w",
-						"text-white \tBootstrap 4 Class"
-					],
-					[
-						"lo",
-						"lorem\tlorem - One sentence"
-					],
-					[
-						"bg-da",
-						"bg-dark \tBootstrap 4 Class"
-					],
-					[
-						"c",
-						"class\tAttr"
-					],
-					[
-						"align-",
-						"align-middle \tBootstrap 4 Class"
-					],
-					[
-						"font-w",
-						"font-weight-bold \tBootstrap 4 Class"
+						"pad",
+						"padding-right\tproperty"
 					],
 					[
 						"text",
-						"text-center \tBootstrap 4 Class"
+						"text-align\tproperty"
 					],
 					[
-						"bg-se",
-						"bg-secondary"
+						"min",
+						"min-height\tproperty"
 					],
 					[
-						"displ",
-						"display-3 \tBootstrap 4 Class"
-					],
-					[
-						"cont",
-						"content"
-					],
-					[
-						"co",
-						"column"
-					],
-					[
-						"code",
-						"code_end"
-					],
-					[
-						"cod",
-						"code_end"
-					],
-					[
-						"dl",
-						"dl_end"
-					],
-					[
-						"getIte",
-						"getItemHorizontal"
-					],
-					[
-						"for",
-						"foreach\tforeach …"
-					],
-					[
-						"load",
-						"load_view\tCI - Load View"
-					],
-					[
-						"parse",
-						"parser"
-					],
-					[
-						"arra",
-						"array"
-					],
-					[
-						"fun",
-						"fun\tfunction …"
+						"wi",
+						"width\tproperty"
 					]
 				]
 			},
@@ -858,24 +553,20 @@
 				"selected_items":
 				[
 					[
-						"yaml",
-						"Pretty YAML: Reformat (Pretty Print) YAML"
-					],
-					[
-						"html",
-						"HTMLPrettify"
-					],
-					[
-						"prettify",
-						"HTMLPrettify"
-					],
-					[
-						"Package Control: ",
+						"Package Control: re",
 						"Package Control: Remove Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"Package Control: e",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: d",
+						"Package Control: Disable Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
 					]
 				],
 				"width": 558.0
@@ -898,142 +589,147 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Server/www/CodeIgniter/Ultron"
+				"/D/WWW/Symfony/Layout",
+				"/D/WWW/Symfony/Layout/src",
+				"/D/WWW/Symfony/Layout/src/Resources",
+				"/D/WWW/Symfony/Layout/src/Resources/views",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages"
 			],
 			"file_history":
 			[
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Git.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Symfony.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Composer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/git.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Twig.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Webpack.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Wordpress.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/serveur-VM",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/sendmail",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/raspberry-conf-php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/raspberry-bordel",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/others",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/NGROK",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/local-storage",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Linux",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/php/array/array_diff.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/codeigniter",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/codeIgniter.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/commandes-de-bases",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/editeur-VI",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/git-config",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/Grav.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/php/cli.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/php/functions.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/php/PHPUnit.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/composer/install",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/Template.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Composer.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/mysql.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/command.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/composer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/core/MY_Controller.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/CodeIgniter",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/memo.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/doctrine.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/CodeIgniter.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Git.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Google.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Grav.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Linux.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Login.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Nas.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/routes.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/navigation.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Doctrine.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/FORM EMBED COLLECTION.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/installation.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/symfony.txt",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/memo.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/clamart.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/DSM.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/cache.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Symfony.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/= TO DO =/symfony/fos-user",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/translation.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/swiftmailer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/server.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/security.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/router.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/maker.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/doctrine.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/debug.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list/config.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/symfony/list.php",
-				"/D/Server/bin/php/php7.1.18/phpForApache.ini",
-				"/D/Server/bin/php/php7.2.14/phpForApache.ini",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/autoload.php",
-				"/Y/CodeIgniter/ultron/application/logs/log-2019-08-25.php",
-				"/Y/CodeIgniter/ultron/www/assets/index.html",
-				"/D/Server/www/CodeIgniter/Ultron/.gitignore",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Login.php",
-				"/Y/CodeIgniter/ultron/application/core/MY_Controller.php",
-				"/D/Server/www/CodeIgniter/Ultron/composer.json",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/production/config.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/development/config.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/development/database.php",
-				"/D/Server/www/CodeIgniter/Ultron/_config.yml",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Command.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Core/YamlParser.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Frequently.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Faker/Address.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Faker/Bootstrap.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Apps/Faker.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/NAS.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/NodeJS.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/OVH.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Raspberry.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Twig",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Webpack",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/WordPress",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/CodeIgniter.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Google.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Grav",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Linux.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Clamart.php",
-				"/D/Server/www/CodeIgniter/Ultron/www/assets/css/application.css",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Twig.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/third_party/Memos/YAML/Raspberry.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Grav.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/logs/log-2019-08-25.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/layout.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/meta-favicons.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/logo-header.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/logo-footer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/loader.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/footer.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/partials/header.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/helpers/assets_helper.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/helpers/compare_helper.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/Twig.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/Webpack.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Tools/NodeJS.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/test.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/google.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/views/content/memos/login.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/controllers/Memos/Frequently.old.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Login.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/libraries/Alert.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/= TO DO =/codeIgniter.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Frameworks/CodeIgniter.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/navigation.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/NPM.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/NPM.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Login.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Google.php",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Google.yaml",
-				"/D/Server/www/CodeIgniter/Ultron/application/config/app/Faker.php"
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Pretty YAML.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/sidebar_separator.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Zeal.sublime-settings",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/404.html.twig",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/Tag Package.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/User/WordCount.sublime-settings",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/alt_footer.html.twig",
+				"/C/Users/Giancarlo/AppData/Roaming/Sublime Text 3/Packages/SidebarSeparator/SidebarSeparator.sublime-settings",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/about.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_post.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_post2.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/blog_two.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/contact.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/dribbble_stream.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/full_slider.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/full_video.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/gallery.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/icons.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index2.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index3.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index4.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/index5.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/left_sidebar.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/mail.php.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/portfolio_2columns.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/portfolio_3columns.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/portfolio_4columns.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/portfolio_masonry.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/pricing_table.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/right_sidebar.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/scaffolding.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/script_examples.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/services.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/shortcodes.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/single_image.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/single_portfolio.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/single_video.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/team.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/testimonials.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/timeline.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/flati/pages/video_gallery.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/bootstrap/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/bootstrap/empty.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/aero/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/aero/empty.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/index.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v6/base.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v6/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v4/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v5/base.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v5/full.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/metronic/v4/base.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/full-width-page.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-spacer.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/shortcodes.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-quote.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-text-marker.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-countdown.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-icon.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-tab.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-button.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-table.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-image.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-gallery.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-video.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/gallery-item.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/navigation.html.twig",
+				"/C/Users/Giancarlo/OneDrive/Bureau/PSG.txt",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/event-single.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/events.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/event.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/blog.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/category.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/category-post-big.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/category-post-no-picture.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/category-post-small.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/index.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/flash-message.html.twig",
+				"/D/WWW/Symfony/- OLD -/Layout/Resources/views/metronic-4.7.5/partials/flash-message.html.twig",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/AppsController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/ChartController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/EcommerceController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/FeatureController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/DashboardController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/ElementController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/ComponentController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/FormController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/GeneralController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/MapController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/PageController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/TableController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/UserController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/PortletController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V4/SystemController.old",
+				"/D/WWW/Symfony/- OLD -/Layout/Metronic/V6/DashboardController.old",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-content.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-picture.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-sidebar-left.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-tags.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-similar.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-share.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-no-comment.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-small-photo.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-no-photo.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-no-comments.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/post-big-photo.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/results.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/search.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/contact-success.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/contact.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/error-404.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery-single-lightbox.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery-single.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/pages/photo-gallery.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-comment-form.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/post-comment.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/pagination.html.twig",
+				"/D/WWW/Symfony/Layout/src/Resources/views/sportimo/partials/sidebar-advertise.html.twig"
 			],
 			"find":
 			{
-				"height": 48.0
+				"height": 277.0
 			},
 			"find_in_files":
 			{
@@ -1042,7 +738,6 @@
 				[
 					"<open files>",
 					"<open folders>",
-					"<open files>,<open folders>",
 					"<open files>",
 					"<project>"
 				]
@@ -1052,134 +747,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"<span class=\"text-white\">",
-					"<span class=\"text-white h4\">",
-					"<h1 class=\"m-3 text-center text-secondary\">",
-					"cmd: ",
-					"XXX",
-					"      cmd:",
-					"cmd:",
-					"itemHelp",
-					"white-50",
-					"composer update --",
-					"composer install --",
-					"<i class=\"btn btn-sm btn-outline-danger fa fa-clipboard mt-clipboard\" data-clipboard-action=\"",
-					"</code>",
-					"<code id=\"",
-					"<code id=\"composer_init\">",
-					" class=\"text-light\"",
-					"</p>",
-					"<p>",
-					"<h4 class=\"p-2 text-danger bg-dark\">",
-					"<h2 class=\"p-2 text-danger\">",
-					"</h1>",
-					"<h1 class=\"m-3 text-center text-secondary\">",
-					"\t</code>",
-					"<code>",
-					"<code><pre>",
-					"</pre></code>",
-					"</pre>",
-					"<pre>",
-					"pre",
-					"memos",
-					"dl",
-					"<h5 class=\"card-title\">",
-					"text-white-50",
-					"text-info",
-					"text-success",
-					"mcr",
-					"extension=mcrypt",
-					"\\",
-					"nav-link",
-					"\t\t\t<li class=\"nav",
-					"\tcomposer prohibits symfony/symfony ",
-					"\tphp bin/console whore:check:status --active",
-					" mb-5\">",
-					"<h2 class=\"my-3",
-					"3 h2 bg",
-					"h2",
-					"h2 ",
-					"<h3 class=\"my-3 bg-dark",
-					"bg-dark",
-					"{",
-					"%s",
-					"outline-warning",
-					"warning",
-					"btn-outline-light",
-					"text-gray-dark",
-					"secondary",
-					"primary",
-					"class=\"text-light\"",
-					"text-white-50",
-					"('",
-					"$tple",
-					"$html",
-					".yaml.yaml",
-					"Composer.yaml",
-					"Symfony",
-					"// me",
-					"']  ",
-					"$route['",
-					"2",
-					"Raspberry",
-					"Nas",
-					"login",
-					"icon:",
-					" <i class=\"fab fa-rebel\">",
-					"icon:",
-					"login",
-					"    icon:",
-					"    title:",
-					"/index",
-					"Assets/plugins",
-					"/index';",
-					">\n",
-					"$login",
-					"config/app/",
-					"  icon:",
-					"s)",
-					"$value",
-					"{%1$s}",
-					"{%3$s}",
-					"{%2$s}",
-					"  title:",
-					"template",
-					"public",
-					"    ",
-					"                ",
-					"               ",
-					"              ",
-					"             ",
-					"            ",
-					"           ",
-					"          ",
-					"         ",
-					"        ",
-					"       ",
-					"      ",
-					"     ",
-					"    ",
-					"' \t",
-					"\t//",
-					"\t\t$template = new Template();\n\t\t$items = $template->itemVertical($login['login']['items']);\n",
-					"%2$s",
-					"email",
-					"Login",
-					"  ---",
-					"title: ",
-					"{",
-					"lic static function ",
-					"Google",
-					"config",
-					"Raspberry",
-					"  icon: ''",
-					"  title: ",
-					"Nas",
-					"\t{",
-					"\tpublic static function ",
-					"  title: ",
-					"icon: \"</i>\"",
-					"' . ' -p ' . '"
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:300\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:700\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:400\">",
+					"<!--[if lt IE 9]>",
+					"<script type=\"text/javascript\" src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\"></script>",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/zocial.css\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/colour.css\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/theme.css\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/font-awesome.min.css\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap.css\">",
+					"    <link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:400\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:700\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato:300\">\n",
+					"<link rel=\"stylesheet\" type=\"text/css\" href=\"http://fonts.googleapis.com/css?family=Lato\">",
+					"<link rel=\"stylesheet\" type=\"text/css\" href='http://fonts.googleapis.com/css?family=Lato:400,700,300' rel=\"stylesheet\" type=\"text/css\">",
+					"<!-- Google Fonts -->",
+					"\t<!--header-->\n\t<div class=\"header\">\n\t\t<!--menu-->\n\t\t<nav id=\"main_menu\" class=\"navbar\" role=\"navigation\">\n\t\t\t<div class=\"container\">\n\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t<!--toggle-->\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#menu\">\n\t\t\t\t\t\t<i class=\"fa fa-bars\"></i>\n\t\t\t\t\t</button>\n\t\t\t\t\t<!--logo-->\n\t\t\t\t\t<div class=\"logo\">\n\t\t\t\t\t\t<a href=\"index.html\"><img src=\"img/logo.png\" alt=\"\" class=\"animated bounceInDown\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"collapse navbar-collapse\" id=\"menu\">\n\t\t\t\t\t<ul class=\"nav navbar-nav pull-right\">\n\t\t\t\t\t\t<li class=\"dropdown active\"><a href=\"javascript:{}\">Home</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"index.html\">Slider Revolution</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"index2.html\">Nerve Slider</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"index3.html\">NivoSlider</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"index4.html\">Slides</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"index5.html\">Html5 Video</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Pages</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"team.html\">The Team</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"about.html\">About</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"services.html\">Services</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"testimonials.html\">Testimonials</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"timeline.html\">Timeline</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"full.html\">Full Width</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"left_sidebar.html\">Left Sidebar</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"right_sidebar.html\">Right Sidebar</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Work</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"portfolio_2columns.html\">2 Columns</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"portfolio_3columns.html\">3 Columns</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"portfolio_4columns.html\">4 Columns</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"portfolio_masonry.html\">Masonry</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"gallery.html\">Paginated Gallery</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"video_gallery.html\">Video Gallery</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"single_portfolio.html\">Single Slider</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"single_video.html\">Single Video</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"single_image.html\">Single Image</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"full_slider.html\">Full Slider</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"full_video.html\">Full Video</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Style</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"scaffolding.html\">Scaffolding</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"shortcodes.html\">Shortcodes</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"icons.html\">Icons</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"script_examples.html\">JS Examples</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"javascript:{}\">Sub Menu</a>\n\t\t\t\t\t\t\t\t\t<ul class=\"dropdown-menu sub-menu\">\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"javascript:void(0);\">Sub One</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"javascript:void(0);\">Sub Two</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"javascript:void(0);\">Sub Three</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"javascript:void(0);\">Sub Four</a></li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Extras</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"dribbble_stream.html\">Dribbble Stream</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"alt_footer.html\">Alt. Footer & Boxes</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"pricing_table.html\">Pricing Table</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"404.html\">404 Page</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"dropdown\"><a href=\"javascript:{}\">Blog</a>\n\t\t\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t<li><a href=\"blog.html\">Blog</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"blog_two.html\">Blog II</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"blog_post.html\">Blog Post</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"blog_post2.html\">Blog Post II</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li><a href=\"contact.html\">Contact</a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</nav>\n\t</div>\n\t<!--//header-->\n",
+					"type='text/css'",
+					"rel='stylesheet'",
+					"\t<!-- up to top -->\n\t<a href=\"javascript:void(0);\"><i class=\"go-top fa fa-angle-double-up\"></i></a>\n\t<!--//end-->\n\t<!-- scripts -->\n\t<script type=\"text/javascript\" src=\"js/jquery.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/retina.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/scripts.js\"></script>\n",
+					"\" />",
+					"<meta name=\"author\" content=\"\">",
+					"<meta name=\"description\" content=\"\">",
+					"<meta charset=\"utf-8\">",
+					"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+					"<title></title>",
+					"flati | responsive html5 template | themeforest | josweb",
+					"</body>",
+					"</html>",
+					"<body>",
+					"</head>",
+					"<head>",
+					"<html lang=\"en\">",
+					"<!DOCTYPE html>",
+					" />",
+					"><",
+					"Paris SG",
+					"Paris SG ",
+					" Nantes",
+					" \t",
+					"Paris SG",
+					"C1\t\t",
+					"Ligue 1\t\t\t\t\t",
+					"\t\t\t\t",
+					"\t\t\t",
+					"oupe ",
+					"Champions League ",
+					"Ligue 1",
+					"   \tParis SG \tParis SG",
+					"Paris SG",
+					" CDF",
+					"Ligue 1",
+					" L1",
+					"Places",
+					"Parier",
+					"Fiche",
+					"                        <div class=\"event-block\">\n                            <h3><a href=\"{{ path('layout_sportimo_event') }}\">Est magna idque te ius fugit democritum invenire postulat</a></h3>\n                            <a href=\"{{ path('layout_sportimo_event') }}\" class=\"event-photo dohover withicon\">\n                                <span class=\"event-calendar\">\n                                    <font class=\"event-date\">29</font>\n                                    <font class=\"event-month\">December</font>\n                                    <font class=\"event-year\">2013</font>\n                                </span>\n                                <span class=\"event-more\">More Information<span class=\"icon-text\">&#10150;</span></span>\n                                <img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-40.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\">\n                            </a>\n                        </div>\n\n",
+					"                        <div class=\"event-block\">\n                            <h3><a href=\"{{ path('layout_sportimo_event') }}\">Est magna idque te ius fugit democritum invenire postulat</a></h3>\n                            <a href=\"{{ path('layout_sportimo_event') }}\" class=\"event-photo dohover withicon\">\n                                <span class=\"event-calendar\">\n                                    <font class=\"event-date\">29</font>\n                                    <font class=\"event-month\">December</font>\n                                    <font class=\"event-year\">2013</font>\n                                </span>\n                                <span class=\"event-more\">More Information<span class=\"icon-text\">&#10150;</span></span>\n                                <img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-40.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\">\n                            </a>\n                        </div>\n",
+					"/image-4",
+					"<img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-4",
+					"Est magna idque te ius fugit democritum invenire postulat",
+					"                        <div class=\"event-block\">\n                            <h3><a href=\"{{ path('layout_sportimo_event') }}\">Est magna idque te ius fugit democritum invenire postulat</a></h3>\n                            <a href=\"{{ path('layout_sportimo_event') }}\" class=\"event-photo dohover withicon\">\n                                <span class=\"event-calendar\">\n                                    <font class=\"event-date\">29</font>\n                                    <font class=\"event-month\">December</font>\n                                    <font class=\"event-year\">2013</font>\n                                </span>\n                                <span class=\"event-more\">More Information<span class=\"icon-text\">&#10150;</span></span>\n                                <img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-40.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\">\n                            </a>\n                        </div>\n                        <div class=\"panel-breaking-line\"></div>\n",
+					"                                <span class=\"event-calendar\">\n                                    <font class=\"event-date\">29</font>\n                                    <font class=\"event-month\">December</font>\n                                    <font class=\"event-year\">2013</font>\n                                </span>\n",
+					"\t\t\t\t\t\t<div class=\"event-block\">\n\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_event') }}\">Est magna idque te ius fugit democritum invenire postulat</a></h3>\n\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_event') }}\" class=\"event-photo dohover withicon\">\n\t\t\t\t\t\t\t\t<span class=\"event-calendar\">\n\t\t\t\t\t\t\t\t\t<font class=\"event-date\">29</font>\n\t\t\t\t\t\t\t\t\t<font class=\"event-month\">December</font>\n\t\t\t\t\t\t\t\t\t<font class=\"event-year\">2013</font>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t<span class=\"event-more\">More Information<span class=\"icon-text\">&#10150;</span></span>\n\t\t\t\t\t\t\t\t<img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-40.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\">\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-18.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ei enim aeterno honestatis pri est possit phaedrum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(9)</a></h3>\n\t\t\t\t\t\t\t\t<p>Eu dolor meliore consetetur sea, an dico everti persius sea, movet salutandi has et. No nemore accusata laboramus usu, cu graecis phaedrum consulatu eum. Quo at verear theophra status, ad novum putant menandri mea. Integre liberavisse...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-20.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ea nemore graecis quod tempor voluptaria te cum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(23)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctum sea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-17.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Est magna idque te ius no fugit democ ritum invenire postulat</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(2)</a></h3>\n\t\t\t\t\t\t\t\t<p>Putent antiopam te qui. Minimum vituperata sed ex. His posse nihil appellantur, quem singulis necessitatibus est at. Et invidunt reformidans duo, te tamquam cotidieque nec, eum te idque nobis. Ei enim aeterno honestatis pri, ut est possit...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"panel-breaking-line\"></div>\n",
+					"\t\t\t\t\t\t<div class=\"panel-breaking-line\"></div>\n",
+					"big-article",
+					"flash-message.html.twig",
+					"flash-message",
+					"                            <div class=\"big-article-image\">\n                                <a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-20.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n                            </div>\n                            <div class=\"big-article-content\">\n                                <h3><a href=\"{{ path('layout_sportimo_post') }}\">Ea nemore graecis quod tempor voluptaria te cum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(23)</a></h3>\n                                <p>Qui an mollis eirmod interpretaris, in alii nonumy indoctum sea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n                                <span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n                                </span>\n                            </div>\n                            <div class=\"clear-float\"></div>\n                        </div>\n",
+					"<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-20.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ea nemore graecis quod tempor voluptaria te cum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(23)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctum sea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>",
+					"<div class=\"big-article\">\n    <div class=\"big-article-image\">\n        <a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n    </div>\n    <div class=\"big-article-content\">\n        <h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n        <p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n        <span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n        </span>\n    </div>\n    <div class=\"clear-float\"></div>\n</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>",
+					"<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-18.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ei enim aeterno honestatis pri est possit phaedrum</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(9)</a></h3>\n\t\t\t\t\t\t\t\t<p>Eu dolor meliore consetetur sea, an dico everti persius sea, movet salutandi has et. No nemore accusata laboramus usu, cu graecis phaedrum consulatu eum. Quo at verear theophra status, ad novum putant menandri mea. Integre liberavisse...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-17.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Est magna idque te ius no fugit democ ritum invenire postulat</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(2)</a></h3>\n\t\t\t\t\t\t\t\t<p>Putent antiopam te qui. Minimum vituperata sed ex. His posse nihil appellantur, quem singulis necessitatibus est at. Et invidunt reformidans duo, te tamquam cotidieque nec, eum te idque nobis. Ei enim aeterno honestatis pri, ut est possit...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"\t\t\t\t\t\t<div class=\"big-article\">\n\t\t\t\t\t\t\t<div class=\"big-article-image\">\n\t\t\t\t\t\t\t\t<a href=\"{{ path('layout_sportimo_post') }}\" class=\"dohover withicon\"><img src=\"{{ asset(cdns.sportimo ~ 'images/photos/image-19.jpg') }}\" class=\"setborder\" alt=\"\" title=\"\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"big-article-content\">\n\t\t\t\t\t\t\t\t<h3><a href=\"{{ path('layout_sportimo_post') }}\">Ne his omnes scripta aliquam ea hinc gloriatur sea</a><a href=\"{{ path('layout_sportimo_post') }}#comments\" class=\"comment-count\">(0)</a></h3>\n\t\t\t\t\t\t\t\t<p>Qui an mollis eirmod interpretaris, in alii nonumy indoctumsea, id cum iusto prompta delicata. No eos option labitur veritus, vis ad graeco hendrerit, vim reque detracto percipit. An eam ornatus eloquentiam, aeterno reformidans cu est...</p>\n\t\t\t\t\t\t\t\t<span class=\"read-more-link\"><a href=\"{{ path('layout_sportimo_post') }}\">Read More<span class=\"text-icon\">&#10150;</span></a>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"clear-float\"></div>\n\t\t\t\t\t\t</div>\n",
+					"#}",
+					"= '",
+					"index.html",
+					"<br />",
+					"src=\"images/",
+					"category.html",
+					".html",
+					"photo-gallery.html",
+					"photo-gallery-single.html",
+					"events.html",
+					"event-single.html",
+					"post.html",
+					"/px.gif",
+					".jpg",
+					".jpg\"",
+					".jpg",
+					".jpg\"",
+					"jpg\"",
+					".jpg\"",
+					"px.gif",
+					".jpg\" class",
+					"jpg\" class",
+					".jpg",
+					".png",
+					".jpg\"",
+					"px.gif",
+					".jpg\" class",
+					"src=\"images/",
+					"layout_sportimo_index",
+					"${INSTALL_DIR}/www",
+					"index-style",
+					"3",
+					"text-align: right;",
+					"9",
+					"indexcoldesc",
+					"indexcolname",
+					"<Directory",
+					"Index",
+					"IndexHeadInsert",
+					"cdn.",
+					"events.html",
+					"event-single.html",
+					"photo-gallery.html",
+					"photo-gallery-single.html",
+					"src=\"images/",
+					"href=\"post.html\"",
+					"src=\"images/",
+					"layout_category",
+					"category.html",
+					"src=\"images/photos/image-"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1187,13 +882,18 @@
 				"regex": false,
 				"replace_history":
 				[
-					"text-white-50",
-					"text-info",
-					"\\t",
-					"<h3 class=\"bg-secondary text-success\">",
 					"",
-					"<h3 class=\"bg-secondary text-info\"><i class=\"fas fa-terminal px-3\"></i>php bin/console list cache</h3>",
-					""
+					"type=\"text/css\"",
+					"rel=\"stylesheet\"",
+					"",
+					"\">",
+					"",
+					"{{ path('layout_sportimo_index') }}",
+					"{{ path('layout_sportimo_category') }}",
+					"{{ path('layout_sportimo_gallery') }}",
+					"{{ path('layout_sportimo_event') }}",
+					"{{ path('layout_sportimo_post') }}",
+					"src=\"{{ asset(cdns.sportimo ~ 'images/"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1246,11 +946,11 @@
 			},
 			"output.find_results":
 			{
-				"height": 51.0
+				"height": 480.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,736,1934,1,2952",
-			"project": "CI-Ultron.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,705,-5,-5,1030",
+			"project": "SYM-Layout.sublime-project",
 			"replace":
 			{
 				"height": 90.0
@@ -1263,68 +963,36 @@
 				"selected_items":
 				[
 					[
-						"nav",
-						"application\\views\\partials\\navigation.php"
+						"parameters",
+						"src\\Resources\\config\\parameters.yaml"
 					],
 					[
-						"list.php",
-						"application\\views\\content\\memos\\symfony\\list.php"
-					],
-					[
-						"na",
-						"application\\views\\partials\\navigation.php"
+						"services.yaml",
+						"src\\Resources\\config\\services.yaml"
 					],
 					[
 						"navi",
 						"application\\views\\partials\\navigation.php"
 					],
 					[
-						"Template.php",
-						"application\\third_party\\Memos\\Template.php"
-					],
-					[
-						"r",
-						"application\\config\\routes.php"
-					],
-					[
-						"ro",
-						"application\\config\\routes.php"
-					],
-					[
 						"route",
 						"application\\config\\routes.php"
 					],
 					[
-						"YamlParser",
-						"application\\third_party\\Core\\YamlParser.php"
-					],
-					[
-						"test.",
-						"application\\views\\content\\memos\\test.php"
-					],
-					[
-						"Symfony.yaml",
-						"application\\config\\app\\Frameworks\\Symfony.yaml"
+						"ovh-manager.php",
+						"application\\views\\content\\memos\\ovh-manager.php"
 					],
 					[
 						"footer",
 						"application\\views\\partials\\footer.php"
 					],
 					[
-						"list/cache",
-						"application\\views\\content\\memos\\symfony\\list\\cache.php"
+						"ion/config/routes.php",
+						"application\\config\\routes.php"
 					],
 					[
-						"Memos/Raspberry",
-						"application\\controllers\\Memos\\Raspberry.php"
-					],
-					[
-						"Memos/Webpack",
-						"application\\controllers\\Memos\\Webpack.php"
-					],
-					[
-						"Temp",
-						"application\\third_party\\Memos\\Template.php"
+						"views/partials/navigation.php",
+						"application\\views\\partials\\navigation.php"
 					]
 				],
 				"width": 0.0
@@ -1332,12 +1000,16 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "whore",
 				"selected_items":
 				[
 					[
+						"whore",
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\SYM-Whore.sublime-project"
+					],
+					[
 						"",
-						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\KW-Soccer.sublime-project"
+						"C:\\Users\\Giancarlo\\Dropbox\\# CONFIGS #\\IDE\\SublimeText\\CI-Thanos.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1359,29 +1031,23 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 255.0,
+			"side_bar_width": 276.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1278,
-			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CI-Ultron.sublime-workspace"
+			"window_id": 1,
+			"workspace_name": "/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/SYM-Layout.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/SYM-Layout.sublime-workspace",
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/GRAV-Yoda.sublime-workspace",
 			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/CI-Ultron.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Whore.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Soccer.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-User.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Blog.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Layout.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Common.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Api.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-F1.sublime-workspace",
-			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/KW-Timeout.sublime-workspace"
+			"/C/Users/Giancarlo/Dropbox/# CONFIGS #/IDE/SublimeText/SYM-Whore.sublime-workspace"
 		]
 	}
 }

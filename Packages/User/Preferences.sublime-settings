@@ -21,9 +21,7 @@
 		"*.zip",
 		".idea/*",
 		"composer.lock",
-		"node_modules/**",
-		"wamplangues/**",
-		"wampthemes/**"
+		"node_modules/**"
 	],
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,
@@ -79,12 +77,13 @@
 	"ignored_packages":
 	[
 		"ActionScript",
+		"AdvancedNewFile",
 		"AppleScript",
 		"ASP",
-		"Bootstrap 3 Autocomplete",
 		"C#",
 		"C++",
 		"Clojure",
+		"ConvertToUTF8",
 		"D",
 		"Erlang",
 		"Go",
