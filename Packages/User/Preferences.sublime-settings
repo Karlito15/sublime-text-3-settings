@@ -77,7 +77,6 @@
 	"ignored_packages":
 	[
 		"ActionScript",
-		"AdvancedNewFile",
 		"AppleScript",
 		"ASP",
 		"C#",
@@ -126,6 +125,9 @@
 	"show_errors_inline": true,
 	"show_line_endings": true,
 	"show_tab_close_buttons": true,
+	"sidebar_toggle_auto_hide": true,
+	"sidebar_toggle_on_click": true,
+	"sidebar_toggle_on_hover": true,
 	"tab_size": 4,
 	"theme": "Boxy Ocean.sublime-theme",
 	"theme_bar": true,

@@ -14,6 +14,6 @@
     "default_extension": ".php",
     "default_root": "current",
     "default_path": "C:\\Users\\Giancarlo\\Downloads",
-    "folder_permissions": "777",
-    "file_permissions": "777",
+    "folder_permissions": "0777",
+    "file_permissions": "0777",
 }

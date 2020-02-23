@@ -1,6 +1,6 @@
 {
 	"auto_upgrade": true,
-	"auto_upgrade_frequency": 168,
+	"auto_upgrade_frequency": 0,
 	"bootstrapped": true,
 	"in_process_packages":
 	[
@@ -24,7 +24,6 @@
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"Language - French - Français",
-		"MarkdownEditing",
 		"MarkdownPreview",
 		"Material Theme",
 		"October Twig Highlighter",
@@ -37,9 +36,6 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"SidebarHoverToggle",
-		"SideBarMenuAdvanced",
-		"SidebarSeparator",
-		"SideBarTools",
 		"SqlBeautifier",
 		"StringUtilities",
 		"SublimeCodeIntel",

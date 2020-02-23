@@ -6,7 +6,7 @@
     // Automatically format when a file is saved.
     "format_on_save": false,
     // Automatically format when a file is opened. (Sublime Text 3 only)
-    "format_on_open": true,
+    "format_on_open": false,
     // Respect `.editorconfig` rules, overriding settings from `.jsbeautifyrc`.
     // Note that `use_editor_syntax` and `use_editor_indentation` have precedence
     // and will always override any other settings from any configuration file
