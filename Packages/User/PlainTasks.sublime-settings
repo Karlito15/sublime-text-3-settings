@@ -4,6 +4,8 @@
   "gutter": true,
   "margin": 4,
   "tab_size": 1,
+  "translate_tabs_to_spaces": false,
+  "translate_spaces_to_tabs": true,
   "extensions":
   [
     "memo",

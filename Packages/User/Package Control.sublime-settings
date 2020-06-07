@@ -1,6 +1,6 @@
 {
 	"auto_upgrade": true,
-	"auto_upgrade_frequency": 0,
+	"auto_upgrade_frequency": 720,
 	"bootstrapped": true,
 	"in_process_packages":
 	[
@@ -31,6 +31,7 @@
 		"Phpcs",
 		"Placeholders",
 		"PlainTasks",
+		"Preference Helper",
 		"Pretty JSON",
 		"Pretty YAML",
 		"SCSS",
@@ -38,6 +39,7 @@
 		"SidebarHoverToggle",
 		"SqlBeautifier",
 		"StringUtilities",
+		"Stupid Indent",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",

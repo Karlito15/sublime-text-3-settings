@@ -1,1 +1,1 @@
-{"description": "Sublime Text 2/3 plugin that allows to format a YAML file", "version": "0.1.0", "url": "https://github.com/aukaost/SublimePrettyYAML", "dependencies": [], "sublime_text": "*", "platforms": ["*"]}
+{"url": "https://github.com/aukaost/SublimePrettyYAML", "description": "Sublime Text 2/3 plugin that allows to format a YAML file", "platforms": ["*"], "version": "0.2.0", "dependencies": [], "sublime_text": ">=3000"}

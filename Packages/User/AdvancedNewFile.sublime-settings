@@ -11,9 +11,10 @@
 
     // String containing the default file extension. Note the extension is only applied
     // if the specified path does not contain a dot (.) character.
-    "default_extension": ".php",
+    "default_extension": ".html",
     "default_root": "current",
     "default_path": "C:\\Users\\Giancarlo\\Downloads",
     "folder_permissions": "0777",
     "file_permissions": "0777",
+    "translate_spaces_to_tabs": true
 }
